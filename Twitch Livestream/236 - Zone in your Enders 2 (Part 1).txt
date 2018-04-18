@@ -4,4 +4,247 @@ April 10, 2015
 https://www.youtube.com/watch?v=II-Q3PAl5P0
 ___________________________________________
 
-[Transcript missing]
+[A] can you explain I would love to what is
+going on
+I would love to what have you done to us
+I would love to explain what's going on
+I am i I like new technology I I like I
+like things you know when I like you
+know the the latest and the greatest
+things and so we we I got a new capture
+device the elgato the old one it didn't
+work too well on Macs and you streamed
+from your Mac right right well and and
+we we also were thinking about using it
+to capture like VHS is and other
+strangers and sure and in general the
+Hodges software wasn't something the
+hop-on just software wasn't up to snuff
+for me it was working fine um it wasn't
+working 100% you can you having my
+laptop so I see you for streaming I have
+your diagnostic laptop I don't even know
+if we're streaming is is diagnostic
+laptop yep um is there a way I can check
+if we're streaming I wonder you can go
+to the website website if the stream is
+streaming right but you know we still
+have the old capture card and my
+computer's not a Mac that works just
+fine in my computer right it works just
+fine
+yes stream with it the other day we we
+played Maximo we played vanquish written
+Frank perfectly I have no hitches on
+either of those streams so you know we
+get here today it's getting to be close
+to stream time sir I sorry I grabbed the
+old one I brought it with no I'm gonna
+stream I'm gonna streams on the
+understood no no no I got I got this new
+card yeah it is one percent more
+efficient it is not 1 percent more
+efficient one percent more efficient 45
+minutes jack has been like installing
+and uninstalling strange saw
+we're on my solid-state hard drive
+that's kind of small to begin with him
+because it's solid straight now it's
+gotta it's got a limited limited number
+of right times is there's just stalling
+shit uninstalling it left and right
+reducing the lifespan of my hard drive
+by years yeah by years and what's what's
+our current status jack are we running
+what no no not even not even close the
+second runner is that updating updating
+this room ok great uh no we're not even
+close
+we're not even close because so uh Wow
+I've got my own capture card it's
+sitting right next it's got all of the
+cords fucked into it where they need to
+be no I really you know I really just
+need to plug it into the back of the ps2
+it's true it's true ok so here's here's
+my here's my explanation so yeah all
+you're seeing right now is the color
+bars and you're hearing us which i think
+is great you know so the way the old
+capture card works
+oh the hodge HPR whatever PVR HD ever is
+you have to open up the ha pod capture
+window and then in open broadcaster make
+a little capture box to capture the
+window and so you have two programs
+running well that's one extra step well
+well but not only do you have two
+programs running like your capture
+window is not always the same it's
+there's a latina there's there's more
+moving parts right because the hot pod
+capture software isn't the smoothest I
+think blank screen and so with the
+elgato OBS recognizes that as a pure
+video input device so you don't need
+another program running you don't need
+another point of failure and here's the
+real important part I was using it on
+Windows this afternoon while we were
+playing blood-borne and everything
+worked fine everything worked fine on my
+computer but when we try to get it to
+work on Rich's computer app
+woman happens and so that's the thing is
+it recorded perfectly through OBS no
+other programs needing to run you get
+nice crisp video takes up the full
+screen it looks nice everything is great
+except for on Rich's computer I'm trying
+to analyze this I think I think we may
+have gone wrong by setting this up 40
+minutes before this stream but it worked
+so well for me earlier it works without
+a hitch earlier we recorded all of our
+gameplay this afternoon using this menu
+you do these things early so in any case
+so rich thought it would be funny if we
+were just streaming a blank screen so we
+could start technically on time ish and
+now we need to hook it all up through
+the old capture device because it's just
+it's just not working and here's the
+real here's the really weird part is you
+can hit listen to this now that's the
+sound that the ps3 is making now for
+some reason the screen yeah but the
+sound that's the sound that is coming
+out of the TV right now through your
+capture device through my cat
+in any case so now rich wants me to hook
+it up live as as penance you got this
+Jack you know what you're doing well
+you're on this side of it okay so I'm
+hooking up are you are you gonna try and
+get the new one to work
+what do you wonder we need to hook up
+the old one we need to hook up the old
+one cuz the new ones not working do you
+know why I thought you I thought you
+thought you knew why I thought okay so
+now you're unhooking the elgato which is
+it I'd like the elgato capture it works
+great so why are they starting so early
+uh rich wanted to start early and we
+sweep like that for hours as a home we
+can we keep going on until midnight or a
+little bit earlier since we got oh okay
+so what now the old capture device is
+all hooked up in a bit you know some
+time failure is always an option and it
+happens sometimes some you know you just
+you try something new and that's the
+price you pay for trying something new
+it's it's it's very funny it's very fun
+it's the curse of the wolf I think
+you're right
+what you got here is a blood-borne not
+very good one at that no I don't know
+what that's from but it's funny
+ah all right so now we open up oh it's
+been a while since I've used the hull
+pouch how about you how about you
+capture see you got this like big gunky
+thing on your it's big donkey rich okay
+we need to play a game I agree but you
+know it's on this tiny screen it's gonna
+mess with the quality or something
+people want to see game people people
+want to see game people will be seeing
+game in in mere moments people will be
+seeing game maybe because the Hauppauge
+capture is and is taking its sweet ass
+time because it's the and by the way the
+the elgato capture software is equally
+as wonky I'm sure that it's both both of
+the the proprietary software is wonky
+which is why I liked going through open
+broadcaster even for just recording
+stuff if anyone was around earlier we
+accident I accidentally streamed for two
+seconds that's great but see we're still
+waiting for component videos they know
+it the only one but I was trying I was
+trying something new
+we're nerding we need to give ourselves
+more time to do this shit we do know 10
+minutes before the stream is probably
+nothing best time to check audio levels
+you get you get it the studio an hour
+earlier that like we were we were here
+all day week everything's fine start
+streaming in your streaming and you know
+you're good okay well you work on this
+I'm gonna work
+we are rich wanted to scream my failure
+that's great
+oh there look Jack I got to working in
+like a minute
+I hate well it was far less than a
+minute I got it working I think it
+literally took me five seconds it
+literally took me five seconds which is
+making me drink beer pressure I'm having
+serious issues
+did you pop out the chat already do I
+need to refresh the screen Jack where
+did the check on the channel the chat
+has vanished yeah that's that's fair
+okay that's fair
+well that's what I'm asking you where do
+you want where do you want to try set
+you up with your microphone so people
+can hear all the things that you have to
+say or not say
+which was invented so look at a blank
+screen and here people this is why
+people want like a camera on us what
+what sub did we miss
+now that we know we're having technical
+problems and we're not really seeing the
+chat because we're trying to get the
+stream running but since the most
+important thing in the world is to
+announce each and every subscriber who
+did we miss hey what did we miss us I'm
+gonna hold off getting the stream set up
+until you tell me who I missed because
+everyone's bitching about it the jet
+we're all waiting we're all waiting for
+you to let us know so I can say it out
+loud because apparently the whole chat
+already knows who it was because they're
+richer deponent totally not Jake thank
+you for subscribing we really appreciate
+it
+totally subscribers are special miss
+that still sounds like sarcasm yeah
+I can't I can't tell when you're sincere
+or not my good friends no I know you're
+being sarcastic
+what Oh
+okay so what big important controversial
+thing oh that's right you need the the
+new oh is that okay we had to update all
+of the the jams the jimmies oh yeah I
+got a message about that yeah we got
+they got hacked or something so there is
+a new this is not letting we shrink this
+window after letting this shrink this
+window left or right letting me
+
+[B] 
+
+[C] 
+
+[D] 
