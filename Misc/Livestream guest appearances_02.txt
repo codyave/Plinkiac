@@ -20,9 +20,9 @@
 	Jack, Rich, Jay, Jessi, Mike
 010 - Katamari Damacy - With the gang
 	Jack, Rich, Jay, Jessi
-011 - 1001 Spikes(Jack & RIch) Part 1
+011 - 1001 Spikes(Jack & Rich) Part 1
 	Jack, Rich
-012 - 1001 Spikes(Jack & RIch) Part 2
+012 - 1001 Spikes(Jack & Rich) Part 2
 	Jack, Rich, Jay
 013 - POWER STONE AKA Jack Doesn't fix the mics
 	Jack, Rich, Jay, Jessi
@@ -50,3 +50,31 @@
 	Jack, Rich, Josh
 025 - Merio Kert 64!!!!
 	Jack, Rich, Jay, Jessi, Josh
+026 - Rogue Legacy - Jack Solo Part 1 Y'all
+	Jack
+027 - Rogue Legacy - Jack Solo Part 2 Y'all
+	Jack
+028 - XCOM Enemy of my Friend (Part 1)
+	Jack, Rich, Jay
+029 - XCOM Enemy of my Friend (Part 2)
+	Jack, Rich, Jay
+030 - XCOM Enemy of my Friend (Part 3)
+	Jack, Rich, Jay
+031 - XCOM Enemy of my Friend (Part 4)
+	Jack, Rich, Jay
+032 - XCOM Enemy of my Friend (Part 5)
+	Jack, Rich, Jay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
