@@ -100,6 +100,12 @@
 	Jack
 050 - Paapers Plas! With Rich & Jack & Jay
 	Jack, Rich, Jay
+051 - Rich is Good at XCOM Part 1
+	Jack, Rich, Jay
+052 - Rich is Good at XCOM Part 1
+	Jack, Rich, Jay
+053 - Rich is Good at XCOM Part 1
+	Jack, Rich, Jay
 
 
 
