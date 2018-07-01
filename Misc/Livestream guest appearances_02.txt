@@ -154,11 +154,17 @@
 	Jack, Rich, Jay, Jessi, Mike
 077 - Octodad: Dadliest Catch (Part 4)
 	Jack, Rich, Jay, Jessi
-078 - Happy Birthday Isaac: I love you (Part 1)
+078 - QWOP the qwopiest
+	Jack, Rich, Jay, Jessi, Mike
+079 - Happy Birthday Isaac: I love you (Part 1)
 	Jack, Rich
-079 - Happy Birthday Isaac: I love you (Part 2)
+080 - Happy Birthday Isaac: I love you (Part 2)
 	Jack, Rich
-080 - 
+081 - Jack & Rich Chat (Part 2) Solitaire
+	Jack, Rich
+082 - Jack & Rich Chat (Part 2) Paint
+	Jack, Rich
+083 - 
 
 
 
