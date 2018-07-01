@@ -226,21 +226,39 @@
 	Jack, Rich
 113 - The Binding of Isaac: Rebirth (Part 1)
 	Jack, Rich
-
-
-
-
-
-
-
-
-
-
+114 - The Binding of Isaac: Rebirth (Part 2)
+	Jack, Rich
+115 - Friday the Birthday Dick (Fan made Game)
+	Jack, Rich
+116 - The Binding of Isaac: Rebirth (Part 3)
+	Jack, Rich
 117 - SUPER DUPER Mega Man X (Part 1)
 	Jack, Rich, Jay
 118 - SUPER DUPER Mega Man X (Part 2)
 	Jack, Rich, Jay
-	
+119 - SUPER DUPER bad SNES brawlers
+	Jack, Rich
+120 - Mario Kart 8 (Multiplayer with The Stream (Part 1))
+	Jack, Rich
+121 - Mario Kart 8 (Single Player)
+	Jack, Rich
+122 - Mario Kart 8 (Multiplayer with The Stream (Part 2.1))
+	Jack, Rich
+123 - Mario Kart 8 (Multiplayer with The Stream (Part 2.2))
+	Jack, Rich
+124 - Mario Kart 8 (Multiplayer with The Stream (Part 3))
+	Jack, Rich
+125 - Mario Kart 8 (Multiplayer with The Stream (Part 4))
+	Jack, Rich
+126 - Spelunky - Hack & a Half (Part 1)
+	Jack, Rich
+127 - Spelunky - Hack & a Half (Part 2)
+	Jack, Rich
+128 - The Binding of Hack Frauds (Cain Run)
+	Jack, Rich
+129 - 
+
+130 - 
 	
 	
 	
