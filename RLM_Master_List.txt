@@ -86,41 +86,41 @@ RLM Master List
 [2014_09_28] [01:03:46] QWOP the qwopiest https://www.twitch.tv/videos/47652809
 [2014_10_12] [01:07:29] Happy Birthday Isaac: I love you https://www.twitch.tv/videos/45418783
 [2014_10_12] [00:56:20] Happy Birthday Isaac: I love you (Part 2) https://www.twitch.tv/videos/45418258
-[2014_10_12] [00:42:31]Jack and Half Sucks at FTL https://www.twitch.tv/videos/45416374 jack sucks at ftl
-0088.	https://www.twitch.tv/videos/45416321	[2014_10_12] Jack & Rich Chat (part 1) Solitaire [00:32:51]
-0089.	https://www.twitch.tv/videos/45416204	[2014_10_12] Jack & Rich Chat (part 2) MS Paint [00:55:42]
-0090.	https://www.twitch.tv/videos/45416029	[2014_10_12] Rich Fails at Streaming [00:05:56]
-0091.	https://www.twitch.tv/videos/45363647	[2014_10_17] Guacamelee - No Death Attempt (part 1.1) [1:03:13]
-0092.	https://www.twitch.tv/videos/45362801	[2014_10_17] Guacamelee - No Death Attempt (part 1.2) [00:56:10]
-0093.	https://www.twitch.tv/videos/45362747	[2014_10_17] Guacamelee - No Death Attempt (part 1.3) [1:00:52]
-0094.	https://www.twitch.tv/videos/45362786	[2014_10_17] Gucamelee - No Death Attempt (part 1.4) [1:07:16]
-0095.	https://www.twitch.tv/videos/45362703	[2014_10_17] Guacamelee - No Death Attempt (part 1.5) [1:14:52]
-0096.	https://www.twitch.tv/videos/45261319	[2014_10_23] Rich is going to win at FTL (part 1) [00:54:41]
-0097.	https://www.twitch.tv/videos/45261142	[2014_10_23] Rich is going to win at FTL (part 2) [00:57:12]
-0098.	https://www.twitch.tv/videos/45261117	[2014_10_23] Rich is going to win at FTL (part 3) [1:07:34]
-0099.	https://www.twitch.tv/videos/45260926	[2014_10_23] Teleglitch - (part 1) [00:44:42]
-0100.	https://www.twitch.tv/videos/45260118	[2014_10_23] Teleglitch - (part 2) [1:07:17]
-0101.	https://www.twitch.tv/videos/45138500	[2014_10_29] SUPER MEAT HACKS (part 1) [1:00:08]
-0102.	https://www.twitch.tv/videos/45138298	[2014_10_29] SUPER MEAT HACK (part 1.2) [00:11:35]
-0103.	https://www.twitch.tv/videos/45138127	[2014_10_29] SUPER MEAT HACK (part 2) [00:44:46]
-0104.	https://www.twitch.tv/videos/45138207	[2014_10_29] Rich - Armchair General (part 1) [1:00:52]
-0105.	https://www.twitch.tv/videos/45137861	[2014_10_29] Rich - Armchair General (part 2) [1:28:49]
-0106.	https://www.twitch.tv/videos/45137890	[2014_10_29] Rich - Armchair General (part 3) [1:37:42]
-0107.	https://www.twitch.tv/videos/45137153	[2014_10_29] 3D Dot Game Hacks [1:22:57]
-0108.	https://www.twitch.tv/videos/45136964	[2014_10_29] Lollipop Chainmail [00:53:48]
-0109.	https://www.twitch.tv/videos/45106769	[2014_10_31] Cavern Kings - Hack & Half [1:02:47]
-0110.	https://www.twitch.tv/videos/45105574	[2014_10_31] Cavern Kings (part 2) Hack & Half [00:45:51]
-0111.	https://www.twitch.tv/videos/45105198	[2014_10_31] Cavern Kings (part 3) Hack & Half [00:38:19]
-0112.	https://www.twitch.tv/videos/45029619	[2014_11_03] 5 Spooky Nights At Freddy's [00:35:30]
-0113.	https://www.twitch.tv/videos/45029240	[2014_11_03] real SPOOKY horror stories ultimate edition [00:20:33]
-0114.	https://www.twitch.tv/videos/45028975	[2014_11_03] Haunt the SPOOKY House - Terrortown [00:43:39]
-0115.	https://www.twitch.tv/videos/45028868	[2014_11_03] Spooky NES - Nightmare on Elm St. And Friday the 13th [00:50:20]
-0116.	https://www.twitch.tv/videos/45028129	[2014_11_03] Outlast (spooky) [1:22:32]
-0117.	https://www.twitch.tv/videos/44873315	[2014_11_13] Daylight Saving SUPER time FORCE [1:06:19]
-0118.	https://www.twitch.tv/videos/44870867	[2014_11_13] Monaco Saving Tim [1:04:24]
-0119.	https://www.twitch.tv/videos/44855805	[2014_11_14] The AVGN Game...NOPE Organ Trail (part 1.1) [00:22:51]
-0120.	https://www.twitch.tv/videos/44855393	[2014_11_14] Organ Trail (part 1.2) [00:14:32]
-0121.	https://www.twitch.tv/videos/44808503	[2014_11_17] Organ Trail (part 2) [1:11:16]
+[2014_10_12] [00:42:31] Jack and Half Sucks at FTL https://www.twitch.tv/videos/45416374
+[2014_10_12] [00:32:51] Jack & Rich Chat (part 1) Solitaire https://www.twitch.tv/videos/45416321
+[2014_10_12] [00:55:42] Jack & Rich Chat (part 2) MS Paint https://www.twitch.tv/videos/45416204
+[2014_10_12] [00:05:56] Rich Fails at Streaming https://www.twitch.tv/videos/45416029
+[2014_10_17] [01:03:13] Guacamelee - No Death Attempt (part 1.1) https://www.twitch.tv/videos/45363647
+[2014_10_17] [00:56:10] Guacamelee - No Death Attempt (part 1.2) https://www.twitch.tv/videos/45362801
+[2014_10_17] [01:00:52] Guacamelee - No Death Attempt (part 1.3) https://www.twitch.tv/videos/45362747
+[2014_10_17] [01:07:16] Gucamelee - No Death Attempt (part 1.4) https://www.twitch.tv/videos/45362786
+[2014_10_17] [01:14:52] Guacamelee - No Death Attempt (part 1.5) https://www.twitch.tv/videos/45362703
+[2014_10_23] [00:54:41] Rich is going to win at FTL (part 1) https://www.twitch.tv/videos/45261319
+[2014_10_23] [00:57:12] Rich is going to win at FTL (part 2) https://www.twitch.tv/videos/45261142
+[2014_10_23] [01:07:34] Rich is going to win at FTL (part 3) https://www.twitch.tv/videos/45261117
+[2014_10_23] [00:44:42] Teleglitch - (part 1) https://www.twitch.tv/videos/45260926
+[2014_10_23] [01:07:17] Teleglitch - (part 2) https://www.twitch.tv/videos/45260118
+[2014_10_29] [01:00:08] SUPER MEAT HACKS (part 1) https://www.twitch.tv/videos/45138500
+[2014_10_29] [00:11:35] SUPER MEAT HACK (part 1.2) https://www.twitch.tv/videos/45138298
+[2014_10_29] [00:44:46] SUPER MEAT HACK (part 2) https://www.twitch.tv/videos/45138127
+[2014_10_29] [01:00:52] Rich - Armchair General (part 1) https://www.twitch.tv/videos/45138207
+[2014_10_29] [01:28:49] Rich - Armchair General (part 2) https://www.twitch.tv/videos/45137861
+[2014_10_29] [01:37:42] Rich - Armchair General (part 3) https://www.twitch.tv/videos/45137890
+[2014_10_29] [01:22:57] 3D Dot Game Hacks https://www.twitch.tv/videos/45137153
+[2014_10_29] [00:53:48] ollipop Chainmail https://www.twitch.tv/videos/45136964
+[2014_10_31] [01:02:47] avern Kings - Hack & Half https://www.twitch.tv/videos/45106769
+[2014_10_31] [00:45:51] Cavern Kings (part 2) Hack & Half https://www.twitch.tv/videos/45105574
+[2014_10_31] [00:38:19] Cavern Kings (part 3) Hack & Half https://www.twitch.tv/videos/45105198
+[2014_11_03] [00:35:30] 5 Spooky Nights At Freddy's https://www.twitch.tv/videos/45029619
+[2014_11_03] [00:20:33] real SPOOKY horror stories ultimate edition https://www.twitch.tv/videos/45029240
+[2014_11_03] [00:43:39] Haunt the SPOOKY House - Terrortown https://www.twitch.tv/videos/45028975
+[2014_11_03] [00:50:20] Spooky NES - Nightmare on Elm St. And Friday the 13th https://www.twitch.tv/videos/45028868
+[2014_11_03] [01:22:32] Outlast (spooky) https://www.twitch.tv/videos/45028129
+[2014_11_13] [01:06:19] Daylight Saving SUPER time FORCE https://www.twitch.tv/videos/44873315
+[2014_11_13] [01:04:24] Monaco Saving Tim https://www.twitch.tv/videos/44870867
+[2014_11_14] [00:22:51] The AVGN Game...NOPE Organ Trail (part 1.1) https://www.twitch.tv/videos/44855805
+[2014_11_14] [00:14:32] Organ Trail (part 1.2) https://www.twitch.tv/videos/44855393
+0121.	https://www.twitch.tv/videos/44808503	[2014_11_17] Organ Trail (part 2) [01:11:16]
 0122.	https://www.twitch.tv/videos/44792975	[2014_11_17] The Binding of Isaac - Rebirth (part 2) [00:49:34]
 0123.	https://www.twitch.tv/videos/44791997	[2014_11_17] Friday the Birthday Dick (Fan made Game) [00:23:53]
 0124.	https://www.twitch.tv/videos/44790619	[2014_11_18] The Binding of Isaac - Rebirth (part 3) [00:57:40]
