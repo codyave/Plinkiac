@@ -195,8 +195,8 @@
 | 2015_Jan_26 | 00:42:23 | Rich is Awesome...oh and Doom 3 (part 1) | twitch.tv/videos/3728936 |
 | 2015_Jan_26 | 00:55:08 | Rich is Awesome...oh and Doom 3 (part 2) | twitch.tv/videos/3728968 |
 | 2015_Jan_26 | 01:08:26 | Rich is slightly less awesome at Volgarr The Viking | twitch.tv/videos/3729856 |
-| 2015_Jan_26 | 00:52:01 | Rich is Even more Slightly Less Awesome - TL (part 1) | twitch.tv/videos/3729923 |
-| 2015_Jan_26 | 01:04:13 | Rich is Even more Slightly less Awesome... FTL | twitch.tv/videos/3730116 |
+| 2015_Jan_26 | 00:52:01 | Rich is Even more Slightly Less Awesome - FTL (part 1) | twitch.tv/videos/3729923 |
+| 2015_Jan_26 | 01:04:13 | Rich is Even more Slightly less Awesome... FTL (part 2)| twitch.tv/videos/3730116 |
 | 2015_Jan_29 | 01:01:36 | FTL - The Redeption (part 3) | twitch.tv/videos/3747022 |
 | 2015_Jan_29 | 00:58:05 | FTL - The Redemption (part 1) | twitch.tv/videos/3744771 |
 | 2015_Jan_29 | 01:05:05 | FTL - The Redemption (part 2) | twitch.tv/videos/3747019 |
