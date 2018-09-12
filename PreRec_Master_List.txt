@@ -42,7 +42,7 @@
 | 2014_Aug_10 | 01:00:55 | XCOM Enemy of my Friend (Part 5) | twitch.tv/videos/42850083 | youtube.com/watch?v=-p5oVkyOYtk
 | 2014_Aug_10 | 01:01:15 | XCOM Enemy of my Friend (Part 6) | twitch.tv/videos/42850053 | youtube.com/watch?v=aXIKtKwAYGk
 | 2014_Aug_10 | 01:04:29 | XCOM Enemy of my Friend (Part 7) | twitch.tv/videos/42849954 | youtube.com/watch?v=ROJhGZV_I4M
-| 2014_Aug_11 | 01:38:57 | Nuclear Throne....Jack Solo Stream  | twitch.tv/videos/42833349 | youtube.com/watch?v=DJdBNANI-pk
+| 2014_Aug_11 | 01:38:57 | Nuclear Throne....Jack Solo Stream | twitch.tv/videos/42833349 | youtube.com/watch?v=DJdBNANI-pk
 | 2014_Aug_19 | 00:52:38 | Dark Sauls (with Rich, Jack, & Jay) Part 1 | twitch.tv/videos/42721737 | youtube.com/watch?v=0L8C_bfH0MQ
 | 2014_Aug_19 | 01:06:39 | Dark Sauls (with Rich, Jack, & Jay) Part 2 | twitch.tv/videos/42721679 | youtube.com/watch?v=2jv_i3iW92Q
 | 2014_Aug_19 | 01:00:21 | Dark Sauls (with Rich, Jack, & Jay) Part 3 | twitch.tv/videos/42721743 | youtube.com/watch?v=-io_OXwcv_8
@@ -296,7 +296,7 @@
 | 2015_May_12 | 03:21:13 | Rich's Dead Rising - No Death Run 2nd Try (part 1) | twitch.tv/videos/5837926 | youtube.com/watch?v=Qtai_wDWx5s
 | 2015_May_12 | 03:17:30 | Rich's Dead Rising - No Death Run 2nd Try (part 2) | twitch.tv/videos/5837968 | youtube.com/watch?v=9ncg6SuS4z8
 | 2015_May_14 | 01:14:23 | Star Trek - The Point & Click (part 1)(ReallY) | twitch.tv/videos/5919831 | youtube.com/watch?v=xnGM3aGdOYM
-| 2015_May_14 | 01:11:13 | Faster Invisible Than Light  | twitch.tv/videos/5921180 | youtube.com/watch?v=1GL9m2YfnYY
+| 2015_May_14 | 01:11:13 | Faster Invisible Than Light | twitch.tv/videos/5921180 | youtube.com/watch?v=1GL9m2YfnYY
 | 2015_May_16 | 02:32:20 | Rich's Dead Rising - NO DEATH RUN 3rd Try (part 1) | twitch.tv/videos/5945385 | youtube.com/watch?v=_nNlBST18Bs
 | 2015_May_17 | 04:00:07 | Rich's Dead Rising - NO DEATH RUN 3rd Try (part 2) | twitch.tv/videos/5945476 | youtube.com/watch?v=sW9tEt6k6V0
 | 2015_May_17 | 04:03:35 | Rich's Dead Rising - NO DEATH RUN 3rd Try (part 3) | twitch.tv/videos/5945784 | youtube.com/watch?v=Va9_PC8cbro
@@ -466,8 +466,8 @@
 | 2016_Jan_10 | 00:52:47 | Return of the Undertale. (part 3) | twitch.tv/videos/34644198 | youtube.com/watch?v=aEAQH7skqvo
 | 2016_Jan_10 | 00:52:12 | Return of the Undertale. (part 4) | twitch.tv/videos/34644468 | youtube.com/watch?v=8Z9tVbIiDEk
 | 2016_Jan_15 | 01:21:07 | Would You Like to Know More? (Helldivers part 1) | twitch.tv/videos/35551015 | youtube.com/watch?v=LwdfSPCkP1g
-| 2016_Jan_15 | 01:03:59 | Would You Like to Know More? (Helldivers part 2) | twitch.tv/videos/35551447 | youtube.com/watch?v=e8zAKswL0l8  
-| 2016_Jan_15 | 01:07:31 | Would You Like to Know More? (Helldivers part 3) | twitch.tv/videos/35551652 | youtube.com/watch?v=efKkNj73Z7k  
+| 2016_Jan_15 | 01:03:59 | Would You Like to Know More? (Helldivers part 2) | twitch.tv/videos/35551447 | youtube.com/watch?v=e8zAKswL0l8
+| 2016_Jan_15 | 01:07:31 | Would You Like to Know More? (Helldivers part 3) | twitch.tv/videos/35551652 | youtube.com/watch?v=efKkNj73Z7k
 | 2016_Jan_15 | 01:39:05 | Starship Helldivers (part 1) | twitch.tv/videos/35552918 | youtube.com/watch?v=VOyaES81Nnk
 | 2016_Jan_15 | 01:31:50 | Starship Helldivers (part 2) | twitch.tv/videos/35553397 | youtube.com/watch?v=V7D_wS7D7qg 
 | 2016_Jan_15 | 01:11:18 | Starship Helldivers (part 3) | twitch.tv/videos/35554076 | youtube.com/watch?v=pogUElLK2HU 
@@ -665,7 +665,7 @@
 | 2016_Oct_21 | 01:13:56 | Five Nights at Freddy's Still Blows. | twitch.tv/videos/96241839 | 
 | 2016_Oct_21 | 02:40:12 | Five Nights at Freddy's Still Blows. | twitch.tv/videos/96241853 | 
 | 2016_Oct_21 | 01:09:00 | Spooky Jump Scares | twitch.tv/videos/96242926 | 
-| 2016_Oct_21 | 01:25:56 | Psycho Nuts. | twitch.tv/videos/96243819 |  
+| 2016_Oct_21 | 01:25:56 | Psycho Nuts. | twitch.tv/videos/96243819 | 
 | 2016_Oct_27 | 01:29:56 | Stealing my Heart (Thief Gold part 1) | twitch.tv/videos/97391427 | 
 | 2016_Oct_27 | 01:42:29 | Stealing my Heart (Thief Gold part 2) | twitch.tv/videos/97391954 | 
 | 2016_Oct_30 | 01:11:04 | Grind my Gears (part 1) | twitch.tv/videos/97970799 | 
@@ -744,7 +744,7 @@
 | 2017_Feb_25 | 02:06:40 | Ni OH MY GOD!!! (part 1) | twitch.tv/videos/124699861 | 
 | 2017_Feb_25 | 02:21:22 | Ni OH MY GOD!!! (part 2) | twitch.tv/videos/124751820 | 
 | 2017_Feb_26 | 02:14:00 | WWE 2K16 OH YEAH (part 1) | twitch.tv/videos/124955579 | 
-| 2017_Feb_26 | 02:16:30 | WWE 2K16 OH YEAH!!! (part 2) | twitch.tv/videos/124982334 |  
+| 2017_Feb_26 | 02:16:30 | WWE 2K16 OH YEAH!!! (part 2) | twitch.tv/videos/124982334 | 
 | 2017_Mar_16 | 00:20:02 | Tower of Power of Guns (part 1.1) | twitch.tv/videos/128995643 | 
 | 2017_Mar_16 | 00:45:36 | Tower of Power of Guns (part 1.2) | twitch.tv/videos/128997424 | 
 | 2017_Mar_16 | 01:38:05 | Ninja Pizza Guuurl | twitch.tv/videos/129001297 | 
@@ -821,7 +821,7 @@
 | 2017_Jul_15 | 01:57:06 | Sunday the 11th (part 2) | twitch.tv/videos/159407115 | 
 | 2017_Jul_25 | 01:31:36 | Friday the E3th | twitch.tv/videos/161889759 | 
 | 2017_Jul_25 | 02:31:47 | E3 2017… this should have been posted earlier | twitch.tv/videos/161901493 | 
-| 2017_Jul_27 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | twitch.tv/videos/162380759 |  
+| 2017_Jul_27 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | twitch.tv/videos/162380759 | 
 | 2017_Jul_27 | 02:21:32 | Yes, we're playing it again. Shut uo (part 2) | twitch.tv/videos/162438655 | 
 | 2017_Jul_29 | 01:39:18 | Killing Nazis, Sweet (part 1) | twitch.tv/videos/162732924 | 
 | 2017_Jul_30 | 02:10:50 | Killing Nazis, Sweet! (part 2) | twitch.tv/videos/163163810 | 
@@ -878,14 +878,14 @@
 | 2017_Sep_27 | 02:50:56 | LEGO and the sorting of them | twitch.tv/videos/177773729 | 
 | 2017_Sep_28 | 01:09:36 | John Hotcock (part 1) | twitch.tv/videos/178116468 | 
 | 2017_Sep_28 | 01:50:26 | John Hotcock (part 2) | twitch.tv/videos/178121208 | 
-| 2017_Sep_29 | 01:53:12 | XCOM Hotcock | twitch.tv/videos/178357767 |  
+| 2017_Sep_29 | 01:53:12 | XCOM Hotcock | twitch.tv/videos/178357767 | 
 | 2017_Oct_02 | 01:02:30 | Our Cuphead Runneth Over (part 1) | twitch.tv/videos/179082368 | 
 | 2017_Oct_02 | 01:00:51 | Our Cuphead Runneth Over (part 2) | twitch.tv/videos/179083500 | 
 | 2017_Oct_02 | 01:27:08 | Mooooooooooore Xcom 2 WOTC | twitch.tv/videos/179084765 | 
 | 2017_Oct_05 | 01:22:09 | Fail T L | twitch.tv/videos/179819722 | 
 | 2017_Oct_05 | 01:25:11 | into the Depths! | twitch.tv/videos/179821171 | 
 | 2017_Oct_09 | 01:38:58 | neverendingGOLFstory | twitch.tv/videos/180930263 | 
-| 2017_Oct_10 | 01:49:38 | Blade Ruiner | twitch.tv/videos/181072303 |  
+| 2017_Oct_10 | 01:49:38 | Blade Ruiner | twitch.tv/videos/181072303 | 
 | 2017_Oct_11 | 01:29:31 | Roasting Jack's Nuts | twitch.tv/videos/181425765 | 
 | 2017_Oct_12 | 01:55:55 | Heavy Metal Thunder (part 1) | twitch.tv/videos/181593254 | 
 | 2017_Oct_12 | 01:43:58 | Heavy Metal Thunder (part 2) | twitch.tv/videos/181594620 | 
