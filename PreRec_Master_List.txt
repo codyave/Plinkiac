@@ -337,24 +337,24 @@
 | 2015_Jun_29 | 01:00:33 | Ba-Man - Ark Ham Spoileriffic (part 2) | twitch.tv/videos/7576865 | youtube.com/watch?v=sEMERT6jhgc
 | 2015_Jun_29 | 01:02:16 | Ba-Man - Ark Ham Spoileriffic (part 3) | twitch.tv/videos/7576998 | youtube.com/watch?v=BQNeTOfLZ4s
 | 2015_Jun_29 | 01:03:14 | Ba-Man - Ark Ham Spoileriffic (part 4) | twitch.tv/videos/7577165 | youtube.com/watch?v=yUjyb0BIYR4
-| 2015_Jul_02 | 00:50:01 | Invisible Pun (part 1) | twitch.tv/videos/8952794 | 
+| 2015_Jul_02 | 00:50:01 | Invisible Pun (part 1) | twitch.tv/videos/8952794 | youtube.com/watch?v=tXgFyiZAcAI
 | 2015_Jul_02 | 00:49:04 | Invisible Pun (part 2) | twitch.tv/videos/8964935 | youtube.com/watch?v=sxBr1bPXLk4
-| 2015_Jul_02 | 01:19:15 | XCOM Pun | twitch.tv/videos/8981393 | 
-| 2015_Jul_08 | 01:23:02 | X-CORN | twitch.tv/videos/9071309 | 
-| 2015_Jul_08 | 00:41:02 | The Nightmare CORNoperative | twitch.tv/videos/9074491 | 
-| 2015_Jul_08 | 01:02:56 | Hand of CORN | twitch.tv/videos/9076726 | 
-| 2015_Jul_09 | 01:04:23 | Splatoon!!! | twitch.tv/videos/9078633 | 
-| 2015_Jul_09 | 01:00:10 | Splatoon!!! (part 2) | twitch.tv/videos/9079644 | 
-| 2015_Jul_13 | 00:53:17 | Shadow of Mordor & Half (part 1) | twitch.tv/videos/9096147 | 
-| 2015_Jul_13 | 00:52:26 | Shadow of Mordor & Half (part 2) | twitch.tv/videos/9098548 | 
-| 2015_Jul_13 | 00:55:17 | Shadow of Mordor & Half (part 3) | twitch.tv/videos/9103261 | 
-| 2015_Jul_16 | 01:00:16 | Batgirl, Bat Guuurrrl!! (part 1) | twitch.tv/videos/9696923 | 
-| 2015_Jul_16 | 00:50:56 | Batgirl, Bat Guuurrrll!! (part 2) | twitch.tv/videos/9725762 | 
-| 2015_Jul_16 | 01:39:50 | Mordor Guuuurrrrll!!! | twitch.tv/videos/9726194 | 
-| 2015_Jul_20 | 00:55:10 | Metroid & Half | twitch.tv/videos/10663463 | 
-| 2015_Jul_20 | 01:12:19 | Metroid Fusion & Half | twitch.tv/videos/10670514 | 
-| 2015_Jul_23 | 01:26:38 | Affordable Space Adventures (part 1)(Really) | twitch.tv/videos/10909636 | 
-| 2015_Jul_23 | 01:19:08 | Affordable Space Adventure (part 2) | twitch.tv/videos/10911322 | 
+| 2015_Jul_02 | 01:19:15 | XCOM Pun | twitch.tv/videos/8981393 | youtube.com/watch?v=_N4WgEshuJ4
+| 2015_Jul_08 | 01:23:02 | X-CORN | twitch.tv/videos/9071309 | youtube.com/watch?v=4OqQp2zNU2I
+| 2015_Jul_08 | 00:41:02 | The Nightmare CORNoperative | twitch.tv/videos/9074491 | youtube.com/watch?v=ij_h1etCxXQ
+| 2015_Jul_08 | 01:02:56 | Hand of CORN | twitch.tv/videos/9076726 | youtube.com/watch?v=gLkHP6sEhFA
+| 2015_Jul_09 | 01:04:23 | Splatoon!!! | twitch.tv/videos/9078633 | youtube.com/watch?v=qsw5Jpi63mc
+| 2015_Jul_09 | 01:00:10 | Splatoon!!! (part 2) | twitch.tv/videos/9079644 | youtube.com/watch?v=0dBzoOBHPNA
+| 2015_Jul_13 | 00:53:17 | Shadow of Mordor & Half (part 1) | twitch.tv/videos/9096147 | youtube.com/watch?v=giVdkU5jgCg
+| 2015_Jul_13 | 00:52:26 | Shadow of Mordor & Half (part 2) | twitch.tv/videos/9098548 | youtube.com/watch?v=28gVAQak5_g
+| 2015_Jul_13 | 00:55:17 | Shadow of Mordor & Half (part 3) | twitch.tv/videos/9103261 | youtube.com/watch?v=Ba3zRUH1m2I
+| 2015_Jul_16 | 01:00:16 | Batgirl, Bat Guuurrrl!! (part 1) | twitch.tv/videos/9696923 | youtube.com/watch?v=rR8IkmQb8MA
+| 2015_Jul_16 | 00:50:56 | Batgirl, Bat Guuurrrll!! (part 2) | twitch.tv/videos/9725762 | youtube.com/watch?v=qpLSffIEWQ8
+| 2015_Jul_16 | 01:39:50 | Mordor Guuuurrrrll!!! | twitch.tv/videos/9726194 | youtube.com/watch?v=zmguSsHgM2I
+| 2015_Jul_20 | 00:55:10 | Metroid & Half | twitch.tv/videos/10663463 | youtube.com/watch?v=foq7YAoK5Uo
+| 2015_Jul_20 | 01:12:19 | Metroid Fusion & Half | twitch.tv/videos/10670514 | youtube.com/watch?v=qWwXt3W05x8
+| 2015_Jul_23 | 01:26:38 | Affordable Space Adventures (part 1)(Really) | twitch.tv/videos/10909636 | youtube.com/watch?v=NIP01oMae1s
+| 2015_Jul_23 | 01:19:08 | Affordable Space Adventure (part 2) | twitch.tv/videos/10911322 | youtube.com/watch?v=qgFrecnws7w
 | 2015_Jul_30 | 01:06:34 | PokeWHAT!?! (part 1) | twitch.tv/videos/11379186 | 
 | 2015_Jul_30 | 00:54:51 | PokeWHAT!?! (part 2) | twitch.tv/videos/11400722 | 
 | 2015_Jul_30 | 01:04:07 | PokeWHAT!?! (part 3) | twitch.tv/videos/11402040 | 
