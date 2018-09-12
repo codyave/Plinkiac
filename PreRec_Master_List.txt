@@ -96,7 +96,7 @@
 | 2014_Oct_23 | 00:54:41 | Rich is going to win at FTL (part 1) | twitch.tv/videos/45261319 | youtube.com/watch?v=ORIOQ1QUwP4
 | 2014_Oct_23 | 00:57:12 | Rich is going to win at FTL (part 2) | twitch.tv/videos/45261142 | youtube.com/watch?v=h_6tS5qf4UM
 | 2014_Oct_23 | 01:07:34 | Rich is going to win at FTL (part 3) | twitch.tv/videos/45261117 | youtube.com/watch?v=8UFBU7GXCag
-| 2014_Oct_23 | 00:44:42 | Teleglitch - (part 1) | twitch.tv/videos/45260926 | youtube.com/watch?v=D-3G5Xc7NSw&t=696s
+| 2014_Oct_23 | 00:44:42 | Teleglitch - (part 1) | twitch.tv/videos/45260926 | youtube.com/watch?v=D-3G5Xc7NSw
 | 2014_Oct_23 | 01:07:17 | Teleglitch - (part 2) | twitch.tv/videos/45260118 | youtube.com/watch?v=2mxSR-PDN44
 | 2014_Oct_29 | 01:00:08 | SUPER MEAT HACKS (part 1) | twitch.tv/videos/45138500 | youtube.com/watch?v=b8WR4asx5ec
 | 2014_Oct_29 | 00:11:35 | SUPER MEAT HACK (part 1.2) | twitch.tv/videos/45138298 | Duplicate: see above 
@@ -104,75 +104,75 @@
 | 2014_Oct_29 | 01:00:52 | Rich - Armchair General (part 1) | twitch.tv/videos/45138207 | youtube.com/watch?v=NpKCz4Hul8k
 | 2014_Oct_29 | 01:28:49 | Rich - Armchair General (part 2) | twitch.tv/videos/45137861 | youtube.com/watch?v=jpn-ygHy85Y
 | 2014_Oct_29 | 01:37:42 | Rich - Armchair General (part 3) | twitch.tv/videos/45137890 | youtube.com/watch?v=aaDCgfov2Uo
-| 2014_Oct_29 | 01:22:57 | 3D Dot Game Hacks | twitch.tv/videos/45137153 | youtube.com/watch?v=FKwSSJNAj98&t=4326s
+| 2014_Oct_29 | 01:22:57 | 3D Dot Game Hacks | twitch.tv/videos/45137153 | youtube.com/watch?v=FKwSSJNAj98
 | 2014_Oct_29 | 00:53:48 | Lollipop Chainmail | twitch.tv/videos/45136964 | youtube.com/watch?v=F0TOSoq13PU
-| 2014_Oct_31 | 01:02:47 | Cavern Kings - Hack & Half | twitch.tv/videos/45106769 |
-| 2014_Oct_31 | 00:45:51 | Cavern Kings (part 2) Hack & Half | twitch.tv/videos/45105574 |
-| 2014_Oct_31 | 00:38:19 | Cavern Kings (part 3) Hack & Half | twitch.tv/videos/45105198 |
-| 2014_Nov_03 | 00:35:30 | 5 Spooky Nights At Freddy's | twitch.tv/videos/45029619 |
-| 2014_Nov_03 | 00:20:33 | real SPOOKY horror stories ultimate edition | twitch.tv/videos/45029240 |
-| 2014_Nov_03 | 00:43:39 | Haunt the SPOOKY House - Terrortown | twitch.tv/videos/45028975 |
-| 2014_Nov_03 | 00:50:20 | Spooky NES - Nightmare on Elm St. And Friday the 13th | twitch.tv/videos/45028868 |
-| 2014_Nov_03 | 01:22:32 | Outlast (spooky) | twitch.tv/videos/45028129 |
-| 2014_Nov_13 | 01:06:19 | Daylight Saving SUPER time FORCE | twitch.tv/videos/44873315 |
-| 2014_Nov_13 | 01:04:24 | Monaco Saving Tim | twitch.tv/videos/44870867 |
-| 2014_Nov_14 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | twitch.tv/videos/44855805 |
-| 2014_Nov_14 | 00:14:32 | Organ Trail (part 1.2) | twitch.tv/videos/44855393 |
-| 2014_Nov_17 | 01:11:16 | Organ Trail (part 2) | twitch.tv/videos/44808503 |
-| 2014_Nov_17 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | twitch.tv/videos/44792975 |
-| 2014_Nov_17 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | twitch.tv/videos/44791997 |
-| 2014_Nov_18 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | twitch.tv/videos/44790619 |
-| 2014_Nov_18 | 01:08:18 | The Binding of Isaac - Rebirth (part 1) | twitch.tv/videos/44790444 |
-| 2014_Nov_18 | 01:35:36 | SUPER DUPER Smash TV | twitch.tv/videos/44790001 |
-| 2014_Nov_18 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | twitch.tv/videos/44789498 |
-| 2014_Nov_18 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | twitch.tv/videos/43229798 |
-| 2014_Nov_18 | 01:02:29 | SUPER DUPER bad SNES brawlers | twitch.tv/videos/43229789 |
-| 2014_Nov_21 | 00:44:37 | Mario Kart 8 (Single Player) | twitch.tv/videos/43198448 |
-| 2014_Nov_21 | 00:36:46 | Mario Kart 8 (Multiplayer with The Stream (part 1)) | twitch.tv/videos/43198263 |
-| 2014_Nov_21 | 00:18:46 | Mario Kart 8 (Multiplayer with The Stream (part 2.1)) | twitch.tv/videos/43197566 |
-| 2014_Nov_21 | 00:21:19 | Mario Kart 8 (Multiplayer with The Stream (part 2.2)) | twitch.tv/videos/43197588
-| 2014_Nov_21 | 00:48:44 | Mario Kart 8 (Multiplayer with The Stream (part 3)) | twitch.tv/videos/43196510 |
-| 2014_Nov_21 | 00:50:27 | Mario Kart 8 (Multiplayer with The Stream (part 4)) | twitch.tv/videos/43195897 |
-| 2014_Nov_28 | 00:08:38 | Spelunky Hack & Half (part 1.1) | twitch.tv/videos/43135314 |
-| 2014_Nov_28 | 00:56:18 | Spelunky Hack & Half (part 1.2) | twitch.tv/videos/43135125 |
-| 2014_Nov_28 | 00:46:29 | Spelunky Hack & Half (part 2) | twitch.tv/videos/43134921 |
-| 2014_Nov_28 | 01:26:56 | The Binding Of Hack Frauds (Cain Run) | twitch.tv/videos/43134502 |
-| 2014_Dec_02 | 00:51:40 | Star Trek Catan... THE BOARD GAME (part 1) | twitch.tv/videos/43106445 |
-| 2014_Dec_02 | 00:37:43 | Star Trek Catan... THE BOARD GAME (part 2) | twitch.tv/videos/43106334 |
-| 2014_Dec_02 | 00:57:23 | K2... THE BOARD GAME (part 1) | twitch.tv/videos/43106017 |
-| 2014_Dec_02 | 00:53:37 | K2... THE BOARD GAME (part 2) | twitch.tv/videos/43105920 |
-| 2014_Dec_04 | 00:53:43 | Rich builds a PC (par 1) | twitch.tv/videos/3598060 |
-| 2014_Dec_04 | 01:24:19 | Rich builds a PC (part 2) | twitch.tv/videos/3598072 |
-| 2014_Dec_04 | 01:31:41 | FrOg FrAcTiOnS | twitch.tv/videos/3599940 |
-| 2014_Dec_04 | 00:28:50 | Rambo - Last Blood - Nothing's Gonna Stop Us Now | twitch.tv/videos/3599896 |
-| 2014_Dec_04 | 01:39:38 | More Spelunky - Hack & Half | twitch.tv/videos/43093416 |
-| 2014_Dec_04 | 00:58:45 | Papers Please...Nope They Bleed Pixels...meh | twitch.tv/videos/43093336 |
-| 2014_Dec_04 | 01:17:35 | Wikipedia Wars | twitch.tv/videos/43093072 |
-| 2014_Dec_08 | 01:15:34 | Hack & SPACE QUEST 1 (part 1) | twitch.tv/videos/3610175 |
-| 2014_Dec_08 | 00:26:41 | Hack & SPACE QUEST 1 (part 2.1) | twitch.tv/videos/3610308 |
-| 2014_Dec_08 | 00:06:28 | Hack & SPACE QUEST 1 (part 2.2) | twitch.tv/videos/3610334 |
-| 2014_Dec_08 | 00:38:10 | Hack & SPACE QUEST 1 (part 2.3) | twitch.tv/videos/3610560 |
-| 2014_Dec_08 | 00:20:54 | Hack & SPACE QUEST 1 (part 3) | twitch.tv/videos/3610819 |
-| 2014_Dec_09 | 00:53:16 | Hack & SPACE QUEST 1 (part 4) | twitch.tv/videos/3617178 |
-| 2014_Dec_09 | 00:55:19 | Hack & SPACE QUEST 1 (part 5) | twitch.tv/videos/3619143 |
-| 2014_Dec_09 | 01:00:09 | Hack & SPACE QUEST 1 (part 6) | twitch.tv/videos/3619151 |
-| 2014_Dec_11 | 01:39:05 | Far Cry 3 - Blood Dragon | twitch.tv/videos/3626425 |
-| 2014_Dec_11 | 01:37:44 | Strider, Laser Robots WOO!!! | twitch.tv/videos/3626654 |
-| 2014_Dec_11 | 00:06:53 | Mike plays Don't Shit Your Pants | twitch.tv/videos/3626698 |
-| 2014_Dec_15 | 00:36:14 | Jedi Knight 2 - RICH EVANS-PERIENCE | twitch.tv/videos/3626972 |
-| 2014_Dec_15 | 00:44:30 | Thief - The Dark Project - RICH EVANS-PERIENCE | twitch.tv/videos/3626945 |
-| 2014_Dec_15 | 00:22:08 | Far Cry 3 - Blood Dragon - RICH EVANS-PERIENCE | twitch.tv/videos/3626964 |
-| 2014_Dec_18 | 00:59:01 | Tie MOTHERFUCKING Fighter | twitch.tv/videos/3640293 |
-| 2014_Dec_18 | 00:20:36 | I, Zombie (aaaahhhrrr) | twitch.tv/videos/3640645 |
-| 2014_Dec_18 | 00:36:26 | Pac-Man Champs!!! | twitch.tv/videos/3640700 |
-| 2014_Dec_18 | 00:40:34 | Tie MOTHERFUCKING Fighter (part 2) | twitch.tv/videos/3640329 |
+| 2014_Oct_31 | 01:02:47 | Cavern Kings (part 1) - Hack & Half | twitch.tv/videos/45106769 | youtube.com/watch?v=k83gsIRUrFE
+| 2014_Oct_31 | 00:45:51 | Cavern Kings (part 2) Hack & Half | twitch.tv/videos/45105574 | youtube.com/watch?v=X_bWNL1kMYs
+| 2014_Oct_31 | 00:38:19 | Cavern Kings (part 3) Hack & Half | twitch.tv/videos/45105198 | youtube.com/watch?v=udfyy821Hlg
+| 2014_Nov_03 | 00:35:30 | 5 Spooky Nights At Freddy's | twitch.tv/videos/45029619 | youtube.com/watch?v=rcJ5l3dl1Bo
+| 2014_Nov_03 | 00:20:33 | real SPOOKY horror stories ultimate edition | twitch.tv/videos/45029240 | youtube.com/watch?v=YJ_fUzD4yhw
+| 2014_Nov_03 | 00:43:39 | Haunt the SPOOKY House - Terrortown | twitch.tv/videos/45028975 | youtube.com/watch?v=CRGDe8h57Ho
+| 2014_Nov_03 | 00:50:20 | Spooky NES - Nightmare on Elm St. And Friday the 13th | twitch.tv/videos/45028868 | youtube.com/watch?v=ktXJSsTBq8Q
+| 2014_Nov_03 | 01:22:32 | Outlast (spooky) | twitch.tv/videos/45028129 | youtube.com/watch?v=uVa3PTaWAvM
+| 2014_Nov_13 | 01:06:19 | Daylight Saving SUPER time FORCE | twitch.tv/videos/44873315 | youtube.com/watch?v=cCCd7qbrCRg
+| 2014_Nov_13 | 01:04:24 | Monaco Saving Time | twitch.tv/videos/44870867 | youtube.com/watch?v=D-gjqbZojig
+| 2014_Nov_14 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | twitch.tv/videos/44855805 | youtube.com/watch?v=DDX4oSUteSI
+| 2014_Nov_14 | 00:14:32 | Organ Trail (part 1.2) | twitch.tv/videos/44855393 | No YouTube video
+| 2014_Nov_17 | 01:11:16 | Organ Trail (part 2) | twitch.tv/videos/44808503 | youtube.com/watch?v=8WuzKE7VETQ
+| 2014_Nov_17 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk
+| 2014_Nov_17 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | twitch.tv/videos/44791997 | youtube.com/watch?v=Eno8xf0T__E
+| 2014_Nov_18 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ
+| 2014_Nov_18 | 01:08:18 | The Binding of Isaac - Rebirth (part 1) | twitch.tv/videos/44790444 | youtube.com/watch?v=6hc8us1ztTI
+| 2014_Nov_18 | 01:35:36 | SUPER DUPER Smash TV | twitch.tv/videos/44790001 | No YouTube video
+| 2014_Nov_18 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | twitch.tv/videos/44789498 | youtube.com/watch?v=h0eKVKKowYY
+| 2014_Nov_18 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | twitch.tv/videos/43229798 | youtube.com/watch?v=NA8fEVuvA4M
+| 2014_Nov_18 | 01:02:29 | SUPER DUPER bad SNES brawlers | twitch.tv/videos/43229789 | youtube.com/watch?v=JfRIBW6YVrs
+| 2014_Nov_21 | 00:44:37 | Mario Kart 8 (Single Player) | twitch.tv/videos/43198448 | youtube.com/watch?v=G3e2bg6y0cc
+| 2014_Nov_21 | 00:36:46 | Mario Kart 8 (Multiplayer with The Stream (part 1)) | twitch.tv/videos/43198263 | youtube.com/watch?v=h2kYdu1LpLY
+| 2014_Nov_21 | 00:18:46 | Mario Kart 8 (Multiplayer with The Stream (part 2.1)) | twitch.tv/videos/43197566 | youtube.com/watch?v=x40U2CkmB-g
+| 2014_Nov_21 | 00:21:19 | Mario Kart 8 (Multiplayer with The Stream (part 2.2)) | twitch.tv/videos/43197588 | youtube.com/watch?v=PsvDwsr3x4g
+| 2014_Nov_21 | 00:48:44 | Mario Kart 8 (Multiplayer with The Stream (part 3)) | twitch.tv/videos/43196510 | youtube.com/watch?v=iLhLjVJTj8w
+| 2014_Nov_21 | 00:50:27 | Mario Kart 8 (Multiplayer with The Stream (part 4)) | twitch.tv/videos/43195897 | youtube.com/watch?v=vUiHuQ0b4PQ
+| 2014_Nov_28 | 00:08:38 | Spelunky Hack & Half (part 1.1) | twitch.tv/videos/43135314 | youtube.com/watch?v=YVbDc2K3oEo
+| 2014_Nov_28 | 00:56:18 | Spelunky Hack & Half (part 1.2) | twitch.tv/videos/43135125 | Duplicate: see line 136
+| 2014_Nov_28 | 00:46:29 | Spelunky Hack & Half (part 2) | twitch.tv/videos/43134921 | youtube.com/watch?v=_KuWeP7qDlw
+| 2014_Nov_28 | 01:26:56 | The Binding Of Hack Frauds (Cain Run) | twitch.tv/videos/43134502 | youtube.com/watch?v=SZHLXVhk1gE
+| 2014_Dec_02 | 00:51:40 | Star Trek Catan... THE BOARD GAME (part 1) | twitch.tv/videos/43106445 | youtube.com/watch?v=ARPjWVvxHro
+| 2014_Dec_02 | 00:37:43 | Star Trek Catan... THE BOARD GAME (part 2) | twitch.tv/videos/43106334 | youtube.com/watch?v=bGOwgyR2Qbo
+| 2014_Dec_02 | 00:57:23 | K2... THE BOARD GAME (part 1) | twitch.tv/videos/43106017 | youtube.com/watch?v=he35eSvdqPc
+| 2014_Dec_02 | 00:53:37 | K2... THE BOARD GAME (part 2) | twitch.tv/videos/43105920 | youtube.com/watch?v=_1D38ToO9DE
+| 2014_Dec_04 | 00:53:43 | Rich builds a PC (part 1) | twitch.tv/videos/3598060 | youtube.com/watch?v=WPjGdq6baGM
+| 2014_Dec_04 | 01:24:19 | Rich builds a PC (part 2) | twitch.tv/videos/3598072 | youtube.com/watch?v=mu9gzuSMlFA
+| 2014_Dec_04 | 01:31:41 | FrOg FrAcTiOnS | twitch.tv/videos/3599940 | youtube.com/watch?v=lxGVKEyxZIw
+| 2014_Dec_04 | 00:28:50 | Rambo - Last Blood - Nothing's Gonna Stop Us Now | twitch.tv/videos/3599896 | youtube.com/watch?v=70cVuOLEM4k
+| 2014_Dec_04 | 01:39:38 | More Spelunky - Hack & Half | twitch.tv/videos/43093416 | youtube.com/watch?v=rc5SJlAu8qU
+| 2014_Dec_04 | 00:58:45 | Papers Please...Nope They Bleed Pixels...meh | twitch.tv/videos/43093336 | youtube.com/watch?v=CyWmxeAEbTM
+| 2014_Dec_04 | 01:17:35 | Wikipedia Wars | twitch.tv/videos/43093072 | youtube.com/watch?v=ZWXc22QpswM
+| 2014_Dec_08 | 01:15:34 | Hack & SPACE QUEST 1 (part 1) | twitch.tv/videos/3610175 | youtube.com/watch?v=qnzuq40K2Qg
+| 2014_Dec_08 | 00:26:41 | Hack & SPACE QUEST 1 (part 2.1) | twitch.tv/videos/3610308 | youtube.com/watch?v=Xm3FpRvPPp8
+| 2014_Dec_08 | 00:06:28 | Hack & SPACE QUEST 1 (part 2.2) | twitch.tv/videos/3610334 | Duplicate: see line 152
+| 2014_Dec_08 | 00:38:10 | Hack & SPACE QUEST 1 (part 2.3) | twitch.tv/videos/3610560 | Duplicate: see line 152 & 153
+| 2014_Dec_08 | 00:20:54 | Hack & SPACE QUEST 1 (part 3) | twitch.tv/videos/3610819 | youtube.com/watch?v=rGaYYmFxeF8
+| 2014_Dec_09 | 00:53:16 | Hack & SPACE QUEST 1 (part 4) | twitch.tv/videos/3617178 | youtube.com/watch?v=VxEnOoo3nPk
+| 2014_Dec_09 | 00:55:19 | Hack & SPACE QUEST 1 (part 5) | twitch.tv/videos/3619143 | youtube.com/watch?v=soEh_a3JUi4
+| 2014_Dec_09 | 01:00:09 | Hack & SPACE QUEST 1 (part 6) | twitch.tv/videos/3619151 | youtube.com/watch?v=NSLeyvPoU68
+| 2014_Dec_11 | 01:39:05 | Far Cry 3 - Blood Dragon | twitch.tv/videos/3626425 | youtube.com/watch?v=YDUCJjBVFxA&t=2471s
+| 2014_Dec_11 | 01:37:44 | Strider, Laser Robots WOO!!! | twitch.tv/videos/3626654 | youtube.com/watch?v=ln7tk2Qbk-E
+| 2014_Dec_11 | 00:06:53 | Mike plays Don't Shit Your Pants | twitch.tv/videos/3626698 | youtube.com/watch?v=KOdgtCemWj8
+| 2014_Dec_15 | 00:36:14 | Jedi Knight 2 - RICH EVANS-PERIENCE | twitch.tv/videos/3626972 | youtube.com/watch?v=0oqM9ow8Ndo
+| 2014_Dec_15 | 00:44:30 | Thief - The Dark Project - RICH EVANS-PERIENCE | twitch.tv/videos/3626945 | youtube.com/watch?v=5nmpexrPzaQ
+| 2014_Dec_15 | 00:22:08 | Far Cry 3 - Blood Dragon - RICH EVANS-PERIENCE | twitch.tv/videos/3626964 | youtube.com/watch?v=ZyZCPRTOk0g
+| 2014_Dec_18 | 00:59:01 | Tie MOTHERFUCKING Fighter | twitch.tv/videos/3640293 | youtube.com/watch?v=cK18KJciHlU
+| 2014_Dec_18 | 00:20:36 | I, Zombie (aaaahhhrrr) | twitch.tv/videos/3640645 | youtube.com/watch?v=KTxIgS-RBrU
+| 2014_Dec_18 | 00:36:26 | Pac-Man Champs!!! | twitch.tv/videos/3640700 | youtube.com/watch?v=NjYG2SyWDS0
+| 2014_Dec_18 | 00:40:34 | Tie MOTHERFUCKING Fighter (part 2) | twitch.tv/videos/3640329 | youtube.com/watch?v=uRdSDPLTfKY
 | 2014_Dec_22 | 00:41:40 | MS PAINT Game Gift Giveaway (Part 01) The Preamble | No Twitch video | youtube.com/watch?v=h0DK80PGoN8
 | 2014_Dec_22 | 00:30:39 | MS PAINT Game Gift Giveaway (Part 2) | No Twitch video | youtube.com/watch?v=T0fkIqw61H4
 | 2014_Dec_22 | 00:46:32 | MS PAINT Game Gift Givaway (Part 3) | No Twitch video | youtube.com/watch?v=Sx7iy_mYUXw
 | 2014_Dec_22 | 01:19:02 | MS PAINT Game Gift Givaway (Part 4) | No Twitch video | youtube.com/watch?v=-r4cy2qZ7t4
-| 2014_Dec_29 | 01:02:53 | XCOM - the New PC-in-ing (part 1) | twitch.tv/videos/3662604 |
-| 2014_Dec_29 | 00:59:51 | XCOM - the New PC-in-ing (part 2) | twitch.tv/videos/3662646 |
-| 2014_Dec_29 | 01:29:49 | XCOM - the New PC-in-ing (part 3) | twitch.tv/videos/3662764 | 
+| 2014_Dec_29 | 01:02:53 | XCOM - the New PC-in-ing (part 1) | twitch.tv/videos/3662604 | youtube.com/watch?v=tr1UobY5jD4
+| 2014_Dec_29 | 00:59:51 | XCOM - the New PC-in-ing (part 2) | twitch.tv/videos/3662646 | youtube.com/watch?v=BLWzVXqV5oM
+| 2014_Dec_29 | 01:29:49 | XCOM - the New PC-in-ing (part 3) | twitch.tv/videos/3662764 | youtube.com/watch?v=l5aWyL30n64
 | 2015_Jan_05 | 00:59:33 | Moving Stories - Hack And a Half (part1.2) | twitch.tv/videos/3674022 |
 | 2015_Jan_05 | 00:14:22 | NaNaNaNa Batman - Arkham Asylum (part 1.1) | twitch.tv/videos/3674290 |
 | 2015_Jan_05 | 00:47:34 | NaNaNaNa Batman - Arkham Asylum (part 1.2) | twitch.tv/videos/3674301 |
