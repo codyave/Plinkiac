@@ -448,6 +448,7 @@
 | 2015_Nov_30 | 00:54:35 | OH MY GOD! (Invisible Inc part 2) | twitch.tv/videos/27901790 | youtube.com/watch?v=2DCuCwY06Tk
 | 2015_Nov_30 | 00:47:20 | FTL because why not? | twitch.tv/videos/27902032 | youtube.com/watch?v=CGxsUzLkeqw
 | 2015_Nov_30 | 00:53:15 | Rocket Breen. | twitch.tv/videos/27902087 | youtube.com/watch?v=DT7x9sO87hY
+| 2015_Dec_09 | 04:13:07 | Rich Solo Bloodborne Streaming to the Oldies. | Rich | No Twitch video | youtube.com/watch?v=yGzo63iF1Eo
 | 2015_Dec_13 | 01:11:32 | Burn Baby Burn (with fiancee) | twitch.tv/videos/29723827 | youtube.com/watch?v=rKWumFitjTA
 | 2015_Dec_13 | 00:59:58 | More Bookworm Adventures! (with fiancee) | twitch.tv/videos/29724572 | youtube.com/watch?v=gMgb059ulQE
 | 2015_Dec_13 | 00:52:39 | Pacman Championship DX (with the fiancee) | twitch.tv/videos/29729393 | youtube.com/watch?v=chzYKSpl5fw
@@ -456,66 +457,68 @@
 | 2015_Dec_22 | 01:15:02 | Star Wars Battleyawn (part 2) | twitch.tv/videos/31239325 | youtube.com/watch?v=z_dF-LaUNes
 | 2015_Dec_22 | 01:16:43 | Star Wars Battleyawn (part 3) | twitch.tv/videos/31240449 | youtube.com/watch?v=c_iIiVGgC30
 | 2015_Dec_22 | 00:50:40 | Rocket League MUTATED! | twitch.tv/videos/31240734 | youtube.com/watch?v=COCxWH8I6es
+| 2015_Dec_24 | 05:13:17 | Rich's Christmas The Last of Us Extravaganza | No Twitch vod | youtube.com/watch?v=FCdVnY6H0FE
 | 2016_Jan_04 | 01:21:41 | Bloodborne *insert pun here* (part 1) | twitch.tv/videos/33520991 | youtube.com/watch?v=DkSk6fOBlt0
 | 2016_Jan_04 | 01:11:44 | Bloodborne *insert pun here* (part 2) | twitch.tv/videos/33521851 | youtube.com/watch?v=38UC_5cuQHc
 | 2016_Jan_04 | 01:59:40 | Battlefrauds | twitch.tv/videos/33522720 | youtube.com/watch?v=PxW2Aj0bTa8
-| 2016_Jan_10 | 01:12:30 | Return of the Undertale. (part 1) | twitch.tv/videos/34643754 | 
-| 2016_Jan_10 | 00:56:06 | Return of the Undertale. (part 2) | twitch.tv/videos/34644070 | 
-| 2016_Jan_10 | 00:52:47 | Return of the Undertale. (part 3) | twitch.tv/videos/34644198 | 
-| 2016_Jan_10 | 00:52:12 | Return of the Undertale. (part 4) | twitch.tv/videos/34644468 | 
-| 2016_Jan_15 | 01:21:07 | Would You Like to Know More? (Helldivers part 1) | twitch.tv/videos/35551015 |   
-| 2016_Jan_15 | 01:03:59 | Would You Like to Know More? (Helldivers part 2) | twitch.tv/videos/35551447 |   
-| 2016_Jan_15 | 01:07:31 | Would You Like to Know More? (Helldivers part 3) | twitch.tv/videos/35551652 |   
-| 2016_Jan_15 | 01:39:05 | Starship Helldivers (part 1) | twitch.tv/videos/35552918 |  
-| 2016_Jan_15 | 01:31:50 | Starship Helldivers (part 2) | twitch.tv/videos/35553397 |  
-| 2016_Jan_15 | 01:11:18 | Starship Helldivers (part 3) | twitch.tv/videos/35554076 |  
-| 2016_Feb_02 | 01:15:53 | Jack scratches his Bloodborne itch (part 1) | twitch.tv/videos/39769930 |  
-| 2016_Feb_02 | 01:33:19 | Jack scratches his Bloodborne itch (part 2) | twitch.tv/videos/39772559 |  
-| 2016_Feb_02 | 01:30:34 | Jack scratches his Bloodborne itch (part 3) | twitch.tv/videos/39774715 |  
-| 2016_Feb_02 | 01:17:35 | Jack scratches his Bloodborne itch (part 4) | twitch.tv/videos/39776760 |  
-| 2016_Feb_02 | 01:17:32 | Freedom Planet (part 1) and Rich talks like Jimmy Stewart | twitch.tv/videos/39779687 |  
-| 2016_Feb_02 | 00:50:16 | THE RETURN OF DON WILSON!! (Freedom Planet part 2) | twitch.tv/videos/39780453 |  
-| 2016_Feb_02 | 01:53:52 | Star Wars - The Force Awakens spoiler discussion | twitch.tv/videos/39780934 |  
-| 2016_Feb_23 | 01:01:54 | Dragon Fantasy with the Fiance (part 1) | twitch.tv/videos/49413379 |  
-| 2016_Feb_23 | 01:10:39 | Dragon Fantasy with the Fiance (part 2) | twitch.tv/videos/49419172 |  
-| 2016_Feb_23 | 01:06:03 | Keep Talking with the Fiance | twitch.tv/videos/49420502 |  
-| 2016_Feb_28 | 00:25:09 | Akinator fun | twitch.tv/videos/51291474 |  
-| 2016_Feb_28 | 01:15:38 | Arkhaming that Knight DLC (part 1) | twitch.tv/videos/51293212 |  
-| 2016_Feb_28 | 01:15:02 | Arkhaming that Knight DLC (part 2) | twitch.tv/videos/51294437 |  
-| 2016_Feb_28 | 00:52:17 | Bloob Blorne (part 1) | twitch.tv/videos/51295465 |  
-| 2016_Feb_28 | 00:55:43 | Bloob Blorne (part 2) | twitch.tv/videos/51296156 |  
-| 2016_Mar_05 | 01:04:56 | Pony up for Pony Island (part 1) | twitch.tv/videos/52485398 |  
-| 2016_Mar_05 | 01:02:31 | Pony up for Pony Island (part 2) | twitch.tv/videos/52486661 |  
-| 2016_Mar_05 | 01:04:26 | Pony up for Pony Island (part 3) | twitch.tv/videos/52487262 |  
-| 2016_Mar_07 | 01:56:31 | Daddy Issues. (Who's Your Daddy) | twitch.tv/videos/52912202 |  
-| 2016_Mar_07 | 00:53:59 | Blundertale (More Undertale part 1) | twitch.tv/videos/52914063 |  
-| 2016_Mar_07 | 00:55:10 | Blundertale (More Undertale part 2) | twitch.tv/videos/52914637 |  
-| 2016_Mar_13 | 03:49:31 | 2 years ago - Undertale | twitch.tv/videos/54149130 |  
-| 2016_Mar_13 | 01:07:06 | Blundertale (More Undertale part 3 | twitch.tv/videos/54283335 |  
-| 2016_Mar_13 | 01:00:30 | Blundertale (More Undertale part 4) (fixed) | twitch.tv/videos/54283492 |  
-| 2016_Mar_13 | 01:03:26 | Blundertale (More Undertale part 5) | twitch.tv/videos/54283655 |  
-| 2016_Mar_13 | 01:07:06 | Blundertale (More Undertale part 6 | twitch.tv/videos/54283821 |  
-| 2016_Mar_13 | 01:09:54 | Blundertale (More Undertale part 7 | twitch.tv/videos/54283941 |  
-| 2016_Mar_20 | 00:41:23 | Pizza  | twitch.tv/videos/55520243 |  
-| 2016_Mar_20 | 01:14:50 | Punch Drunk (punch Club part 1 | twitch.tv/videos/55521786 |  
-| 2016_Mar_20 | 01:10:26 | Punch Drunk (punch Club part 2 | twitch.tv/videos/55524697 |  
-| 2016_Mar_20 | 01:10:33 | Mediocre. (The Witness part 1 | twitch.tv/videos/55527321 |  
-| 2016_Mar_20 | 01:11:54 | Mediocre. (The Witness part 2 | twitch.tv/videos/55530476 |  
-| 2016_Mar_20 | 01:07:35 | Mediocre. (The Witness part 3 | twitch.tv/videos/55532996 |  
-| 2016_Mar_22 | 01:01:32 | Down with the XCOM (part 1) | twitch.tv/videos/55917236 |  
-| 2016_Mar_22 | 01:14:16 | Down with the XCOM (part 2) | twitch.tv/videos/55918621 |  
-| 2016_Mar_22 | 00:59:34 | Down with the XCOM (part 3 | twitch.tv/videos/55919366 |  
-| 2016_Mar_31 | 01:54:57 | Batman V Superman Discussion (SPOILERS | twitch.tv/videos/57739579 |  
-| 2016_Apr_01 | 01:18:26 | XCOM on my face (part 1 | twitch.tv/videos/57944055 |  
-| 2016_Apr_01 | 01:18:28 | XCOM on my face (part 2 | twitch.tv/videos/57945079 |  
-| 2016_Apr_01 | 01:03:10 | XCOM on my face (part 3 | twitch.tv/videos/57946597 |  
-| 2016_Apr_04 | 00:25:31 | XCOM 2 MADNESS!!! (part 1 | twitch.tv/videos/58525378 |  
-| 2016_Apr_04 | 01:11:51 | XCOM 2 MADNESS!!! (part 2 | twitch.tv/videos/58527948 |  
-| 2016_Apr_04 | 01:07:42 | XCOM 2 MADNESS!!! (part 3 | twitch.tv/videos/58528970 |  
-| 2016_Apr_04 | 00:59:14 | Generic Fantasy MADNESS (Dragon's Dogma | twitch.tv/videos/58530273 |  
-| 2016_Apr_07 | 01:13:50 | XCOMmunicable disease (part 1 | twitch.tv/videos/59095040 |  
-| 2016_Apr_07 | 00:58:34 | XCOMmunicable disease (part 2 | twitch.tv/videos/59095812 |  
-| 2016_Apr_07 | 01:19:03 | XCOMmunicable disease (part 3 | twitch.tv/videos/59097336 |  
+| 2016_Jan_10 | 01:12:30 | Return of the Undertale. (part 1) | twitch.tv/videos/34643754 | youtube.com/watch?v=8PVKfjaJ4-o
+| 2016_Jan_10 | 00:56:06 | Return of the Undertale. (part 2) | twitch.tv/videos/34644070 | youtube.com/watch?v=52VgNw1eJYw
+| 2016_Jan_10 | 00:52:47 | Return of the Undertale. (part 3) | twitch.tv/videos/34644198 | youtube.com/watch?v=aEAQH7skqvo
+| 2016_Jan_10 | 00:52:12 | Return of the Undertale. (part 4) | twitch.tv/videos/34644468 | youtube.com/watch?v=8Z9tVbIiDEk
+| 2016_Jan_15 | 01:21:07 | Would You Like to Know More? (Helldivers part 1) | twitch.tv/videos/35551015 | youtube.com/watch?v=LwdfSPCkP1g
+| 2016_Jan_15 | 01:03:59 | Would You Like to Know More? (Helldivers part 2) | twitch.tv/videos/35551447 | youtube.com/watch?v=e8zAKswL0l8  
+| 2016_Jan_15 | 01:07:31 | Would You Like to Know More? (Helldivers part 3) | twitch.tv/videos/35551652 | youtube.com/watch?v=efKkNj73Z7k  
+| 2016_Jan_15 | 01:39:05 | Starship Helldivers (part 1) | twitch.tv/videos/35552918 | youtube.com/watch?v=VOyaES81Nnk
+| 2016_Jan_15 | 01:31:50 | Starship Helldivers (part 2) | twitch.tv/videos/35553397 | youtube.com/watch?v=V7D_wS7D7qg 
+| 2016_Jan_15 | 01:11:18 | Starship Helldivers (part 3) | twitch.tv/videos/35554076 | youtube.com/watch?v=pogUElLK2HU 
+| 2016_Feb_02 | 01:15:53 | Jack scratches his Bloodborne itch (part 1) | twitch.tv/videos/39769930 | youtube.com/watch?v=-5864QjsObs
+| 2016_Feb_02 | 01:33:19 | Jack scratches his Bloodborne itch (part 2) | twitch.tv/videos/39772559 | youtube.com/watch?v=Y4fz5700XFE 
+| 2016_Feb_02 | 01:30:34 | Jack scratches his Bloodborne itch (part 3) | twitch.tv/videos/39774715 | youtube.com/watch?v=Kb4INYuy58w 
+| 2016_Feb_02 | 01:17:35 | Jack scratches his Bloodborne itch (part 4) | twitch.tv/videos/39776760 | youtube.com/watch?v=ZoFRXzZe8kM 
+| 2016_Feb_02 | 01:17:32 | Freedom Planet (part 1) and Rich talks like Jimmy Stewart | twitch.tv/videos/39779687 |  youtube.com/watch?v=QHKVOhDnE6k
+| 2016_Feb_02 | 00:50:16 | THE RETURN OF DON WILSON!! (Freedom Planet part 2) | twitch.tv/videos/39780453 | youtube.com/watch?v=Tt7Tlzztt48
+| 2016_Feb_02 | 01:53:52 | Star Wars - The Force Awakens spoiler discussion | twitch.tv/videos/39780934 | youtube.com/watch?v=71RJJ0umdjQ
+| 2016_Feb_23 | 01:01:54 | Dragon Fantasy with the Fiance (part 1) | twitch.tv/videos/49413379 | youtube.com/watch?v=Im1taiQh4tQ
+| 2016_Feb_23 | 01:10:39 | Dragon Fantasy with the Fiance (part 2) | twitch.tv/videos/49419172 | youtube.com/watch?v=Im1taiQh4tQ
+| 2016_Feb_23 | 01:06:03 | Keep Talking with the Fiance | twitch.tv/videos/49420502 | youtube.com/watch?v=A_ZRK99WNqI
+| 2016_Feb_28 | 00:25:09 | Akinator fun | twitch.tv/videos/51291474 | youtube.com/watch?v=Q36IQZcIm1A
+| 2016_Feb_28 | 01:15:38 | Arkhaming that Knight DLC (part 1) | twitch.tv/videos/51293212 | youtube.com/watch?v=xhzQXAk1vUo
+| 2016_Feb_28 | 01:15:02 | Arkhaming that Knight DLC (part 2) | twitch.tv/videos/51294437 | youtube.com/watch?v=x1iEawU-0QI
+| 2016_Feb_28 | 00:52:17 | Bloob Blorne (part 1) | twitch.tv/videos/51295465 | youtube.com/watch?v=HjdPo-RunKA
+| 2016_Feb_28 | 00:55:43 | Bloob Blorne (part 2) | twitch.tv/videos/51296156 | youtube.com/watch?v=MSeoK9brOFU
+| 2016_Feb_28 | 01:02:27 | XCOM 2 Live Discussion (Previously Recorded) | No Twitch video | youtube.com/watch?v=B3hQ6UzmRUk
+| 2016_Mar_05 | 01:04:56 | Pony up for Pony Island (part 1) | twitch.tv/videos/52485398 | youtube.com/watch?v=-DUwkVNdo0g
+| 2016_Mar_05 | 01:02:31 | Pony up for Pony Island (part 2) | twitch.tv/videos/52486661 | youtube.com/watch?v=ay-mSEzWi3M
+| 2016_Mar_05 | 01:04:26 | Pony up for Pony Island (part 3) | twitch.tv/videos/52487262 | youtube.com/watch?v=i8NwOw1Wrxc
+| 2016_Mar_07 | 01:56:31 | Daddy Issues. (Who's Your Daddy) | twitch.tv/videos/52912202 | youtube.com/watch?v=qObGp_IhrCc
+| 2016_Mar_07 | 00:53:59 | Blundertale (More Undertale part 1) | twitch.tv/videos/52914063 | youtube.com/watch?v=nF5tzxYRem8
+| 2016_Mar_07 | 00:55:10 | Blundertale (More Undertale part 2) | twitch.tv/videos/52914637 | youtube.com/watch?v=PRsvBzq1fGo
+| 2016_Mar_12 | 03:49:31 | 2 years ago - Undertale | twitch.tv/videos/54149130 | 
+| 2016_Mar_13 | 01:07:06 | Blundertale (More Undertale part 3 | twitch.tv/videos/54283335 | 
+| 2016_Mar_13 | 01:00:30 | Blundertale (More Undertale part 4) (fixed) | twitch.tv/videos/54283492 | 
+| 2016_Mar_13 | 01:03:26 | Blundertale (More Undertale part 5) | twitch.tv/videos/54283655 | 
+| 2016_Mar_13 | 01:07:06 | Blundertale (More Undertale part 6 | twitch.tv/videos/54283821 | 
+| 2016_Mar_13 | 01:09:54 | Blundertale (More Undertale part 7 | twitch.tv/videos/54283941 | 
+| 2016_Mar_20 | 00:41:23 | Pizza  | twitch.tv/videos/55520243 | 
+| 2016_Mar_20 | 01:14:50 | Punch Drunk (punch Club part 1 | twitch.tv/videos/55521786 | 
+| 2016_Mar_20 | 01:10:26 | Punch Drunk (punch Club part 2 | twitch.tv/videos/55524697 | 
+| 2016_Mar_20 | 01:10:33 | Mediocre. (The Witness part 1 | twitch.tv/videos/55527321 | 
+| 2016_Mar_20 | 01:11:54 | Mediocre. (The Witness part 2 | twitch.tv/videos/55530476 | 
+| 2016_Mar_20 | 01:07:35 | Mediocre. (The Witness part 3 | twitch.tv/videos/55532996 | 
+| 2016_Mar_22 | 01:01:32 | Down with the XCOM (part 1) | twitch.tv/videos/55917236 | 
+| 2016_Mar_22 | 01:14:16 | Down with the XCOM (part 2) | twitch.tv/videos/55918621 | 
+| 2016_Mar_22 | 00:59:34 | Down with the XCOM (part 3 | twitch.tv/videos/55919366 | 
+| 2016_Mar_31 | 01:54:57 | Batman V Superman Discussion (SPOILERS | twitch.tv/videos/57739579 | 
+| 2016_Apr_01 | 01:18:26 | XCOM on my face (part 1 | twitch.tv/videos/57944055 | 
+| 2016_Apr_01 | 01:18:28 | XCOM on my face (part 2 | twitch.tv/videos/57945079 | 
+| 2016_Apr_01 | 01:03:10 | XCOM on my face (part 3 | twitch.tv/videos/57946597 | 
+| 2016_Apr_04 | 00:25:31 | XCOM 2 MADNESS!!! (part 1 | twitch.tv/videos/58525378 | 
+| 2016_Apr_04 | 01:11:51 | XCOM 2 MADNESS!!! (part 2 | twitch.tv/videos/58527948 | 
+| 2016_Apr_04 | 01:07:42 | XCOM 2 MADNESS!!! (part 3 | twitch.tv/videos/58528970 | 
+| 2016_Apr_04 | 00:59:14 | Generic Fantasy MADNESS (Dragon's Dogma | twitch.tv/videos/58530273 | 
+| 2016_Apr_07 | 01:13:50 | XCOMmunicable disease (part 1 | twitch.tv/videos/59095040 | 
+| 2016_Apr_07 | 00:58:34 | XCOMmunicable disease (part 2 | twitch.tv/videos/59095812 | 
+| 2016_Apr_07 | 01:19:03 | XCOMmunicable disease (part 3 | twitch.tv/videos/59097336 | 
 | 2016_Apr_07 | 01:20:28 | XCOM 2 Electric Boogaloo (part 1 | twitch.tv/videos/59179831 |  
 | 2016_Apr_07 | 01:12:22 | XCOM 2 Electric Boogaloo (part 2 | twitch.tv/videos/59184308 |  
 | 2016_Apr_07 | 01:08:10 | XCOM 2 Electric Boogaloo (part 3 | twitch.tv/videos/59189242 |  
