@@ -88,11 +88,11 @@
 | 2014_Oct_05 | 00:32:51 | Jack & Rich Chat (part 1) Solitaire | www.twitch.tv/videos/45416321 | youtube.com/watch?v=nbtcDYmErWc | https://twitter.com/PreviouslyRec/status/518976031894409217
 | 2014_Oct_05 | 00:55:42 | Jack & Rich Chat (part 2) MS Paint | twitch.tv/videos/45416204 | youtube.com/watch?v=9sBqpmhr7BY | https://twitter.com/PreviouslyRec/status/518976031894409217
 | 2014_Oct_05 | 00:05:56 | Rich Fails at Streaming | twitch.tv/videos/45416029 | No YouTube video | https://twitter.com/PreviouslyRec/status/518976031894409217
-| 2014_Oct_17 | 01:03:13 | Guacamelee - No Death Attempt (part 1.1) | twitch.tv/videos/45363647 | youtube.com/watch?v=sc7IyqDV_qA
-| 2014_Oct_17 | 00:56:10 | Guacamelee - No Death Attempt (part 1.2) | twitch.tv/videos/45362801 | youtube.com/watch?v=LTVApyEBl9c
-| 2014_Oct_17 | 01:00:52 | Guacamelee - No Death Attempt (part 1.3) | twitch.tv/videos/45362747 | youtube.com/watch?v=yqxa4ukv9o0
-| 2014_Oct_17 | 01:07:16 | Gucamelee - No Death Attempt (part 1.4) | twitch.tv/videos/45362786 | youtube.com/watch?v=dBg8_Ww3pSI
-| 2014_Oct_17 | 01:14:52 | Guacamelee - No Death Attempt (part 1.5) | twitch.tv/videos/45362703 | youtube.com/watch?v=0eD5S4PvGE4
+| 2014_Oct_08 | 01:03:13 | Guacamelee - No Death Attempt (part 1.1) | twitch.tv/videos/45363647 | youtube.com/watch?v=sc7IyqDV_qA | https://twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 00:56:10 | Guacamelee - No Death Attempt (part 1.2) | twitch.tv/videos/45362801 | youtube.com/watch?v=LTVApyEBl9c | https://twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 01:00:52 | Guacamelee - No Death Attempt (part 1.3) | twitch.tv/videos/45362747 | youtube.com/watch?v=yqxa4ukv9o0 | https://twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 01:07:16 | Gucamelee - No Death Attempt (part 1.4) | twitch.tv/videos/45362786 | youtube.com/watch?v=dBg8_Ww3pSI | https://twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 01:14:52 | Guacamelee - No Death Attempt (part 1.5) | twitch.tv/videos/45362703 | youtube.com/watch?v=0eD5S4PvGE4 | https://twitter.com/PreviouslyRec/status/520021236135378945
 | 2014_Oct_23 | 00:54:41 | Rich is going to win at FTL (part 1) | twitch.tv/videos/45261319 | youtube.com/watch?v=ORIOQ1QUwP4
 | 2014_Oct_23 | 00:57:12 | Rich is going to win at FTL (part 2) | twitch.tv/videos/45261142 | youtube.com/watch?v=h_6tS5qf4UM
 | 2014_Oct_23 | 01:07:34 | Rich is going to win at FTL (part 3) | twitch.tv/videos/45261117 | youtube.com/watch?v=8UFBU7GXCag
