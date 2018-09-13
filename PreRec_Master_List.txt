@@ -173,18 +173,18 @@
 | 2014_Dec_28 | 01:02:53 | XCOM - the New PC-in-ing (part 1) | twitch.tv/videos/3662604 | youtube.com/watch?v=tr1UobY5jD4 | twitter.com/PreviouslyRec/status/549389718602125312
 | 2014_Dec_28 | 00:59:51 | XCOM - the New PC-in-ing (part 2) | twitch.tv/videos/3662646 | youtube.com/watch?v=BLWzVXqV5oM | twitter.com/PreviouslyRec/status/549389718602125312
 | 2014_Dec_28 | 01:29:49 | XCOM - the New PC-in-ing (part 3) | twitch.tv/videos/3662764 | youtube.com/watch?v=l5aWyL30n64 | twitter.com/PreviouslyRec/status/549389718602125312
-| 2015_Jan_05 | 00:59:33 | Moving Stories - Hack And a Half (part1.2) | twitch.tv/videos/3674022 | youtube.com/watch?v=H0N1hEGi2fo
-| 2015_Jan_05 | 00:14:22 | NaNaNaNa Batman - Arkham Asylum (part 1.1) | twitch.tv/videos/3674290 | youtube.com/watch?v=pPmC6UMhioo
-| 2015_Jan_05 | 00:47:34 | NaNaNaNa Batman - Arkham Asylum (part 1.2) | twitch.tv/videos/3674301 | Duplicate: see line 177
-| 2015_Jan_05 | 00:55:52 | NaNaNaNa Batman - Arkham Asylum (part 2) | twitch.tv/videos/3674308 | youtube.com/watch?v=YV1_WVjTpc0
-| 2015_Jan_05 | 01:01:53 | NaNaNaNa Batman - Arkham Asylum (part 3) | twitch.tv/videos/3674316 | youtube.com/watch?v=1edE10dLzcU
-| 2015_Jan_08 | 00:59:46 | NaNaNaNa Batman - Arkham Asylum (part 4) | twitch.tv/videos/3680496 | youtube.com/watch?v=77L4cIZNEGc
-| 2015_Jan_08 | 01:01:42 | NaNaNaNa Batman - Arkham Asylum (part 5) | twitch.tv/videos/3680759 | youtube.com/watch?v=Vahu_1hiOQM
-| 2015_Jan_08 | 01:06:14 | NaNaNaNa Batman - Arkham Asylum (part 6) | twitch.tv/videos/3680849 | youtube.com/watch?v=CpO4hTXhG20
-| 2015_Jan_12 | 01:14:04 | Call of (yawn) Duty - Advanced Warfare | twitch.tv/videos/3692469 | No YouTube video
-| 2015_Jan_12 | 01:19:10 | The Swapper/Necrodancer | twitch.tv/videos/3692484 | youtube.com/watch?v=d3yAc6yiJA8
-| 2015_Jan_14 | 01:01:16 | Invisible Inc. - then Tay Sway | No Twitch video | youtube.com/watch?v=8rLyP0RvwCA
-| 2015_Jan_15 | 01:06:50 | Spelunky is a fun and good game. | twitch.tv/videos/3692515 | youtube.com/watch?v=EC9UrYdp04o
+| 2015_Jan_05 | 00:59:33 | Moving Stories - Hack And a Half (part1.2) | twitch.tv/videos/3674022 | youtube.com/watch?v=H0N1hEGi2fo | twitter.com/PreviouslyRec/status/551851528730865664
+| 2015_Jan_04 | 00:14:22 | NaNaNaNa Batman - Arkham Asylum (part 1.1) | twitch.tv/videos/3674290 | youtube.com/watch?v=pPmC6UMhioo | twitter.com/PreviouslyRec/status/551851528730865664
+| 2015_Jan_04 | 00:47:34 | NaNaNaNa Batman - Arkham Asylum (part 1.2) | twitch.tv/videos/3674301 | Duplicate: see line 177 | twitter.com/PreviouslyRec/status/551851528730865664
+| 2015_Jan_04 | 00:55:52 | NaNaNaNa Batman - Arkham Asylum (part 2) | twitch.tv/videos/3674308 | youtube.com/watch?v=YV1_WVjTpc0 | twitter.com/PreviouslyRec/status/551851528730865664
+| 2015_Jan_04 | 01:01:53 | NaNaNaNa Batman - Arkham Asylum (part 3) | twitch.tv/videos/3674316 | youtube.com/watch?v=1edE10dLzcU | twitter.com/PreviouslyRec/status/551851528730865664
+| 2015_Jan_07 | 00:59:46 | NaNaNaNa Batman - Arkham Asylum (part 4) | twitch.tv/videos/3680496 | youtube.com/watch?v=77L4cIZNEGc | twitter.com/PreviouslyRec/status/552913561757179906
+| 2015_Jan_07 | 01:01:42 | NaNaNaNa Batman - Arkham Asylum (part 5) | twitch.tv/videos/3680759 | youtube.com/watch?v=Vahu_1hiOQM | twitter.com/PreviouslyRec/status/552913561757179906
+| 2015_Jan_07 | 01:06:14 | NaNaNaNa Batman - Arkham Asylum (part 6) | twitch.tv/videos/3680849 | youtube.com/watch?v=CpO4hTXhG20 | twitter.com/PreviouslyRec/status/552913561757179906
+| 2015_Jan_11 | 01:14:04 | Call of (yawn) Duty - Advanced Warfare | twitch.tv/videos/3692469 | No YouTube video | twitter.com/PreviouslyRec/status/554470324495220737
+| 2015_Jan_14 | 01:06:50 | Spelunky is a fun and good game. | twitch.tv/videos/3692515 | youtube.com/watch?v=EC9UrYdp04o | twitter.com/PreviouslyRec/status/555532354609893376
+| 2015_Jan_14 | 01:19:10 | The Swapper/Necrodancer | twitch.tv/videos/3692484 | youtube.com/watch?v=d3yAc6yiJA8 | twitter.com/PreviouslyRec/status/555532354609893376
+| 2015_Jan_14 | 01:01:16 | Invisible Inc. - then Tay Sway | No Twitch video | youtube.com/watch?v=8rLyP0RvwCA | twitter.com/PreviouslyRec/status/555532354609893376
 | 2015_Jan_15 | 01:02:19 | Crypt of the Necrodancer is a good game | twitch.tv/videos/3692524 | youtube.com/watch?v=8-TZYtK4VJU
 | 2015_Jan_18 | 03:46:02 | Rich's Arkham No death run(Silent) (part 1) | twitch.tv/videos/3712144 | No YouTube video
 | 2015_Jan_18 | 01:16:49 | Rich's Arkham No Death Run (part 2) | twitch.tv/videos/3712166 | youtube.com/watch?v=lePJZF-mh3c
