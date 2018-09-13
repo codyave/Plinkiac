@@ -649,6 +649,8 @@
 | 2016_Oct_03 | 01:53:58 | Eff Tee El (part 2) | twitch.tv/videos/92840111 | youtube.com/watch?v=-LNiKDwxJiA
 | 2016_Oct_05 | 01:30:45 | Siiiick Pokemon radiation BURN!! (part 1) | twitch.tv/videos/93142788 | youtube.com/watch?v=CN2wVarsnk0
 | 2016_Oct_05 | 01:40:48 | Siiiick Pokemon radiation BURN!! (part 2) | twitch.tv/videos/93146538 | youtube.com/watch?v=YuGgtdqdobI
+| 2016_Oct_05 | 01:41:32 | The ''J's'' (part 1) | twitch.tv/videos/96239211 | youtube.com/watch?v=S-5vDSw5TH8
+| 2016_Oct_05 | 01:52:30 | The ''J's'' (part 2) | twitch.tv/videos/96240572 | youtube.com/watch?v=yRpWSny9924
 | 2016_Oct_09 | 01:16:48 | ReCore-ded Previously (part 1) | twitch.tv/videos/93938409 | youtube.com/watch?v=8cmjVgzfbIY
 | 2016_Oct_09 | 01:27:51 | ReCore-ded Previously (part 2) | twitch.tv/videos/93943026 | youtube.com/watch?v=khVqDL_66oA
 | 2016_Oct_09 | 01:13:56 | Five Nights at Freddy's Still Blows. | twitch.tv/videos/96241839 | youtube.com/watch?v=nTjU5-9qOCs
@@ -666,8 +668,6 @@
 | 2016_Oct_17 | 00:01:12 | JESUS TAKE THE WHEEL!!! | twitch.tv/videos/95518617 | No YouTube video
 | 2016_Oct_19 | 01:33:52 | Go Truck Yourself (part 1) | twitch.tv/videos/95906142 | youtube.com/watch?v=Y-fIJxddYu8
 | 2016_Oct_19 | 01:35:59 | Go Truck Yourself (part 2) | twitch.tv/videos/95943925 | youtube.com/watch?v=1zykgSXywlI
-| 2016_Oct_21 | 01:41:32 | The ''J's'' (part 1) | twitch.tv/videos/96239211 | youtube.com/watch?v=S-5vDSw5TH8
-| 2016_Oct_21 | 01:52:30 | The ''J's'' (part 2) | twitch.tv/videos/96240572 | youtube.com/watch?v=yRpWSny9924
 | 2016_Oct_27 | 01:29:56 | Stealing my Heart (Thief Gold part 1) | twitch.tv/videos/97391427 | 
 | 2016_Oct_27 | 01:42:29 | Stealing my Heart (Thief Gold part 2) | twitch.tv/videos/97391954 | 
 | 2016_Oct_30 | 01:11:04 | Grind my Gears (part 1) | twitch.tv/videos/97970799 | 
