@@ -810,12 +810,12 @@
 | 2017_Jul_02 | 01:33:56 | Exploring new Fridays (part 2) | twitch.tv/videos/156159159 | youtube.com/watch?v=94khWgPVj4U
 | 2017_Jul_03 | 01:38:47 | Exploring new Fridays (part 3) | twitch.tv/videos/156292766 | youtube.com/watch?v=08WDhRA3cps
 | 2017_Jul_03 | 00:03:54 | Now that's some fucking driving!! | twitch.tv/videos/156293861 | youtube.com/watch?v=1gjpa2q54AQ
-| 2017_Jul_09 | 00:01:18 | Dangling Tiffany | twitch.tv/videos/157805951 | 
-| 2017_Jul_12 | 02:07:24 | Fri-Jay the 13th (part 1) | twitch.tv/videos/158620887 | 
-| 2017_Jul_12 | 02:31:57 | Fri-Jay the 13th (part 2) | twitch.tv/videos/158632844 | 
-| 2017_Jul_12 | 01:29:42 | Monkey Wrenching Around | twitch.tv/videos/158644159 | 
-| 2017_Jul_12 | 02:21:02 | Jason Wrenching Around | twitch.tv/videos/158658435 | 
-| 2017_Jul_13 | 02:09:24 | Space Sister | twitch.tv/videos/158883121 | 
+| 2017_Jul_09 | 00:01:18 | Dangling Tiffany | twitch.tv/videos/157805951 | No YouTube video
+| 2017_Jul_12 | 02:07:24 | Fri-Jay the 13th (part 1) | twitch.tv/videos/158620887 | youtube.com/watch?v=xvAQhleaigc
+| 2017_Jul_12 | 02:31:57 | Fri-Jay the 13th (part 2) | twitch.tv/videos/158632844 | youtube.com/watch?v=agMvDTiigf0
+| 2017_Jul_12 | 01:29:42 | Monkey Wrenching Around | twitch.tv/videos/158644159 | youtube.com/watch?v=hUbZTCLPI20
+| 2017_Jul_12 | 02:21:02 | Jason Wrenching Around | twitch.tv/videos/158658435 | youtube.com/watch?v=hfaSllC4ZUY
+| 2017_Jul_13 | 02:09:24 | Space Sister | twitch.tv/videos/158883121 | youtube.com/watch?v=CjHXwXYQpLQ
 | 2017_Jul_13 | 00:25:18 | Space Sister part 2 | twitch.tv/videos/158895662 | 
 | 2017_Jul_13 | 01:40:01 | Barbie Queen of the the Mother Fucking Prom | twitch.tv/videos/158899231 | 
 | 2017_Jul_15 | 02:06:03 | Witchy Whoa-Man(Jack Solo Stream) | twitch.tv/videos/159355651 | 
