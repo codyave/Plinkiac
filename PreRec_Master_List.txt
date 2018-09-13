@@ -170,9 +170,9 @@
 | 2014_Dec_21 | 00:30:39 | MS PAINT Game Gift Giveaway (Part 2) | No Twitch video | youtube.com/watch?v=T0fkIqw61H4 | twitter.com/PreviouslyRec/status/546836000346243072
 | 2014_Dec_21 | 00:46:32 | MS PAINT Game Gift Givaway (Part 3) | No Twitch video | youtube.com/watch?v=Sx7iy_mYUXw | twitter.com/PreviouslyRec/status/546836000346243072
 | 2014_Dec_21 | 01:19:02 | MS PAINT Game Gift Givaway (Part 4) | No Twitch video | youtube.com/watch?v=-r4cy2qZ7t4 | twitter.com/PreviouslyRec/status/546836000346243072
-| 2014_Dec_29 | 01:02:53 | XCOM - the New PC-in-ing (part 1) | twitch.tv/videos/3662604 | youtube.com/watch?v=tr1UobY5jD4
-| 2014_Dec_29 | 00:59:51 | XCOM - the New PC-in-ing (part 2) | twitch.tv/videos/3662646 | youtube.com/watch?v=BLWzVXqV5oM
-| 2014_Dec_29 | 01:29:49 | XCOM - the New PC-in-ing (part 3) | twitch.tv/videos/3662764 | youtube.com/watch?v=l5aWyL30n64
+| 2014_Dec_28 | 01:02:53 | XCOM - the New PC-in-ing (part 1) | twitch.tv/videos/3662604 | youtube.com/watch?v=tr1UobY5jD4 | twitter.com/PreviouslyRec/status/549389718602125312
+| 2014_Dec_28 | 00:59:51 | XCOM - the New PC-in-ing (part 2) | twitch.tv/videos/3662646 | youtube.com/watch?v=BLWzVXqV5oM | twitter.com/PreviouslyRec/status/549389718602125312
+| 2014_Dec_28 | 01:29:49 | XCOM - the New PC-in-ing (part 3) | twitch.tv/videos/3662764 | youtube.com/watch?v=l5aWyL30n64 | twitter.com/PreviouslyRec/status/549389718602125312
 | 2015_Jan_05 | 00:59:33 | Moving Stories - Hack And a Half (part1.2) | twitch.tv/videos/3674022 | youtube.com/watch?v=H0N1hEGi2fo
 | 2015_Jan_05 | 00:14:22 | NaNaNaNa Batman - Arkham Asylum (part 1.1) | twitch.tv/videos/3674290 | youtube.com/watch?v=pPmC6UMhioo
 | 2015_Jan_05 | 00:47:34 | NaNaNaNa Batman - Arkham Asylum (part 1.2) | twitch.tv/videos/3674301 | Duplicate: see line 177
