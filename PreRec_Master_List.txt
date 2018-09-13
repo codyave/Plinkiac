@@ -38,7 +38,7 @@
 | 2014_Aug_10 | 00:59:43 | XCOM Enemy of my Friend (Part 1) | twitch.tv/videos/42850729 | youtube.com/watch?v=y5KIR7zg6TE
 | 2014_Aug_10 | 01:02:58 | XCOM Enemy of my Friend (Part 2) | twitch.tv/videos/42850241 | youtube.com/watch?v=0fMr3g6CXho
 | 2014_Aug_10 | 01:01:13 | XCOM Enemy of my Friend (Part 3) | twitch.tv/videos/42850157 | youtube.com/watch?v=TYJNJqyBKYs
-| 2014_Aug_10 | 01:03:07 | XCOM Enemy of my Friend (Part 4) | twitch.tv/videos/42850158 | youtube.com/watch?v=09GAPb64rUM&t=2909s
+| 2014_Aug_10 | 01:03:07 | XCOM Enemy of my Friend (Part 4) | twitch.tv/videos/42850158 | youtube.com/watch?v=09GAPb64rUM
 | 2014_Aug_10 | 01:00:55 | XCOM Enemy of my Friend (Part 5) | twitch.tv/videos/42850083 | youtube.com/watch?v=-p5oVkyOYtk
 | 2014_Aug_10 | 01:01:15 | XCOM Enemy of my Friend (Part 6) | twitch.tv/videos/42850053 | youtube.com/watch?v=aXIKtKwAYGk
 | 2014_Aug_10 | 01:04:29 | XCOM Enemy of my Friend (Part 7) | twitch.tv/videos/42849954 | youtube.com/watch?v=ROJhGZV_I4M
@@ -50,7 +50,7 @@
 | 2014_Aug_21 | 01:07:56 | Gunpoint A.K.A. PUNCH YOU IN THE FACE | twitch.tv/videos/42702998 | youtube.com/watch?v=IZzq66H5Gx
 | 2014_Aug_21 | 00:17:22 | One Chance - for Bauman | twitch.tv/videos/42702947 | youtube.com/watch?v=EwpsxRm2CX8
 | 2014_Aug_21 | 01:14:35 | Papers Please - GlItChY | twitch.tv/videos/42698789 | youtube.com/watch?v=Pn8f4GF76ME
-| 2014_Aug_21 | 00:55:13 | FT...nope checkers | twitch.tv/videos/42698813 | youtube.com/watch?v=OxfmlRdawMI&t=181s
+| 2014_Aug_21 | 00:55:13 | FT...nope checkers | twitch.tv/videos/42698813 | youtube.com/watch?v=OxfmlRdawMI
 | 2014_Aug_21 | 00:41:24 | Paapers Plas! With Rich & Jack & Jay | twitch.tv/videos/42589180 | youtube.com/watch?v=XEG4OBOMJDE
 | 2014_Aug_28 | 00:50:38 | Rich is Good at XCOM Part 1 | twitch.tv/videos/42587913 | youtube.com/watch?v=BEYzUulfn38
 | 2014_Aug_28 | 00:50:01 | Rich is Good at XCOM Part 2 | twitch.tv/videos/42587716 | youtube.com/watch?v=ZzdCwF0TtUE
@@ -156,7 +156,7 @@
 | 2014_Dec_09 | 00:53:16 | Hack & SPACE QUEST 1 (part 4) | twitch.tv/videos/3617178 | youtube.com/watch?v=VxEnOoo3nPk
 | 2014_Dec_09 | 00:55:19 | Hack & SPACE QUEST 1 (part 5) | twitch.tv/videos/3619143 | youtube.com/watch?v=soEh_a3JUi4
 | 2014_Dec_09 | 01:00:09 | Hack & SPACE QUEST 1 (part 6) | twitch.tv/videos/3619151 | youtube.com/watch?v=NSLeyvPoU68
-| 2014_Dec_11 | 01:39:05 | Far Cry 3 - Blood Dragon | twitch.tv/videos/3626425 | youtube.com/watch?v=YDUCJjBVFxA&t=2471s
+| 2014_Dec_11 | 01:39:05 | Far Cry 3 - Blood Dragon | twitch.tv/videos/3626425 | youtube.com/watch?v=YDUCJjBVFxA
 | 2014_Dec_11 | 01:37:44 | Strider, Laser Robots WOO!!! | twitch.tv/videos/3626654 | youtube.com/watch?v=ln7tk2Qbk-E
 | 2014_Dec_11 | 00:06:53 | Mike plays Don't Shit Your Pants | twitch.tv/videos/3626698 | youtube.com/watch?v=KOdgtCemWj8
 | 2014_Dec_15 | 00:36:14 | Jedi Knight 2 - RICH EVANS-PERIENCE | twitch.tv/videos/3626972 | youtube.com/watch?v=0oqM9ow8Ndo
@@ -202,7 +202,7 @@
 | 2015_Jan_29 | 01:05:05 | FTL - The Redemption (part 2) | twitch.tv/videos/3747019 | youtube.com/watch?v=uMv4x_2f_dA
 | 2015_Feb_01 | 01:16:48 | SUPER SUNDAY FOOTBALL (part 2) | twitch.tv/videos/3760470 | youtube.com/watch?v=qIrnmfzqovg
 | 2015_Feb_01 | 01:07:01 | SUPER SUNDAY FUTBALL (part 3) | twitch.tv/videos/3760475 | youtube.com/watch?v=FxP3SoKHWJY
-| 2015_Feb_01 | 00:42:38 | SUPER SUNDAY FOOTBALL (part 4) | twitch.tv/videos/3760480 | youtube.com/watch?v=-phZH4B1Lvw&t=648s
+| 2015_Feb_01 | 00:42:38 | SUPER SUNDAY FOOTBALL (part 4) | twitch.tv/videos/3760480 | youtube.com/watch?v=-phZH4B1Lvw
 | 2015_Feb_01 | 01:27:04 | SUPER SUNDAY FOOTBALL (part 1) | twitch.tv/videos/3760465 | youtube.com/watch?v=CAbI1Ke-JWM
 | 2015_Feb_05 | 00:13:31 | Leisure Suit Larry 2 - We gonna get some (part 1.1) | twitch.tv/videos/3776887 | youtube.com/watch?v=317RhgaAas0
 | 2015_Feb_05 | 00:06:31 | Leisure Suit Larry 2 - We gonna get some (part 1.2) | twitch.tv/videos/3776895 | Duplicate: see line 207
@@ -435,7 +435,7 @@
 | 2015_Nov_16 | 01:02:36 | Super Ultra Mega Jay's Movie Giveaway | twitch.tv/videos/26079916 | youtube.com/watch?v=HnaelyB3fxk
 | 2015_Nov_16 | 01:31:33 | Undertale with wacky voices. (part 1) | twitch.tv/videos/26080441 | youtube.com/watch?v=sKNOBf-OBhc
 | 2015_Nov_16 | 01:14:45 | Undertale with wacky voices. (part 2) | twitch.tv/videos/26080621 | youtube.com/watch?v=Wd6DgBIN2b4
-| 2015_Nov_22 | 00:57:30 | Brutal Doom and BS (part 1) | twitch.tv/videos/27084397 | youtube.com/watch?v=PdZOQ5palnI&t=2815s
+| 2015_Nov_22 | 00:57:30 | Brutal Doom and BS (part 1) | twitch.tv/videos/27084397 | youtube.com/watch?v=PdZOQ5palnI
 | 2015_Nov_22 | 01:01:50 | Brutal Doom and BS (part 2) | twitch.tv/videos/27088198 | youtube.com/watch?v=6JGHeju2i4M
 | 2015_Nov_22 | 01:29:08 | Rich plays Vanquish (partial Rich solo) | twitch.tv/videos/27090140 | youtube.com/watch?v=IkWrEcZkS6E
 | 2015_Nov_26 | 09:58:02 | Rich's Thanksgiving Stream | No Twitch video | youtube.com/watch?v=grfwDbBKwy0
@@ -819,7 +819,7 @@
 | 2017_Jul_13 | 00:25:18 | Space Sister part 2 (aka "Barbie... Prelude to the Prom") | twitch.tv/videos/158895662 | youtube.com/watch?v=KC6powhN9Tg
 | 2017_Jul_13 | 01:40:01 | Barbie Queen of the the Mother Fucking Prom | twitch.tv/videos/158899231 | youtube.com/watch?v=vrp3YJI3e90
 | 2017_Jul_15 | 02:06:03 | Witchy Whoa-Man(Jack Solo Stream) | twitch.tv/videos/159355651 | youtube.com/watch?v=g6mw6JMIAIc
-| 2017_Jul_15 | 02:05:54 | Sunday the 11th (part 1) | twitch.tv/videos/159387973 | youtube.com/watch?v=H3cB49hbId4&t=6272s
+| 2017_Jul_15 | 02:05:54 | Sunday the 11th (part 1) | twitch.tv/videos/159387973 | youtube.com/watch?v=H3cB49hbId4
 | 2017_Jul_15 | 01:57:06 | Sunday the 11th (part 2) | twitch.tv/videos/159407115 | youtube.com/watch?v=5CPDZeEcJrc
 | 2017_Jul_25 | 01:31:36 | Friday the E3th | twitch.tv/videos/161889759 | youtube.com/watch?v=CIOAoYSRKDs
 | 2017_Jul_25 | 02:31:47 | E3 2017… this should have been posted earlier | twitch.tv/videos/161901493 | youtube.com/watch?v=hpwiP_eUhRg
@@ -833,6 +833,7 @@
 | 2017_Aug_03 | 02:22:48 | Murdering Jason(But not (part 1)) | twitch.tv/videos/164132318 | youtube.com/watch?v=0wMphCnr5mo
 | 2017_Aug_03 | 02:21:38 | Murdering Jason(But not (part2)) | twitch.tv/videos/164135708 | youtube.com/watch?v=qKzJsfV-viE
 | 2017_Aug_03 | 00:03:12 | Poorly For Him! | twitch.tv/videos/164212653 | No YouTube video
+| 2017_Aug_04 | 00:08:58 | Unedited Footage of Sitting in a Bush (The PUBG Experience) | No Twitch video | youtube.com/watch?v=Viduavj9TvA
 | 2017_Aug_05 | 01:34:24 | Old School Stein | twitch.tv/videos/164509834 | youtube.com/watch?v=yKfXZ81f__o
 | 2017_Aug_05 | 01:59:55 | Old School Jason | twitch.tv/videos/164516402 | youtube.com/watch?v=h13LSCKGfUQ
 | 2017_Aug_05 | 02:32:24 | The End is ToNIGHt (part 1) | twitch.tv/videos/164525722 | youtube.com/watch?v=JdBUbvOc_kE
@@ -841,73 +842,73 @@
 | 2017_Aug_13 | 01:33:18 | First time PUBGing (part 1) | twitch.tv/videos/166682561 | youtube.com/watch?v=TtIHnQ-ypp8
 | 2017_Aug_14 | 01:20:00 | First time PUBGing (part 2) | twitch.tv/videos/166964351 | youtube.com/watch?v=-hL07lmQj-0
 | 2017_Aug_14 | 01:37:54 | PUBG(Rich Solo) | twitch.tv/videos/166966545 | youtube.com/watch?v=Uro-Gb_wzWU
-| 2017_Aug_14 | 03:53:51 | F13(Rich Solo) | twitch.tv/videos/166968002 | youtube.com/watch?v=WAj0hM65p0Y&t=13370s
+| 2017_Aug_14 | 03:53:51 | F13(Rich Solo) | twitch.tv/videos/166968002 | youtube.com/watch?v=WAj0hM65p0Y
 | 2017_Aug_14 | 01:36:42 | Project Brutality (Rich Solo) | twitch.tv/videos/166980168 | youtube.com/watch?v=DxYFXPiKHq
 | 2017_Aug_14 | 02:15:47 | Mega Maker (Rich Solo) | twitch.tv/videos/166980994 | youtube.com/watch?v=uluyXlcZnIc
-| 2017_Aug_20 | 03:00:30 | Jack Returns to PUBG (part 1) | twitch.tv/videos/168469594 | 
-| 2017_Aug_20 | 01:51:06 | Jack Returns to PUBG (part 2) | twitch.tv/videos/168482251 | 
-| 2017_Aug_20 | 01:41:18 | PUB GEE TEAM PLAY (part 1) | twitch.tv/videos/168549034 | 
-| 2017_Aug_20 | 02:08:32 | PUB GEE TEAM PLAY (part 2) | twitch.tv/videos/168549868 | 
-| 2017_Aug_23 | 02:04:00 | Dead Cells ring bells (part 1) | twitch.tv/videos/169268463 | 
-| 2017_Aug_25 | 02:31:29 | Dead Cells ring bells (part 2) | twitch.tv/videos/169702530 | 
-| 2017_Aug_25 | 03:06:36 | Hangin' With Rich - Dead Cells | twitch.tv/videos/169707999 | 
-| 2017_Aug_25 | 02:25:30 | Hangin' With Rich - Friday the 13th | twitch.tv/videos/169714808 | 
-| 2017_Aug_28 | 02:54:42 | Jack - The Return (again) (pUBG) | twitch.tv/videos/170543318 | 
-| 2017_Aug_30 | 01:44:43 | Jack - The Return (again)(Friday the 13th) | twitch.tv/videos/170988390 | 
-| 2017_Aug_30 | 01:48:48 | Hellooooo Knight | twitch.tv/videos/171028720 | 
-| 2017_Aug_30 | 02:06:36 | Helloooo 20XX | twitch.tv/videos/171041791 | 
-| 2017_Aug_31 | 00:02:30 | The Dream Team | twitch.tv/videos/171183830 | 
-| 2017_Sep_02 | 03:16:18 | Call me Mr. Steal Your Crew | twitch.tv/videos/171742028 | 
+| 2017_Aug_20 | 03:00:30 | Jack Returns to PUBG (part 1) | twitch.tv/videos/168469594 | youtube.com/watch?v=gjsH2ISyEoA
+| 2017_Aug_20 | 01:51:06 | Jack Returns to PUBG (part 2) | twitch.tv/videos/168482251 | youtube.com/watch?v=fLNoTtUOFDQ
+| 2017_Aug_20 | 01:41:18 | PUB GEE TEAM PLAY (part 1) | twitch.tv/videos/168549034 | youtube.com/watch?v=HcpnEmoLTCE
+| 2017_Aug_20 | 02:08:32 | PUB GEE TEAM PLAY (part 2) | twitch.tv/videos/168549868 | youtube.com/watch?v=sop6LJCW2I0
+| 2017_Aug_23 | 02:04:00 | Dead Cells ring bells (part 1) | twitch.tv/videos/169268463 | youtube.com/watch?v=TUqsiTeM8l8
+| 2017_Aug_25 | 02:31:29 | Dead Cells ring bells (part 2) | twitch.tv/videos/169702530 | youtube.com/watch?v=jkR1A-DYe7M
+| 2017_Aug_25 | 03:06:36 | Hangin' With Rich - Dead Cells | twitch.tv/videos/169707999 | youtube.com/watch?v=uuEvwXM8cAk
+| 2017_Aug_25 | 02:25:30 | Hangin' With Rich - Friday the 13th | twitch.tv/videos/169714808 | youtube.com/watch?v=qhd43DCRUSc
+| 2017_Aug_28 | 02:54:42 | Jack - The Return (again) (pUBG) | twitch.tv/videos/170543318 | youtube.com/watch?v=IfJ0yZfCiN8
+| 2017_Aug_30 | 01:44:43 | Jack - The Return (again)(Friday the 13th) | twitch.tv/videos/170988390 | youtube.com/watch?v=Tne4rL2IYLI
+| 2017_Aug_30 | 01:48:48 | Hellooooo Knight | twitch.tv/videos/171028720 | youtube.com/watch?v=dIG02v6zhQw
+| 2017_Aug_30 | 02:06:36 | Helloooo 20XX | twitch.tv/videos/171041791 | youtube.com/watch?v=Le4LuOJXxGw
+| 2017_Aug_31 | 00:02:30 | The Dream Team | twitch.tv/videos/171183830 | youtube.com/watch?v=n8ci2qDqnpo
+| 2017_Sep_02 | 03:16:18 | Call me Mr. Steal Your Crew | twitch.tv/videos/171742028 | youtube.com/watch?v=1lrn-IlFqlA
 | 2017_Sep_02 | 04:31:54 | FTJ: Faster Than Jason | No Twitch video | youtube.com/watch?v=G8McwH4SaxQ
-| 2017_Sep_03 | 01:29:10 | They call me Mr. PUBG Your Girl | twitch.tv/videos/171975795 | 
-| 2017_Sep_05 | 01:30:12 | Pub Bee Gee's - Stayin' Alive (part 1) | twitch.tv/videos/172465832 | 
-| 2017_Sep_05 | 01:48:02 | Pub Bee Gee's - Stayin' Alive (part 2) | twitch.tv/videos/172479131 | 
-| 2017_Sep_06 | 02:04:12 | Skyway to Hell!!! (part 1) | twitch.tv/videos/172573649 | 
-| 2017_Sep_06 | 02:33:57 | Skyway to Hell!!! (part 2) | twitch.tv/videos/172585561 | 
-| 2017_Sep_06 | 01:58:39 | XCOM on Shrooms (part 2) | twitch.tv/videos/172752806 | 
-| 2017_Sep_08 | 03:27:06 | XCOM on Shrooms (part 1) | twitch.tv/videos/173218384 | 
-| 2017_Sep_11 | 03:24:10 | Kandor the 13th | twitch.tv/videos/174010840 | 
-| 2017_Sep_12 | 01:53:18 | Mario With a Gun (part 1) | twitch.tv/videos/174225899 | 
-| 2017_Sep_13 | 02:12:24 | Mario with a Gun (part 2) | twitch.tv/videos/174355985 | 
-| 2017_Sep_14 | 01:10:00 | Blessed Battle | twitch.tv/videos/174698830 | 
-| 2017_Sep_14 | 02:32:01 | Silver Grapple | twitch.tv/videos/174706247 | 
-| 2017_Sep_16 | 02:25:54 | XCORN - Crops I be Hosin' (part 1) | twitch.tv/videos/175198066 | 
-| 2017_Sep_17 | 03:17:52 | XCORN - Crops I be Hosin' (part 2) | twitch.tv/videos/175472323 | 
-| 2017_Sep_19 | 01:50:36 | Metroid Samus Returns (part1) | twitch.tv/videos/175946212 | 
-| 2017_Sep_19 | 02:32:33 | Metroid Samus Returns (part 2) | twitch.tv/videos/175990933 | 
-| 2017_Sep_21 | 01:49:42 | Chosen.... TO DIE!! (part 1) | twitch.tv/videos/176332584 | 
-| 2017_Sep_21 | 02:11:51 | Chosen.... TO DIE!! (part 2) | twitch.tv/videos/176334428 | 
-| 2017_Sep_27 | 02:50:56 | LEGO and the sorting of them | twitch.tv/videos/177773729 | 
-| 2017_Sep_28 | 01:09:36 | John Hotcock (part 1) | twitch.tv/videos/178116468 | 
-| 2017_Sep_28 | 01:50:26 | John Hotcock (part 2) | twitch.tv/videos/178121208 | 
-| 2017_Sep_29 | 01:53:12 | XCOM Hotcock | twitch.tv/videos/178357767 | 
-| 2017_Oct_02 | 01:02:30 | Our Cuphead Runneth Over (part 1) | twitch.tv/videos/179082368 | 
-| 2017_Oct_02 | 01:00:51 | Our Cuphead Runneth Over (part 2) | twitch.tv/videos/179083500 | 
-| 2017_Oct_02 | 01:27:08 | Mooooooooooore Xcom 2 WOTC | twitch.tv/videos/179084765 | 
-| 2017_Oct_05 | 01:22:09 | Fail T L | twitch.tv/videos/179819722 | 
-| 2017_Oct_05 | 01:25:11 | into the Depths! | twitch.tv/videos/179821171 | 
-| 2017_Oct_09 | 01:38:58 | neverendingGOLFstory | twitch.tv/videos/180930263 | 
-| 2017_Oct_10 | 01:49:38 | Blade Ruiner | twitch.tv/videos/181072303 | 
-| 2017_Oct_11 | 01:29:31 | Roasting Jack's Nuts | twitch.tv/videos/181425765 | 
-| 2017_Oct_12 | 01:55:55 | Heavy Metal Thunder (part 1) | twitch.tv/videos/181593254 | 
-| 2017_Oct_12 | 01:43:58 | Heavy Metal Thunder (part 2) | twitch.tv/videos/181594620 | 
-| 2017_Oct_16 | 02:17:38 | Tie ''Died'' (part 1) | twitch.tv/videos/182617851 | 
-| 2017_Oct_16 | v2:19:35 | Tie ''Died'' (part 2) | twitch.tv/videos/182619385 | 
-| 2017_Oct_19 | 01:24:05 | If you can't stand the heat... | twitch.tv/videos/183345981 | 
-| 2017_Oct_19 | 01:41:57 | Peter CottonFail (Overgrowth part 1) | twitch.tv/videos/183347636 | 
-| 2017_Oct_19 | 01:26:05 | Peter CottonFail (Overgrowth part 2) | twitch.tv/videos/183348875 | 
-| 2017_Oct_23 | 01:13:17 | Untitled Space Quest 2 Stream (part 1) | twitch.tv/videos/184463827 | 
-| 2017_Oct_23 | 02:08:42 | Untitled Space Quest 2 Stream (part 2) | twitch.tv/videos/184465501 | 
-| 2017_Oct_23 | 01:51:56 | Untitled Space Quest 2 Stream (part 3) | twitch.tv/videos/184467237 | 
-| 2017_Oct_27 | 00:59:42 | Coffee and Strigas (part 1) | twitch.tv/videos/185502791 | 
-| 2017_Oct_27 | 01:18:56 | Coffee and Strigas (part 2) | twitch.tv/videos/185507635 | 
-| 2017_Oct_29 | 02:13:51 | Coffee and Strigas (part 3) | twitch.tv/videos/186064468 | 
-| 2017_Oct_30 | 02:09:42 | Mario Sans Iliad. (Mario Odyssey part 1) | twitch.tv/videos/186238820 | 
-| 2017_Oct_30 | 02:21:19 | Mario Sans Iliad (Mario Odyssey part 2) | twitch.tv/videos/186240610 | 
-| 2017_Nov_01 | 01:40:22 | Boo, Eh. (Death Road to Canada) | twitch.tv/videos/186719956 | 
-| 2017_Nov_01 | 01:18:56 | Friday the 31st (part 1) | twitch.tv/videos/186723147 | 
-| 2017_Nov_01 | 01:10:52 | Friday the 31st (part 2) | twitch.tv/videos/186724418 | 
-| 2017_Nov_06 | 01:07:32 | Rich's Odyssey (part 1) | twitch.tv/videos/188068713 | 
+| 2017_Sep_03 | 01:29:10 | They call me Mr. PUBG Your Girl | twitch.tv/videos/171975795 | youtube.com/watch?v=-tzeBFQbMT0
+| 2017_Sep_05 | 01:30:12 | Pub Bee Gee's - Stayin' Alive (part 1) | twitch.tv/videos/172465832 | youtube.com/watch?v=OlDlgAh1Z7U
+| 2017_Sep_05 | 01:48:02 | Pub Bee Gee's - Stayin' Alive (part 2) | twitch.tv/videos/172479131 | youtube.com/watch?v=fen2W_2MxpI
+| 2017_Sep_06 | 02:04:12 | Skyway to Hell!!! (part 1) | twitch.tv/videos/172573649 | youtube.com/watch?v=T2IbzpwipZA
+| 2017_Sep_06 | 02:33:57 | Skyway to Hell!!! (part 2) | twitch.tv/videos/172585561 | youtube.com/watch?v=Ex4CKKVsld0
+| 2017_Sep_06 | 01:58:39 | XCOM on Shrooms (part 2) | twitch.tv/videos/172752806 | youtube.com/watch?v=UpiufrtGj2U
+| 2017_Sep_08 | 03:27:06 | XCOM on Shrooms (part 1) | twitch.tv/videos/173218384 | youtube.com/watch?v=INofjxLYg94
+| 2017_Sep_11 | 03:24:10 | Kandor the 13th | twitch.tv/videos/174010840 | youtube.com/watch?v=_mtXJRhHiTc
+| 2017_Sep_12 | 01:53:18 | Mario With a Gun (part 1) | twitch.tv/videos/174225899 | youtube.com/watch?v=7qWyqm0FP98
+| 2017_Sep_13 | 02:12:24 | Mario with a Gun (part 2) | twitch.tv/videos/174355985 | youtube.com/watch?v=srsgyAI1rDI
+| 2017_Sep_14 | 01:10:00 | Blessed Battle | twitch.tv/videos/174698830 | youtube.com/watch?v=LipcyQpWV9Q
+| 2017_Sep_14 | 02:32:01 | Silver Grapple | twitch.tv/videos/174706247 | youtube.com/watch?v=89TCAAtTLe4
+| 2017_Sep_16 | 02:25:54 | XCORN - Crops I be Hosin' (part 1) | twitch.tv/videos/175198066 | youtube.com/watch?v=q2zi8nx-214
+| 2017_Sep_17 | 03:17:52 | XCORN - Crops I be Hosin' (part 2) | twitch.tv/videos/175472323 | youtube.com/watch?v=rzl6hFC1-n4
+| 2017_Sep_19 | 01:50:36 | Metroid Samus Returns (part1) | twitch.tv/videos/175946212 | youtube.com/watch?v=7hzhtR_jB0E
+| 2017_Sep_19 | 02:32:33 | Metroid Samus Returns (part 2) | twitch.tv/videos/175990933 | youtube.com/watch?v=ZIbTuvpWS6E
+| 2017_Sep_21 | 01:49:42 | Chosen.... TO DIE!! (part 1) | twitch.tv/videos/176332584 | youtube.com/watch?v=TLGpIpdBePI
+| 2017_Sep_21 | 02:11:51 | Chosen.... TO DIE!! (part 2) | twitch.tv/videos/176334428 | youtube.com/watch?v=FpiTAIGrgbc
+| 2017_Sep_27 | 02:50:56 | LEGO and the sorting of them | twitch.tv/videos/177773729 | youtube.com/watch?v=W47jsSQzqxo
+| 2017_Sep_28 | 01:09:36 | John Hotcock (part 1) | twitch.tv/videos/178116468 | youtube.com/watch?v=aNTZqZinP9w
+| 2017_Sep_28 | 01:50:26 | John Hotcock (part 2) | twitch.tv/videos/178121208 | youtube.com/watch?v=-UYZ8XLtrOc
+| 2017_Sep_29 | 01:53:12 | XCOM Hotcock | twitch.tv/videos/178357767 | youtube.com/watch?v=1kfh2QrzsrM
+| 2017_Oct_02 | 01:02:30 | Our Cuphead Runneth Over (part 1) | twitch.tv/videos/179082368 | youtube.com/watch?v=lK7WPtRk3F4
+| 2017_Oct_02 | 01:00:51 | Our Cuphead Runneth Over (part 2) | twitch.tv/videos/179083500 | youtube.com/watch?v=pvpN0aa3MtU
+| 2017_Oct_02 | 01:27:08 | Mooooooooooore Xcom 2 WOTC | twitch.tv/videos/179084765 | youtube.com/watch?v=gS4ywctHU28
+| 2017_Oct_05 | 01:22:09 | Fail T L | twitch.tv/videos/179819722 | youtube.com/watch?v=axRU6V_zFGo
+| 2017_Oct_05 | 01:25:11 | into the Depths! | twitch.tv/videos/179821171 | youtube.com/watch?v=PWE9-yVIazA
+| 2017_Oct_09 | 01:38:58 | neverendingGOLFstory | twitch.tv/videos/180930263 | youtube.com/watch?v=p6mJTe8CXCA
+| 2017_Oct_10 | 01:49:38 | Blade Ruiner | twitch.tv/videos/181072303 | youtube.com/watch?v=eN6QnFWiNYc
+| 2017_Oct_11 | 01:29:31 | Roasting Jack's Nuts | twitch.tv/videos/181425765 | youtube.com/watch?v=oC0y5437NJI
+| 2017_Oct_12 | 01:55:55 | Heavy Metal Thunder (part 1) | twitch.tv/videos/181593254 | youtube.com/watch?v=mKM0wyhfzec
+| 2017_Oct_12 | 01:43:58 | Heavy Metal Thunder (part 2) | twitch.tv/videos/181594620 | youtube.com/watch?v=9xd6HUEp2QE
+| 2017_Oct_16 | 02:17:38 | Tie ''Died'' (part 1) | twitch.tv/videos/182617851 | youtube.com/watch?v=AIh9p3zWDl0
+| 2017_Oct_16 | 02:19:35 | Tie ''Died'' (part 2) | twitch.tv/videos/182619385 | youtube.com/watch?v=D5PJXa5NJsM
+| 2017_Oct_19 | 01:24:05 | If you can't stand the heat... | twitch.tv/videos/183345981 | youtube.com/watch?v=T-wbOA_lJtM
+| 2017_Oct_19 | 01:41:57 | Peter CottonFail (Overgrowth part 1) | twitch.tv/videos/183347636 | youtube.com/watch?v=HnSG9Sc6Sbo
+| 2017_Oct_19 | 01:26:05 | Peter CottonFail (Overgrowth part 2) | twitch.tv/videos/183348875 | youtube.com/watch?v=_-NQKFWSH_c
+| 2017_Oct_23 | 01:13:17 | Untitled Space Quest 2 Stream (part 1) | twitch.tv/videos/184463827 | youtube.com/watch?v=ZtCZXxbQMFo
+| 2017_Oct_23 | 02:08:42 | Untitled Space Quest 2 Stream (part 2) | twitch.tv/videos/184465501 | youtube.com/watch?v=oyIP5wL615Q
+| 2017_Oct_23 | 01:51:56 | Untitled Space Quest 2 Stream (part 3) | twitch.tv/videos/184467237 | youtube.com/watch?v=iaxL3PtvXgE
+| 2017_Oct_27 | 00:59:42 | Coffee and Strigas (part 1) | twitch.tv/videos/185502791 | youtube.com/watch?v=JhXnW5KaqjI
+| 2017_Oct_27 | 01:18:56 | Coffee and Strigas (part 2) | twitch.tv/videos/185507635 | youtube.com/watch?v=tHD4kJSMCG8
+| 2017_Oct_29 | 02:13:51 | Coffee and Strigas (part 3) | twitch.tv/videos/186064468 | youtube.com/watch?v=pSTEl3xgDB8
+| 2017_Oct_30 | 02:09:42 | Mario Sans Iliad. (Mario Odyssey part 1) | twitch.tv/videos/186238820 | youtube.com/watch?v=3zEoHXJ9WuY
+| 2017_Oct_30 | 02:21:19 | Mario Sans Iliad (Mario Odyssey part 2) | twitch.tv/videos/186240610 | youtube.com/watch?v=VkEZGcC-848
+| 2017_Nov_01 | 01:40:22 | Boo, Eh. (Death Road to Canada) | twitch.tv/videos/186719956 | youtube.com/watch?v=PYS1Rqx-neE
+| 2017_Nov_01 | 01:18:56 | Friday the 31st (part 1) | twitch.tv/videos/186723147 | youtube.com/watch?v=GhxJVhnqyDg
+| 2017_Nov_01 | 01:10:52 | Friday the 31st (part 2) | twitch.tv/videos/186724418 | youtube.com/watch?v=mlFKpGEpAjo
+| 2017_Nov_06 | 01:07:32 | Rich's Odyssey (part 1) | twitch.tv/videos/188068713 | youtube.com/watch?v=9GzoI20sF3E
 | 2017_Nov_06 | 01:58:20 | Rich's Odyssey (part 2) STRANGER THINGS 2 SPOILERS | twitch.tv/videos/188070695 | 
 | 2017_Nov_06 | 02:19:22 | Rich's Odyssey (part 3) STRANGER THINGS 2 SPOILERS | twitch.tv/videos/188072204 | 
 | 2017_Nov_09 | 02:07:21 | Ye of Little Fate (part 1) | twitch.tv/videos/188805622 | 
