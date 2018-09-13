@@ -1077,5 +1077,5 @@
 | 2018_Jul_19 | 01:45:23 | Nobody Likes Orcs (part 1) | twitch.tv/videos/286449618 | youtube.com/watch?v=SWJkrAjbqL0
 | 2018_Jul_23 | 01:57:25 | So Long and Thanks for All the Fish (part 2) | twitch.tv/videos/288091865 | youtube.com/watch?v=5e8wBm4o5Ws
 | 2018_Jul_23 | 02:26:04 | So Long and Thanks for All the Fish (part 1) | twitch.tv/videos/288091864 | youtube.com/watch?v=tp2pg4s2J0Y
-| 2018_Jul_26 | 01:39:57 | Penultimate | youtube.com/watch?v=8JivUDxsbvE
-| 2018_Jul_27 | 03:44:26 | END. | youtube.com/watch?v=op1sxzbWkeo
+| 2018_Jul_26 | 01:39:57 | Penultimate | twitch.tv/videos/289347253 | youtube.com/watch?v=8JivUDxsbvE
+| 2018_Jul_27 | 03:44:26 | END. | twitch.tv/videos/289348066 | youtube.com/watch?v=op1sxzbWkeo
