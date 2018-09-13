@@ -16,24 +16,25 @@
 | 2014_Jun_11 | 01:37:57 | Rich does Binding of Isaac | Jack, Rich, Jay | twitch.tv/videos/48999594 | No YouTube video | https://twitter.com/PreviouslyRec/status/476806067653844992
 | 2014_Jun_22 | 01:22:45 | Binding od Eve dies | Jack | twitch.tv/videos/48894717 | No YouTube video | https://twitter.com/PreviouslyRec/status/480885925681975296
 | 2014_Jun_22 | 01:56:32 | TF2 with all these ass holes | Jack | twitch.tv/videos/48893533 | No YouTube video | https://twitter.com/PreviouslyRec/status/480768814028554240
-| 2014_Jun_25 | 00:59:43 | XCOM Enemy of my Friend (Part 1) | Jack, Rich, Jay | twitch.tv/videos/42850729 | youtube.com/watch?v=y5KIR7zg6TE | https://twitter.com/PreviouslyRec/status/481878889749151744
-| 2014_Jun_25 | 01:02:58 | XCOM Enemy of my Friend (Part 2) | Jack, Rich, Jay | twitch.tv/videos/42850241 | youtube.com/watch?v=0fMr3g6CXho | https://twitter.com/PreviouslyRec/status/481878889749151744
-| 2014_Jun_25 | 01:01:13 | XCOM Enemy of my Friend (Part 3) | Jack, Rich, Jay |  twitch.tv/videos/42850157 | youtube.com/watch?v=TYJNJqyBKYs | https://twitter.com/PreviouslyRec/status/481878889749151744
-| 2014_Jun_25 | 01:03:07 | XCOM Enemy of my Friend (Part 4) | Jack, Rich, Jay |  twitch.tv/videos/42850158 | youtube.com/watch?v=09GAPb64rUM | https://twitter.com/PreviouslyRec/status/481878889749151744
+| 2014_Jun_25 | 00:59:43 | XCOM Enemy of my Friend (Part 1) | Jack, Rich, Jay | twitch.tv/videos/42850729 | youtube.com/watch?v=y5KIR7zg6TE | https://twitter.com/PreviouslyRec/status/481938348089430016
+| 2014_Jun_25 | 01:02:58 | XCOM Enemy of my Friend (Part 2) | Jack, Rich, Jay | twitch.tv/videos/42850241 | youtube.com/watch?v=0fMr3g6CXho | https://twitter.com/PreviouslyRec/status/481938348089430016
+| 2014_Jun_25 | 01:01:13 | XCOM Enemy of my Friend (Part 3) | Jack, Rich, Jay |  twitch.tv/videos/42850157 | youtube.com/watch?v=TYJNJqyBKYs | https://twitter.com/PreviouslyRec/status/481938348089430016
+| 2014_Jun_25 | 01:03:07 | XCOM Enemy of my Friend (Part 4) | Jack, Rich, Jay |  twitch.tv/videos/42850158 | youtube.com/watch?v=09GAPb64rUM | https://twitter.com/PreviouslyRec/status/481938348089430016
 | 2014_Jun_25 | 01:00:55 | XCOM Enemy of my Friend (Part 5) | Jack, Rich, Jay |  twitch.tv/videos/42850083 | youtube.com/watch?v=-p5oVkyOYtk | https://twitter.com/PreviouslyRec/status/481878889749151744
-| 2014_Jun_25 | 01:01:15 | XCOM Enemy of my Friend (Part 6) | Jack, Rich | twitch.tv/videos/42850053 | youtube.com/watch?v=aXIKtKwAYGk
-| 2014_Jun_25 | 01:04:29 | XCOM Enemy of my Friend (Part 7) | Jack, Rich | twitch.tv/videos/42849954 | youtube.com/watch?v=ROJhGZV_I4M
-| 2014_Jul_02 | 00:57:32 | Dig Up Stupid: Part 1 | Jack, Rich | twitch.tv/videos/48031575 | youtube.com/watch?v=Yz5kTbI6Rt8
-| 2014_Jul_02 | 01:00:29 | Dig Up Stupid: Part 2 | Jack, Rich, Jay, Jessi | twitch.tv/videos/48031311 | youtube.com/watch?v=WjtLnfEpwHQ
-| 2014_Jul_02 | 01:02:33 | Dig Up Stupid: Part 3 | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48031283 | youtube.com/watch?v=Kg9wv7rv2Pk
-| 2014_Jul_03 | 03:11:23 | DIG UP STUPID | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48528004 | Duplicate video, see lines 24, 25 & 26
-| 2014_Jul_03 | 00:29:05 | FINGER DEATH PUNCHED OUT | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527923 | youtube.com/watch?v=1O-jXuhw9zA
-| 2014_Jul_03 | 02:30:12 | DUCK Tates, tales, TAILS!!! | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527796 | youtube.com/watch?v=OFm8nCb9NJg
-| 2014_Jul_10 | 01:58:33 | Katamari Damacy - With the gang | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393029 | youtube.com/watch?v=jh140XkYVKY
-| 2014_Jul_10 | 00:34:21 | Friends Forever with MR Mosquito | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393114 | youtube.com/watch?v=dFN23jNaUcY
-| 2014_Jul_10 | 01:01:27 | Shadow over Sweat Pants | Jack, Rich, Jay | twitch.tv/videos/48393201 | youtube.com/watch?v=BDLWT9kA-78
-| 2014_Jul_10 | 00:46:12 | Dynasty Flesh Lights | Jack, Rich, Jay | twitch.tv/videos/48392916 | youtube.com/watch?v=2jwKxvrBrPc
-| 2014_Jul_10 | 00:44:23 | GUN(what)GRAVE | Jack, Rich, Jay | twitch.tv/videos/48393101 | youtube.com/watch?v=VM0LMf-QSOg
+| 2014_Jun_25 | 01:01:15 | XCOM Enemy of my Friend (Part 6) | Jack, Rich | twitch.tv/videos/42850053 | youtube.com/watch?v=aXIKtKwAYGk | https://twitter.com/PreviouslyRec/status/481878889749151744
+| 2014_Jun_25 | 01:04:29 | XCOM Enemy of my Friend (Part 7) | Jack, Rich | twitch.tv/videos/42849954 | youtube.com/watch?v=ROJhGZV_I4M | https://twitter.com/PreviouslyRec/status/481878889749151744
+| 2014_Jul_02 | 00:57:32 | Dig Up Stupid: Part 1 | Jack, Rich | twitch.tv/videos/48031575 | youtube.com/watch?v=Yz5kTbI6Rt8 | https://twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_02 | 01:00:29 | Dig Up Stupid: Part 2 | Jack, Rich, Jay, Jessi | twitch.tv/videos/48031311 | youtube.com/watch?v=WjtLnfEpwHQ | https://twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_02 | 01:02:33 | Dig Up Stupid: Part 3 | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48031283 | youtube.com/watch?v=Kg9wv7rv2Pk | https://twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_02 | 03:11:23 | DIG UP STUPID | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48528004 | Duplicate video, see lines 24, 25 & 26 | https://twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_02 | 00:29:05 | FINGER DEATH PUNCHED OUT | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527923 | youtube.com/watch?v=1O-jXuhw9zA | https://twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_02 | 02:30:12 | DUCK Tates, tales, TAILS!!! | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527796 | youtube.com/watch?v=OFm8nCb9NJg | https://twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_06 | 01:38:57 | Nuclear Throne....Jack Solo Stream | Jack | twitch.tv/videos/42833349 | youtube.com/watch?v=DJdBNANI-pk | https://twitter.com/PreviouslyRec/status/485954450855452677
+| 2014_Jul_09 | 01:58:33 | Katamari Damacy - With the gang | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393029 | youtube.com/watch?v=jh140XkYVKY | https://twitter.com/PreviouslyRec/status/486946595112374273
+| 2014_Jul_09 | 00:34:21 | Friends Forever with MR Mosquito | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393114 | youtube.com/watch?v=dFN23jNaUcY | https://twitter.com/PreviouslyRec/status/486946595112374273
+| 2014_Jul_09 | 01:01:27 | Shadow over Sweat Pants | Jack, Rich, Jay | twitch.tv/videos/48393201 | youtube.com/watch?v=BDLWT9kA-78 | https://twitter.com/PreviouslyRec/status/486946595112374273
+| 2014_Jul_09 | 00:46:12 | Dynasty Flesh Lights | Jack, Rich, Jay | twitch.tv/videos/48392916 | youtube.com/watch?v=2jwKxvrBrPc | https://twitter.com/PreviouslyRec/status/486946595112374273
+| 2014_Jul_09 | 00:44:23 | GUN(what)GRAVE | Jack, Rich, Jay | twitch.tv/videos/48393101 | youtube.com/watch?v=VM0LMf-QSOg | https://twitter.com/PreviouslyRec/status/486946595112374273
 | 2014_Jul_24 | 01:48:06 | Team, for dress too. Jack Solo Stream | Jack | twitch.tv/videos/48085647 | youtube.com/watch?v=pXatGZGQWjg
 | 2014_Jul_30 | 01:23:18 | Fuggit, we're Streaming Mario Kart 8 | Jack, Rich, Jay | twitch.tv/videos/47946683 | youtube.com/watch?v=dc4v8RXgnvs
 | 2014_Jul_30 | 01:04:08 | New Super Fugg Brothers U | Jack, Rich, Jay | twitch.tv/videos/47946625 | youtube.com/watch?v=Hrt8ZbGSOVE
@@ -48,7 +49,6 @@
 | 2014_Aug_03 | 01:20:28 | FTL: Faster Than Jack Part 2 Jack | Jack |  twitch.tv/videos/42960143 | youtube.com/watch?v=4YCl5IMRi38
 | 2014_Aug_04 | 00:33:10 | FTL: Faster Than Jack Part 3 Jack | Jack |  twitch.tv/videos/42946345 | youtube.com/watch?v=mhJl52KFUGI
 | 2014_Aug_04 | 01:11:32 | Binding of Isaac: Meat 4 Evar(Jack Only) | Jack | twitch.tv/videos/42946191 | youtube.com/watch?v=wrGzI3tErJY
-| 2014_Aug_11 | 01:38:57 | Nuclear Throne....Jack Solo Stream | Jack | twitch.tv/videos/42833349 | youtube.com/watch?v=DJdBNANI-pk
 | 2014_Aug_20 | 01:07:56 | Gunpoint A.K.A. PUNCH YOU IN THE FACE | Jack, Rich, Jay | twitch.tv/videos/42702998 | youtube.com/watch?v=IZzq66H5GxE
 | 2014_Aug_20 | 00:17:22 | One Chance - for Bauman | Jack, Rich, Jay | twitch.tv/videos/42702947 | youtube.com/watch?v=EwpsxRm2CX8
 | 2014_Aug_20 | 01:14:35 | Papers Please - GlItChY | Jack, Rich, Jay | twitch.tv/videos/42698789 | youtube.com/watch?v=Pn8f4GF76ME
