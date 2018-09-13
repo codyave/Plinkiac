@@ -218,11 +218,11 @@
 | 2015_Feb_11 | 00:01:54 | Matroid Prime & Half (part 2.2) | Jack, Rich | twitch.tv/videos/3813417 | Duplicate: see line 217 | twitter.com/PreviouslyRec/status/565700291602182146
 | 2015_Feb_11 | 00:25:00 | Matroid Prime & Half (part 2.3) | Jack, Rich | twitch.tv/videos/3813428 | Duplicate: see lines 217 & 218 | twitter.com/PreviouslyRec/status/565700291602182146
 | 2015_Feb_11 | 00:58:43 | Luigi's Mansion - Hack & Half | Jack, Rich | twitch.tv/videos/3824944 | youtube.com/watch?v=lM8t1wHG3dg | twitter.com/PreviouslyRec/status/565700291602182146
-| 2015_Feb_16 | 02:15:34 | Orcs must Die!! (Rich Solo Stream) | twitch.tv/videos/3832881 | youtube.com/watch?v=2KyWBHNmHUY
-| 2015_Feb_16 | 00:31:45 | Orcs must Die!! - Half & Hack | twitch.tv/videos/3837347 | youtube.com/watch?v=JANoiRLoECA
-| 2015_Feb_16 | 01:19:12 | STRAFE (motherfugger (part 1)) | twitch.tv/videos/3837895 | youtube.com/watch?v=-KTK95SPRwQ
-| 2015_Feb_16 | 01:34:27 | STRAFE (motherfugger (part 2)) | twitch.tv/videos/3838093 | youtube.com/watch?v=KpJdCa91ri4
-| 2015_Feb_18 | 01:53:06 | STRAFE (motherfugger (part 3)) | twitch.tv/videos/3838258 | youtube.com/watch?v=k4zZRQh2CLg
+| 2015_Feb_15 | 02:15:34 | Orcs must Die!! (Rich Solo Stream) | Rich | twitch.tv/videos/3832881 | youtube.com/watch?v=2KyWBHNmHUY | twitter.com/PreviouslyRec/status/567114278277484544
+| 2015_Feb_15 | 00:31:45 | Orcs must Die!! - Half & Hack | Jack, Rich | twitch.tv/videos/3837347 | youtube.com/watch?v=JANoiRLoECA | twitter.com/PreviouslyRec/status/567114278277484544
+| 2015_Feb_15 | 01:19:12 | STRAFE (motherfugger (part 1)) | Jack, Rich, Thom Glunt | twitch.tv/videos/3837895 | youtube.com/watch?v=-KTK95SPRwQ | twitter.com/PreviouslyRec/status/567156838987476992
+| 2015_Feb_15 | 01:34:27 | STRAFE (motherfugger (part 2)) | Jack, Rich, Thom Glunt | twitch.tv/videos/3838093 | youtube.com/watch?v=KpJdCa91ri4 | twitter.com/PreviouslyRec/status/567156838987476992
+| 2015_Feb_17 | 01:53:06 | STRAFE (motherfugger (part 3)) | Jack, Rich | twitch.tv/videos/3838258 | youtube.com/watch?v=k4zZRQh2CLg | twitter.com/PreviouslyRec/status/567875077057941504
 | 2015_Feb_19 | 00:34:35 | Master of Orion 2... and Jack's Crocodile Brain (part 1.1) | twitch.tv/videos/3858589 | youtube.com/watch?v=jvfKeAE5Ozk
 | 2015_Feb_19 | 00:46:11 | Master of Orion 2... and Jack's Crocodile Brain (part 1.2) | twitch.tv/videos/3858605 | Duplicate: see line 226
 | 2015_Feb_19 | 01:05:04 | Chat-lunky (part 1) | twitch.tv/videos/3858625 | youtube.com/watch?v=9V5ZHtEJQP4
