@@ -85,9 +85,9 @@
 | 2014_Sep_28 | 01:07:29 | Happy Birthday Isaac: I love you | Jack | twitch.tv/videos/45418783 | youtube.com/watch?v=qipm_8WDfAc | https://twitter.com/PreviouslyRec/status/516398328779513857
 | 2014_Sep_28 | 00:56:20 | Happy Birthday Isaac: I love you (Part 2) | Jack | twitch.tv/videos/45418258 | youtube.com/watch?v=5HiyYNzP5nY | https://twitter.com/PreviouslyRec/status/516398328779513857
 | 2014_Sep_28 | 00:42:31 | Jack and Half Sucks at FTL | twitch.tv/videos/45416374 | No YouTube video | https://twitter.com/PreviouslyRec/status/516398328779513857
-| 2014_Oct_12 | 00:32:51 | Jack & Rich Chat (part 1) Solitaire | www.twitch.tv/videos/45416321 | youtube.com/watch?v=nbtcDYmErWc
-| 2014_Oct_12 | 00:55:42 | Jack & Rich Chat (part 2) MS Paint | twitch.tv/videos/45416204 | youtube.com/watch?v=9sBqpmhr7BY
-| 2014_Oct_12 | 00:05:56 | Rich Fails at Streaming | twitch.tv/videos/45416029 | No YouTube video
+| 2014_Oct_05 | 00:32:51 | Jack & Rich Chat (part 1) Solitaire | www.twitch.tv/videos/45416321 | youtube.com/watch?v=nbtcDYmErWc | https://twitter.com/PreviouslyRec/status/518976031894409217
+| 2014_Oct_05 | 00:55:42 | Jack & Rich Chat (part 2) MS Paint | twitch.tv/videos/45416204 | youtube.com/watch?v=9sBqpmhr7BY | https://twitter.com/PreviouslyRec/status/518976031894409217
+| 2014_Oct_05 | 00:05:56 | Rich Fails at Streaming | twitch.tv/videos/45416029 | No YouTube video | https://twitter.com/PreviouslyRec/status/518976031894409217
 | 2014_Oct_17 | 01:03:13 | Guacamelee - No Death Attempt (part 1.1) | twitch.tv/videos/45363647 | youtube.com/watch?v=sc7IyqDV_qA
 | 2014_Oct_17 | 00:56:10 | Guacamelee - No Death Attempt (part 1.2) | twitch.tv/videos/45362801 | youtube.com/watch?v=LTVApyEBl9c
 | 2014_Oct_17 | 01:00:52 | Guacamelee - No Death Attempt (part 1.3) | twitch.tv/videos/45362747 | youtube.com/watch?v=yqxa4ukv9o0
