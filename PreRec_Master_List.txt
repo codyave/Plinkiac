@@ -909,41 +909,41 @@
 | 2017_Nov_01 | 01:18:56 | Friday the 31st (part 1) | twitch.tv/videos/186723147 | youtube.com/watch?v=GhxJVhnqyDg
 | 2017_Nov_01 | 01:10:52 | Friday the 31st (part 2) | twitch.tv/videos/186724418 | youtube.com/watch?v=mlFKpGEpAjo
 | 2017_Nov_06 | 01:07:32 | Rich's Odyssey (part 1) | twitch.tv/videos/188068713 | youtube.com/watch?v=9GzoI20sF3E
-| 2017_Nov_06 | 01:58:20 | Rich's Odyssey (part 2) STRANGER THINGS 2 SPOILERS | twitch.tv/videos/188070695 | 
-| 2017_Nov_06 | 02:19:22 | Rich's Odyssey (part 3) STRANGER THINGS 2 SPOILERS | twitch.tv/videos/188072204 | 
-| 2017_Nov_09 | 02:07:21 | Ye of Little Fate (part 1) | twitch.tv/videos/188805622 | 
-| 2017_Nov_09 | 02:04:02 | Ye of Little Fate (part 2) | twitch.tv/videos/188807281 | 
-| 2017_Nov_14 | 01:21:03 | Final Fantasy Seven-es with the Evans’ (part 1) | twitch.tv/videos/201223701 | 
-| 2017_Nov_14 | 01:24:56 | Final Fantasy Seven-es with the Evans’ (part 2) | twitch.tv/videos/201224262 | 
-| 2017_Nov_17 | 01:35:54 | Morning Jack™ Zero Dawn (part 1) | twitch.tv/videos/202072189 | 
-| 2017_Nov_17 | 01:35:43 | Morning Jack™ Zero Dawn (part 2) | twitch.tv/videos/202126132 | 
-| 2017_Nov_20 | 01:14:29 | Too Close to the Sun (Superflight part 1) | twitch.tv/videos/202812062 | 
-| 2017_Nov_20 | 01:27:29 | Too Close to the Sun (Superflight part 2) | twitch.tv/videos/202814190 | 
-| 2017_Nov_20 | 01:31:39 | More Hand of Fate 2! | twitch.tv/videos/202816017 | 
-| 2017_Nov_30 | 02:04:05 | Little Nightmares (part 1) | twitch.tv/videos/205611112 | 
-| 2017_Nov_30 | 02:31:01 | Little Nightmares (part 2) | twitch.tv/videos/205613187 | 
-| 2017_Nov_30 | 01:55:58 | 401 AER | twitch.tv/videos/205616229 | 
-| 2017_Nov_30 | 02:24:33 | Witchy Woman | twitch.tv/videos/205618586 | 
-| 2017_Dec_06 | 02:01:52 | Over the Watch and Through the Woods | twitch.tv/videos/207283334 | 
-| 2017_Dec_07 | 02:05:33 | Does Anything a Spider Can | twitch.tv/videos/207397522 | 
-| 2017_Dec_07 | 01:58:56 | Game Smash! | twitch.tv/videos/207399243 | 
-| 2017_Dec_11 | 00:57:57 | Get Up, Get up, Get Over It!!! (part 1) | twitch.tv/videos/208665282 | 
-| 2017_Dec_11 | 01:24:28 | Get up, Get up, Get Over It!!! (part 2) | twitch.tv/videos/208669962 | 
-| 2017_Dec_14 | 04:32:40 | Dogs and Cats, Living Together! | twitch.tv/videos/209388198 | 
-| 2017_Dec_18 | 01:22:10 | That's a Big Twinkie (part 1) | twitch.tv/videos/210513404 | 
-| 2017_Dec_18 | 01:05:57 | That's a Big Twinkie (part 2) | twitch.tv/videos/210516725 | 
-| 2017_Dec_18 | 01:33:28 | That's a Big Twinkie (part 3) | twitch.tv/videos/210518156 | 
-| 2017_Dec_21 | 01:17:03 | Doggie Doo what Ninten Don't (Okami pt 1) | twitch.tv/videos/211300206 | 
-| 2017_Dec_21 | 01:25:56 | Doggie Doo What Ninten Don't (Okami pt 2) | twitch.tv/videos/211304199 | 
-| 2017_Dec_21 | 01:53:34 | Doggie Doo What Ninten Don't (Okami pt 3) | twitch.tv/videos/211305472 | 
-| 2017_Dec_28 | 02:33:08 | Stream a Little Stream With Me | twitch.tv/videos/213173589 | 
-| 2017_Dec_28 | 02:49:10 | Hack and Crash!!! | twitch.tv/videos/213175171 | 
-| 2018_Jan_08 | 00:41:28 | It's a Long Way Down | twitch.tv/videos/216539652 | 
-| 2018_Jan_08 | 01:58:22 | Shot in the Back (pUBG part 1) | twitch.tv/videos/216541941 | 
-| 2018_Jan_08 | 02:07:15 | Shot in the Back (pUBG part 2) | twitch.tv/videos/216543454 | 
-| 2018_Jan_11 | 01:03:58 | Blind Leading the Blind (pUBG) | twitch.tv/videos/217441932 | 
-| 2018_Jan_11 | 01:18:25 | Technical Difficulties. (???) | twitch.tv/videos/217443615 | 
-| 2018_Jan_11 | 01:28:09 | Zombie Slaughter!!! (LFD2) | twitch.tv/videos/217444289 | 
+| 2017_Nov_06 | 01:58:20 | Rich's Odyssey (part 2) STRANGER THINGS 2 SPOILERS | twitch.tv/videos/188070695 | youtube.com/watch?v=5Wk0oLR7PiU
+| 2017_Nov_06 | 02:19:22 | Rich's Odyssey (part 3) STRANGER THINGS 2 SPOILERS | twitch.tv/videos/188072204 | youtube.com/watch?v=dsDASsJdW7k
+| 2017_Nov_09 | 02:07:21 | Ye of Little Fate (part 1) | twitch.tv/videos/188805622 | youtube.com/watch?v=6Tf66ueqE1k
+| 2017_Nov_09 | 02:04:02 | Ye of Little Fate (part 2) | twitch.tv/videos/188807281 | youtube.com/watch?v=zHdAs7_xaQw
+| 2017_Nov_14 | 01:21:03 | Final Fantasy Seven-es with the Evans’ (part 1) | twitch.tv/videos/201223701 | youtube.com/watch?v=XaBWwDpbeFU
+| 2017_Nov_14 | 01:24:56 | Final Fantasy Seven-es with the Evans’ (part 2) | twitch.tv/videos/201224262 | youtube.com/watch?v=_VeYbJtVjSo
+| 2017_Nov_17 | 01:35:54 | Morning Jack™ Zero Dawn (part 1) | twitch.tv/videos/202072189 | youtube.com/watch?v=_VeYbJtVjSo
+| 2017_Nov_17 | 01:35:43 | Morning Jack™ Zero Dawn (part 2) | twitch.tv/videos/202126132 | youtube.com/watch?v=39Prz1AlkAg
+| 2017_Nov_20 | 01:14:29 | Too Close to the Sun (Superflight part 1) | twitch.tv/videos/202812062 | youtube.com/watch?v=d-0USa0rLgs
+| 2017_Nov_20 | 01:27:29 | Too Close to the Sun (Superflight part 2) | twitch.tv/videos/202814190 | youtube.com/watch?v=Q6k3PO5XlSQ
+| 2017_Nov_20 | 01:31:39 | More Hand of Fate 2! | twitch.tv/videos/202816017 | youtube.com/watch?v=ZWIDd8qAmaI
+| 2017_Nov_30 | 02:04:05 | Little Nightmares (part 1) | twitch.tv/videos/205611112 | youtube.com/watch?v=HGNAGIzvM7c
+| 2017_Nov_30 | 02:31:01 | Little Nightmares (part 2) | twitch.tv/videos/205613187 | youtube.com/watch?v=zhACqhr1vxc
+| 2017_Nov_30 | 01:55:58 | 401 AER | twitch.tv/videos/205616229 | youtube.com/watch?v=OCKb1yrgypY
+| 2017_Nov_30 | 02:24:33 | Witchy Woman | twitch.tv/videos/205618586 | youtube.com/watch?v=SUrI2Wg-ZHc
+| 2017_Dec_06 | 02:01:52 | Over the Watch and Through the Woods | twitch.tv/videos/207283334 | youtube.com/watch?v=LqnUTazgCik
+| 2017_Dec_07 | 02:05:33 | Does Anything a Spider Can | twitch.tv/videos/207397522 | youtube.com/watch?v=NF-wZslptQA
+| 2017_Dec_07 | 01:58:56 | Game Smash! | twitch.tv/videos/207399243 | youtube.com/watch?v=AFA227FU9So
+| 2017_Dec_11 | 00:57:57 | Get Up, Get up, Get Over It!!! (part 1) | twitch.tv/videos/208665282 | youtube.com/watch?v=72v_JDVxY0M
+| 2017_Dec_11 | 01:24:28 | Get up, Get up, Get Over It!!! (part 2) | twitch.tv/videos/208669962 | youtube.com/watch?v=CHRC2lKQ8gg
+| 2017_Dec_14 | 04:32:40 | Dogs and Cats, Living Together! | twitch.tv/videos/209388198 | youtube.com/watch?v=7ChkqOBr-hY
+| 2017_Dec_18 | 01:22:10 | That's a Big Twinkie (part 1) | twitch.tv/videos/210513404 | youtube.com/watch?v=7l-tunxwCTQ
+| 2017_Dec_18 | 01:05:57 | That's a Big Twinkie (part 2) | twitch.tv/videos/210516725 | youtube.com/watch?v=b0fGc_WO1Yc
+| 2017_Dec_18 | 01:33:28 | That's a Big Twinkie (part 3) | twitch.tv/videos/210518156 | youtube.com/watch?v=rZ83mOxb0VA
+| 2017_Dec_21 | 01:17:03 | Doggie Doo what Ninten Don't (Okami pt 1) | twitch.tv/videos/211300206 | youtube.com/watch?v=rT4a5Wi2OvU
+| 2017_Dec_21 | 01:25:56 | Doggie Doo What Ninten Don't (Okami pt 2) | twitch.tv/videos/211304199 | youtube.com/watch?v=AXaqxSezKA0
+| 2017_Dec_21 | 01:53:34 | Doggie Doo What Ninten Don't (Okami pt 3) | twitch.tv/videos/211305472 | youtube.com/watch?v=_ctMyMF6frs
+| 2017_Dec_28 | 02:33:08 | Stream a Little Stream With Me | twitch.tv/videos/213173589 | youtube.com/watch?v=N0sYKNpCEY4
+| 2017_Dec_28 | 02:49:10 | Hack and Crash!!! | twitch.tv/videos/213175171 | youtube.com/watch?v=ybrIApVOahE
+| 2018_Jan_08 | 00:41:28 | It's a Long Way Down | twitch.tv/videos/216539652 | youtube.com/watch?v=g7qBCYL_NEE
+| 2018_Jan_08 | 01:58:22 | Shot in the Back (pUBG part 1) | twitch.tv/videos/216541941 | youtube.com/watch?v=GH1S1q4GxLI
+| 2018_Jan_08 | 02:07:15 | Shot in the Back (pUBG part 2) | twitch.tv/videos/216543454 | youtube.com/watch?v=yW3Qfi-KbVA
+| 2018_Jan_11 | 01:03:58 | Blind Leading the Blind (pUBG) | twitch.tv/videos/217441932 | youtube.com/watch?v=AS1zBBTwPGE
+| 2018_Jan_11 | 01:18:25 | Technical Difficulties. (???) | twitch.tv/videos/217443615 | youtube.com/watch?v=i3cg-d6Qqug
+| 2018_Jan_11 | 01:28:09 | Zombie Slaughter!!! (LFD2) | twitch.tv/videos/217444289 | youtube.com/watch?v=FxqMaNv_OOQ
 | 2018_Jan_15 | 01:14:23 | Let's Try This Again. (part 1) | twitch.tv/videos/218738560 | 
 | 2018_Jan_15 | 01:25:01 | Let's Try This Again. (part 2) | twitch.tv/videos/218739333 | 
 | 2018_Jan_15 | 01:08:15 | Let's Try This Again. (part 3) | twitch.tv/videos/218740329 | 
