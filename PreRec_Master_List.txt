@@ -21,7 +21,10 @@
 | 2014_Jun_25 | 01:00:55 | XCOM Enemy of my Friend (Part 5) | Jack, Rich, Jay |  twitch.tv/videos/42850083 | youtube.com/watch?v=-p5oVkyOYtk
 | 2014_Jun_25 | 01:01:15 | XCOM Enemy of my Friend (Part 6) | Jack, Rich | twitch.tv/videos/42850053 | youtube.com/watch?v=aXIKtKwAYGk
 | 2014_Jun_25 | 01:04:29 | XCOM Enemy of my Friend (Part 7) | Jack, Rich | twitch.tv/videos/42849954 | youtube.com/watch?v=ROJhGZV_I4M
-| 2014_Jul_03 | 03:11:23 | DIG UP STUPID | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48528004 | Duplicate video, see lines 22-24
+| 2014_Jul_02 | 00:57:32 | Dig Up Stupid: Part 1 | Jack, Rich | twitch.tv/videos/48031575 | youtube.com/watch?v=Yz5kTbI6Rt8
+| 2014_Jul_02 | 01:00:29 | Dig Up Stupid: Part 2 | Jack, Rich, Jay, Jessi | twitch.tv/videos/48031311 | youtube.com/watch?v=WjtLnfEpwHQ
+| 2014_Jul_02 | 01:02:33 | Dig Up Stupid: Part 3 | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48031283 | youtube.com/watch?v=Kg9wv7rv2Pk
+| 2014_Jul_03 | 03:11:23 | DIG UP STUPID | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48528004 | Duplicate video, see lines 24, 25 & 26
 | 2014_Jul_03 | 00:29:05 | FINGER DEATH PUNCHED OUT | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527923 | youtube.com/watch?v=1O-jXuhw9zA
 | 2014_Jul_03 | 02:30:12 | DUCK Tates, tales, TAILS!!! | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527796 | youtube.com/watch?v=OFm8nCb9NJg
 | 2014_Jul_10 | 01:58:33 | Katamari Damacy - With the gang | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393029 | youtube.com/watch?v=jh140XkYVKY
@@ -29,9 +32,6 @@
 | 2014_Jul_10 | 01:01:27 | Shadow over Sweat Pants | Jack, Rich, Jay | twitch.tv/videos/48393201 | youtube.com/watch?v=BDLWT9kA-78
 | 2014_Jul_10 | 00:46:12 | Dynasty Flesh Lights | Jack, Rich, Jay | twitch.tv/videos/48392916 | youtube.com/watch?v=2jwKxvrBrPc
 | 2014_Jul_10 | 00:44:23 | GUN(what)GRAVE | Jack, Rich, Jay | twitch.tv/videos/48393101 | youtube.com/watch?v=VM0LMf-QSOg
-| 2014_Jul_02 | 00:57:32 | Dig Up Stupid: Part 1 | Jack, Rich | twitch.tv/videos/48031575 | youtube.com/watch?v=Yz5kTbI6Rt8
-| 2014_Jul_02 | 01:00:29 | Dig Up Stupid: Part 2 | Jack, Rich, Jay, Jessi | twitch.tv/videos/48031311 | youtube.com/watch?v=WjtLnfEpwHQ
-| 2014_Jul_02 | 01:02:33 | Dig Up Stupid: Part 3 | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48031283 | youtube.com/watch?v=Kg9wv7rv2Pk
 | 2014_Jul_24 | 01:48:06 | Team, for dress too. Jack Solo Stream | Jack | twitch.tv/videos/48085647 | youtube.com/watch?v=pXatGZGQWjg
 | 2014_Jul_30 | 01:23:18 | Fuggit, we're Streaming Mario Kart 8 | Jack, Rich, Jay | twitch.tv/videos/47946683 | youtube.com/watch?v=dc4v8RXgnvs
 | 2014_Jul_30 | 01:04:08 | New Super Fugg Brothers U | Jack, Rich, Jay | twitch.tv/videos/47946625 | youtube.com/watch?v=Hrt8ZbGSOVE
