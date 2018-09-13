@@ -96,11 +96,11 @@
 | 2014_Oct_15 | 00:54:41 | Rich is going to win at FTL (part 1) | twitch.tv/videos/45261319 | youtube.com/watch?v=ORIOQ1QUwP4 | https://twitter.com/PreviouslyRec/status/522539483795705856
 | 2014_Oct_15 | 00:57:12 | Rich is going to win at FTL (part 2) | twitch.tv/videos/45261142 | youtube.com/watch?v=h_6tS5qf4UM | https://twitter.com/PreviouslyRec/status/522539483795705856
 | 2014_Oct_15 | 01:07:34 | Rich is going to win at FTL (part 3) | twitch.tv/videos/45261117 | youtube.com/watch?v=8UFBU7GXCag | https://twitter.com/PreviouslyRec/status/522539483795705856
-| 2014_Oct_19 | 00:44:42 | Teleglitch - (part 1) | twitch.tv/videos/45260926 | youtube.com/watch?v=D-3G5Xc7NSw | https://twitter.com/PreviouslyRec/status/523933193091559424
-| 2014_Oct_19 | 01:07:17 | Teleglitch - (part 2) | twitch.tv/videos/45260118 | youtube.com/watch?v=2mxSR-PDN44 | https://twitter.com/PreviouslyRec/status/523933193091559424
-| 2014_Oct_29 | 01:00:08 | SUPER MEAT HACKS (part 1) | twitch.tv/videos/45138500 | youtube.com/watch?v=b8WR4asx5ec
-| 2014_Oct_29 | 00:11:35 | SUPER MEAT HACK (part 1.2) | twitch.tv/videos/45138298 | Duplicate: see above 
-| 2014_Oct_29 | 00:44:46 | SUPER MEAT HACK (part 2) | twitch.tv/videos/45138127 | youtube.com/watch?v=PAbPG6Ybvnc
+| 2014_Oct_15 | 00:44:42 | Teleglitch - (part 1) | twitch.tv/videos/45260926 | youtube.com/watch?v=D-3G5Xc7NSw | https://twitter.com/PreviouslyRec/status/523933193091559424 | https://twitter.com/PreviouslyRec/status/522539483795705856
+| 2014_Oct_15 | 01:07:17 | Teleglitch - (part 2) | twitch.tv/videos/45260118 | youtube.com/watch?v=2mxSR-PDN44 | https://twitter.com/PreviouslyRec/status/523933193091559424 | https://twitter.com/PreviouslyRec/status/522539483795705856
+| 2014_Oct_19 | 01:00:08 | SUPER MEAT HACKS (part 1) | twitch.tv/videos/45138500 | youtube.com/watch?v=b8WR4asx5ec | https://twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 00:11:35 | SUPER MEAT HACK (part 1.2) | twitch.tv/videos/45138298 | Duplicate: see above | https://twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 00:44:46 | SUPER MEAT HACK (part 2) | twitch.tv/videos/45138127 | youtube.com/watch?v=PAbPG6Ybvnc | https://twitter.com/PreviouslyRec/status/524006361302966272
 | 2014_Oct_29 | 01:00:52 | Rich - Armchair General (part 1) | twitch.tv/videos/45138207 | youtube.com/watch?v=NpKCz4Hul8k
 | 2014_Oct_29 | 01:28:49 | Rich - Armchair General (part 2) | twitch.tv/videos/45137861 | youtube.com/watch?v=jpn-ygHy85Y
 | 2014_Oct_29 | 01:37:42 | Rich - Armchair General (part 3) | twitch.tv/videos/45137890 | youtube.com/watch?v=aaDCgfov2Uo
