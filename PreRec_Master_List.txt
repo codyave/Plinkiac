@@ -58,10 +58,10 @@
 | 2014_Aug_27 | 00:50:01 | Rich is Good at XCOM Part 2 | Jack, Rich, Jay | twitch.tv/videos/42587716 | youtube.com/watch?v=ZzdCwF0TtUE | https://twitter.com/PreviouslyRec/status/504723505850904577
 | 2014_Aug_27 | 01:24:28 | Rich is Good at XCOM Part 3 | Jack, Rich, Jay | twitch.tv/videos/42587178 | youtube.com/watch?v=YTBev2fgWe8 | https://twitter.com/PreviouslyRec/status/504723505850904577
 | 2014_Aug_27 | 00:32:35 | Checkers!!! The Revenging | Jack, Rich, Jay | twitch.tv/videos/42586832 | youtube.com/watch?v=FWdwNogIi04 | https://twitter.com/PreviouslyRec/status/504723505850904577
-| 2014_Sep_12 | 00:28:14 | Super Time Suck...good joke | Jack | twitch.tv/videos/43294170 | youtube.com/watch?v=QYSb5qKiSdQ
-| 2014_Sep_12 | 00:44:58 | Shovle Night Jack Solo Stream | Jack | twitch.tv/videos/43294018 | youtube.com/watch?v=XsL07y3mcs4
-| 2014_Sep_13 | 00:57:22 | Invisible Inc. Rich Run (Part 1) | Jack, Rich, Jay | twitch.tv/videos/43283999 | youtube.com/watch?v=EzGW-_eRrMM
-| 2014_Sep_13 | 00:43:59 | Invisible Inc. Rich Run (Part 2) | Jack, Rich, Jay | twitch.tv/videos/43283888 | youtube.com/watch?v=rQ75gvWLJqo
+| 2014_Aug_31 | 00:28:14 | Super Time Suck...good joke | Jack | twitch.tv/videos/43294170 | youtube.com/watch?v=QYSb5qKiSdQ | https://twitter.com/PreviouslyRec/status/506149898971271168
+| 2014_Aug_31 | 00:44:58 | Shovle Night Jack Solo Stream | Jack | twitch.tv/videos/43294018 | youtube.com/watch?v=XsL07y3mcs4 | https://twitter.com/PreviouslyRec/status/506149898971271168
+| 2014_Sep_10 | 00:57:22 | Invisible Inc. Rich Run (Part 1) | Jack, Rich, Jay | twitch.tv/videos/43283999 | youtube.com/watch?v=EzGW-_eRrMM | https://twitter.com/PreviouslyRec/status/509839336909455360
+| 2014_Sep_10 | 00:43:59 | Invisible Inc. Rich Run (Part 2) | Jack, Rich, Jay | twitch.tv/videos/43283888 | youtube.com/watch?v=rQ75gvWLJqo | https://twitter.com/PreviouslyRec/status/509839336909455360
 | 2014_Sep_13 | 00:56:19 | Invisible Inc. Jack Run (Part 1) | Jack, Rich, Jay | twitch.tv/videos/43283734 | youtube.com/watch?v=2iUNJwPfz-4
 | 2014_Sep_13 | 00:57:41 | Invisible Inc. Jack Run (Part 2) | Jack, Rich, Jay | twitch.tv/videos/43283653 | youtube.com/watch?v=fVVZDX3yEtU
 | 2014_Sep_13 | 00:53:29 | Towerfall Ascension... Millennium (Part 1) | Jack, Rich, Jay | twitch.tv/videos/43283924 | youtube.com/watch?v=rQzcE-v_Ftg
