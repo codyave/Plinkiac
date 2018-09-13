@@ -816,34 +816,34 @@
 | 2017_Jul_12 | 01:29:42 | Monkey Wrenching Around | twitch.tv/videos/158644159 | youtube.com/watch?v=hUbZTCLPI20
 | 2017_Jul_12 | 02:21:02 | Jason Wrenching Around | twitch.tv/videos/158658435 | youtube.com/watch?v=hfaSllC4ZUY
 | 2017_Jul_13 | 02:09:24 | Space Sister | twitch.tv/videos/158883121 | youtube.com/watch?v=CjHXwXYQpLQ
-| 2017_Jul_13 | 00:25:18 | Space Sister part 2 | twitch.tv/videos/158895662 | 
-| 2017_Jul_13 | 01:40:01 | Barbie Queen of the the Mother Fucking Prom | twitch.tv/videos/158899231 | 
-| 2017_Jul_15 | 02:06:03 | Witchy Whoa-Man(Jack Solo Stream) | twitch.tv/videos/159355651 | 
-| 2017_Jul_15 | 02:05:54 | Sunday the 11th (part 1) | twitch.tv/videos/159387973 | 
-| 2017_Jul_15 | 01:57:06 | Sunday the 11th (part 2) | twitch.tv/videos/159407115 | 
-| 2017_Jul_25 | 01:31:36 | Friday the E3th | twitch.tv/videos/161889759 | 
-| 2017_Jul_25 | 02:31:47 | E3 2017… this should have been posted earlier | twitch.tv/videos/161901493 | 
-| 2017_Jul_27 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | twitch.tv/videos/162380759 | 
-| 2017_Jul_27 | 02:21:32 | Yes, we're playing it again. Shut uo (part 2) | twitch.tv/videos/162438655 | 
-| 2017_Jul_29 | 01:39:18 | Killing Nazis, Sweet (part 1) | twitch.tv/videos/162732924 | 
-| 2017_Jul_30 | 02:10:50 | Killing Nazis, Sweet! (part 2) | twitch.tv/videos/163163810 | 
-| 2017_Jul_31 | 00:05:54 | Jack's got your 6! | twitch.tv/videos/163372057 | 
-| 2017_Aug_01 | 02:10:36 | 3...2...1... Jason!!! | twitch.tv/videos/163495784 | 
-| 2017_Aug_01 | 02:11:51 | 3...2...1... Jason!!! | twitch.tv/videos/163502569 | 
-| 2017_Aug_03 | 02:22:48 | Murdering Jason(But not (part 1)) | twitch.tv/videos/164132318 | 
-| 2017_Aug_03 | 02:21:38 | Murdering Jason(But not (part2)) | twitch.tv/videos/164135708 | 
-| 2017_Aug_03 | 00:03:12 | Poorly For Him! | twitch.tv/videos/164212653 | 
-| 2017_Aug_05 | 01:34:24 | Old School Stein | twitch.tv/videos/164509834 | 
-| 2017_Aug_05 | 01:59:55 | Old School Jason | twitch.tv/videos/164516402 | 
-| 2017_Aug_05 | 02:32:24 | The End is ToNIGHt (part 1) | twitch.tv/videos/164525722 | 
-| 2017_Aug_05 | 02:03:50 | The End is ToNIGHt (part 2) | twitch.tv/videos/164530210 | 
-| 2017_Aug_13 | 00:48:42 | F13 While Waiting for Jack(Oh Jack's Here) | twitch.tv/videos/166667830 | 
-| 2017_Aug_13 | 01:33:18 | First time PUBGing (part 1) | twitch.tv/videos/166682561 | 
-| 2017_Aug_14 | 01:20:00 | First time PUBGing (part 2) | twitch.tv/videos/166964351 | 
-| 2017_Aug_14 | 01:37:54 | PUBG(Rich Solo) | twitch.tv/videos/166966545 | 
-| 2017_Aug_14 | 03:53:51 | F13(Rich Solo) | twitch.tv/videos/166968002 | 
-| 2017_Aug_14 | 01:36:42 | Project Brutality (Rich Solo) | twitch.tv/videos/166980168 | 
-| 2017_Aug_14 | 02:15:47 | Mega Maker (Rich Solo) | twitch.tv/videos/166980994 | 
+| 2017_Jul_13 | 00:25:18 | Space Sister part 2 (aka "Barbie... Prelude to the Prom") | twitch.tv/videos/158895662 | youtube.com/watch?v=KC6powhN9Tg
+| 2017_Jul_13 | 01:40:01 | Barbie Queen of the the Mother Fucking Prom | twitch.tv/videos/158899231 | youtube.com/watch?v=vrp3YJI3e90
+| 2017_Jul_15 | 02:06:03 | Witchy Whoa-Man(Jack Solo Stream) | twitch.tv/videos/159355651 | youtube.com/watch?v=g6mw6JMIAIc
+| 2017_Jul_15 | 02:05:54 | Sunday the 11th (part 1) | twitch.tv/videos/159387973 | youtube.com/watch?v=H3cB49hbId4&t=6272s
+| 2017_Jul_15 | 01:57:06 | Sunday the 11th (part 2) | twitch.tv/videos/159407115 | youtube.com/watch?v=5CPDZeEcJrc
+| 2017_Jul_25 | 01:31:36 | Friday the E3th | twitch.tv/videos/161889759 | youtube.com/watch?v=CIOAoYSRKDs
+| 2017_Jul_25 | 02:31:47 | E3 2017… this should have been posted earlier | twitch.tv/videos/161901493 | youtube.com/watch?v=hpwiP_eUhRg
+| 2017_Jul_27 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | twitch.tv/videos/162380759 | youtube.com/watch?v=5Eyr7zvqaiE
+| 2017_Jul_27 | 02:21:32 | Yes, we're playing it again. Shut uo (part 2) | twitch.tv/videos/162438655 | youtube.com/watch?v=Tqhy-I_Fb3M
+| 2017_Jul_29 | 01:39:18 | Killing Nazis, Sweet (part 1) | twitch.tv/videos/162732924 | youtube.com/watch?v=bz6CJSZVP1Q
+| 2017_Jul_30 | 02:10:50 | Killing Nazis, Sweet! (part 2) | twitch.tv/videos/163163810 | youtube.com/watch?v=s2nQGPJYTC0
+| 2017_Jul_31 | 00:05:54 | Jack's got your 6! | twitch.tv/videos/163372057 | youtube.com/watch?v=WUyMyY7gNSw
+| 2017_Aug_01 | 02:10:36 | 3...2...1... Jason!!! | twitch.tv/videos/163495784 | youtube.com/watch?v=tTl_KN0o1t8
+| 2017_Aug_01 | 02:11:51 | 3...2...1... Jason!!! | twitch.tv/videos/163502569 | youtube.com/watch?v=Lz90b1z2b-8
+| 2017_Aug_03 | 02:22:48 | Murdering Jason(But not (part 1)) | twitch.tv/videos/164132318 | youtube.com/watch?v=0wMphCnr5mo
+| 2017_Aug_03 | 02:21:38 | Murdering Jason(But not (part2)) | twitch.tv/videos/164135708 | youtube.com/watch?v=qKzJsfV-viE
+| 2017_Aug_03 | 00:03:12 | Poorly For Him! | twitch.tv/videos/164212653 | No YouTube video
+| 2017_Aug_05 | 01:34:24 | Old School Stein | twitch.tv/videos/164509834 | youtube.com/watch?v=yKfXZ81f__o
+| 2017_Aug_05 | 01:59:55 | Old School Jason | twitch.tv/videos/164516402 | youtube.com/watch?v=h13LSCKGfUQ
+| 2017_Aug_05 | 02:32:24 | The End is ToNIGHt (part 1) | twitch.tv/videos/164525722 | youtube.com/watch?v=JdBUbvOc_kE
+| 2017_Aug_05 | 02:03:50 | The End is ToNIGHt (part 2) | twitch.tv/videos/164530210 | youtube.com/watch?v=9NL1ZFijffw
+| 2017_Aug_13 | 00:48:42 | F13 While Waiting for Jack(Oh Jack's Here) | twitch.tv/videos/166667830 | youtube.com/watch?v=ZQA5pedBJwY
+| 2017_Aug_13 | 01:33:18 | First time PUBGing (part 1) | twitch.tv/videos/166682561 | youtube.com/watch?v=TtIHnQ-ypp8
+| 2017_Aug_14 | 01:20:00 | First time PUBGing (part 2) | twitch.tv/videos/166964351 | youtube.com/watch?v=-hL07lmQj-0
+| 2017_Aug_14 | 01:37:54 | PUBG(Rich Solo) | twitch.tv/videos/166966545 | youtube.com/watch?v=Uro-Gb_wzWU
+| 2017_Aug_14 | 03:53:51 | F13(Rich Solo) | twitch.tv/videos/166968002 | youtube.com/watch?v=WAj0hM65p0Y&t=13370s
+| 2017_Aug_14 | 01:36:42 | Project Brutality (Rich Solo) | twitch.tv/videos/166980168 | youtube.com/watch?v=DxYFXPiKHq
+| 2017_Aug_14 | 02:15:47 | Mega Maker (Rich Solo) | twitch.tv/videos/166980994 | youtube.com/watch?v=uluyXlcZnIc
 | 2017_Aug_20 | 03:00:30 | Jack Returns to PUBG (part 1) | twitch.tv/videos/168469594 | 
 | 2017_Aug_20 | 01:51:06 | Jack Returns to PUBG (part 2) | twitch.tv/videos/168482251 | 
 | 2017_Aug_20 | 01:41:18 | PUB GEE TEAM PLAY (part 1) | twitch.tv/videos/168549034 | 
