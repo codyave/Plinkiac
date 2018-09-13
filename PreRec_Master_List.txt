@@ -123,10 +123,10 @@
 | 2014_Nov_09 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk | https://twitter.com/PreviouslyRec/status/531634507456077824
 | 2014_Nov_09 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ | https://twitter.com/PreviouslyRec/status/531634507456077824
 | 2014_Nov_17 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | twitch.tv/videos/44791997 | youtube.com/watch?v=Eno8xf0T__E
-| 2014_Nov_18 | 01:35:36 | SUPER DUPER Smash TV | twitch.tv/videos/44790001 | No YouTube video
-| 2014_Nov_18 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | twitch.tv/videos/44789498 | youtube.com/watch?v=h0eKVKKowYY
-| 2014_Nov_18 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | twitch.tv/videos/43229798 | youtube.com/watch?v=NA8fEVuvA4M
-| 2014_Nov_18 | 01:02:29 | SUPER DUPER bad SNES brawlers | twitch.tv/videos/43229789 | youtube.com/watch?v=JfRIBW6YVrs
+| 2014_Nov_12 | 01:35:36 | SUPER DUPER Smash TV | twitch.tv/videos/44790001 | No YouTube video | https://twitter.com/PreviouslyRec/status/532706455418204160
+| 2014_Nov_12 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | twitch.tv/videos/44789498 | youtube.com/watch?v=h0eKVKKowYY | https://twitter.com/PreviouslyRec/status/532706455418204160
+| 2014_Nov_12 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | twitch.tv/videos/43229798 | youtube.com/watch?v=NA8fEVuvA4M | https://twitter.com/PreviouslyRec/status/532706455418204160
+| 2014_Nov_12 | 01:02:29 | SUPER DUPER bad SNES brawlers | twitch.tv/videos/43229789 | youtube.com/watch?v=JfRIBW6YVrs | https://twitter.com/PreviouslyRec/status/532706455418204160
 | 2014_Nov_21 | 00:44:37 | Mario Kart 8 (Single Player) | twitch.tv/videos/43198448 | youtube.com/watch?v=G3e2bg6y0cc
 | 2014_Nov_21 | 00:36:46 | Mario Kart 8 (Multiplayer with The Stream (part 1)) | twitch.tv/videos/43198263 | youtube.com/watch?v=h2kYdu1LpLY
 | 2014_Nov_21 | 00:18:46 | Mario Kart 8 (Multiplayer with The Stream (part 2.1)) | twitch.tv/videos/43197566 | youtube.com/watch?v=x40U2CkmB-g
