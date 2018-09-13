@@ -207,9 +207,9 @@
 | 2015_Feb_04 | 00:13:31 | Leisure Suit Larry 2 - We gonna get some (part 1.1) | twitch.tv/videos/3776887 | youtube.com/watch?v=317RhgaAas0 | twitter.com/PreviouslyRec/status/563142133171748864
 | 2015_Feb_04 | 00:06:31 | Leisure Suit Larry 2 - We gonna get some (part 1.2) | twitch.tv/videos/3776895 | Duplicate: see line 207 | twitter.com/PreviouslyRec/status/563142133171748864
 | 2015_Feb_04 | 00:27:42 | Leisure Suit Larry 2 - We gonna get some (part 1.3) | twitch.tv/videos/3776906 | Duplicate: see line 207 & 208 | twitter.com/PreviouslyRec/status/563142133171748864
-| 2015_Feb_05 | 01:11:16 | Leisure Suit Larry 2 - We gonna get some (part 2) | twitch.tv/videos/3776913 | youtube.com/watch?v=bYDC3Yps9eg
-| 2015_Feb_05 | 00:49:44 | Tron 2.0 Killer app... man. | twitch.tv/videos/3776923 | youtube.com/watch?v=oVDy5V6cCYU
-| 2015_Feb_05 | 00:37:54 | Necrodancer... man. | twitch.tv/videos/3776927 | youtube.com/watch?v=OEtEtt2wNZc
+| 2015_Feb_04 | 01:11:16 | Leisure Suit Larry 2 - We gonna get some (part 2) | twitch.tv/videos/3776913 | youtube.com/watch?v=bYDC3Yps9eg | twitter.com/PreviouslyRec/status/563142133171748864
+| 2015_Feb_05 | 00:49:44 | Tron 2.0 Killer app... man. | Jack, Rich, Jay | twitch.tv/videos/3776923 | youtube.com/watch?v=oVDy5V6cCYU | twitter.com/PreviouslyRec/status/563142133171748864
+| 2015_Feb_05 | 00:37:54 | Necrodancer... man. | twitch.tv/videos/3776927 | youtube.com/watch?v=OEtEtt2wNZc | twitter.com/PreviouslyRec/status/563142133171748864
 | 2015_Feb_09 | 01:01:57 | Metroid Prime - Jack Solo Stream (part 1) | twitch.tv/videos/3793396 | youtube.com/watch?v=_qzc7R0EOKw
 | 2015_Feb_09 | 00:58:18 | Metroid Prime - Jack Solo Stream (part 2) | twitch.tv/videos/3793410 | youtube.com/watch?v=T5Vb5lRVHY0
 | 2015_Feb_09 | 00:53:21 | Metroid Prime - Jack Solo Stream (part 3) | twitch.tv/videos/3793423 | youtube.com/watch?v=d1Fe764bC_c
