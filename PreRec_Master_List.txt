@@ -119,10 +119,10 @@
 | 2014_Nov_02 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | twitch.tv/videos/44855805 | youtube.com/watch?v=DDX4oSUteSI | https://twitter.com/PreviouslyRec/status/529135428092190720
 | 2014_Nov_02 | 00:14:32 | Organ Trail (part 1.2) | twitch.tv/videos/44855393 | Duplicate: see line 119 | https://twitter.com/PreviouslyRec/status/529135428092190720
 | 2014_Nov_02 | 01:11:16 | Organ Trail (part 2) | twitch.tv/videos/44808503 | youtube.com/watch?v=8WuzKE7VETQ | https://twitter.com/PreviouslyRec/status/529135428092190720
-| 2014_Nov_17 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk
+| 2014_Nov_09 | 01:08:18 | The Binding of Isaac - Rebirth (part 1) | twitch.tv/videos/44790444 | youtube.com/watch?v=6hc8us1ztTI | https://twitter.com/PreviouslyRec/status/531634507456077824
+| 2014_Nov_09 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk | https://twitter.com/PreviouslyRec/status/531634507456077824
+| 2014_Nov_09 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ | https://twitter.com/PreviouslyRec/status/531634507456077824
 | 2014_Nov_17 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | twitch.tv/videos/44791997 | youtube.com/watch?v=Eno8xf0T__E
-| 2014_Nov_18 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ
-| 2014_Nov_18 | 01:08:18 | The Binding of Isaac - Rebirth (part 1) | twitch.tv/videos/44790444 | youtube.com/watch?v=6hc8us1ztTI
 | 2014_Nov_18 | 01:35:36 | SUPER DUPER Smash TV | twitch.tv/videos/44790001 | No YouTube video
 | 2014_Nov_18 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | twitch.tv/videos/44789498 | youtube.com/watch?v=h0eKVKKowYY
 | 2014_Nov_18 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | twitch.tv/videos/43229798 | youtube.com/watch?v=NA8fEVuvA4M
