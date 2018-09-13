@@ -114,11 +114,11 @@
 | 2014_Oct_29 | 00:43:39 | Haunt the SPOOKY House - Terrortown | twitch.tv/videos/45028975 | youtube.com/watch?v=CRGDe8h57Ho | https://twitter.com/PreviouslyRec/status/527639938368405504
 | 2014_Oct_29 | 00:50:20 | Spooky NES - Nightmare on Elm St. And Friday the 13th | twitch.tv/videos/45028868 | youtube.com/watch?v=ktXJSsTBq8Q | https://twitter.com/PreviouslyRec/status/527639938368405504
 | 2014_Oct_29 | 01:22:32 | Outlast (spooky) | twitch.tv/videos/45028129 | youtube.com/watch?v=uVa3PTaWAvM | https://twitter.com/PreviouslyRec/status/527639938368405504
-| 2014_Nov_13 | 01:06:19 | Daylight Saving SUPER time FORCE | twitch.tv/videos/44873315 | youtube.com/watch?v=cCCd7qbrCRg
-| 2014_Nov_13 | 01:04:24 | Monaco Saving Time | twitch.tv/videos/44870867 | youtube.com/watch?v=D-gjqbZojig
-| 2014_Nov_14 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | twitch.tv/videos/44855805 | youtube.com/watch?v=DDX4oSUteSI
-| 2014_Nov_14 | 00:14:32 | Organ Trail (part 1.2) | twitch.tv/videos/44855393 | No YouTube video
-| 2014_Nov_17 | 01:11:16 | Organ Trail (part 2) | twitch.tv/videos/44808503 | youtube.com/watch?v=8WuzKE7VETQ
+| 2014_Nov_02 | 01:06:19 | Daylight Saving SUPER time FORCE | twitch.tv/videos/44873315 | youtube.com/watch?v=cCCd7qbrCRg | https://twitter.com/PreviouslyRec/status/529094730106171392
+| 2014_Nov_02 | 01:04:24 | Monaco Saving Time | twitch.tv/videos/44870867 | youtube.com/watch?v=D-gjqbZojig | https://twitter.com/PreviouslyRec/status/529129932425674752
+| 2014_Nov_02 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | twitch.tv/videos/44855805 | youtube.com/watch?v=DDX4oSUteSI | https://twitter.com/PreviouslyRec/status/529135428092190720
+| 2014_Nov_02 | 00:14:32 | Organ Trail (part 1.2) | twitch.tv/videos/44855393 | Duplicate: see line 119 | https://twitter.com/PreviouslyRec/status/529135428092190720
+| 2014_Nov_02 | 01:11:16 | Organ Trail (part 2) | twitch.tv/videos/44808503 | youtube.com/watch?v=8WuzKE7VETQ | https://twitter.com/PreviouslyRec/status/529135428092190720
 | 2014_Nov_17 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk
 | 2014_Nov_17 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | twitch.tv/videos/44791997 | youtube.com/watch?v=Eno8xf0T__E
 | 2014_Nov_18 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ
