@@ -587,75 +587,77 @@
 | 2016_Jun_30 | 01:43:58 | DOOMED (part 2) | twitch.tv/videos/75314023 | youtube.com/watch?v=7zjBBuvpa0Y
 | 2016_Jul_05 | 02:05:28 | DOOMED (part 3) | twitch.tv/videos/76327671 | youtube.com/watch?v=rLdKIukgxTo
 | 2016_Jul_05 | 01:47:13 | DOOMED (part 4) | twitch.tv/videos/76328252 | youtube.com/watch?v=ttiVVoN5oXQ
-| 2016_Jul_05 | 01:59:56 | Wrighting Wrongs (phoenix Wright part 2) | twitch.tv/videos/76328899 | 
-| 2016_Jul_05 | 02:08:55 | Wrighting Wrongs (phoenix Wright part 3) | twitch.tv/videos/76328977 | 
-| 2016_Jul_12 | 02:13:40 | Feather Dusker (Duskers part 1) | twitch.tv/videos/77618342 | 
-| 2016_Jul_12 | 02:15:45 | Feather Dusker (Duskers part 2) | twitch.tv/videos/77620431 | 
-| 2016_Jul_19 | 01:12:12 | Brutality (Episode 1) | twitch.tv/videos/78860332 | 
-| 2016_Jul_19 | 01:17:28 | Brutality (Episode 2) | twitch.tv/videos/78861099 | 
-| 2016_Jul_19 | 01:08:16 | Brutality (Episode 3) | twitch.tv/videos/78861835 | 
-| 2016_Jul_22 | 01:59:28 | 20XX Xtreme (part 1) | twitch.tv/videos/79407133 | 
-| 2016_Jul_22 | 02:13:37 | 20XX Xtreme (part 2) (Co-op) | twitch.tv/videos/79410108 | 
-| 2016_Jul_22 | 03:55:16 | The Flame in the Flood (Jack Solo) | twitch.tv/videos/79462827 | 
-| 2016_Jul_23 | 01:08:14 | Mirror's Mirror on the Edge (Jack Solo) (part 1) | twitch.tv/videos/79478816 | 
-| 2016_Jul_23 | 01:59:05 | Mirror's Mirror on the Edge (Jack Solo) (part 2) | twitch.tv/videos/79478905 | 
-| 2016_Jul_27 | 01:58:20 | Steamworld Heist(XCOM but for Jack) (part 1) | twitch.tv/videos/80274328 | 
-| 2016_Jul_27 | 02:26:59 | Steamworld Heist(XCOM but for Jack) (part 2) | twitch.tv/videos/80278709 | 
-| 2016_Jul_29 | 01:40:40 | Shooting Demons is (Wasted) Space | twitch.tv/videos/80634752 | 
-| 2016_Jul_29 | 01:43:54 | Dancing Demons | twitch.tv/videos/80640934 | 
-| 2016_Jul_31 | 02:24:43 | Mighty! Mighty! Mighty! | twitch.tv/videos/81034152 | 
-| 2016_Aug_01 | 01:37:34 | DOOMButt()() | twitch.tv/videos/81105242 | 
-| 2016_Aug_01 | 01:26:32 | Rocket LeagueButt()() | twitch.tv/videos/81107848 | 
-| 2016_Aug_04 | 01:52:24 | Phoenix Wright... am I right!?! (part 1) | twitch.tv/videos/81734925 | 
-| 2016_Aug_04 | 01:58:39 | Phoenix Wright... am I right!?! (part 2) | twitch.tv/videos/81735485 | 
-| 2016_Aug_04 | 03:31:33 | Rich Solo DOOM(Gungeon) | twitch.tv/videos/81738163 | 
-| 2016_Aug_04 | 01:55:52 | Inside Insides (part 1) | twitch.tv/videos/81760762 | 
-| 2016_Aug_04 | 02:07:37 | Inside Insides (part 2) | twitch.tv/videos/81767971 | 
-| 2016_Aug_05 | 01:36:16 | Furi Road (part 1) | twitch.tv/videos/81923646 | 
-| 2016_Aug_05 | 01:48:05 | Furi Road (part 2) | twitch.tv/videos/81926491 | 
-| 2016_Aug_05 | 02:03:20 | Crypts of Necropolis (No Dancing Run) (part 1) | twitch.tv/videos/81967175 | 
-| 2016_Aug_05 | 02:12:38 | Crypts of Necropolis (No Dancing Run) (part 2) | twitch.tv/videos/81973383 | 
-| 2016_Aug_13 | 01:47:36 | BOOring (GhostControl Inc. part 1) | twitch.tv/videos/83288826 | 
-| 2016_Aug_13 | 01:46:43 | BOOring (GhostControl Inc. part 2) | twitch.tv/videos/83293743 | 
-| 2016_Aug_13 | 01:38:08 | Disfunctional! (Defunct) | twitch.tv/videos/83302407 | 
-| 2016_Aug_13 | 01:19:33 | HANDymen, get it??? (Hand of Fate) | twitch.tv/videos/83306278 | 
-| 2016_Aug_13 | 01:31:40 | Head Games (Headlander part 1) | twitch.tv/videos/83309429 | 
-| 2016_Aug_13 | 01:22:51 | Head Games (Headlander part 2) | twitch.tv/videos/83310619 | 
-| 2016_Aug_13 | 01:23:24 | Quadrilateral Cowboy (part 1) | twitch.tv/videos/83312161 | 
-| 2016_Aug_13 | 01:25:38 | Quadrilateral Cowboy (part 2) | twitch.tv/videos/83313015 | 
-| 2016_Aug_25 | 00:36:49 | Severed - Cut off - Removed (part 1) | twitch.tv/videos/85633822 | 
-| 2016_Aug_25 | 01:44:36 | Severed - Cut off - Removed (part 2) | twitch.tv/videos/85640865 | 
-| 2016_Aug_25 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) | twitch.tv/videos/85642007 | 
-| 2016_Aug_25 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) | twitch.tv/videos/85642285 | 
-| 2016_Sep_01 | 02:18:43 | Pac-Man Fever (par-Man 256) | twitch.tv/videos/86932166 | 
-| 2016_Sep_01 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) | twitch.tv/videos/86933658 | 
-| 2016_Sep_01 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) | twitch.tv/videos/86934815 | 
-| 2016_Sep_01 | 01:29:03 | No Man's Sigh (part 1) | twitch.tv/videos/86935345 | 
-| 2016_Sep_01 | 02:03:56 | No Man's Lie (part 2) | twitch.tv/videos/86935887 | 
-| 2016_Sep_01 | 02:02:53 | No Man's Why???? (part 3) | twitch.tv/videos/86935961 | 
-| 2016_Sep_01 | 01:34:52 | Cop a Feel (police Quest 3 part 1) | twitch.tv/videos/86936529 | 
-| 2016_Sep_01 | 01:37:23 | Cop a Feel (police Quest 3 part 2) | twitch.tv/videos/86936589 | 
-| 2016_Sep_15 | 01:36:56 | Starbound and Gagged | twitch.tv/videos/89403961 | 
-| 2016_Sep_15 | 02:00:22 | Rocket to the Stars (Rocket League) | twitch.tv/videos/89406064 | 
-| 2016_Sep_15 | 04:49:25 | Jack's Heart Pounding PC Build!!!!! | twitch.tv/videos/89406952 | 
-| 2016_Sep_15 | 01:51:16 | Overwatch, but not XCOM related :( (part 1) | twitch.tv/videos/89408212 | 
-| 2016_Sep_15 | 01:48:46 | Overwatch, but not XCOM related :( (part 2) | twitch.tv/videos/89409248 | 
-| 2016_Sep_25 | 04:31:24 | Deus Ex Richinema (Rich Solo) | twitch.tv/videos/91287060 | 
-| 2016_Sep_25 | 03:45:49 | Slay the Orcs!!! (Orcs Must Die) pt.1 | twitch.tv/videos/91287869 | 
-| 2016_Sep_25 | 01:48:28 | Slay the Orcs!!! (Orcs Must Die) pt.2 | twitch.tv/videos/91289694 | 
-| 2016_Sep_25 | 02:14:49 | Slay the Orcs!!! (Orcs Must Die) pt.3 | twitch.tv/videos/91290891 | 
-| 2016_Oct_03 | 00:56:12 | Eff Tee El. (part 1)(Rich Solo) | twitch.tv/videos/92836955 | 
-| 2016_Oct_03 | 01:53:58 | Eff Tee El (part 2) | twitch.tv/videos/92840111 | 
-| 2016_Oct_05 | 01:30:45 | Siiiick Pokemon radiation BURN!! (part 1) | twitch.tv/videos/93142788 | 
-| 2016_Oct_05 | 01:40:48 | Siiiick Pokemon radiation BURN!! (part 2) | twitch.tv/videos/93146538 | 
-| 2016_Oct_09 | 01:16:48 | ReCore-ded Previously (part 1) | twitch.tv/videos/93938409 | 
-| 2016_Oct_09 | 01:27:51 | ReCore-ded Previously (part 2) | twitch.tv/videos/93943026 | 
-| 2016_Oct_11 | 01:09:46 | Sir, You are not finding the 3DS Capture Software (part 1) | twitch.tv/videos/94323059 | 
-| 2016_Oct_11 | 01:15:08 | Sir, You are not finding the 3DS Capture Software (part 2) | twitch.tv/videos/94326654 | 
-| 2016_Oct_12 | 01:13:46 | Sir, You are not finding the 3DS Capture Software (part 3) | twitch.tv/videos/94512401 | 
-| 2016_Oct_12 | 01:07:28 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 1) | twitch.tv/videos/94523016 | 
-| 2016_Oct_13 | 01:28:29 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 2) | twitch.tv/videos/94680271 | 
-| 2016_Oct_17 | 02:01:52 | Forever and ever and Everspace (part 1) | twitch.tv/videos/95513207 | 
+| 2016_Jul_05 | 01:59:56 | Wrighting Wrongs (phoenix Wright part 2) | twitch.tv/videos/76328899 | youtube.com/watch?v=kAR2hW5QoWY
+| 2016_Jul_05 | 02:08:55 | Wrighting Wrongs (phoenix Wright part 3) | twitch.tv/videos/76328977 | youtube.com/watch?v=eMsftXlDEdg
+| 2016_Jul_12 | 02:13:40 | Feather Dusker (Duskers part 1) | twitch.tv/videos/77618342 | youtube.com/watch?v=TJ_hbTT1yZ8
+| 2016_Jul_12 | 02:15:45 | Feather Dusker (Duskers part 2) | twitch.tv/videos/77620431 | youtube.com/watch?v=mbL_Ac2t0Ac
+| 2016_Jul_13 | 00:39:31 | Pokemon Go! clusterfuck yourself | No Twitch video | youtube.com/watch?v=jHjVtnYrFMo
+| 2016_Jul_19 | 01:12:12 | Brutality (Episode 1) | twitch.tv/videos/78860332 | youtube.com/watch?v=P_Wz1-tKBuU
+| 2016_Jul_19 | 01:17:28 | Brutality (Episode 2) | twitch.tv/videos/78861099 | youtube.com/watch?v=jnwA_THZOC0
+| 2016_Jul_19 | 01:08:16 | Brutality (Episode 3) | twitch.tv/videos/78861835 | youtube.com/watch?v=5729c2oSbVI
+| 2016_Jul_22 | 01:59:28 | 20XX Xtreme (part 1) | twitch.tv/videos/79407133 | youtube.com/watch?v=wkesh4ub6Rs
+| 2016_Jul_22 | 02:13:37 | 20XX Xtreme (part 2) (Co-op) | twitch.tv/videos/79410108 | youtube.com/watch?v=3B4gXudNLwc
+| 2016_Jul_22 | 03:55:16 | The Flame in the Flood (Jack Solo) | twitch.tv/videos/79462827 | youtube.com/watch?v=PYcGNlzBf94
+| 2016_Jul_23 | 01:08:14 | Mirror's Mirror on the Edge (Jack Solo) (part 1) | twitch.tv/videos/79478816 | youtube.com/watch?v=1Mzmq0qBe_A
+| 2016_Jul_23 | 01:59:05 | Mirror's Mirror on the Edge (Jack Solo) (part 2) | twitch.tv/videos/79478905 | youtube.com/watch?v=KAMmbXadq80
+| 2016_Jul_27 | 01:58:20 | Steamworld Heist(XCOM but for Jack) (part 1) | twitch.tv/videos/80274328 | youtube.com/watch?v=crK0q28GGVc
+| 2016_Jul_27 | 02:26:59 | Steamworld Heist(XCOM but for Jack) (part 2) | twitch.tv/videos/80278709 | youtube.com/watch?v=BlTglisQCjg
+| 2016_Jul_29 | 01:40:40 | Shooting Demons is (Wasted) Space | twitch.tv/videos/80634752 | youtube.com/watch?v=VoOqFs6eAGU
+| 2016_Jul_29 | 01:43:54 | Dancing Demons | twitch.tv/videos/80640934 | youtube.com/watch?v=ANHVyFEH0F0
+| 2016_Jul_31 | 02:24:43 | Mighty! Mighty! Mighty! | twitch.tv/videos/81034152 | youtube.com/watch?v=KYDx4rTgepk
+| 2016_Aug_01 | 01:37:34 | DOOMButt()() | twitch.tv/videos/81105242 | youtube.com/watch?v=aQXS5HNiJAs
+| 2016_Aug_01 | 01:26:32 | Rocket LeagueButt()() | twitch.tv/videos/81107848 | youtube.com/watch?v=WdNy6jU9FmA
+| 2016_Aug_04 | 01:52:24 | Phoenix Wright... am I right!?! (part 1) | twitch.tv/videos/81734925 | youtube.com/watch?v=Dst6Xhqmq8s
+| 2016_Aug_04 | 01:58:39 | Phoenix Wright... am I right!?! (part 2) | twitch.tv/videos/81735485 | youtube.com/watch?v=MHems-oLfOY
+| 2016_Aug_04 | 03:31:33 | Rich Solo DOOM(Gungeon) | twitch.tv/videos/81738163 | youtube.com/watch?v=L_g1IzVSBhk
+| 2016_Aug_04 | 01:55:52 | Inside Insides (part 1) | twitch.tv/videos/81760762 | youtube.com/watch?v=jdzYdYm4EV4
+| 2016_Aug_04 | 02:07:37 | Inside Insides (part 2) | twitch.tv/videos/81767971 | youtube.com/watch?v=c44kQIm3m9k
+| 2016_Aug_05 | 01:36:16 | Furi Road (part 1) | twitch.tv/videos/81923646 | youtube.com/watch?v=qmhRv0EQB_w
+| 2016_Aug_05 | 01:48:05 | Furi Road (part 2) | twitch.tv/videos/81926491 | youtube.com/watch?v=FVzETBZo-Z0
+| 2016_Aug_05 | 02:03:20 | Crypts of Necropolis (No Dancing Run) (part 1) | twitch.tv/videos/81967175 | youtube.com/watch?v=lnmLy6S0bnU
+| 2016_Aug_05 | 02:12:38 | Crypts of Necropolis (No Dancing Run) (part 2) | twitch.tv/videos/81973383 | youtube.com/watch?v=grbwAT_tCJA
+| 2016_Aug_13 | 01:47:36 | BOOring (GhostControl Inc. part 1) | twitch.tv/videos/83288826 | youtube.com/watch?v=W51qOKRoKZo
+| 2016_Aug_13 | 01:46:43 | BOOring (GhostControl Inc. part 2) | twitch.tv/videos/83293743 | youtube.com/watch?v=i_T-pCS4IF0
+| 2016_Aug_13 | 01:38:08 | Disfunctional! (Defunct) | twitch.tv/videos/83302407 | youtube.com/watch?v=siI2gAT6QVM
+| 2016_Aug_13 | 01:19:33 | HANDymen, get it??? (Hand of Fate) | twitch.tv/videos/83306278 | youtube.com/watch?v=lYWzllq0qGY
+| 2016_Aug_13 | 01:31:40 | Head Games (Headlander part 1) | twitch.tv/videos/83309429 | youtube.com/watch?v=Tw7vkZoBH1w
+| 2016_Aug_13 | 01:22:51 | Head Games (Headlander part 2) | twitch.tv/videos/83310619 | youtube.com/watch?v=eSv0vxb0_0k
+| 2016_Aug_13 | 01:23:24 | Quadrilateral Cowboy (part 1) | twitch.tv/videos/83312161 | youtube.com/watch?v=2JjmlJvFvAw
+| 2016_Aug_13 | 01:25:38 | Quadrilateral Cowboy (part 2) | twitch.tv/videos/83313015 | youtube.com/watch?v=xUIf-H6T1zw
+| 2016_Aug_25 | 00:36:49 | Severed - Cut off - Removed (part 1) | twitch.tv/videos/85633822 | youtube.com/watch?v=N9qTEAVgNn8
+| 2016_Aug_25 | 01:44:36 | Severed - Cut off - Removed (part 2) | twitch.tv/videos/85640865 | youtube.com/watch?v=ZHK1F5BOR1M
+| 2016_Aug_25 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) | twitch.tv/videos/85642007 | Duplicate: see lines 627 & 628
+| 2016_Aug_25 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) | twitch.tv/videos/85642285 | Duplicate: see lines 627, 628, & 629
+| 2016_Sep_01 | 02:18:43 | Pac-Man Fever (par-Man 256) | twitch.tv/videos/86932166 | youtube.com/watch?v=kwjaUqSrNsg
+| 2016_Sep_01 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) | twitch.tv/videos/86933658 | youtube.com/watch?v=vHot35dw4qM
+| 2016_Sep_01 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) | twitch.tv/videos/86934815 | youtube.com/watch?v=QFKn7iFds1o
+| 2016_Sep_01 | 01:29:03 | No Man's Sigh (part 1) | twitch.tv/videos/86935345 | youtube.com/watch?v=km0okWxy0VI
+| 2016_Sep_01 | 02:03:56 | No Man's Lie (part 2) | twitch.tv/videos/86935887 | youtube.com/watch?v=E-vUQYarjeU
+| 2016_Sep_01 | 02:02:53 | No Man's Why???? (part 3) | twitch.tv/videos/86935961 | youtube.com/watch?v=E-vUQYarjeU
+| 2016_Sep_01 | 01:34:52 | Cop a Feel (police Quest 3 part 1) | twitch.tv/videos/86936529 | youtube.com/watch?v=0CpDWvp6fUc
+| 2016_Sep_01 | 01:37:23 | Cop a Feel (police Quest 3 part 2) | twitch.tv/videos/86936589 | youtube.com/watch?v=gUAxMIbkdbA
+| 2016_Sep_15 | 01:36:56 | Starbound and Gagged | twitch.tv/videos/89403961 | youtube.com/watch?v=VkEcco8OoOM
+| 2016_Sep_15 | 02:00:22 | Rocket to the Stars (Rocket League) | twitch.tv/videos/89406064 | youtube.com/watch?v=Mx0RofOYeUw
+| 2016_Sep_15 | 04:49:25 | Jack's Heart Pounding PC Build!!!!! | twitch.tv/videos/89406952 | youtube.com/watch?v=rBWzz4oALd4
+| 2016_Sep_15 | 01:51:16 | Overwatch, but not XCOM related :( (part 1) | twitch.tv/videos/89408212 | youtube.com/watch?v=akIoOFvE048
+| 2016_Sep_15 | 01:48:46 | Overwatch, but not XCOM related :( (part 2) | twitch.tv/videos/89409248 | youtube.com/watch?v=8E8EaL4tTAE
+| 2016_Sep_25 | 04:31:24 | Deus Ex Richinema (Rich Solo) | twitch.tv/videos/91287060 | youtube.com/watch?v=uWuTvtefcMc
+| 2016_Sep_25 | 03:45:49 | Slay the Orcs!!! (Orcs Must Die) pt.1 | twitch.tv/videos/91287869 | youtube.com/watch?v=mq7dc0Ii6-U
+| 2016_Sep_25 | 01:48:28 | Slay the Orcs!!! (Orcs Must Die) pt.2 | twitch.tv/videos/91289694 | youtube.com/watch?v=KTq9iSOcPKs
+| 2016_Sep_25 | 02:14:49 | Slay the Orcs!!! (Orcs Must Die) pt.3 | twitch.tv/videos/91290891 | youtube.com/watch?v=B8Yr4tz3gwg
+| 2016_Oct_03 | 00:56:12 | Eff Tee El. (part 1)(Rich Solo) | twitch.tv/videos/92836955 | youtube.com/watch?v=joOsp55-ohU
+| 2016_Oct_03 | 01:53:58 | Eff Tee El (part 2) | twitch.tv/videos/92840111 | youtube.com/watch?v=-LNiKDwxJiA
+| 2016_Oct_05 | 01:30:45 | Siiiick Pokemon radiation BURN!! (part 1) | twitch.tv/videos/93142788 | youtube.com/watch?v=CN2wVarsnk0
+| 2016_Oct_05 | 01:40:48 | Siiiick Pokemon radiation BURN!! (part 2) | twitch.tv/videos/93146538 | youtube.com/watch?v=YuGgtdqdobI
+| 2016_Oct_09 | 01:16:48 | ReCore-ded Previously (part 1) | twitch.tv/videos/93938409 | youtube.com/watch?v=8cmjVgzfbIY
+| 2016_Oct_09 | 01:27:51 | ReCore-ded Previously (part 2) | twitch.tv/videos/93943026 | youtube.com/watch?v=khVqDL_66oA
+| 2016_Oct_11 | 01:09:46 | Sir, You are not finding the 3DS Capture Software (part 1) | twitch.tv/videos/94323059 | youtube.com/watch?v=O_GBWUMSbD0
+| 2016_Oct_11 | 01:15:08 | Sir, You are not finding the 3DS Capture Software (part 2) | twitch.tv/videos/94326654 | youtube.com/watch?v=ie88vqpBKZ0
+| 2016_Oct_12 | 01:13:46 | Sir, You are not finding the 3DS Capture Software (part 3) | twitch.tv/videos/94512401 | youtube.com/watch?v=kBaVY4nnFZE
+| 2016_Oct_12 | 01:07:28 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 1) | twitch.tv/videos/94523016 | youtube.com/watch?v=-Pwa8HdQWL8
+| 2016_Oct_13 | 01:28:29 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 2) | twitch.tv/videos/94680271 | youtube.com/watch?v=wNgZAviICUQ
+| 2016_Oct_?? | 00:03:24 | Finding a Match in Gears of War 4 |  | youtube.com/watch?v=cXWB3OEIV0k
+| 2016_Oct_17 | 02:01:52 | Forever and ever and Everspace (part 1) | twitch.tv/videos/95513207 | youtube.com/watch?v=uaNdS6b9sHk
 | 2016_Oct_17 | 02:03:01 | Forever and ever and Everspace (part 2) | twitch.tv/videos/95516012 | 
 | 2016_Oct_17 | 00:01:12 | JESUS TAKE THE WHEEL!!! | twitch.tv/videos/95518617 | 
 | 2016_Oct_19 | 01:33:52 | Go Truck Yourself (part 1) | twitch.tv/videos/95906142 | 
