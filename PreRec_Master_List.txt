@@ -645,6 +645,8 @@
 | 2016_Sep_25 | 03:45:49 | Slay the Orcs!!! (Orcs Must Die) pt.1 | twitch.tv/videos/91287869 | youtube.com/watch?v=mq7dc0Ii6-U
 | 2016_Sep_25 | 01:48:28 | Slay the Orcs!!! (Orcs Must Die) pt.2 | twitch.tv/videos/91289694 | youtube.com/watch?v=KTq9iSOcPKs
 | 2016_Sep_25 | 02:14:49 | Slay the Orcs!!! (Orcs Must Die) pt.3 | twitch.tv/videos/91290891 | youtube.com/watch?v=B8Yr4tz3gwg
+| 2016_Sep_28 | 01:33:52 | Go Truck Yourself (part 1) | twitch.tv/videos/95906142 | youtube.com/watch?v=Y-fIJxddYu8
+| 2016_Sep_28 | 01:35:59 | Go Truck Yourself (part 2) | twitch.tv/videos/95943925 | youtube.com/watch?v=1zykgSXywlI
 | 2016_Oct_03 | 00:56:12 | Eff Tee El. (part 1)(Rich Solo) | twitch.tv/videos/92836955 | youtube.com/watch?v=joOsp55-ohU
 | 2016_Oct_03 | 01:53:58 | Eff Tee El (part 2) | twitch.tv/videos/92840111 | youtube.com/watch?v=-LNiKDwxJiA
 | 2016_Oct_05 | 01:30:45 | Siiiick Pokemon radiation BURN!! (part 1) | twitch.tv/videos/93142788 | youtube.com/watch?v=CN2wVarsnk0
@@ -666,40 +668,38 @@
 | 2016_Oct_17 | 02:01:52 | Forever and ever and Everspace (part 1) | twitch.tv/videos/95513207 | youtube.com/watch?v=uaNdS6b9sHk
 | 2016_Oct_17 | 02:03:01 | Forever and ever and Everspace (part 2) | twitch.tv/videos/95516012 | youtube.com/watch?v=MFAXLD80HBU
 | 2016_Oct_17 | 00:01:12 | JESUS TAKE THE WHEEL!!! | twitch.tv/videos/95518617 | No YouTube video
-| 2016_Oct_19 | 01:33:52 | Go Truck Yourself (part 1) | twitch.tv/videos/95906142 | youtube.com/watch?v=Y-fIJxddYu8
-| 2016_Oct_19 | 01:35:59 | Go Truck Yourself (part 2) | twitch.tv/videos/95943925 | youtube.com/watch?v=1zykgSXywlI
-| 2016_Oct_27 | 01:29:56 | Stealing my Heart (Thief Gold part 1) | twitch.tv/videos/97391427 | 
-| 2016_Oct_27 | 01:42:29 | Stealing my Heart (Thief Gold part 2) | twitch.tv/videos/97391954 | 
-| 2016_Oct_30 | 01:11:04 | Grind my Gears (part 1) | twitch.tv/videos/97970799 | 
-| 2016_Oct_30 | 01:08:28 | Grind my Gears (part 2) | twitch.tv/videos/97971993 | 
-| 2016_Oct_30 | 01:31:20 | Grind my Gears (part 3) (mostly multplayer) | twitch.tv/videos/97972352 | 
-| 2016_Oct_30 | 01:50:28 | Taking the Bullet (part 1) | twitch.tv/videos/97972944 | 
-| 2016_Oct_30 | 02:19:10 | Take the Bullet (part 2) | twitch.tv/videos/97973142 | 
-| 2016_Nov_13 | 01:54:16 | Domo Aragami Mr Roboto (part 1) | twitch.tv/videos/100808171 | 
-| 2016_Nov_13 | 01:50:46 | Domo Aragami Mr. Roboto (part 2) | twitch.tv/videos/100809409 | 
-| 2016_Nov_16 | 01:48:56 | Hide and Seek (Dead by Daylight) | twitch.tv/videos/101455170 | 
-| 2016_Nov_16 | 02:24:01 | Old Ghoul (Halloween Forever) | twitch.tv/videos/101458302 | 
-| 2016_Nov_20 | 01:35:32 | Dawn of the Dumb (part 1) | twitch.tv/videos/102140403 | 
-| 2016_Nov_20 | 01:30:00 | Dawn of the Dumb (part 2) | twitch.tv/videos/102142674 | 
-| 2016_Nov_20 | 03:04:13 | Owlboy and the Funky Bunch | twitch.tv/videos/102143252 | 
-| 2016_Nov_20 | 01:37:36 | Halcy.... nope FTL. (part 1) | twitch.tv/videos/102148914 | 
-| 2016_Nov_20 | 01:50:51 | Halcy.... nope FTL. (part 2) | twitch.tv/videos/102154414 | 
-| 2016_Nov_20 | 02:47:00 | Basically FTL (''FTL'') | twitch.tv/videos/102159343 | 
-| 2016_Nov_20 | 01:14:37 | Get Old Faster!! (GoNNER) | twitch.tv/videos/102160676 | 
-| 2016_Nov_29 | 00:05:24 | Footage for Rich's Speedrun. | twitch.tv/videos/104163944 | 
-| 2016_Dec_04 | 02:21:00 | Stardew my Nutsack, er Rucksack | twitch.tv/videos/105345451 | 
-| 2016_Dec_04 | 00:34:23 | Dissin' On the Herd (part 1.1) | twitch.tv/videos/105345972 | 
-| 2016_Dec_04 | 01:32:50 | Dissin' On the Herd (part 1.2) | twitch.tv/videos/105346294 | 
-| 2016_Dec_08 | 01:41:24 | The Finding of My Nutsack (part 1) | twitch.tv/videos/106105652 | 
-| 2016_Dec_08 | 01:06:48 | The Finding of My Nutsack (part 2) | twitch.tv/videos/106143918 | 
-| 2016_Dec_12 | 01:35:16 | Mega Punching Pokemon Moon (part 1) | twitch.tv/videos/107010250 | 
-| 2016_Dec_12 | 01:43:30 | Mega Punching Pokemon Moon (part 2) | twitch.tv/videos/107013090 | 
-| 2016_Dec_16 | 01:56:20 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 1) | twitch.tv/videos/107841103 | 
-| 2016_Dec_16 | 01:48:42 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 2) | twitch.tv/videos/107848041 | 
-| 2016_Dec_19 | 02:21:08 | Jack, the Indiscriminate Assassin (part 1) | twitch.tv/videos/108528566 | 
-| 2016_Dec_21 | 01:28:22 | Jack, the Indiscriminate Assassin (part 2) | twitch.tv/videos/108980401 | 
-| 2016_Dec_21 | 02:02:52 | Everspaced out... man. (part 1) | twitch.tv/videos/108994115 | 
-| 2016_Dec_21 | 02:04:17 | Everspaced out... man. (part 2) | twitch.tv/videos/109008558 | 
+| 2016_Oct_27 | 01:29:56 | Stealing my Heart (Thief Gold part 1) | twitch.tv/videos/97391427 | youtube.com/watch?v=sfSr3uj_jpg
+| 2016_Oct_27 | 01:42:29 | Stealing my Heart (Thief Gold part 2) | twitch.tv/videos/97391954 | youtube.com/watch?v=Flh8pCsoxt4
+| 2016_Oct_30 | 01:11:04 | Grind my Gears (part 1) | twitch.tv/videos/97970799 | youtube.com/watch?v=9-6kDrAw41c
+| 2016_Oct_30 | 01:08:28 | Grind my Gears (part 2) | twitch.tv/videos/97971993 | youtube.com/watch?v=Yq_UDBI-UcU
+| 2016_Oct_30 | 01:31:20 | Grind my Gears (part 3) (mostly multplayer) | twitch.tv/videos/97972352 | youtube.com/watch?v=2FgCRlAIyKc
+| 2016_Oct_30 | 01:50:28 | Taking the Bullet (part 1) | twitch.tv/videos/97972944 | youtube.com/watch?v=LFuN0kBwuDo
+| 2016_Oct_30 | 02:19:10 | Take the Bullet (part 2) | twitch.tv/videos/97973142 | youtube.com/watch?v=gRTzH3nnprQ
+| 2016_Nov_13 | 01:54:16 | Domo Aragami Mr Roboto (part 1) | twitch.tv/videos/100808171 | youtube.com/watch?v=ZgPCOkzWmYc
+| 2016_Nov_13 | 01:50:46 | Domo Aragami Mr. Roboto (part 2) | twitch.tv/videos/100809409 | youtube.com/watch?v=ytLojRb5QJA
+| 2016_Nov_16 | 01:48:56 | Hide and Seek (Dead by Daylight) | twitch.tv/videos/101455170 | youtube.com/watch?v=5oYTr2bDRqc
+| 2016_Nov_16 | 02:24:01 | Old Ghoul (Halloween Forever) | twitch.tv/videos/101458302 | youtube.com/watch?v=B3FtDHDHi5o
+| 2016_Nov_19 | 01:35:32 | Dawn of the Dumb (part 1) | twitch.tv/videos/102140403 | youtube.com/watch?v=M4C8Qy8Unr0
+| 2016_Nov_19 | 01:30:00 | Dawn of the Dumb (part 2) | twitch.tv/videos/102142674 | youtube.com/watch?v=2BwAAN8JnNM
+| 2016_Nov_19 | 03:04:13 | Owlboy and the Funky Bunch | twitch.tv/videos/102143252 | youtube.com/watch?v=VyQJ4Xxbao0
+| 2016_Nov_19 | 01:37:36 | Halcy.... nope FTL. (part 1) | twitch.tv/videos/102148914 | youtube.com/watch?v=JN-41C9XxII
+| 2016_Nov_19 | 01:50:51 | Halcy.... nope FTL. (part 2) | twitch.tv/videos/102154414 | youtube.com/watch?v=4vdOJItmi5E
+| 2016_Nov_19 | 02:47:00 | Basically FTL (''FTL'') | twitch.tv/videos/102159343 | youtube.com/watch?v=cOp5gZapLeA
+| 2016_Nov_19 | 01:14:37 | Get Old Faster!! (GoNNER) | twitch.tv/videos/102160676 | youtube.com/watch?v=ZwMAczusy3I
+| 2016_Nov_29 | 00:05:24 | Footage for Rich's Speedrun. | twitch.tv/videos/104163944 | No YouTube video
+| 2016_Dec_04 | 02:21:00 | Stardew my Nutsack, er Rucksack | twitch.tv/videos/105345451 | youtube.com/watch?v=M3X4jcg1PTg
+| 2016_Dec_04 | 00:34:23 | Dissin' On the Herd (part 1.1) | twitch.tv/videos/105345972 | youtube.com/watch?v=91P1wN3yAIE
+| 2016_Dec_04 | 01:32:50 | Dissin' On the Herd (part 1.2) | twitch.tv/videos/105346294 | Duplicate: see line 691
+| 2016_Dec_08 | 01:41:24 | The Finding of My Nutsack (part 1) | twitch.tv/videos/106105652 | youtube.com/watch?v=m_33Djnw7CE
+| 2016_Dec_08 | 01:06:48 | The Finding of My Nutsack (part 2) | twitch.tv/videos/106143918 | youtube.com/watch?v=1wNLJF5c6RY
+| 2016_Dec_12 | 01:35:16 | Mega Punching Pokemon Moon (part 1) | twitch.tv/videos/107010250 | youtube.com/watch?v=ivpHuzTg4gw
+| 2016_Dec_12 | 01:43:30 | Mega Punching Pokemon Moon (part 2) | twitch.tv/videos/107013090 | youtube.com/watch?v=RPBUz7q0mp0
+| 2016_Dec_16 | 01:56:20 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 1) | twitch.tv/videos/107841103 | youtube.com/watch?v=ZrFyw1m_r_Y
+| 2016_Dec_16 | 01:48:42 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 2) | twitch.tv/videos/107848041 | youtube.com/watch?v=0GfygGKddFU
+| 2016_Dec_19 | 02:21:08 | Jack, the Indiscriminate Assassin (part 1) | twitch.tv/videos/108528566 | youtube.com/watch?v=0TSJt9hpt9s
+| 2016_Dec_21 | 01:28:22 | Jack, the Indiscriminate Assassin (part 2) | twitch.tv/videos/108980401 | youtube.com/watch?v=LQoc7ZOFNvo
+| 2016_Dec_21 | 02:02:52 | Everspaced out... man. (part 1) | twitch.tv/videos/108994115 | youtube.com/watch?v=h60mmnzRT74
+| 2016_Dec_21 | 02:04:17 | Everspaced out... man. (part 2) | twitch.tv/videos/109008558 | youtube.com/watch?v=mj7-QRVZctE
 | 2017_Jan_05 | 00:06:24 | A little taste of Frog Fractions 2 | twitch.tv/videos/112296480 | 
 | 2017_Jan_05 | 02:04:40 | Chatting with Edmund McMiien | twitch.tv/videos/112316377 | 
 | 2017_Jan_05 | 01:48:24 | X-Classic (part 1) | twitch.tv/videos/112357634 | 
