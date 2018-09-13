@@ -406,9 +406,9 @@
 | 2015_Sep_23 | 01:08:15 | Rocket League Challenge (part 3) | twitch.tv/videos/18913290 | youtube.com/watch?v=IDOHWnW9B8c | twitter.com/PreviouslyRec/status/646839873505259524
 | 2015_Sep_27 | 00:42:07 | Uncomfortable Showers | twitch.tv/videos/19436970 | youtube.com/watch?v=xeJOJzUNF04 | twitter.com/PreviouslyRec/status/648226691295375360
 | 2015_Sep_28 | 01:19:30 | Go Westarado, Young Man | twitch.tv/videos/19438252 | youtube.com/watch?v=k5mDNTB3A38 | twitter.com/PreviouslyRec/status/648226691295375360
-| 2015_Oct_01 | 00:57:49 | Operation Dumbo Dropsy (part 1) | twitch.tv/videos/19882802 | youtube.com/watch?v=hADA_DiJo7w | 
-| 2015_Oct_01 | 01:00:48 | Operation Dumbo Dropsy (part 2) | twitch.tv/videos/19884896 | youtube.com/watch?v=lp2fBtgbzxY | 
-| 2015_Oct_01 | 00:52:22 | Operation Dumbo Dropsy (part 3) | twitch.tv/videos/19885977 | youtube.com/watch?v=CZD18vbuAn4 | 
+| 2015_Sep_30 | 00:57:49 | Operation Dumbo Dropsy (part 1) | twitch.tv/videos/19882802 | youtube.com/watch?v=hADA_DiJo7w | twitter.com/PreviouslyRec/status/649300478484987904
+| 2015_Sep_30 | 01:00:48 | Operation Dumbo Dropsy (part 2) | twitch.tv/videos/19884896 | youtube.com/watch?v=lp2fBtgbzxY | twitter.com/PreviouslyRec/status/649300478484987904
+| 2015_Sep_30 | 00:52:22 | Operation Dumbo Dropsy (part 3) | twitch.tv/videos/19885977 | youtube.com/watch?v=CZD18vbuAn4 | twitter.com/PreviouslyRec/status/649300478484987904
 | 2015_Oct_05 | 00:58:09 | Lakeview Cabin Fever (part 1) | twitch.tv/videos/20594377 | youtube.com/watch?v=B1YVWL_tblM | 
 | 2015_Oct_05 | 00:46:16 | Lakeview Cabin Fever (part 2) | twitch.tv/videos/20599546 | youtube.com/watch?v=wAOP1XiiFlQ | 
 | 2015_Oct_05 | 00:50:59 | Lakeview Cabin Fever (part 3) | twitch.tv/videos/20599918 | youtube.com/watch?v=Liu6pP8LSgQ | 
