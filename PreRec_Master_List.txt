@@ -101,11 +101,11 @@
 | 2014_Oct_19 | 01:00:08 | SUPER MEAT HACKS (part 1) | twitch.tv/videos/45138500 | youtube.com/watch?v=b8WR4asx5ec | https://twitter.com/PreviouslyRec/status/524006361302966272
 | 2014_Oct_19 | 00:11:35 | SUPER MEAT HACK (part 1.2) | twitch.tv/videos/45138298 | Duplicate: see above | https://twitter.com/PreviouslyRec/status/524006361302966272
 | 2014_Oct_19 | 00:44:46 | SUPER MEAT HACK (part 2) | twitch.tv/videos/45138127 | youtube.com/watch?v=PAbPG6Ybvnc | https://twitter.com/PreviouslyRec/status/524006361302966272
-| 2014_Oct_29 | 01:00:52 | Rich - Armchair General (part 1) | twitch.tv/videos/45138207 | youtube.com/watch?v=NpKCz4Hul8k
-| 2014_Oct_29 | 01:28:49 | Rich - Armchair General (part 2) | twitch.tv/videos/45137861 | youtube.com/watch?v=jpn-ygHy85Y
-| 2014_Oct_29 | 01:37:42 | Rich - Armchair General (part 3) | twitch.tv/videos/45137890 | youtube.com/watch?v=aaDCgfov2Uo
-| 2014_Oct_29 | 01:22:57 | 3D Dot Game Hacks | twitch.tv/videos/45137153 | youtube.com/watch?v=FKwSSJNAj98
-| 2014_Oct_29 | 00:53:48 | Lollipop Chainmail | twitch.tv/videos/45136964 | youtube.com/watch?v=F0TOSoq13PU
+| 2014_Oct_19 | 01:00:52 | Rich - Armchair General (part 1) | twitch.tv/videos/45138207 | youtube.com/watch?v=NpKCz4Hul8k | https://twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 01:28:49 | Rich - Armchair General (part 2) | twitch.tv/videos/45137861 | youtube.com/watch?v=jpn-ygHy85Y | https://twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 01:37:42 | Rich - Armchair General (part 3) | twitch.tv/videos/45137890 | youtube.com/watch?v=aaDCgfov2Uo | https://twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_22 | 01:22:57 | 3D Dot Game Hacks | twitch.tv/videos/45137153 | youtube.com/watch?v=FKwSSJNAj98 | https://twitter.com/PreviouslyRec/status/525072122477961216
+| 2014_Oct_22 | 00:53:48 | Lollipop Chainmail | twitch.tv/videos/45136964 | youtube.com/watch?v=F0TOSoq13PU | https://twitter.com/PreviouslyRec/status/525072122477961216
 | 2014_Oct_31 | 01:02:47 | Cavern Kings (part 1) - Hack & Half | twitch.tv/videos/45106769 | youtube.com/watch?v=k83gsIRUrFE
 | 2014_Oct_31 | 00:45:51 | Cavern Kings (part 2) Hack & Half | twitch.tv/videos/45105574 | youtube.com/watch?v=X_bWNL1kMYs
 | 2014_Oct_31 | 00:38:19 | Cavern Kings (part 3) Hack & Half | twitch.tv/videos/45105198 | youtube.com/watch?v=udfyy821Hlg
