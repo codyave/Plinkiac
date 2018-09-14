@@ -630,11 +630,11 @@
 | 2016_Aug_03 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) | Jack, Rich, Karin | twitch.tv/videos/85642007 | Duplicate: see lines 628 & 629 | twitter.com/PreviouslyRec/status/760891860239998976
 | 2016_Aug_03 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) | Jack, Rich, Karin | twitch.tv/videos/85642285 | Duplicate: see lines 628, 629 & 630 | twitter.com/PreviouslyRec/status/760891860239998976
 | 2016_Aug_07 | 02:18:43 | Pac-Man Fever (par-Man 256) | Rich, Karin | twitch.tv/videos/86932166 | youtube.com/watch?v=kwjaUqSrNsg | twitter.com/PreviouslyRec/status/762446624090009600
-| 2016_Aug_14 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) | twitch.tv/videos/86933658 | youtube.com/watch?v=vHot35dw4qM | twitter.com/PreviouslyRec/status/764879970493689856
-| 2016_Aug_14 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) | twitch.tv/videos/86934815 | youtube.com/watch?v=QFKn7iFds1o | twitter.com/PreviouslyRec/status/764879970493689856
-| 2016_Sep_01 | 01:29:03 | No Man's Sigh (part 1) | twitch.tv/videos/86935345 | youtube.com/watch?v=km0okWxy0VI | 
-| 2016_Sep_01 | 02:03:56 | No Man's Lie (part 2) | twitch.tv/videos/86935887 | youtube.com/watch?v=E-vUQYarjeU | 
-| 2016_Sep_01 | 02:02:53 | No Man's Why???? (part 3) | twitch.tv/videos/86935961 | youtube.com/watch?v=E-vUQYarjeU | 
+| 2016_Aug_10 | 01:29:03 | No Man's Sigh (part 1) | twitch.tv/videos/86935345 | youtube.com/watch?v=km0okWxy0VI | twitter.com/PreviouslyRec/status/763468413989781505
+| 2016_Aug_10 | 02:03:56 | No Man's Lie (part 2) | twitch.tv/videos/86935887 | youtube.com/watch?v=E-vUQYarjeU | twitter.com/PreviouslyRec/status/763468413989781505
+| 2016_Aug_10 | 02:02:53 | No Man's Why???? (part 3) | twitch.tv/videos/86935961 | youtube.com/watch?v=E-vUQYarjeU | twitter.com/PreviouslyRec/status/763468413989781505
+| 2016_Aug_14 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) | twitch.tv/videos/86933658 | youtube.com/watch? | twitter.com/PreviouslyRec/status/764879970493689856
+| 2016_Aug_14 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) | twitch.tv/videos/86934815 | youtube.com/watch? | twitter.com/PreviouslyRec/status/764879970493689856
 | 2016_Sep_01 | 01:34:52 | Cop a Feel (police Quest 3 part 1) | twitch.tv/videos/86936529 | youtube.com/watch?v=0CpDWvp6fUc | 
 | 2016_Sep_01 | 01:37:23 | Cop a Feel (police Quest 3 part 2) | twitch.tv/videos/86936589 | youtube.com/watch?v=gUAxMIbkdbA | 
 | 2016_Sep_15 | 01:36:56 | Starbound and Gagged | twitch.tv/videos/89403961 | youtube.com/watch?v=VkEcco8OoOM | 
