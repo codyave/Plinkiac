@@ -602,11 +602,11 @@
 | 2016_Jun_12 | 01:58:20 | Steamworld Heist(XCOM but for Jack) (part 1) | Jack, Rich | twitch.tv/videos/80274328 | youtube.com/watch?v=crK0q28GGVc | twitter.com/PreviouslyRec/status/742082663134044165
 | 2016_Jun_12 | 02:26:59 | Steamworld Heist(XCOM but for Jack) (part 2) | Jack, Rich | twitch.tv/videos/80278709 | youtube.com/watch?v=BlTglisQCjg | twitter.com/PreviouslyRec/status/742082663134044165
 | 2016_Jun_15 | 03:00:12 | E3 2016 Extravaganza. | Jack, Rich | twitch.tv/videos/72709214 | youtube.com/watch?v=tagfsS-joIY | twitter.com/PreviouslyRec/status/743175212062085120
-| 2016_Jul_29 | 01:40:40 | Shooting Demons is (Wasted) Space | twitch.tv/videos/80634752 | youtube.com/watch?v=VoOqFs6eAGU | 
-| 2016_Jul_29 | 01:43:54 | Dancing Demons | twitch.tv/videos/80640934 | youtube.com/watch?v=ANHVyFEH0F0 | 
-| 2016_Jul_31 | 02:24:43 | Mighty! Mighty! Mighty! | twitch.tv/videos/81034152 | youtube.com/watch?v=KYDx4rTgepk | 
-| 2016_Aug_01 | 01:37:34 | DOOMButt()() | twitch.tv/videos/81105242 | youtube.com/watch?v=aQXS5HNiJAs | 
-| 2016_Aug_01 | 01:26:32 | Rocket LeagueButt()() | twitch.tv/videos/81107848 | youtube.com/watch?v=WdNy6jU9FmA | 
+| 2016_Jun_19 | 01:40:40 | Shooting Demons is (Wasted) Space | Jack, Rich | twitch.tv/videos/80634752 | youtube.com/watch?v=VoOqFs6eAGU | twitter.com/PreviouslyRec/status/744619531503427584
+| 2016_Jun_19 | 01:43:54 | Dancing Demons | Jack, Rich | twitch.tv/videos/80640934 | youtube.com/watch?v=ANHVyFEH0F0 | twitter.com/PreviouslyRec/status/744619531503427584
+| 2016_Jun_22 | 02:24:43 | Mighty! Mighty! Mighty! | Jack, Rich | twitch.tv/videos/81034152 | youtube.com/watch?v=KYDx4rTgepk | twitter.com/PreviouslyRec/status/745711925858795523
+| 2016_Jun_29 | 01:37:34 | DOOMButt()() | Jack, Rich, Colin, April | twitch.tv/videos/81105242 | youtube.com/watch?v=aQXS5HNiJAs | twitter.com/PreviouslyRec/status/748232502943186944
+| 2016_Jun_29 | 01:26:32 | Rocket LeagueButt()() | Jack, Rich, Colin, April | twitch.tv/videos/81107848 | youtube.com/watch?v=WdNy6jU9FmA | twitter.com/PreviouslyRec/status/748232502943186944
 | 2016_Aug_04 | 01:52:24 | Phoenix Wright... am I right!?! (part 1) | twitch.tv/videos/81734925 | youtube.com/watch?v=Dst6Xhqmq8s | 
 | 2016_Aug_04 | 01:58:39 | Phoenix Wright... am I right!?! (part 2) | twitch.tv/videos/81735485 | youtube.com/watch?v=MHems-oLfOY | 
 | 2016_Aug_04 | 03:31:33 | Rich Solo DOOM(Gungeon) | twitch.tv/videos/81738163 | youtube.com/watch?v=L_g1IzVSBhk | 
