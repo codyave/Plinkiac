@@ -685,8 +685,8 @@
 | 2016_Nov_02 | 03:04:13 | Owlboy and the Funky Bunch | Jack | twitch.tv/videos/102143252 | youtube.com/watch?v=VyQJ4Xxbao0 | twitter.com/PreviouslyRec/status/793859355477028864
 | 2016_Nov_06 | 01:37:36 | Halcy.... nope FTL. (part 1) | twitch.tv/videos/102148914 | youtube.com/watch?v=JN-41C9XxII | twitter.com/PreviouslyRec/status/795416145432117248
 | 2016_Nov_06 | 01:50:51 | Halcy.... nope FTL. (part 2) | twitch.tv/videos/102154414 | youtube.com/watch?v=4vdOJItmi5E | twitter.com/PreviouslyRec/status/795416145432117248
-| 2016_Nov_19 | 02:47:00 | Basically FTL (''FTL'') | twitch.tv/videos/102159343 | youtube.com/watch?v=cOp5gZapLeA | 
-| 2016_Nov_19 | 01:14:37 | Get Old Faster!! (GoNNER) | twitch.tv/videos/102160676 | youtube.com/watch?v=ZwMAczusy3I | 
+| 2016_Nov_11 | 02:47:00 | Basically FTL (''FTL'') | Jack, Rich | twitch.tv/videos/102159343 | youtube.com/watch?v=cOp5gZapLeA | twitter.com/PreviouslyRec/status/797159417691127808
+| 2016_Nov_11 | 01:14:37 | Get Old Faster!! (GoNNER) | Jack, Rich, Karin | twitch.tv/videos/102160676 | youtube.com/watch?v=ZwMAczusy3I | twitter.com/PreviouslyRec/status/797159417691127808
 | 2016_Nov_29 | 00:05:24 | Footage for Rich's Speedrun. | twitch.tv/videos/104163944 | No YouTube video | 
 | 2016_Dec_04 | 02:21:00 | Stardew my Nutsack, er Rucksack | twitch.tv/videos/105345451 | youtube.com/watch?v=M3X4jcg1PTg | 
 | 2016_Dec_04 | 00:34:23 | Dissin' On the Herd (part 1.1) | twitch.tv/videos/105345972 | youtube.com/watch?v=91P1wN3yAIE | 
