@@ -596,9 +596,9 @@
 | 2016_May_29 | 01:08:16 | Brutality (Episode 3) | Jack, Rich | twitch.tv/videos/78861835 | youtube.com/watch?v=5729c2oSbVI | twitter.com/PreviouslyRec/status/737013612640894976
 | 2016_Jun_01 | 01:59:28 | 20XX Xtreme (part 1) | Jack, Rich | twitch.tv/videos/79407133 | youtube.com/watch?v=wkesh4ub6Rs | twitter.com/PreviouslyRec/status/738081430593495041
 | 2016_Jun_01 | 02:13:37 | 20XX Xtreme (part 2) (Co-op) | Jack, Rich | twitch.tv/videos/79410108 | youtube.com/watch?v=3B4gXudNLwc | twitter.com/PreviouslyRec/status/738081430593495041
-| 2016_Jun_05 | 03:55:16 | The Flame in the Flood (Jack Solo) | Jack | twitch.tv/videos/79462827 | youtube.com/watch?v=PYcGNlzBf94 | 
-| 2016_Jul_23 | 01:08:14 | Mirror's Mirror on the Edge (Jack Solo) (part 1) | Jack | twitch.tv/videos/79478816 | youtube.com/watch?v=1Mzmq0qBe_A | 
-| 2016_Jul_23 | 01:59:05 | Mirror's Mirror on the Edge (Jack Solo) (part 2) | Jack | twitch.tv/videos/79478905 | youtube.com/watch?v=KAMmbXadq80 | 
+| 2016_Jun_05 | 03:55:16 | The Flame in the Flood (Jack Solo) | Jack | twitch.tv/videos/79462827 | youtube.com/watch?v=PYcGNlzBf94 | twitter.com/PreviouslyRec/status/739540075973775361
+| 2016_Jul_08 | 01:08:14 | Mirror's Mirror on the Edge (Jack Solo) (part 1) | Jack | twitch.tv/videos/79478816 | youtube.com/watch?v=1Mzmq0qBe_A | twitter.com/PreviouslyRec/status/740603664675397632
+| 2016_Jul_08 | 01:59:05 | Mirror's Mirror on the Edge (Jack Solo) (part 2) | Jack | twitch.tv/videos/79478905 | youtube.com/watch?v=KAMmbXadq80 | twitter.com/PreviouslyRec/status/740603664675397632
 | 2016_Jul_27 | 01:58:20 | Steamworld Heist(XCOM but for Jack) (part 1) | twitch.tv/videos/80274328 | youtube.com/watch?v=crK0q28GGVc | 
 | 2016_Jul_27 | 02:26:59 | Steamworld Heist(XCOM but for Jack) (part 2) | twitch.tv/videos/80278709 | youtube.com/watch?v=BlTglisQCjg | 
 | 2016_Jul_29 | 01:40:40 | Shooting Demons is (Wasted) Space | twitch.tv/videos/80634752 | youtube.com/watch?v=VoOqFs6eAGU | 
