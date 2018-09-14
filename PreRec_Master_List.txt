@@ -623,10 +623,10 @@
 | 2016_Jul_24 | 01:19:33 | HANDymen, get it??? (Hand of Fate) | twitch.tv/videos/83306278 | youtube.com/watch?v=lYWzllq0qGY | twitter.com/PreviouslyRec/status/757286723772710916
 | 2016_Jul_27 | 01:31:40 | Head Games (Headlander part 1) | Jack, Rich | twitch.tv/videos/83309429 | youtube.com/watch?v=Tw7vkZoBH1w | twitter.com/PreviouslyRec/status/758369764573982720
 | 2016_Jul_27 | 01:22:51 | Head Games (Headlander part 2) | Jack, Rich | twitch.tv/videos/83310619 | youtube.com/watch?v=eSv0vxb0_0k | twitter.com/PreviouslyRec/status/758369764573982720
-| 2016_Aug_13 | 01:23:24 | Quadrilateral Cowboy (part 1) | twitch.tv/videos/83312161 | youtube.com/watch?v=2JjmlJvFvAw | 
-| 2016_Aug_13 | 01:25:38 | Quadrilateral Cowboy (part 2) | twitch.tv/videos/83313015 | youtube.com/watch?v=xUIf-H6T1zw | 
-| 2016_Aug_25 | 00:36:49 | Severed - Cut off - Removed (part 1) | twitch.tv/videos/85633822 | youtube.com/watch?v=N9qTEAVgNn8 | 
-| 2016_Aug_25 | 01:44:36 | Severed - Cut off - Removed (part 2) | twitch.tv/videos/85640865 | youtube.com/watch?v=ZHK1F5BOR1M | 
+| 2016_Jul_31 | 01:23:24 | Quadrilateral Cowboy (part 1) | twitch.tv/videos/83312161 | youtube.com/watch?v=2JjmlJvFvAw | twitter.com/PreviouslyRec/status/759827016719867904
+| 2016_Jul_31 | 01:25:38 | Quadrilateral Cowboy (part 2) | twitch.tv/videos/83313015 | youtube.com/watch?v=xUIf-H6T1zw | twitter.com/PreviouslyRec/status/759827016719867904
+| 2016_Aug_03 | 00:36:49 | Severed - Cut off - Removed (part 1) | twitch.tv/videos/85633822 | youtube.com/watch?v=N9qTEAVgNn8 | twitter.com/PreviouslyRec/status/760891860239998976
+| 2016_Aug_03 | 01:44:36 | Severed - Cut off - Removed (part 2) | twitch.tv/videos/85640865 | youtube.com/watch?v=ZHK1F5BOR1M | twitter.com/PreviouslyRec/status/760891860239998976
 | 2016_Aug_25 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) | twitch.tv/videos/85642007 | Duplicate: see lines 627 & 628 | 
 | 2016_Aug_25 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) | twitch.tv/videos/85642285 | Duplicate: see lines 627, 628, & 629 | 
 | 2016_Sep_01 | 02:18:43 | Pac-Man Fever (par-Man 256) | twitch.tv/videos/86932166 | youtube.com/watch?v=kwjaUqSrNsg | 
