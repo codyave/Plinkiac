@@ -680,11 +680,11 @@
 | 2016_Oct_23 | 01:50:46 | Domo Aragami Mr. Roboto (part 2) | Jack, Rich | twitch.tv/videos/100809409 | youtube.com/watch?v=ytLojRb5QJA | twitter.com/PreviouslyRec/status/790269776736190464
 | 2016_Oct_26 | 01:48:56 | Hide and Seek (Dead by Daylight) | Jack, Rich, Jay | twitch.tv/videos/101455170 | youtube.com/watch?v=5oYTr2bDRqc | twitter.com/PreviouslyRec/status/791451561712943108
 | 2016_Oct_26 | 02:24:01 | Old Ghoul (Halloween Forever) | Jack, Rich, Jay | twitch.tv/videos/101458302 | youtube.com/watch?v=B3FtDHDHi5o | twitter.com/PreviouslyRec/status/791451561712943108
-| 2016_Nov_19 | 01:35:32 | Dawn of the Dumb (part 1) | twitch.tv/videos/102140403 | youtube.com/watch?v=M4C8Qy8Unr0 | 
-| 2016_Nov_19 | 01:30:00 | Dawn of the Dumb (part 2) | twitch.tv/videos/102142674 | youtube.com/watch?v=2BwAAN8JnNM | 
-| 2016_Nov_19 | 03:04:13 | Owlboy and the Funky Bunch | twitch.tv/videos/102143252 | youtube.com/watch?v=VyQJ4Xxbao0 | 
-| 2016_Nov_19 | 01:37:36 | Halcy.... nope FTL. (part 1) | twitch.tv/videos/102148914 | youtube.com/watch?v=JN-41C9XxII | 
-| 2016_Nov_19 | 01:50:51 | Halcy.... nope FTL. (part 2) | twitch.tv/videos/102154414 | youtube.com/watch?v=4vdOJItmi5E | 
+| 2016_Oct_30 | 01:35:32 | Dawn of the Dumb (part 1) | Jack, Rich |twitch.tv/videos/102140403 | youtube.com/watch?v=M4C8Qy8Unr0 | twitter.com/PreviouslyRec/status/792799118292688896
+| 2016_Nov_19 | 01:30:00 | Dawn of the Dumb (part 2) | Jack, Rich | twitch.tv/videos/102142674 | youtube.com/watch?v=2BwAAN8JnNM | twitter.com/PreviouslyRec/status/792799118292688896
+| 2016_Nov_02 | 03:04:13 | Owlboy and the Funky Bunch | Jack | twitch.tv/videos/102143252 | youtube.com/watch?v=VyQJ4Xxbao0 | twitter.com/PreviouslyRec/status/793859355477028864
+| 2016_Nov_06 | 01:37:36 | Halcy.... nope FTL. (part 1) | twitch.tv/videos/102148914 | youtube.com/watch?v=JN-41C9XxII | twitter.com/PreviouslyRec/status/795416145432117248
+| 2016_Nov_06 | 01:50:51 | Halcy.... nope FTL. (part 2) | twitch.tv/videos/102154414 | youtube.com/watch?v=4vdOJItmi5E | twitter.com/PreviouslyRec/status/795416145432117248
 | 2016_Nov_19 | 02:47:00 | Basically FTL (''FTL'') | twitch.tv/videos/102159343 | youtube.com/watch?v=cOp5gZapLeA | 
 | 2016_Nov_19 | 01:14:37 | Get Old Faster!! (GoNNER) | twitch.tv/videos/102160676 | youtube.com/watch?v=ZwMAczusy3I | 
 | 2016_Nov_29 | 00:05:24 | Footage for Rich's Speedrun. | twitch.tv/videos/104163944 | No YouTube video | 
