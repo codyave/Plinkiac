@@ -630,15 +630,15 @@
 | 2016_Aug_03 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) | Jack, Rich, Karin | twitch.tv/videos/85642007 | Duplicate: see lines 628 & 629 | twitter.com/PreviouslyRec/status/760891860239998976
 | 2016_Aug_03 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) | Jack, Rich, Karin | twitch.tv/videos/85642285 | Duplicate: see lines 628, 629 & 630 | twitter.com/PreviouslyRec/status/760891860239998976
 | 2016_Aug_07 | 02:18:43 | Pac-Man Fever (par-Man 256) | Rich, Karin | twitch.tv/videos/86932166 | youtube.com/watch?v=kwjaUqSrNsg | twitter.com/PreviouslyRec/status/762446624090009600
-| 2016_Aug_10 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) | twitch.tv/videos/86933658 | youtube.com/watch?v=vHot35dw4qM | twitter.com/PreviouslyRec/status/763468413989781505
-| 2016_Aug_10 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) | twitch.tv/videos/86934815 | https://www.youtube.com/watch?v=QFKn7iFds1o | twitter.com/PreviouslyRec/status/763468413989781505
-| 2016_Aug_10 | 01:29:03 | No Man's Sigh (part 1) | twitch.tv/videos/86935345 | youtube.com/watch?v=km0okWxy0VI | twitter.com/PreviouslyRec/status/763468413989781505
-| 2016_Aug_14 | 02:03:56 | No Man's Lie (part 2) | twitch.tv/videos/86935887 | youtube.com/watch?v=E-vUQYarjeU | twitter.com/PreviouslyRec/status/764879970493689856
-| 2016_Aug_14 | 02:02:53 | No Man's Why???? (part 3) | twitch.tv/videos/86935961 | youtube.com/watch?v=E-vUQYarjeU | twitter.com/PreviouslyRec/status/764879970493689856
-| 2016_Sep_01 | 01:34:52 | Cop a Feel (police Quest 3 part 1) | twitch.tv/videos/86936529 | youtube.com/watch?v=0CpDWvp6fUc | 
-| 2016_Sep_01 | 01:37:23 | Cop a Feel (police Quest 3 part 2) | twitch.tv/videos/86936589 | youtube.com/watch?v=gUAxMIbkdbA | 
-| 2016_Sep_15 | 01:36:56 | Starbound and Gagged | twitch.tv/videos/89403961 | youtube.com/watch?v=VkEcco8OoOM | 
-| 2016_Sep_15 | 02:00:22 | Rocket to the Stars (Rocket League) | twitch.tv/videos/89406064 | youtube.com/watch?v=Mx0RofOYeUw | 
+| 2016_Aug_14 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) | Jack, Rich | twitch.tv/videos/86933658 | youtube.com/watch?v=vHot35dw4qM | twitter.com/PreviouslyRec/status/764879970493689856
+| 2016_Aug_14 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) | Jack, Rich | twitch.tv/videos/86934815 | https://www.youtube.com/watch?v=QFKn7iFds1o | twitter.com/PreviouslyRec/status/764879970493689856
+| 2016_Aug_14 | 01:29:03 | No Man's Sigh (part 1) | Jack, Rich | twitch.tv/videos/86935345 | youtube.com/watch?v=km0okWxy0VI | twitter.com/PreviouslyRec/status/764879970493689856
+| 2016_Aug_17 | 02:03:56 | No Man's Lie (part 2) | Jack, Rich | twitch.tv/videos/86935887 | youtube.com/watch?v=E-vUQYarjeU | twitter.com/PreviouslyRec/status/766149868658253824
+| 2016_Aug_17 | 02:02:53 | No Man's Why???? (part 3) | Jack, Rich | twitch.tv/videos/86935961 | youtube.com/watch?v=E-vUQYarjeU | twitter.com/PreviouslyRec/status/766149868658253824
+| 2016_Aug_21 | 01:34:52 | Cop a Feel (police Quest 3 part 1) | Jack, Rich | twitch.tv/videos/86936529 | youtube.com/watch?v=0CpDWvp6fUc | https://twitter.com/PreviouslyRec/status/766817527242555392
+| 2016_Aug_21 | 01:37:23 | Cop a Feel (police Quest 3 part 2) | Jack, Rich | twitch.tv/videos/86936589 | youtube.com/watch?v=gUAxMIbkdbA | https://twitter.com/PreviouslyRec/status/766817527242555392
+| 2016_Sep_24 | 01:36:56 | Starbound and Gagged | twitch.tv/videos/89403961 | youtube.com/watch?v=VkEcco8OoOM | twitter.com/PreviouslyRec/status/768529336064499712
+| 2016_Sep_24 | 02:00:22 | Rocket to the Stars (Rocket League) | twitch.tv/videos/89406064 | youtube.com/watch?v=Mx0RofOYeUw | twitter.com/PreviouslyRec/status/768529336064499712
 | 2016_Sep_15 | 04:49:25 | Jack's Heart Pounding PC Build!!!!! | twitch.tv/videos/89406952 | youtube.com/watch?v=rBWzz4oALd4 | 
 | 2016_Sep_15 | 01:51:16 | Overwatch, but not XCOM related :( (part 1) | twitch.tv/videos/89408212 | youtube.com/watch?v=akIoOFvE048 | 
 | 2016_Sep_15 | 01:48:46 | Overwatch, but not XCOM related :( (part 2) | twitch.tv/videos/89409248 | youtube.com/watch?v=8E8EaL4tTAE | 
