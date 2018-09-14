@@ -693,10 +693,10 @@
 | 2016_Nov_13 | 01:32:50 | Dissin' On the Herd (part 1.2) | Jack, Rich | twitch.tv/videos/105346294 | Duplicate: see line 691 | twitter.com/PreviouslyRec/status/797890059945078786
 | 2016_Nov_16 | 01:41:24 | The Finding of My Nutsack (part 1) | Jack, Rich | twitch.tv/videos/106105652 | youtube.com/watch?v=m_33Djnw7CE | twitter.com/PreviouslyRec/status/798985864340652032
 | 2016_Nov_16 | 01:06:48 | The Finding of My Nutsack (part 2) | Jack, Rich | twitch.tv/videos/106143918 | youtube.com/watch?v=1wNLJF5c6RY | twitter.com/PreviouslyRec/status/798985864340652032
-| 2016_Nov_23 | 01:35:16 | Mega Punching Pokemon Moon (part 1) | twitch.tv/videos/107010250 | youtube.com/watch?v=ivpHuzTg4gw | 
-| 2016_Nov_23 | 01:43:30 | Mega Punching Pokemon Moon (part 2) | twitch.tv/videos/107013090 | youtube.com/watch?v=RPBUz7q0mp0 | 
-| 2016_Dec_16 | 01:56:20 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 1) | twitch.tv/videos/107841103 | youtube.com/watch?v=ZrFyw1m_r_Y | 
-| 2016_Dec_16 | 01:48:42 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 2) | twitch.tv/videos/107848041 | youtube.com/watch?v=0GfygGKddFU | 
+| 2016_Nov_23 | 01:35:16 | Mega Punching Pokemon Moon (part 1) | Jack, Rich |twitch.tv/videos/107010250 | youtube.com/watch?v=ivpHuzTg4gw | twitter.com/PreviouslyRec/status/801600374008332289
+| 2016_Nov_23 | 01:43:30 | Mega Punching Pokemon Moon (part 2) | Jack, Rich | twitch.tv/videos/107013090 | youtube.com/watch?v=RPBUz7q0mp0 | twitter.com/PreviouslyRec/status/801600374008332289
+| 2016_Nov_27 | 01:56:20 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 1) | Jack, Rich |twitch.tv/videos/107841103 | youtube.com/watch?v=ZrFyw1m_r_Y | twitter.com/PreviouslyRec/status/803046294117842944
+| 2016_Nov_27 | 01:48:42 | JESUS CHRIST SHUT UP ALREADY!!!! 7th Guest (part 2) | Jack, Rich | twitch.tv/videos/107848041 | youtube.com/watch?v=0GfygGKddFU | twitter.com/PreviouslyRec/status/803046294117842944
 | 2016_Dec_19 | 02:21:08 | Jack, the Indiscriminate Assassin (part 1) | twitch.tv/videos/108528566 | youtube.com/watch?v=0TSJt9hpt9s | 
 | 2016_Dec_21 | 01:28:22 | Jack, the Indiscriminate Assassin (part 2) | twitch.tv/videos/108980401 | youtube.com/watch?v=LQoc7ZOFNvo | 
 | 2016_Dec_21 | 02:02:52 | Everspaced out... man. (part 1) | twitch.tv/videos/108994115 | youtube.com/watch?v=h60mmnzRT74 | 
