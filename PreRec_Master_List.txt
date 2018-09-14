@@ -644,16 +644,16 @@
 | 2016_Aug_31 | 01:48:46 | Overwatch, but not XCOM related :( (part 2) | Jack, Rich | twitch.tv/videos/89409248 | youtube.com/watch?v=8E8EaL4tTAE | twitter.com/PreviouslyRec/status/771049689999343617
 | 2016_Sep_03 | 04:31:24 | Deus Ex Richinema (Rich Solo) | Rich | twitch.tv/videos/91287060 | youtube.com/watch?v=uWuTvtefcMc | twitter.com/PreviouslyRec/status/772151985994735616
 | 2016_Sep_04 | 03:45:49 | Slay the Orcs!!! (Orcs Must Die) pt.1 | Jack, Rich | twitch.tv/videos/91287869 | youtube.com/watch?v=mq7dc0Ii6-U | twitter.com/PreviouslyRec/status/772529729819795456
-| 2016_Sep_04 | 01:48:28 | Slay the Orcs!!! (Orcs Must Die) pt.2 | Jack, Rich | twitch.tv/videos/91289694 | youtube.com/watch?v=KTq9iSOcPKs | twitter.com/PreviouslyRec/status/772529729819795456
-| 2016_Sep_04 | 02:14:49 | Slay the Orcs!!! (Orcs Must Die) pt.3 | Jack, Rich | twitch.tv/videos/91290891 | youtube.com/watch?v=B8Yr4tz3gwg | twitter.com/PreviouslyRec/status/772529729819795456
+| 2016_Sep_04 | 01:48:28 | Slay the Orcs!!! (Orcs Must Die) pt.2 | Jack, Rich, Jay | twitch.tv/videos/91289694 | youtube.com/watch?v=KTq9iSOcPKs | twitter.com/PreviouslyRec/status/772529729819795456
+| 2016_Sep_04 | 02:14:49 | Slay the Orcs!!! (Orcs Must Die) pt.3 | Jack, Rich, Jay | twitch.tv/videos/91290891 | youtube.com/watch?v=B8Yr4tz3gwg | twitter.com/PreviouslyRec/status/772529729819795456
 | 2016_Sep_?? | 01:33:52 | Go Truck Yourself (part 1) | twitch.tv/videos/95906142 | youtube.com/watch?v=Y-fIJxddYu8 | 
 | 2016_Sep_?? | 01:35:59 | Go Truck Yourself (part 2) | twitch.tv/videos/95943925 | youtube.com/watch?v=1zykgSXywlI | 
 | 2016_Sep_07 | 00:56:12 | Eff Tee El. (part 1)(Rich Solo) | Rich | twitch.tv/videos/92836955 | youtube.com/watch?v=joOsp55-ohU | twitter.com/PreviouslyRec/status/773597405405179904
 | 2016_Sep_07 | 01:53:58 | Eff Tee El (part 2) | Jack, Rich | twitch.tv/videos/92840111 | youtube.com/watch?v=-LNiKDwxJiA | twitter.com/PreviouslyRec/status/773597405405179904
 | 2016_Sep_11 | 01:30:45 | Siiiick Pokemon radiation BURN!! (part 1) | Jack, Rich | twitch.tv/videos/93142788 | youtube.com/watch?v=CN2wVarsnk0 | twitter.com/PreviouslyRec/status/775022355664007168
 | 2016_Sep_11 | 01:40:48 | Siiiick Pokemon radiation BURN!! (part 2) | Jack, Rich | twitch.tv/videos/93146538 | youtube.com/watch?v=YuGgtdqdobI | twitter.com/PreviouslyRec/status/775022355664007168
-| 2016_Sep_14 | 01:16:48 | ReCore-ded Previously (part 1) | Jack, Rich | twitch.tv/videos/93938409 | youtube.com/watch?v=8cmjVgzfbIY | twitter.com/PreviouslyRec/status/776131421308129280
-| 2016_Sep_14 | 01:27:51 | ReCore-ded Previously (part 2) | Jack, Rich | twitch.tv/videos/93943026 | youtube.com/watch?v=khVqDL_66oA | twitter.com/PreviouslyRec/status/776131421308129280
+| 2016_Sep_14 | 01:16:48 | ReCore-ded Previously (part 1) | Jack, Rich | twitch.tv/videos/93938409 | youtube.com/watch?v=8cmjVgzfbIY | twitter.com/PreviouslyRec/status/776234380540776448
+| 2016_Sep_14 | 01:27:51 | ReCore-ded Previously (part 2) | Jack, Rich | twitch.tv/videos/93943026 | youtube.com/watch?v=khVqDL_66oA | twitter.com/PreviouslyRec/status/776234380540776448
 | 2016_Oct_09 | 01:13:56 | Five Nights at Freddy's Still Blows. | twitch.tv/videos/96241839 | youtube.com/watch?v=nTjU5-9qOCs | 
 | 2016_Oct_09 | 02:40:12 | Five Nights at Freddy's Still Blows. | twitch.tv/videos/96241853 | No YouTube video | 
 | 2016_Oct_09 | 01:09:00 | Spooky Jump Scares | twitch.tv/videos/96242926 | youtube.com/watch?v=KsJ2YNYfegI | 
@@ -661,8 +661,8 @@
 | 2016_Oct_11 | 01:09:46 | Sir, You are not finding the 3DS Capture Software (part 1) | twitch.tv/videos/94323059 | youtube.com/watch?v=O_GBWUMSbD0 | 
 | 2016_Oct_11 | 01:15:08 | Sir, You are not finding the 3DS Capture Software (part 2) | twitch.tv/videos/94326654 | youtube.com/watch?v=ie88vqpBKZ0 | 
 | 2016_Oct_12 | 01:13:46 | Sir, You are not finding the 3DS Capture Software (part 3) | twitch.tv/videos/94512401 | youtube.com/watch?v=kBaVY4nnFZE | 
-| 2016_Oct_12 | 01:07:28 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 1) | twitch.tv/videos/94523016 | youtube.com/watch?v=-Pwa8HdQWL8 | 
-| 2016_Oct_13 | 01:28:29 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 2) | twitch.tv/videos/94680271 | youtube.com/watch?v=wNgZAviICUQ | 
+| 2016_Sep_21 | 01:07:28 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 1) | twitch.tv/videos/94523016 | youtube.com/watch?v=-Pwa8HdQWL8 | twitter.com/PreviouslyRec/status/778649305095675904
+| 2016_Sep_21 | 01:28:29 | JESUS CHRIST SHUT UP!!! - Vampire The Masquerade (part 2) | twitch.tv/videos/94680271 | youtube.com/watch?v=wNgZAviICUQ | twitter.com/PreviouslyRec/status/778649305095675904
 | 2016_Oct_05 | 01:41:32 | The ''J's'' (part 1) | twitch.tv/videos/96239211 | youtube.com/watch?v=S-5vDSw5TH8 | 
 | 2016_Oct_05 | 01:52:30 | The ''J's'' (part 2) | twitch.tv/videos/96240572 | youtube.com/watch?v=yRpWSny9924 | 
 | 2016_Oct_17 | 00:03:24 | Finding a Match in Gears of War 4 | twitch.tv/videos/95544917 | youtube.com/watch?v=cXWB3OEIV0k | 
