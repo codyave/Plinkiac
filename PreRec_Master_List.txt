@@ -455,7 +455,7 @@
 | 2015_Nov_25 | 01:15:02 | Star Wars Battleyawn (part 2) | twitch.tv/videos/31239325 | youtube.com/watch?v=z_dF-LaUNes | twitter.com/PreviouslyRec/status/669609051156840452
 | 2015_Nov_25 | 01:16:43 | Star Wars Battleyawn (part 3) | twitch.tv/videos/31240449 | youtube.com/watch?v=c_iIiVGgC30 | twitter.com/PreviouslyRec/status/669609051156840452
 | 2015_Nov_25 | 00:50:40 | Rocket League MUTATED! | twitch.tv/videos/31240734 | youtube.com/watch?v=COCxWH8I6es | twitter.com/PreviouslyRec/status/669609051156840452
-| 2015_Nov_26 | 09:58:02 | Rich's Thanksgiving Stream | Jack | No Twitch video | youtube.com/watch?v=grfwDbBKwy0 | twitter.com/Harlack/status/670337057416458244
+| 2015_Nov_26 | 09:58:02 | Rich's Thanksgiving Stream | Jack | No Twitch video | youtube.com/watch?v=grfwDbBKwy0 | twitter.com/PreviouslyRec/status/716626489408688131
 | 2015_Nov_29 | 01:21:41 | Bloodborne *insert pun here* (part 1) | twitch.tv/videos/33520991 | youtube.com/watch?v=DkSk6fOBlt0 | twitter.com/PreviouslyRec/status/671038030799642624
 | 2015_Nov_29 | 01:11:44 | Bloodborne *insert pun here* (part 2) | twitch.tv/videos/33521851 | youtube.com/watch?v=38UC_5cuQHc | twitter.com/PreviouslyRec/status/671038030799642624
 | 2015_Nov_29 | 01:59:40 | Battlefrauds | twitch.tv/videos/33522720 | youtube.com/watch?v=PxW2Aj0bTa8 | twitter.com/PreviouslyRec/status/671038030799642624
@@ -478,7 +478,7 @@
 | 2015_Dec_21 | 00:50:16 | THE RETURN OF DON WILSON!! (Freedom Planet part 2) | twitch.tv/videos/39780453 | youtube.com/watch?v=Tt7Tlzztt48 | twitter.com/PreviouslyRec/status/679021103377948672
 | 2015_Dec_21 | 01:53:52 | Star Wars - The Force Awakens spoiler discussion | twitch.tv/videos/39780934 | youtube.com/watch?v=71RJJ0umdjQ | twitter.com/PreviouslyRec/status/679021103377948672
 | 2015_Dec_23 | 05:13:17 | Rich's Christmas The Last of Us Extravaganza | No Twitch video | youtube.com/watch?v=FCdVnY6H0FE | twitter.com/PreviouslyRec/status/679798168977014784
-| 2015_???_?? | 04:08:29 | PreRec After Dark | Rich | No Twitch video | youtube.com/watch?v=pwq7FNULaDw
+| 2015_???_?? | 04:08:29 | PreRec After Dark | Rich | No Twitch video | youtube.com/watch?v=pwq7FNULaDw | twitter.com/StephenGrillo/status/720254370949021696
 | 2016_Jan_03 | 01:01:54 | Dragon Fantasy with the Fiance (part 1) | twitch.tv/videos/49413379 | youtube.com/watch?v=Im1taiQh4tQ | twitter.com/PreviouslyRec/status/683849637552353280
 | 2016_Jan_03 | 01:10:39 | Dragon Fantasy with the Fiance (part 2) | twitch.tv/videos/49419172 | youtube.com/watch?v=4qsO1Hwg5hs | twitter.com/PreviouslyRec/status/683849637552353280
 | 2016_Feb_23 | 01:06:03 | Keep Talking with the Fiance | twitch.tv/videos/49420502 | youtube.com/watch?v=A_ZRK99WNqI | twitter.com/PreviouslyRec/status/683849637552353280
