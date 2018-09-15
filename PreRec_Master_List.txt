@@ -861,10 +861,10 @@
 | 2017_Aug_?? | 00:02:30 | The Dream Team | twitch.tv/videos/171183830 | youtube.com/watch?v=n8ci2qDqnpo | 
 | 2017_Aug_20 | 03:16:18 | Call me Mr. Steal Your Crew | Jack, Rich | twitch.tv/videos/171742028 | youtube.com/watch?v=1lrn-IlFqlA | twitter.com/PreviouslyRec/status/899354689313148929
 | 2017_Aug_20 | 01:29:10 | They call me Mr. PUBG Your Girl | Jack, Rich | twitch.tv/videos/171975795 | youtube.com/watch?v=-tzeBFQbMT0 | twitter.com/PreviouslyRec/status/899354689313148929
-| 2017_Sep_05 | 01:30:12 | Pub Bee Gee's - Stayin' Alive (part 1) | twitch.tv/videos/172465832 | youtube.com/watch?v=OlDlgAh1Z7U | 
-| 2017_Sep_05 | 01:48:02 | Pub Bee Gee's - Stayin' Alive (part 2) | twitch.tv/videos/172479131 | youtube.com/watch?v=fen2W_2MxpI | 
-| 2017_Sep_06 | 02:04:12 | Skyway to Hell!!! (part 1) | twitch.tv/videos/172573649 | youtube.com/watch?v=T2IbzpwipZA | 
-| 2017_Sep_06 | 02:33:57 | Skyway to Hell!!! (part 2) | twitch.tv/videos/172585561 | youtube.com/watch?v=Ex4CKKVsld0 | 
+| 2017_Aug_23 | 01:30:12 | Pub Bee Gee's - Stayin' Alive (part 1) | Jack, Rich | twitch.tv/videos/172465832 | youtube.com/watch?v=OlDlgAh1Z7U | twitter.com/PreviouslyRec/status/900461775384170496
+| 2017_Aug_23 | 01:48:02 | Pub Bee Gee's - Stayin' Alive (part 2) | Jack, Rich | twitch.tv/videos/172479131 | youtube.com/watch?v=fen2W_2MxpI | twitter.com/PreviouslyRec/status/900461775384170496
+| 2017_Aug_27 | 02:04:12 | Skyway to Hell!!! (part 1) | Rich, Jack | twitch.tv/videos/172573649 | youtube.com/watch?v=T2IbzpwipZA | twitter.com/PreviouslyRec/status/901892808008765440
+| 2017_Aug_27 | 02:33:57 | Skyway to Hell!!! (part 2) | Rich, Jack | twitch.tv/videos/172585561 | youtube.com/watch?v=Ex4CKKVsld0 | twitter.com/PreviouslyRec/status/901892808008765440
 | 2017_Sep_06 | 01:58:39 | XCOM on Shrooms (part 2) | twitch.tv/videos/172752806 | youtube.com/watch?v=UpiufrtGj2U | 
 | 2017_Sep_08 | 03:27:06 | XCOM on Shrooms (part 1) | twitch.tv/videos/173218384 | youtube.com/watch?v=INofjxLYg94 | 
 | 2017_Sep_11 | 03:24:10 | Kandor the 13th | twitch.tv/videos/174010840 | youtube.com/watch?v=_mtXJRhHiTc | 
