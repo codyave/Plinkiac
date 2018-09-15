@@ -853,10 +853,10 @@
 | 2017_Aug_02 | 02:31:29 | Dead Cells ring bells (part 2) | Jack, Rich | twitch.tv/videos/169702530 | youtube.com/watch?v=jkR1A-DYe7M | twitter.com/PreviouslyRec/status/892806306289135617
 | 2017_Aug_06 | 03:06:36 | Hangin' With Rich - Dead Cells | Rich, Karin | twitch.tv/videos/169707999 | youtube.com/watch?v=uuEvwXM8cAk | twitter.com/PreviouslyRec/status/894318051679666176
 | 2017_Aug_06 | 02:25:30 | Hangin' With Rich - Friday the 13th | Rich, Karin | twitch.tv/videos/169714808 | youtube.com/watch?v=qhd43DCRUSc | twitter.com/PreviouslyRec/status/894318051679666176
-| 2017_Aug_28 | 02:54:42 | Jack - The Return (again) (pUBG) | twitch.tv/videos/170543318 | youtube.com/watch?v=IfJ0yZfCiN8 | 
-| 2017_Aug_30 | 01:44:43 | Jack - The Return (again)(Friday the 13th) | twitch.tv/videos/170988390 | youtube.com/watch?v=Tne4rL2IYLI | 
-| 2017_Aug_30 | 01:48:48 | Hellooooo Knight | twitch.tv/videos/171028720 | youtube.com/watch?v=dIG02v6zhQw | 
-| 2017_Aug_30 | 02:06:36 | Helloooo 20XX | twitch.tv/videos/171041791 | youtube.com/watch?v=Le4LuOJXxGw | 
+| 2017_Aug_13 | 02:54:42 | Jack - The Return (again) (pUBG) | Jack, Rich | twitch.tv/videos/170543318 | youtube.com/watch?v=IfJ0yZfCiN8 | twitter.com/PreviouslyRec/status/896771037098119168
+| 2017_Aug_13 | 01:44:43 | Jack - The Return (again)(Friday the 13th) | Jack, Rich | twitch.tv/videos/170988390 | youtube.com/watch?v=Tne4rL2IYLI | twitter.com/PreviouslyRec/status/896771037098119168
+| 2017_Aug_16 | 01:48:48 | Hellooooo Knight | Jack, Rich | twitch.tv/videos/171028720 | youtube.com/watch?v=dIG02v6zhQw | twitter.com/PreviouslyRec/status/897903978171645953
+| 2017_Aug_16 | 02:06:36 | Helloooo 20XX | Jack, Rich | twitch.tv/videos/171041791 | youtube.com/watch?v=Le4LuOJXxGw | twitter.com/PreviouslyRec/status/897903978171645953
 | 2017_Aug_31 | 00:02:30 | The Dream Team | twitch.tv/videos/171183830 | youtube.com/watch?v=n8ci2qDqnpo | 
 | 2017_Sep_02 | 03:16:18 | Call me Mr. Steal Your Crew | twitch.tv/videos/171742028 | youtube.com/watch?v=1lrn-IlFqlA | 
 | 2017_Sep_02 | 04:31:54 | FTJ: Faster Than Jason | No Twitch video | youtube.com/watch?v=G8McwH4SaxQ | 
