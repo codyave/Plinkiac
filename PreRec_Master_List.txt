@@ -123,27 +123,27 @@
 | 2014_Nov_09 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | Jack, Rich | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk | twitter.com/PreviouslyRec/status/531634507456077824
 | 2014_Nov_09 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | Jack, Rich | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ twitter.com/PreviouslyRec/status/531634507456077824
 | 2014_Nov_09 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | Jack, Rich | twitch.tv/videos/44791997 | youtube.com/watch?v=Eno8xf0T__E | twitter.com/PreviouslyRec/status/531634507456077824
-| 2014_Nov_12 | 01:35:36 | SUPER DUPER Smash TV | twitch.tv/videos/44790001 | No YouTube video | twitter.com/PreviouslyRec/status/532706455418204160
-| 2014_Nov_12 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | twitch.tv/videos/44789498 | youtube.com/watch?v=h0eKVKKowYY | twitter.com/PreviouslyRec/status/532706455418204160
-| 2014_Nov_12 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | twitch.tv/videos/43229798 | youtube.com/watch?v=NA8fEVuvA4M twitter.com/PreviouslyRec/status/532706455418204160
-| 2014_Nov_12 | 01:02:29 | SUPER DUPER bad SNES brawlers | twitch.tv/videos/43229789 | youtube.com/watch?v=JfRIBW6YVrs | twitter.com/PreviouslyRec/status/532706455418204160
-| 2014_Nov_16 | 00:44:37 | Mario Kart 8 (Single Player) | twitch.tv/videos/43198448 | youtube.com/watch?v=G3e2bg6y0cc
-| 2014_Nov_16 | 00:36:46 | Mario Kart 8 (Multiplayer with The Stream (part 1)) | twitch.tv/videos/43198263 | youtube.com/watch?v=h2kYdu1LpLY | twitter.com/PreviouslyRec/status/534172506866089984
-| 2014_Nov_16 | 00:18:46 | Mario Kart 8 (Multiplayer with The Stream (part 2.1)) | twitch.tv/videos/43197566 | youtube.com/watch?v=x40U2CkmB-g | twitter.com/PreviouslyRec/status/534172506866089984
-| 2014_Nov_16 | 00:21:19 | Mario Kart 8 (Multiplayer with The Stream (part 2.2)) | twitch.tv/videos/43197588 | youtube.com/watch?v=PsvDwsr3x4g | twitter.com/PreviouslyRec/status/534172506866089984
-| 2014_Nov_16 | 00:48:44 | Mario Kart 8 (Multiplayer with The Stream (part 3)) | twitch.tv/videos/43196510 | youtube.com/watch?v=iLhLjVJTj8w | twitter.com/PreviouslyRec/status/534172506866089984
-| 2014_Nov_16 | 00:50:27 | Mario Kart 8 (Multiplayer with The Stream (part 4)) | twitch.tv/videos/43195897 | youtube.com/watch?v=vUiHuQ0b4PQ | twitter.com/PreviouslyRec/status/534172506866089984
-| 2014_Nov_23 | 00:08:38 | Spelunky Hack & Half (part 1.1) | twitch.tv/videos/43135314 | youtube.com/watch?v=YVbDc2K3oEo | twitter.com/PreviouslyRec/status/536709579435171840
-| 2014_Nov_23 | 00:56:18 | Spelunky Hack & Half (part 1.2) | twitch.tv/videos/43135125 | Duplicate: see line 136 | twitter.com/PreviouslyRec/status/536709579435171840
-| 2014_Nov_23 | 00:46:29 | Spelunky Hack & Half (part 2) | twitch.tv/videos/43134921 | youtube.com/watch?v=_KuWeP7qDlw | twitter.com/PreviouslyRec/status/536709579435171840
-| 2014_Nov_23 | 01:26:56 | The Binding Of Hack Frauds (Cain Run) | twitch.tv/videos/43134502 | youtube.com/watch?v=SZHLXVhk1gE | twitter.com/PreviouslyRec/status/536609088416002048
-| 2014_Nov_26 | 00:51:40 | Star Trek Catan... THE BOARD GAME (part 1) | twitch.tv/videos/43106445 | youtube.com/watch?v=ARPjWVvxHro | twitter.com/PreviouslyRec/status/537810841748660224
-| 2014_Nov_26 | 00:37:43 | Star Trek Catan... THE BOARD GAME (part 2) | twitch.tv/videos/43106334 | youtube.com/watch?v=bGOwgyR2Qbo | twitter.com/PreviouslyRec/status/537810841748660224
-| 2014_Nov_26 | 00:57:23 | K2... THE BOARD GAME (part 1) | twitch.tv/videos/43106017 | youtube.com/watch?v=he35eSvdqPc | twitter.com/PreviouslyRec/status/537810841748660224
-| 2014_Nov_26 | 00:53:37 | K2... THE BOARD GAME (part 2) | twitch.tv/videos/43105920 | youtube.com/watch?v=_1D38ToO9DE | twitter.com/PreviouslyRec/status/537810841748660224
-| 2014_Nov_30 | 01:39:38 | More Spelunky - Hack & Half | twitch.tv/videos/43093416 | youtube.com/watch?v=rc5SJlAu8qU | twitter.com/PreviouslyRec/status/539245426416025600
-| 2014_Dec_03 | 00:53:43 | Rich builds a PC (part 1) | twitch.tv/videos/3598060 | youtube.com/watch?v=WPjGdq6baGM | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_03 | 01:24:19 | Rich builds a PC (part 2) | twitch.tv/videos/3598072 | youtube.com/watch?v=mu9gzuSMlFA | twitter.com/PreviouslyRec/status/540222514665099264
+| 2014_Nov_12 | 01:35:36 | SUPER DUPER Smash TV | Jack, Rich | twitch.tv/videos/44790001 | No YouTube video | twitter.com/PreviouslyRec/status/532706455418204160
+| 2014_Nov_12 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | Jack, Rich, Jay | twitch.tv/videos/44789498 | youtube.com/watch?v=h0eKVKKowYY | twitter.com/PreviouslyRec/status/532706455418204160
+| 2014_Nov_12 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | Jack, Rich, Jay | twitch.tv/videos/43229798 | youtube.com/watch?v=NA8fEVuvA4M | twitter.com/PreviouslyRec/status/532706455418204160
+| 2014_Nov_12 | 01:02:29 | SUPER DUPER bad SNES brawlers | Jack, Rich | twitch.tv/videos/43229789 | youtube.com/watch?v=JfRIBW6YVrs | twitter.com/PreviouslyRec/status/532706455418204160
+| 2014_Nov_16 | 00:44:37 | Mario Kart 8 (Single Player) | Jack, Rich | twitch.tv/videos/43198448 | youtube.com/watch?v=G3e2bg6y0cc | twitter.com/PreviouslyRec/status/534172506866089984
+| 2014_Nov_16 | 00:36:46 | Mario Kart 8 (Multiplayer with The Stream (part 1)) | Jack, Rich | twitch.tv/videos/43198263 | youtube.com/watch?v=h2kYdu1LpLY | twitter.com/PreviouslyRec/status/534172506866089984
+| 2014_Nov_16 | 00:18:46 | Mario Kart 8 (Multiplayer with The Stream (part 2.1)) | Jack, Rich | twitch.tv/videos/43197566 | youtube.com/watch?v=x40U2CkmB-g | twitter.com/PreviouslyRec/status/534172506866089984
+| 2014_Nov_16 | 00:21:19 | Mario Kart 8 (Multiplayer with The Stream (part 2.2)) | Jack, Rich | twitch.tv/videos/43197588 | youtube.com/watch?v=PsvDwsr3x4g | twitter.com/PreviouslyRec/status/534172506866089984
+| 2014_Nov_16 | 00:48:44 | Mario Kart 8 (Multiplayer with The Stream (part 3)) | Jack, Rich | twitch.tv/videos/43196510 | youtube.com/watch?v=iLhLjVJTj8w | twitter.com/PreviouslyRec/status/534172506866089984
+| 2014_Nov_16 | 00:50:27 | Mario Kart 8 (Multiplayer with The Stream (part 4)) | Jack, Rich | twitch.tv/videos/43195897 | youtube.com/watch?v=vUiHuQ0b4PQ | twitter.com/PreviouslyRec/status/534172506866089984
+| 2014_Nov_23 | 00:08:38 | Spelunky Hack & Half (part 1.1) | Jack, Rich | twitch.tv/videos/43135314 | youtube.com/watch?v=YVbDc2K3oEo | twitter.com/PreviouslyRec/status/536709579435171840
+| 2014_Nov_23 | 00:56:18 | Spelunky Hack & Half (part 1.2) | Jack, Rich | twitch.tv/videos/43135125 | Duplicate: see line 136 | twitter.com/PreviouslyRec/status/536709579435171840
+| 2014_Nov_23 | 00:46:29 | Spelunky Hack & Half (part 2) | Jack, Rich | twitch.tv/videos/43134921 | youtube.com/watch?v=_KuWeP7qDlw | twitter.com/PreviouslyRec/status/536709579435171840
+| 2014_Nov_23 | 01:26:56 | The Binding Of Hack Frauds (Cain Run) | Jack, Rich | twitch.tv/videos/43134502 | youtube.com/watch?v=SZHLXVhk1gE | twitter.com/PreviouslyRec/status/536609088416002048
+| 2014_Nov_26 | 00:51:40 | Star Trek Catan... THE BOARD GAME (part 1) | Jack, Rich, Jay, Lisa | twitch.tv/videos/43106445 | youtube.com/watch?v=ARPjWVvxHro | twitter.com/PreviouslyRec/status/537810841748660224
+| 2014_Nov_26 | 00:37:43 | Star Trek Catan... THE BOARD GAME (part 2) | Jack, Rich, Jay, Lisa | twitch.tv/videos/43106334 | youtube.com/watch?v=bGOwgyR2Qbo | twitter.com/PreviouslyRec/status/537810841748660224
+| 2014_Nov_26 | 00:57:23 | K2... THE BOARD GAME (part 1) | Jack, Rich, Jay, Lisa | twitch.tv/videos/43106017 | youtube.com/watch?v=he35eSvdqPc | twitter.com/PreviouslyRec/status/537810841748660224
+| 2014_Nov_26 | 00:53:37 | K2... THE BOARD GAME (part 2) | Jack, Rich, Jay, Lisa | twitch.tv/videos/43105920 | youtube.com/watch?v=_1D38ToO9DE | twitter.com/PreviouslyRec/status/537810841748660224
+| 2014_Nov_30 | 01:39:38 | More Spelunky - Hack & Half | Jack, Rich | twitch.tv/videos/43093416 | youtube.com/watch?v=rc5SJlAu8qU | twitter.com/PreviouslyRec/status/539245426416025600
+| 2014_Dec_03 | 00:53:43 | Rich builds a PC (part 1) | Jack, Rich, Jay | twitch.tv/videos/3598060 | youtube.com/watch?v=WPjGdq6baGM | twitter.com/PreviouslyRec/status/540222514665099264
+| 2014_Dec_03 | 01:24:19 | Rich builds a PC (part 2) | Jack, Rich, Jay | twitch.tv/videos/3598072 | youtube.com/watch?v=mu9gzuSMlFA | twitter.com/PreviouslyRec/status/540222514665099264
 | 2014_Dec_04 | 00:28:50 | Rambo - Last Blood - Nothing's Gonna Stop Us Now | Jack, Rich, Jay, Jessi | twitch.tv/videos/3599896 | youtube.com/watch?v=70cVuOLEM4k | twitter.com/PreviouslyRec/status/540222514665099264
 | 2014_Dec_04 | 01:31:41 | FrOg FrAcTiOnS | twitch.tv/videos/3599940 | youtube.com/watch?v=lxGVKEyxZIw | twitter.com/PreviouslyRec/status/540222514665099264
 | 2014_Dec_04 | 00:58:45 | Papers Please...Nope They Bleed Pixels...meh | twitch.tv/videos/43093336 | youtube.com/watch?v=CyWmxeAEbTM | twitter.com/PreviouslyRec/status/540222514665099264
