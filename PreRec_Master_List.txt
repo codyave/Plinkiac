@@ -857,10 +857,10 @@
 | 2017_Aug_13 | 01:44:43 | Jack - The Return (again)(Friday the 13th) | Jack, Rich | twitch.tv/videos/170988390 | youtube.com/watch?v=Tne4rL2IYLI | twitter.com/PreviouslyRec/status/896771037098119168
 | 2017_Aug_16 | 01:48:48 | Hellooooo Knight | Jack, Rich | twitch.tv/videos/171028720 | youtube.com/watch?v=dIG02v6zhQw | twitter.com/PreviouslyRec/status/897903978171645953
 | 2017_Aug_16 | 02:06:36 | Helloooo 20XX | Jack, Rich | twitch.tv/videos/171041791 | youtube.com/watch?v=Le4LuOJXxGw | twitter.com/PreviouslyRec/status/897903978171645953
-| 2017_Aug_31 | 00:02:30 | The Dream Team | twitch.tv/videos/171183830 | youtube.com/watch?v=n8ci2qDqnpo | 
-| 2017_Sep_02 | 03:16:18 | Call me Mr. Steal Your Crew | twitch.tv/videos/171742028 | youtube.com/watch?v=1lrn-IlFqlA | 
-| 2017_Sep_02 | 04:31:54 | FTJ: Faster Than Jason | No Twitch video | youtube.com/watch?v=G8McwH4SaxQ | 
-| 2017_Sep_03 | 01:29:10 | They call me Mr. PUBG Your Girl | twitch.tv/videos/171975795 | youtube.com/watch?v=-tzeBFQbMT0 | 
+| 2017_Aug_?? | 00:02:30 | The Dream Team | twitch.tv/videos/171183830 | youtube.com/watch?v=n8ci2qDqnpo | 
+| 2017_Aug_20 | 03:16:18 | Call me Mr. Steal Your Crew | Jack, Rich | twitch.tv/videos/171742028 | youtube.com/watch?v=1lrn-IlFqlA | twitter.com/PreviouslyRec/status/899354689313148929
+| 2017_Sep_02 | 04:31:54 | FTJ: Faster Than Jason | Jack, Rich | No Twitch video | youtube.com/watch?v=G8McwH4SaxQ | 
+| 2017_Sep_03 | 01:29:10 | They call me Mr. PUBG Your Girl | Jack, Rich | twitch.tv/videos/171975795 | youtube.com/watch?v=-tzeBFQbMT0 | 
 | 2017_Sep_05 | 01:30:12 | Pub Bee Gee's - Stayin' Alive (part 1) | twitch.tv/videos/172465832 | youtube.com/watch?v=OlDlgAh1Z7U | 
 | 2017_Sep_05 | 01:48:02 | Pub Bee Gee's - Stayin' Alive (part 2) | twitch.tv/videos/172479131 | youtube.com/watch?v=fen2W_2MxpI | 
 | 2017_Sep_06 | 02:04:12 | Skyway to Hell!!! (part 1) | twitch.tv/videos/172573649 | youtube.com/watch?v=T2IbzpwipZA | 
