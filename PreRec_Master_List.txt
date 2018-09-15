@@ -1068,14 +1068,14 @@
 | 2018_Jul_?? | 00:00:59 | Pre Rec talks about BoI Card Game | twitch.tv/videos/279729350 | No YouTube video | 
 | 2018_Jul_01 | 02:10:07 | No Justice in This World (part 3) | Jack, Rich | twitch.tv/videos/279944992 | youtube.com/watch?v=_2w_XbDwlBU | twitter.com/PreviouslyRec/status/1013523002984747019
 | 2018_Jul_01 | 01:52:49 | No Justice in This World (part 4) | Jack, Rich | twitch.tv/videos/279948205 | youtube.com/watch?v=MQNZObyFWwI | twitter.com/PreviouslyRec/status/1013523002984747019
-| 2018_Jul_11 | 02:01:06 | Slayer of Orcs! (part 1) | Jack, Rich | twitch.tv/videos/283637825 | youtube.com/watch?v=qKlBVHTKWD0 | 
-| 2018_Jul_11 | 02:04:43 | Slayer of Orcs! (part 2) | Jack, Rich | twitch.tv/videos/283641274 | youtube.com/watch?v=qO_39IvbByI | 
-| 2018_Jul_11 | 02:02:09 | Slayer of Orcs (part 3) | Jack, Rich | twitch.tv/videos/283645405 | youtube.com/watch?v=w6D8e1oiezA | 
-| 2018_Jul_15 | 02:03:19 | Lara Croft Macaroni and Cheese (part 1) | Jack, Rich | twitch.tv/videos/285230149 | youtube.com/watch?v=A09WYiIbmkk | 
-| 2018_Jul_15 | 01:52:44 | Lara Croft Macaroni and Cheese (part 2) | Jack, Rich | twitch.tv/videos/285230148 | youtube.com/watch?v=444X-JRRw3U | 
-| 2018_Jul_18 | 01:45:23 | Nobody Likes Orcs (part 1) | Jack, Rich | twitch.tv/videos/286449618 | youtube.com/watch?v=SWJkrAjbqL0 | 
-| 2018_Jul_18 | 01:48:47 | Nobody Likes Orcs (part 2) | Jack, Rich | twitch.tv/videos/286449619 | youtube.com/watch?v=acKv6FlhTL8 | 
-| 2018_Jul_22 | 01:57:25 | So Long and Thanks for All the Fish (part 2) | twitch.tv/videos/288091865 | youtube.com/watch?v=5e8wBm4o5Ws | 
-| 2018_Jul_22 | 02:26:04 | So Long and Thanks for All the Fish (part 1) | twitch.tv/videos/288091864 | youtube.com/watch?v=tp2pg4s2J0Y | 
-| 2018_Jul_26 | 01:39:57 | Penultimate | twitch.tv/videos/289347253 | youtube.com/watch?v=8JivUDxsbvE | 
-| 2018_Jul_27 | 03:44:26 | END. | twitch.tv/videos/289348066 | youtube.com/watch?v=op1sxzbWkeo | 
+| 2018_Jul_11 | 02:01:06 | Slayer of Orcs! (part 1) | Jack, Rich | twitch.tv/videos/283637825 | youtube.com/watch?v=qKlBVHTKWD0 | twitter.com/PreviouslyRec/status/1017128477047304192
+| 2018_Jul_11 | 02:04:43 | Slayer of Orcs! (part 2) | Jack, Rich | twitch.tv/videos/283641274 | youtube.com/watch?v=qO_39IvbByI | twitter.com/PreviouslyRec/status/1017128477047304192
+| 2018_Jul_11 | 02:02:09 | Slayer of Orcs (part 3) | Jack, Rich | twitch.tv/videos/283645405 | youtube.com/watch?v=w6D8e1oiezA | twitter.com/PreviouslyRec/status/1017128477047304192
+| 2018_Jul_15 | 02:03:19 | Lara Croft Macaroni and Cheese (part 1) | Jack, Rich | twitch.tv/videos/285230149 | youtube.com/watch?v=A09WYiIbmkk | twitter.com/PreviouslyRec/status/1018601804991549440
+| 2018_Jul_15 | 01:52:44 | Lara Croft Macaroni and Cheese (part 2) | Jack, Rich | twitch.tv/videos/285230148 | youtube.com/watch?v=444X-JRRw3U | twitter.com/PreviouslyRec/status/1018601804991549440
+| 2018_Jul_18 | 01:45:23 | Nobody Likes Orcs (part 1) | Jack, Rich | twitch.tv/videos/286449618 | youtube.com/watch?v=SWJkrAjbqL0 | twitter.com/PreviouslyRec/status/1019674900586549248
+| 2018_Jul_18 | 01:48:47 | Nobody Likes Orcs (part 2) | Jack, Rich | twitch.tv/videos/286449619 | youtube.com/watch?v=acKv6FlhTL8 | twitter.com/PreviouslyRec/status/1019674900586549248
+| 2018_Jul_22 | 01:57:25 | So Long and Thanks for All the Fish (part 2) | Jack, Rich | twitch.tv/videos/288091865 | youtube.com/watch?v=5e8wBm4o5Ws | twitter.com/PreviouslyRec/status/1021137183531569153
+| 2018_Jul_22 | 02:26:04 | So Long and Thanks for All the Fish (part 1) | Jack, Rich | twitch.tv/videos/288091864 | youtube.com/watch?v=tp2pg4s2J0Y | twitter.com/PreviouslyRec/status/1021137183531569153
+| 2018_Jul_25 | 01:39:57 | Penultimate | Jack, Rich | twitch.tv/videos/289347253 | youtube.com/watch?v=8JivUDxsbvE | twitter.com/PreviouslyRec/status/1022220044980428801
+| 2018_Jul_25 | 03:44:26 | END. | Jack, Rich | twitch.tv/videos/289348066 | youtube.com/watch?v=op1sxzbWkeo | twitter.com/PreviouslyRec/status/1022220044980428801
