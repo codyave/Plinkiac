@@ -142,23 +142,23 @@
 | 2014_Nov_26 | 00:57:23 | K2... THE BOARD GAME (part 1) | Jack, Rich, Jay, Lisa | twitch.tv/videos/43106017 | youtube.com/watch?v=he35eSvdqPc | twitter.com/PreviouslyRec/status/537810841748660224
 | 2014_Nov_26 | 00:53:37 | K2... THE BOARD GAME (part 2) | Jack, Rich, Jay, Lisa | twitch.tv/videos/43105920 | youtube.com/watch?v=_1D38ToO9DE | twitter.com/PreviouslyRec/status/537810841748660224
 | 2014_Nov_30 | 01:39:38 | More Spelunky - Hack & Half | Jack, Rich | twitch.tv/videos/43093416 | youtube.com/watch?v=rc5SJlAu8qU | twitter.com/PreviouslyRec/status/539245426416025600
+| 2014_Nov_30 | 00:58:45 | Papers Please...Nope They Bleed Pixels...meh | Jack, Rich | twitch.tv/videos/43093336 | youtube.com/watch?v=CyWmxeAEbTM | twitter.com/PreviouslyRec/status/539245426416025600
+| 2014_Nov_30 | 01:17:35 | Wikipedia Wars | Jack, Rich | twitch.tv/videos/43093072 | youtube.com/watch?v=ZWXc22QpswM | twitter.com/PreviouslyRec/status/539245426416025600
 | 2014_Dec_03 | 00:53:43 | Rich builds a PC (part 1) | Jack, Rich, Jay | twitch.tv/videos/3598060 | youtube.com/watch?v=WPjGdq6baGM | twitter.com/PreviouslyRec/status/540222514665099264
 | 2014_Dec_03 | 01:24:19 | Rich builds a PC (part 2) | Jack, Rich, Jay | twitch.tv/videos/3598072 | youtube.com/watch?v=mu9gzuSMlFA | twitter.com/PreviouslyRec/status/540222514665099264
 | 2014_Dec_03 | 00:28:50 | Rambo - Last Blood - Nothing's Gonna Stop Us Now | Jack, Rich, Jay, Jessi | twitch.tv/videos/3599896 | youtube.com/watch?v=70cVuOLEM4k | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_03 | 01:31:41 | FrOg FrAcTiOnS | twitch.tv/videos/3599940 | youtube.com/watch?v=lxGVKEyxZIw | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_03 | 00:58:45 | Papers Please...Nope They Bleed Pixels...meh | twitch.tv/videos/43093336 | youtube.com/watch?v=CyWmxeAEbTM | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_03 | 01:17:35 | Wikipedia Wars | twitch.tv/videos/43093072 | youtube.com/watch?v=ZWXc22QpswM | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_07 | 01:15:34 | Hack & SPACE QUEST 1 (part 1) | twitch.tv/videos/3610175 | youtube.com/watch?v=qnzuq40K2Qg | twitter.com/PreviouslyRec/status/541802607623536640
-| 2014_Dec_07 | 00:26:41 | Hack & SPACE QUEST 1 (part 2.1) | twitch.tv/videos/3610308 | youtube.com/watch?v=Xm3FpRvPPp8 | twitter.com/PreviouslyRec/status/541802607623536640
-| 2014_Dec_07 | 00:06:28 | Hack & SPACE QUEST 1 (part 2.2) | twitch.tv/videos/3610334 | Duplicate: see line 152 | twitter.com/PreviouslyRec/status/541802607623536640
-| 2014_Dec_07 | 00:38:10 | Hack & SPACE QUEST 1 (part 2.3) | twitch.tv/videos/3610560 | Duplicate: see line 152 & 153 | twitter.com/PreviouslyRec/status/541802607623536640
-| 2014_Dec_07 | 00:20:54 | Hack & SPACE QUEST 1 (part 3) | twitch.tv/videos/3610819 | youtube.com/watch?v=rGaYYmFxeF8 | twitter.com/PreviouslyRec/status/541802607623536640
-| 2014_Dec_08 | 00:53:16 | Hack & SPACE QUEST 1 (part 4) | twitch.tv/videos/3617178 | youtube.com/watch?v=VxEnOoo3nPk | twitter.com/PreviouslyRec/status/542146065320128512
-| 2014_Dec_08 | 00:55:19 | Hack & SPACE QUEST 1 (part 5) | twitch.tv/videos/3619143 | youtube.com/watch?v=soEh_a3JUi4 | twitter.com/PreviouslyRec/status/542146065320128512
-| 2014_Dec_08 | 01:00:09 | Hack & SPACE QUEST 1 (part 6) | twitch.tv/videos/3619151 | youtube.com/watch?v=NSLeyvPoU68 | twitter.com/PreviouslyRec/status/542146065320128512
-| 2014_Dec_10 | 01:39:05 | Far Cry 3 - Blood Dragon | twitch.tv/videos/3626425 | youtube.com/watch?v=YDUCJjBVFxA | twitter.com/PreviouslyRec/status/542860370663460865
-| 2014_Dec_11 | 01:37:44 | Strider, Laser Robots WOO!!! | twitch.tv/videos/3626654 | youtube.com/watch?v=ln7tk2Qbk-E | twitter.com/PreviouslyRec/status/542860370663460865
-| 2014_Dec_11 | 00:06:53 | Mike plays Don't Shit Your Pants | twitch.tv/videos/3626698 | youtube.com/watch?v=KOdgtCemWj8 | twitter.com/PreviouslyRec/status/542914185550893056
+| 2014_Dec_03 | 01:31:41 | FrOg FrAcTiOnS | Jack, Rich | twitch.tv/videos/3599940 | youtube.com/watch?v=lxGVKEyxZIw | twitter.com/PreviouslyRec/status/540222514665099264
+| 2014_Dec_07 | 01:15:34 | Hack & SPACE QUEST 1 (part 1) | Jack, Rich | twitch.tv/videos/3610175 | youtube.com/watch?v=qnzuq40K2Qg | twitter.com/PreviouslyRec/status/541802607623536640
+| 2014_Dec_07 | 00:26:41 | Hack & SPACE QUEST 1 (part 2.1) | Jack, Rich | twitch.tv/videos/3610308 | youtube.com/watch?v=Xm3FpRvPPp8 | twitter.com/PreviouslyRec/status/541802607623536640
+| 2014_Dec_07 | 00:06:28 | Hack & SPACE QUEST 1 (part 2.2) | Jack, Rich | twitch.tv/videos/3610334 | Duplicate: see line 152 | twitter.com/PreviouslyRec/status/541802607623536640
+| 2014_Dec_07 | 00:38:10 | Hack & SPACE QUEST 1 (part 2.3) | Jack, Rich | twitch.tv/videos/3610560 | Duplicate: see line 152 & 153 | twitter.com/PreviouslyRec/status/541802607623536640
+| 2014_Dec_07 | 00:20:54 | Hack & SPACE QUEST 1 (part 3) | Jack, Rich | twitch.tv/videos/3610819 | youtube.com/watch?v=rGaYYmFxeF8 | twitter.com/PreviouslyRec/status/541802607623536640
+| 2014_Dec_08 | 00:53:16 | Hack & SPACE QUEST 1 (part 4) | Jack, Rich | twitch.tv/videos/3617178 | youtube.com/watch?v=VxEnOoo3nPk | twitter.com/PreviouslyRec/status/542146065320128512
+| 2014_Dec_08 | 00:55:19 | Hack & SPACE QUEST 1 (part 5) | Jack, Rich | twitch.tv/videos/3619143 | youtube.com/watch?v=soEh_a3JUi4 | twitter.com/PreviouslyRec/status/542146065320128512
+| 2014_Dec_08 | 01:00:09 | Hack & SPACE QUEST 1 (part 6) | Jack, Rich | twitch.tv/videos/3619151 | youtube.com/watch?v=NSLeyvPoU68 | twitter.com/PreviouslyRec/status/542146065320128512
+| 2014_Dec_10 | 01:39:05 | Far Cry 3 - Blood Dragon | Jack, Rich, Jay | twitch.tv/videos/3626425 | youtube.com/watch?v=YDUCJjBVFxA | twitter.com/PreviouslyRec/status/542860370663460865
+| 2014_Dec_11 | 01:37:44 | Strider, Laser Robots WOO!!! | Jack, Rich, Jay | twitch.tv/videos/3626654 | youtube.com/watch?v=ln7tk2Qbk-E | twitter.com/PreviouslyRec/status/542860370663460865
+| 2014_Dec_11 | 00:06:53 | Mike plays Don't Shit Your Pants | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/3626698 | youtube.com/watch?v=KOdgtCemWj8 | twitter.com/PreviouslyRec/status/542914185550893056
 | 2014_Dec_14 | 00:36:14 | Jedi Knight 2 - RICH EVANS-PERIENCE | twitch.tv/videos/3626972 | youtube.com/watch?v=0oqM9ow8Ndo | twitter.com/PreviouslyRec/status/544310743844532224
 | 2014_Dec_14 | 00:44:30 | Thief - The Dark Project - RICH EVANS-PERIENCE | twitch.tv/videos/3626945 | youtube.com/watch?v=5nmpexrPzaQ | twitter.com/PreviouslyRec/status/544310743844532224
 | 2014_Dec_14 | 00:22:08 | Far Cry 3 - Blood Dragon - RICH EVANS-PERIENCE | twitch.tv/videos/3626964 | youtube.com/watch?v=ZyZCPRTOk0g | twitter.com/PreviouslyRec/status/544310743844532224
