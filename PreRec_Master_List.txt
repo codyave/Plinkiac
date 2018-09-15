@@ -781,10 +781,10 @@
 | 2017_Apr_12 | 01:53:54 | Splitting Hairs (Bayonetta part 2) | Jack, Rich | twitch.tv/videos/141221202 | youtube.com/watch?v=6Md34TfbJjc | twitter.com/PreviouslyRec/status/852233295307919360
 | 2017_Apr_19 | 01:38:40 | Flinthook Line and Sinker! (part 1) | Jack, Rich | twitch.tv/videos/141862421 | youtube.com/watch?v=PJc35Gk5Yfg | twitter.com/PreviouslyRec/status/854750270659678208
 | 2017_Apr_19 | 01:46:09 | Flinthook Line and Sinker! (part 2) | Jack, Rich | twitch.tv/videos/141871240 | youtube.com/watch?v=IxQsWzSoClA | twitter.com/PreviouslyRec/status/854750270659678208
-| 2017_Apr_19 | 00:09:44 | Ms. Captain Cpt Marvel - The Mar-Vel | twitch.tv/videos/136859374 | youtube.com/watch?v=4sJ5-_BVuxc | twitter.com/PreviouslyRec/status/854750270659678208
-| 2017_May_?? | 00:05:36 | Rich Gets a Booty Call!! | twitch.tv/videos/141875954 | youtube.com/watch?v=CwQGajq5GWQ | 
-| 2017_May_19 | 01:30:44 | Reap What you D'oh (Shovel Knight - SoT part 1) | twitch.tv/videos/145045681 | youtube.com/watch?v=rsclDhJSt3Y | 
-| 2017_May_19 | 01:22:29 | Reap What You D'oh (Shovel Knight - SoT part 2) | twitch.tv/videos/145047213 | youtube.com/watch?v=K-wXUNdc-sQ | 
+| 2017_Apr_19 | 00:09:44 | Ms. Captain Cpt Marvel - The Mar-Vel | Jack, Rich | twitch.tv/videos/136859374 | youtube.com/watch?v=4sJ5-_BVuxc | twitter.com/PreviouslyRec/status/854750270659678208
+| 2017_May_?? | 00:05:36 | Rich Gets a Booty Call!! | Jack, Rich | twitch.tv/videos/141875954 | youtube.com/watch?v=CwQGajq5GWQ | 
+| 2017_Apr_23 | 01:30:44 | Reap What you D'oh (Shovel Knight - SoT part 1) | Jack, Rich | twitch.tv/videos/145045681 | youtube.com/watch?v=rsclDhJSt3Y | twitter.com/PreviouslyRec/status/856229133596200960
+| 2017_Apr_23 | 01:22:29 | Reap What You D'oh (Shovel Knight - SoT part 2) | Jack, Rich | twitch.tv/videos/145047213 | youtube.com/watch?v=K-wXUNdc-sQ | twitter.com/PreviouslyRec/status/856229133596200960
 | 2017_May_26 | 01:56:32 | Witchy Woman (Bayonetta 2 part 1) | twitch.tv/videos/147256572 | youtube.com/watch?v=MyY5DDOQVyQ | 
 | 2017_May_26 | 01:43:46 | Witchy Woman (Bayonetta 2 part 2) | twitch.tv/videos/147257673 | youtube.com/watch?v=_9UkbtE7AbU | 
 | 2017_May_26 | 02:10:56 | Shmucks Playin Shmups (part 1) | twitch.tv/videos/147259770 | youtube.com/watch?v=hCX74lA0BsA | 
