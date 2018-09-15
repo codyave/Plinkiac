@@ -821,10 +821,10 @@
 | 2017_Jun_07 | 02:06:03 | Witchy Whoa-Man(Jack Solo Stream) | Jack | twitch.tv/videos/159355651 | youtube.com/watch?v=g6mw6JMIAIc | twitter.com/PreviouslyRec/status/872508148275400704
 | 2017_Jun_11 | 02:05:54 | Sunday the 11th (part 1) | Jack, Rich | twitch.tv/videos/159387973 | youtube.com/watch?v=H3cB49hbId4 | twitter.com/PreviouslyRec/status/873984859022163969
 | 2017_Jun_11 | 01:57:06 | Sunday the 11th (part 2) | Jack, Rich | twitch.tv/videos/159407115 | youtube.com/watch?v=5CPDZeEcJrc | twitter.com/PreviouslyRec/status/873984859022163969
-| 2017_Jun_14 | 01:31:36 | Friday the E3th | twitch.tv/videos/161889759 | youtube.com/watch?v=CIOAoYSRKDs | twitter.com/PreviouslyRec/status/875063975473541120
-| 2017_Jun_14 | 02:31:47 | E3 2017… this should have been posted earlier | twitch.tv/videos/161901493 | youtube.com/watch?v=hpwiP_eUhRg | twitter.com/PreviouslyRec/status/875063975473541120
-| 2017_Jul_27 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | twitch.tv/videos/162380759 | youtube.com/watch?v=5Eyr7zvqaiE | 
-| 2017_Jul_27 | 02:21:32 | Yes, we're playing it again. Shut uo (part 2) | twitch.tv/videos/162438655 | youtube.com/watch?v=Tqhy-I_Fb3M | 
+| 2017_Jun_14 | 01:31:36 | Friday the E3th | Jack, Rich | twitch.tv/videos/161889759 | youtube.com/watch?v=CIOAoYSRKDs | twitter.com/PreviouslyRec/status/875063975473541120
+| 2017_Jun_14 | 02:31:47 | E3 2017… this should have been posted earlier | Jack, Rich | twitch.tv/videos/161901493 | youtube.com/watch?v=hpwiP_eUhRg | twitter.com/PreviouslyRec/status/875063975473541120
+| 2017_Jun_21 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | twitch.tv/videos/162380759 | youtube.com/watch?v=5Eyr7zvqaiE | twitter.com/PreviouslyRec/status/877610345933578240
+| 2017_Jun_21 | 02:21:32 | Yes, we're playing it again. Shut uo (part 2) | twitch.tv/videos/162438655 | youtube.com/watch?v=Tqhy-I_Fb3M | twitter.com/PreviouslyRec/status/877610345933578240
 | 2017_Jul_29 | 01:39:18 | Killing Nazis, Sweet (part 1) | twitch.tv/videos/162732924 | youtube.com/watch?v=bz6CJSZVP1Q | 
 | 2017_Jul_30 | 02:10:50 | Killing Nazis, Sweet! (part 2) | twitch.tv/videos/163163810 | youtube.com/watch?v=s2nQGPJYTC0 | 
 | 2017_Jul_31 | 00:05:54 | Jack's got your 6! | twitch.tv/videos/163372057 | youtube.com/watch?v=WUyMyY7gNSw | 
