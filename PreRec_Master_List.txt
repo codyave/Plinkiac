@@ -85,44 +85,44 @@
 | 2014_Sep_28 | 01:07:29 | Happy Birthday Isaac: I love you | Jack | twitch.tv/videos/45418783 | youtube.com/watch?v=qipm_8WDfAc | twitter.com/PreviouslyRec/status/516398328779513857
 | 2014_Sep_28 | 00:56:20 | Happy Birthday Isaac: I love you (Part 2) | Jack | twitch.tv/videos/45418258 | youtube.com/watch?v=5HiyYNzP5nY | twitter.com/PreviouslyRec/status/516398328779513857
 | 2014_Sep_28 | 00:42:31 | Jack and Half Sucks at FTL | Jack, Rich | twitch.tv/videos/45416374 | No YouTube video | twitter.com/PreviouslyRec/status/516398328779513857
+| 2014_Sep_28 | 00:05:56 | Rich Fails at Streaming | Rich | twitch.tv/videos/45416029 | No YouTube video | twitter.com/PreviouslyRec/status/518976031894409217
 | 2014_Oct_05 | 00:32:51 | Jack & Rich Chat (part 1) Solitaire | Jack, Rich | www.twitch.tv/videos/45416321 | youtube.com/watch?v=nbtcDYmErWc | twitter.com/PreviouslyRec/status/518976031894409217
 | 2014_Oct_05 | 00:55:42 | Jack & Rich Chat (part 2) MS Paint | Jack, Rich | twitch.tv/videos/45416204 | youtube.com/watch?v=9sBqpmhr7BY | twitter.com/PreviouslyRec/status/518976031894409217
-| 2014_Oct_05 | 00:05:56 | Rich Fails at Streaming | twitch.tv/videos/45416029 | No YouTube video | twitter.com/PreviouslyRec/status/518976031894409217
-| 2014_Oct_08 | 01:03:13 | Guacamelee - No Death Attempt (part 1.1) | twitch.tv/videos/45363647 | youtube.com/watch?v=sc7IyqDV_qA | twitter.com/PreviouslyRec/status/520021236135378945
-| 2014_Oct_08 | 00:56:10 | Guacamelee - No Death Attempt (part 1.2) | twitch.tv/videos/45362801 | youtube.com/watch?v=LTVApyEBl9c | twitter.com/PreviouslyRec/status/520021236135378945
-| 2014_Oct_08 | 01:00:52 | Guacamelee - No Death Attempt (part 1.3) | twitch.tv/videos/45362747 | youtube.com/watch?v=yqxa4ukv9o0 | twitter.com/PreviouslyRec/status/520021236135378945
-| 2014_Oct_08 | 01:07:16 | Gucamelee - No Death Attempt (part 1.4) | twitch.tv/videos/45362786 | youtube.com/watch?v=dBg8_Ww3pSI | twitter.com/PreviouslyRec/status/520021236135378945
-| 2014_Oct_08 | 01:14:52 | Guacamelee - No Death Attempt (part 1.5) | twitch.tv/videos/45362703 | youtube.com/watch?v=0eD5S4PvGE4 | twitter.com/PreviouslyRec/status/520021236135378945
-| 2014_Oct_15 | 00:54:41 | Rich is going to win at FTL (part 1) | twitch.tv/videos/45261319 | youtube.com/watch?v=ORIOQ1QUwP4 | twitter.com/PreviouslyRec/status/522539483795705856
-| 2014_Oct_15 | 00:57:12 | Rich is going to win at FTL (part 2) | twitch.tv/videos/45261142 | youtube.com/watch?v=h_6tS5qf4UM | twitter.com/PreviouslyRec/status/522539483795705856
-| 2014_Oct_15 | 01:07:34 | Rich is going to win at FTL (part 3) | twitch.tv/videos/45261117 | youtube.com/watch?v=8UFBU7GXCag | twitter.com/PreviouslyRec/status/522539483795705856
-| 2014_Oct_15 | 00:44:42 | Teleglitch - (part 1) | twitch.tv/videos/45260926 | youtube.com/watch?v=D-3G5Xc7NSw | twitter.com/PreviouslyRec/status/523933193091559424 | twitter.com/PreviouslyRec/status/522539483795705856
-| 2014_Oct_15 | 01:07:17 | Teleglitch - (part 2) | twitch.tv/videos/45260118 | youtube.com/watch?v=2mxSR-PDN44 | twitter.com/PreviouslyRec/status/523933193091559424 | twitter.com/PreviouslyRec/status/522539483795705856
-| 2014_Oct_19 | 01:00:08 | SUPER MEAT HACKS (part 1) | twitch.tv/videos/45138500 | youtube.com/watch?v=b8WR4asx5ec | twitter.com/PreviouslyRec/status/524006361302966272
-| 2014_Oct_19 | 00:11:35 | SUPER MEAT HACK (part 1.2) | twitch.tv/videos/45138298 | Duplicate: see above | twitter.com/PreviouslyRec/status/524006361302966272
-| 2014_Oct_19 | 00:44:46 | SUPER MEAT HACK (part 2) | twitch.tv/videos/45138127 | youtube.com/watch?v=PAbPG6Ybvnc | twitter.com/PreviouslyRec/status/524006361302966272
-| 2014_Oct_19 | 01:00:52 | Rich - Armchair General (part 1) | twitch.tv/videos/45138207 | youtube.com/watch?v=NpKCz4Hul8k | twitter.com/PreviouslyRec/status/524006361302966272
-| 2014_Oct_19 | 01:28:49 | Rich - Armchair General (part 2) | twitch.tv/videos/45137861 | youtube.com/watch?v=jpn-ygHy85Y | twitter.com/PreviouslyRec/status/524006361302966272
-| 2014_Oct_19 | 01:37:42 | Rich - Armchair General (part 3) | twitch.tv/videos/45137890 | youtube.com/watch?v=aaDCgfov2Uo | twitter.com/PreviouslyRec/status/524006361302966272
-| 2014_Oct_22 | 01:22:57 | 3D Dot Game Hacks | twitch.tv/videos/45137153 | youtube.com/watch?v=FKwSSJNAj98 | twitter.com/PreviouslyRec/status/525072122477961216
-| 2014_Oct_22 | 00:53:48 | Lollipop Chainmail | twitch.tv/videos/45136964 | youtube.com/watch?v=F0TOSoq13PU | twitter.com/PreviouslyRec/status/525072122477961216
-| 2014_Oct_26 | 01:02:47 | Cavern Kings (part 1) - Hack & Half | twitch.tv/videos/45106769 | youtube.com/watch?v=k83gsIRUrFE | twitter.com/PreviouslyRec/status/526543003012198400
-| 2014_Oct_26 | 00:45:51 | Cavern Kings (part 2) Hack & Half | twitch.tv/videos/45105574 | youtube.com/watch?v=X_bWNL1kMYs | twitter.com/PreviouslyRec/status/526543003012198400
-| 2014_Oct_26 | 00:38:19 | Cavern Kings (part 3) Hack & Half | twitch.tv/videos/45105198 | youtube.com/watch?v=udfyy821Hlg | twitter.com/PreviouslyRec/status/526543003012198400
-| 2014_Oct_29 | 00:35:30 | 5 Spooky Nights At Freddy's | twitch.tv/videos/45029619 | youtube.com/watch?v=rcJ5l3dl1Bo | twitter.com/PreviouslyRec/status/527639938368405504
-| 2014_Oct_29 | 00:20:33 | real SPOOKY horror stories ultimate edition | twitch.tv/videos/45029240 | youtube.com/watch?v=YJ_fUzD4yhw | twitter.com/PreviouslyRec/status/527639938368405504
-| 2014_Oct_29 | 00:43:39 | Haunt the SPOOKY House - Terrortown | twitch.tv/videos/45028975 | youtube.com/watch?v=CRGDe8h57Ho | twitter.com/PreviouslyRec/status/527639938368405504
-| 2014_Oct_29 | 00:50:20 | Spooky NES - Nightmare on Elm St. And Friday the 13th | twitch.tv/videos/45028868 | youtube.com/watch?v=ktXJSsTBq8Q | twitter.com/PreviouslyRec/status/527639938368405504
-| 2014_Oct_29 | 01:22:32 | Outlast (spooky) | twitch.tv/videos/45028129 | youtube.com/watch?v=uVa3PTaWAvM | twitter.com/PreviouslyRec/status/527639938368405504
-| 2014_Nov_02 | 01:06:19 | Daylight Saving SUPER time FORCE | twitch.tv/videos/44873315 | youtube.com/watch?v=cCCd7qbrCRg | twitter.com/PreviouslyRec/status/529094730106171392
-| 2014_Nov_02 | 01:04:24 | Monaco Saving Time | twitch.tv/videos/44870867 | youtube.com/watch?v=D-gjqbZojig | twitter.com/PreviouslyRec/status/529129932425674752
-| 2014_Nov_02 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | twitch.tv/videos/44855805 | youtube.com/watch?v=DDX4oSUteSI | twitter.com/PreviouslyRec/status/529135428092190720
-| 2014_Nov_02 | 00:14:32 | Organ Trail (part 1.2) | twitch.tv/videos/44855393 | Duplicate: see line 119 | twitter.com/PreviouslyRec/status/529135428092190720
-| 2014_Nov_02 | 01:11:16 | Organ Trail (part 2) | twitch.tv/videos/44808503 | youtube.com/watch?v=8WuzKE7VETQ | twitter.com/PreviouslyRec/status/529135428092190720
-| 2014_Nov_09 | 01:08:18 | The Binding of Isaac - Rebirth (part 1) | twitch.tv/videos/44790444 | youtube.com/watch?v=6hc8us1ztTI | twitter.com/PreviouslyRec/status/531634507456077824
-| 2014_Nov_09 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk | twitter.com/PreviouslyRec/status/531634507456077824
-| 2014_Nov_09 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ twitter.com/PreviouslyRec/status/531634507456077824
-| 2014_Nov_09 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | twitch.tv/videos/44791997 | youtube.com/watch?v=Eno8xf0T__E | twitter.com/PreviouslyRec/status/531634507456077824
+| 2014_Oct_08 | 01:03:13 | Guacamelee - No Death Attempt (part 1.1) | Jack, Rich, Jay | twitch.tv/videos/45363647 | youtube.com/watch?v=sc7IyqDV_qA | twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 00:56:10 | Guacamelee - No Death Attempt (part 1.2) | Jack, Rich, Jay | twitch.tv/videos/45362801 | youtube.com/watch?v=LTVApyEBl9c | twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 01:00:52 | Guacamelee - No Death Attempt (part 1.3) | Jack, Rich, Jay | twitch.tv/videos/45362747 | youtube.com/watch?v=yqxa4ukv9o0 | twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 01:07:16 | Gucamelee - No Death Attempt (part 1.4) | Jack, Rich, Jay | twitch.tv/videos/45362786 | youtube.com/watch?v=dBg8_Ww3pSI | twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_08 | 01:14:52 | Guacamelee - No Death Attempt (part 1.5) | Jack, Rich, Jay | twitch.tv/videos/45362703 | youtube.com/watch?v=0eD5S4PvGE4 | twitter.com/PreviouslyRec/status/520021236135378945
+| 2014_Oct_15 | 00:54:41 | Rich is going to win at FTL (part 1) | Jack, Rich, Jay, Jessi | twitch.tv/videos/45261319 | youtube.com/watch?v=ORIOQ1QUwP4 | twitter.com/PreviouslyRec/status/522539483795705856
+| 2014_Oct_15 | 00:57:12 | Rich is going to win at FTL (part 2) | Jack, Rich, Jay, Jessi | twitch.tv/videos/45261142 | youtube.com/watch?v=h_6tS5qf4UM | twitter.com/PreviouslyRec/status/522539483795705856
+| 2014_Oct_15 | 01:07:34 | Rich is going to win at FTL (part 3) | Jack, Rich, Jay, Jessi | twitch.tv/videos/45261117 | youtube.com/watch?v=8UFBU7GXCag | twitter.com/PreviouslyRec/status/522539483795705856
+| 2014_Oct_15 | 00:44:42 | Teleglitch - (part 1) | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/45260926 | youtube.com/watch?v=D-3G5Xc7NSw | twitter.com/PreviouslyRec/status/523933193091559424 | twitter.com/PreviouslyRec/status/522539483795705856
+| 2014_Oct_15 | 01:07:17 | Teleglitch - (part 2) | Jack, Rich, Jay | twitch.tv/videos/45260118 | youtube.com/watch?v=2mxSR-PDN44 | twitter.com/PreviouslyRec/status/523933193091559424 | twitter.com/PreviouslyRec/status/522539483795705856
+| 2014_Oct_19 | 01:00:08 | SUPER MEAT HACKS (part 1) | Jack, Rich | twitch.tv/videos/45138500 | youtube.com/watch?v=b8WR4asx5ec | twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 00:11:35 | SUPER MEAT HACK (part 1.2) | Jack, Rich | twitch.tv/videos/45138298 | Duplicate: see above | twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 00:44:46 | SUPER MEAT HACK (part 2) | Jack, Rich | twitch.tv/videos/45138127 | youtube.com/watch?v=PAbPG6Ybvnc | twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 01:00:52 | Rich - Armchair General (part 1) | Jack, Rich | twitch.tv/videos/45138207 | youtube.com/watch?v=NpKCz4Hul8k | twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 01:28:49 | Rich - Armchair General (part 2) | Jack, Rich | twitch.tv/videos/45137861 | youtube.com/watch?v=jpn-ygHy85Y | twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_19 | 01:37:42 | Rich - Armchair General (part 3) | Jack, Rich | twitch.tv/videos/45137890 | youtube.com/watch?v=aaDCgfov2Uo | twitter.com/PreviouslyRec/status/524006361302966272
+| 2014_Oct_22 | 01:22:57 | 3D Dot Game Hacks | Jack, Rich, Jay, Jessi | twitch.tv/videos/45137153 | youtube.com/watch?v=FKwSSJNAj98 | twitter.com/PreviouslyRec/status/525072122477961216
+| 2014_Oct_22 | 00:53:48 | Lollipop Chainmail | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/45136964 | youtube.com/watch?v=F0TOSoq13PU | twitter.com/PreviouslyRec/status/525072122477961216
+| 2014_Oct_26 | 01:02:47 | Cavern Kings (part 1) - Hack & Half | Jack, Rich | twitch.tv/videos/45106769 | youtube.com/watch?v=k83gsIRUrFE | twitter.com/PreviouslyRec/status/526543003012198400
+| 2014_Oct_26 | 00:45:51 | Cavern Kings (part 2) Hack & Half | Jack, Rich | twitch.tv/videos/45105574 | youtube.com/watch?v=X_bWNL1kMYs | twitter.com/PreviouslyRec/status/526543003012198400
+| 2014_Oct_26 | 00:38:19 | Cavern Kings (part 3) Hack & Half | Jack, Rich | twitch.tv/videos/45105198 | youtube.com/watch?v=udfyy821Hlg | twitter.com/PreviouslyRec/status/526543003012198400
+| 2014_Oct_29 | 00:35:30 | 5 Spooky Nights At Freddy's | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/45029619 | youtube.com/watch?v=rcJ5l3dl1Bo | twitter.com/PreviouslyRec/status/527639938368405504
+| 2014_Oct_29 | 00:20:33 | real SPOOKY horror stories ultimate edition | Jack, Rich, Jay | twitch.tv/videos/45029240 | youtube.com/watch?v=YJ_fUzD4yhw | twitter.com/PreviouslyRec/status/527639938368405504
+| 2014_Oct_29 | 00:43:39 | Haunt the SPOOKY House - Terrortown | Jack, Rich, Jay | twitch.tv/videos/45028975 | youtube.com/watch?v=CRGDe8h57Ho | twitter.com/PreviouslyRec/status/527639938368405504
+| 2014_Oct_29 | 00:50:20 | Spooky NES - Nightmare on Elm St. And Friday the 13th | Jack, Rich, Jay | twitch.tv/videos/45028868 | youtube.com/watch?v=ktXJSsTBq8Q | twitter.com/PreviouslyRec/status/527639938368405504
+| 2014_Oct_29 | 01:22:32 | Outlast (spooky) | Jack, Rich, Jay | twitch.tv/videos/45028129 | youtube.com/watch?v=uVa3PTaWAvM | twitter.com/PreviouslyRec/status/527639938368405504
+| 2014_Nov_02 | 01:06:19 | Daylight Saving SUPER time FORCE | Jack, Rich | twitch.tv/videos/44873315 | youtube.com/watch?v=cCCd7qbrCRg | twitter.com/PreviouslyRec/status/529094730106171392
+| 2014_Nov_02 | 01:04:24 | Monaco Saving Time | Jack, Rich | twitch.tv/videos/44870867 | youtube.com/watch?v=D-gjqbZojig | twitter.com/PreviouslyRec/status/529129932425674752
+| 2014_Nov_02 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | Jack, Rich | twitch.tv/videos/44855805 | youtube.com/watch?v=DDX4oSUteSI | twitter.com/PreviouslyRec/status/529135428092190720
+| 2014_Nov_02 | 00:14:32 | Organ Trail (part 1.2) | Jack, Rich | twitch.tv/videos/44855393 | Duplicate: see line 119 | twitter.com/PreviouslyRec/status/529135428092190720
+| 2014_Nov_02 | 01:11:16 | Organ Trail (part 2) | Jack, Rich | twitch.tv/videos/44808503 | youtube.com/watch?v=8WuzKE7VETQ | twitter.com/PreviouslyRec/status/529135428092190720
+| 2014_Nov_09 | 01:08:18 | The Binding of Isaac - Rebirth (part 1) | Jack, Rich | twitch.tv/videos/44790444 | youtube.com/watch?v=6hc8us1ztTI | twitter.com/PreviouslyRec/status/531634507456077824
+| 2014_Nov_09 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) | Jack, Rich | twitch.tv/videos/44792975 | youtube.com/watch?v=YOP6DjAdKfk | twitter.com/PreviouslyRec/status/531634507456077824
+| 2014_Nov_09 | 00:57:40 | The Binding of Isaac - Rebirth (part 3) | Jack, Rich | twitch.tv/videos/44790619 | youtube.com/watch?v=NxiieL2mIrQ twitter.com/PreviouslyRec/status/531634507456077824
+| 2014_Nov_09 | 00:23:53 | Friday the Birthday Dick (Fan made Game) | Jack, Rich | twitch.tv/videos/44791997 | youtube.com/watch?v=Eno8xf0T__E | twitter.com/PreviouslyRec/status/531634507456077824
 | 2014_Nov_12 | 01:35:36 | SUPER DUPER Smash TV | twitch.tv/videos/44790001 | No YouTube video | twitter.com/PreviouslyRec/status/532706455418204160
 | 2014_Nov_12 | 01:05:17 | SUPER DUPER Mega Man X (part 1) | twitch.tv/videos/44789498 | youtube.com/watch?v=h0eKVKKowYY | twitter.com/PreviouslyRec/status/532706455418204160
 | 2014_Nov_12 | 01:26:53 | SUPER DUPER Mega Man X (part 2) | twitch.tv/videos/43229798 | youtube.com/watch?v=NA8fEVuvA4M twitter.com/PreviouslyRec/status/532706455418204160
