@@ -144,10 +144,10 @@
 | 2014_Nov_30 | 01:39:38 | More Spelunky - Hack & Half | Jack, Rich | twitch.tv/videos/43093416 | youtube.com/watch?v=rc5SJlAu8qU | twitter.com/PreviouslyRec/status/539245426416025600
 | 2014_Dec_03 | 00:53:43 | Rich builds a PC (part 1) | Jack, Rich, Jay | twitch.tv/videos/3598060 | youtube.com/watch?v=WPjGdq6baGM | twitter.com/PreviouslyRec/status/540222514665099264
 | 2014_Dec_03 | 01:24:19 | Rich builds a PC (part 2) | Jack, Rich, Jay | twitch.tv/videos/3598072 | youtube.com/watch?v=mu9gzuSMlFA | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_04 | 00:28:50 | Rambo - Last Blood - Nothing's Gonna Stop Us Now | Jack, Rich, Jay, Jessi | twitch.tv/videos/3599896 | youtube.com/watch?v=70cVuOLEM4k | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_04 | 01:31:41 | FrOg FrAcTiOnS | twitch.tv/videos/3599940 | youtube.com/watch?v=lxGVKEyxZIw | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_04 | 00:58:45 | Papers Please...Nope They Bleed Pixels...meh | twitch.tv/videos/43093336 | youtube.com/watch?v=CyWmxeAEbTM | twitter.com/PreviouslyRec/status/540222514665099264
-| 2014_Dec_04 | 01:17:35 | Wikipedia Wars | twitch.tv/videos/43093072 | youtube.com/watch?v=ZWXc22QpswM | twitter.com/PreviouslyRec/status/540222514665099264
+| 2014_Dec_03 | 00:28:50 | Rambo - Last Blood - Nothing's Gonna Stop Us Now | Jack, Rich, Jay, Jessi | twitch.tv/videos/3599896 | youtube.com/watch?v=70cVuOLEM4k | twitter.com/PreviouslyRec/status/540222514665099264
+| 2014_Dec_03 | 01:31:41 | FrOg FrAcTiOnS | twitch.tv/videos/3599940 | youtube.com/watch?v=lxGVKEyxZIw | twitter.com/PreviouslyRec/status/540222514665099264
+| 2014_Dec_03 | 00:58:45 | Papers Please...Nope They Bleed Pixels...meh | twitch.tv/videos/43093336 | youtube.com/watch?v=CyWmxeAEbTM | twitter.com/PreviouslyRec/status/540222514665099264
+| 2014_Dec_03 | 01:17:35 | Wikipedia Wars | twitch.tv/videos/43093072 | youtube.com/watch?v=ZWXc22QpswM | twitter.com/PreviouslyRec/status/540222514665099264
 | 2014_Dec_07 | 01:15:34 | Hack & SPACE QUEST 1 (part 1) | twitch.tv/videos/3610175 | youtube.com/watch?v=qnzuq40K2Qg | twitter.com/PreviouslyRec/status/541802607623536640
 | 2014_Dec_07 | 00:26:41 | Hack & SPACE QUEST 1 (part 2.1) | twitch.tv/videos/3610308 | youtube.com/watch?v=Xm3FpRvPPp8 | twitter.com/PreviouslyRec/status/541802607623536640
 | 2014_Dec_07 | 00:06:28 | Hack & SPACE QUEST 1 (part 2.2) | twitch.tv/videos/3610334 | Duplicate: see line 152 | twitter.com/PreviouslyRec/status/541802607623536640
