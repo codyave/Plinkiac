@@ -776,10 +776,10 @@
 | 2017_Apr_07 | 01:41:12 | Catching up with 20XX | Jack, Rich | twitch.tv/videos/137752942 | youtube.com/watch?v=mpxiyjJbdeY | twitter.com/PreviouslyRec/status/850424576941187075
 | 2017_Apr_07 | 03:01:21 | Full of Sp(el)unk! | Jack, Rich | twitch.tv/videos/137754213 | youtube.com/watch?v=zDvUOsozY-k | twitter.com/PreviouslyRec/status/850424576941187075
 | 2017_Apr_?? | 00:09:48 | If you fall out of an airplane | Jack, Rich | twitch.tv/videos/139365780 | youtube.com/watch?v=k1Kt6ojWlOg | 
-| 2017_May_03 | 02:33:28 | Breath of the Jay (part 1) | Jack, Rich, Jay | twitch.tv/videos/139706495 | youtube.com/watch?v=ytmwpx4VDx0 | 
-| 2017_May_03 | 02:34:30 | Breath of the Jay (part 2) | Jack, Rich, Jay | twitch.tv/videos/139710556 | youtube.com/watch?v=9rW60Z8eL38 | 
-| 2017_May_09 | 02:12:24 | Splitting Hairs (Bayonetta part 1) | twitch.tv/videos/141216269 | youtube.com/watch?v=bp7J8-_b3qg | 
-| 2017_May_09 | 01:53:54 | Splitting Hairs (Bayonetta part 2) | twitch.tv/videos/141221202 | youtube.com/watch?v=6Md34TfbJjc | 
+| 2017_Apr_09 | 02:33:28 | Breath of the Jay (part 1) | Jack, Rich, Jay | twitch.tv/videos/139706495 | youtube.com/watch?v=ytmwpx4VDx0 | twitter.com/PreviouslyRec/status/851140700855054336
+| 2017_Apr_09 | 02:34:30 | Breath of the Jay (part 2) | Jack, Rich, Jay | twitch.tv/videos/139710556 | youtube.com/watch?v=9rW60Z8eL38 | twitter.com/PreviouslyRec/status/851140700855054336
+| 2017_Apr_12 | 02:12:24 | Splitting Hairs (Bayonetta part 1) | Jack, Rich | twitch.tv/videos/141216269 | youtube.com/watch?v=bp7J8-_b3qg | twitter.com/PreviouslyRec/status/852233295307919360
+| 2017_Apr_12 | 01:53:54 | Splitting Hairs (Bayonetta part 2) | Jack, Rich | twitch.tv/videos/141221202 | youtube.com/watch?v=6Md34TfbJjc | twitter.com/PreviouslyRec/status/852233295307919360
 | 2017_May_11 | 01:38:40 | Flinthook Line and Sinker! (part 1) | twitch.tv/videos/141862421 | youtube.com/watch?v=PJc35Gk5Yfg | 
 | 2017_May_12 | 01:46:09 | Flinthook Line and Sinker! (part 2) | twitch.tv/videos/141871240 | youtube.com/watch?v=IxQsWzSoClA | 
 | 2017_May_12 | 00:05:36 | Rich Gets a Booty Call!! | twitch.tv/videos/141875954 | youtube.com/watch?v=CwQGajq5GWQ | 
