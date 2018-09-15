@@ -863,11 +863,11 @@
 | 2017_Aug_20 | 01:29:10 | They call me Mr. PUBG Your Girl | Jack, Rich | twitch.tv/videos/171975795 | youtube.com/watch?v=-tzeBFQbMT0 | twitter.com/PreviouslyRec/status/899354689313148929
 | 2017_Aug_23 | 01:30:12 | Pub Bee Gee's - Stayin' Alive (part 1) | Jack, Rich | twitch.tv/videos/172465832 | youtube.com/watch?v=OlDlgAh1Z7U | twitter.com/PreviouslyRec/status/900461775384170496
 | 2017_Aug_23 | 01:48:02 | Pub Bee Gee's - Stayin' Alive (part 2) | Jack, Rich | twitch.tv/videos/172479131 | youtube.com/watch?v=fen2W_2MxpI | twitter.com/PreviouslyRec/status/900461775384170496
-| 2017_Aug_27 | 02:04:12 | Skyway to Hell!!! (part 1) | Rich, Jack | twitch.tv/videos/172573649 | youtube.com/watch?v=T2IbzpwipZA | twitter.com/PreviouslyRec/status/901892808008765440
-| 2017_Aug_27 | 02:33:57 | Skyway to Hell!!! (part 2) | Rich, Jack | twitch.tv/videos/172585561 | youtube.com/watch?v=Ex4CKKVsld0 | twitter.com/PreviouslyRec/status/901892808008765440
-| 2017_Sep_06 | 01:58:39 | XCOM on Shrooms (part 2) | twitch.tv/videos/172752806 | youtube.com/watch?v=UpiufrtGj2U | 
-| 2017_Sep_08 | 03:27:06 | XCOM on Shrooms (part 1) | twitch.tv/videos/173218384 | youtube.com/watch?v=INofjxLYg94 | 
-| 2017_Sep_11 | 03:24:10 | Kandor the 13th | twitch.tv/videos/174010840 | youtube.com/watch?v=_mtXJRhHiTc | 
+| 2017_Aug_27 | 02:04:12 | Skyway to Hell!!! (part 1) | Jack, Rich | twitch.tv/videos/172573649 | youtube.com/watch?v=T2IbzpwipZA | twitter.com/PreviouslyRec/status/901892808008765440
+| 2017_Aug_27 | 02:33:57 | Skyway to Hell!!! (part 2) | Jack, Rich | twitch.tv/videos/172585561 | youtube.com/watch?v=Ex4CKKVsld0 | twitter.com/PreviouslyRec/status/901892808008765440
+| 2017_Aug_30 | 01:58:39 | XCOM on Shrooms (part 2) | Jack, Rich | twitch.tv/videos/172752806 | youtube.com/watch?v=UpiufrtGj2U | twitter.com/PreviouslyRec/status/902978991837122560
+| 2017_Aug_30 | 03:27:06 | XCOM on Shrooms (part 1) | Jack, Rich | twitch.tv/videos/173218384 | youtube.com/watch?v=INofjxLYg94 | twitter.com/PreviouslyRec/status/902978991837122560
+| 2017_Aug_31 | 03:24:10 | Kandor the 13th | Jack, Rich | twitch.tv/videos/174010840 | youtube.com/watch?v=_mtXJRhHiTc | twitter.com/PreviouslyRec/status/903313964095983618
 | 2017_Sep_12 | 01:53:18 | Mario With a Gun (part 1) | twitch.tv/videos/174225899 | youtube.com/watch?v=7qWyqm0FP98 | 
 | 2017_Sep_13 | 02:12:24 | Mario with a Gun (part 2) | twitch.tv/videos/174355985 | youtube.com/watch?v=srsgyAI1rDI | 
 | 2017_Sep_14 | 01:10:00 | Blessed Battle | twitch.tv/videos/174698830 | youtube.com/watch?v=LipcyQpWV9Q | 
