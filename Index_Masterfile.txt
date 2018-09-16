@@ -1,39 +1,60 @@
-| 2003_May_29 | Episode One: George Lucas Sucks | Jay, Lauren Burke | https://web.archive.org/web/20030529033835/http://ffrevolution.com:80/fffeatures.html
-| 2003_May_29 | Episode Two: George Lucas Still Sucks | Jay, Lauren Burke | https://web.archive.org/web/20030529033835/http://ffrevolution.com:80/fffeatures.html
-| 2003_May_29 | Episode Three: Lakers: 7 | Jay, Lauren Burke | https://web.archive.org/web/20030529033835/http://ffrevolution.com:80/fffeatures.html
-| 2003_Oct_05 | Episode Four: Jason Takes Manhattan | Jay, Lauren Burke |
+| 2003_May_29 | 00:04:03 | Episode One: George Lucas Sucks | Jay, Lauren Burke | https://web.archive.org/web/20030529033835/http://ffrevolution.com:80/fffeatures.html
+| 2003_May_29 | 00:04:47 | Episode Two: George Lucas Still Sucks | Jay, Lauren Burke | https://web.archive.org/web/20030529033835/http://ffrevolution.com:80/fffeatures.html
+| 2003_May_29 | 00:03:56 | Episode Three: Lakers: 7 | Jay, Lauren Burke | https://web.archive.org/web/20030529033835/http://ffrevolution.com:80/fffeatures.html
+| 2003_Oct_05 | 00:05:29 | Episode Four: Jason Takes Manhattan | Jay, Lauren Burke |
 https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeatures.html
-| 2003_Oct_05 | Episode Five: Who is Paddy Chayefsky? | Jay, Lauren Burke |
+| 2003_Oct_05 | 00:02:53 | Episode Five: Who is Paddy Chayefsky? | Jay, Lauren Burke |
 https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeatures.html
-| 2003_Oct_05 | Episode Six: Fun with Dirt | Jay, Lauren Burke |
+| 2003_Oct_05 | 00:08:26 | Episode Six: Fun with Dirt | Jay, Lauren Burke |
 https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeatures.html
-| 2003_???_?? | Episode Seven: Ani-who? | Jay, Lauren Burke | 
-| 2003_???_?? | Episode Eight: The Chronicles of Bingo | Jay, Lauren Burke | 
-| 2003_???_?? | Episode Nine: Bingo's Student Film | Jay, Lauren Burke | 
-| 2008_Dec_12 | Mr. Plinkett’s Star Trek Generations Review | http://redlettermedia.com/mr-plinketts-star-trek-generations-review/
-| 2009_May_06 | Mr. Plinkett's Star Trek First Contact Review | http://redlettermedia.com/mr-plinketts-star-trek-first-contact-review/
-| 2009_Jun_10 | Mr. Plinkett's Star Trek Insurrection Review | http://redlettermedia.com/mr-plinketts-star-trek-insurrection-review/
-| 2009_Aug_13 | Mr. Plinkett's Star Trek Nemesis Review | http://redlettermedia.com/mr-plinketts-star-trek-nemesis-review/
-| 2009_Dec_10 | Mr. Plinkett’s Star Wars Episode 1: The Phantom Menace Review	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
-| 2009_Dec_20 | Phantom Menace Review Interview Outtakes | http://redlettermedia.com/phantom-menace-review-interview-outtakes/
-| 2010_Feb_10 | Mr. Plinkett's Avatar Review | http://redlettermedia.com/mr-plinketts-avatar-review/
-| 2010_Jun_17 | Mr. Plinkett's Baby Day Out Review | http://redlettermedia.com/mr-plinketts-babys-day-out-review/
-| 2010_Jul_08 | Mr. Plinkett’s Star Wars Episode II: Attack of the Clones Review | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
-| 2010_Jul_20 | Mr. Plinkett’s Star Wars Episode II Outtakes | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-outtakes/
-| 2010_Sep_01 | Mr. Plinkett's Star Trek '09 Review | http://redlettermedia.com/mr-plinketts-star-trek-09-review/
-| 2010_Dec_30 | Mr. Plinkett's Star Wars Episode III Review | http://redlettermedia.com/mr-plinketts-star-wars-episode-iii-review/
-| 2011_Jan_20 | Behind the Scenes – Star Wars: Episode III Review Teaser Trailer | http://redlettermedia.com/behind-the-scenes-star-wars-episode-iii-review-teaser-trailer/
-| 2011_Jan_20 | Behind the Scenes: Mr. Plinkett’s Star Wars Episode III review | http://redlettermedia.com/behind-the-scenes-mr-plinketts-star-wars-episode-iii-review/
-| 2011_Feb_12 | Revenge of Nadine: The Episode III Review Epilogue Trailer | http://redlettermedia.com/revenge-of-nadine-the-episode-iii-review-epilogue-trailer/
-| 2011_Mar_11 | Revenge of Nadine: The Episode III Review Epilogue | http://redlettermedia.com/509/
-| 2011_Jun_24 | Cop Dog Review | https://redlettermedia.com/mr-plinkett-has-a-new-review/
-| 2011_Dec_23 | Mr. Plinkett’s Indiana Jones and the Kingdom of the Crystal Skull Review! | http://redlettermedia.com/mr-plinetts-indiana-jones-and-the-kingdom-of-the-crystal-skull-review/
-| 2012_Jun_26 | Rise of the Plinkett | http://redlettermedia.com/rise-of-the-plinkett-ad/
-| 2012_Aug_24 | Mr. Plinkett's Star Wars: A New Hope Commentary Track now available! | http://redlettermedia.com/mr-plinketts-star-wars-a-new-hope-commentary-track-now-available/
-| 2012_Dec_09 | Mr. Plinkett Review: Titanic | http://redlettermedia.com/mr-plinkett-review-titanic/
-| 2013_Jan_06 | Mr. Plinkett's Titanic Review Behind the Scenes | http://redlettermedia.com/mr-plinketts-titatinic-review-behind-the-scenes/
-| 2013_Mar_08 | Mr. Plinkett's Star Trek V Commentary | http://redlettermedia.com/mr-plinketts-star-trek-v-commentary/
-| 2013_Jun_01 | Mr. Plinkett - Star Trek: Into Reference | http://redlettermedia.com/mr-plinkett-star-trek-into-reference/
+| 2003_???_?? | 00:01:15 | Episode Seven: Ani-who? | Jay, Lauren Burke | 
+| 2003_???_?? | 00:06:16 | Episode Eight: The Chronicles of Bingo | Jay, Lauren Burke | 
+| 2003_???_?? | 00:07:39 | Episode Nine: Bingo's Student Film | Jay, Lauren Burke | 
+| 2008_Dec_12 | 00:09:59 | Star Trek: Generations review - part 1 | http://redlettermedia.com/mr-plinketts-star-trek-generations-review/
+| 2008_Dec_12 | 00:09:46 | Star Trek: Generations review - part 2 | http://redlettermedia.com/mr-plinketts-star-trek-generations-review/
+| 2008_Dec_12 | 00:09:59 | Star Trek: Generations review - part 3 | http://redlettermedia.com/mr-plinketts-star-trek-generations-review/
+| 2009_May_06 | 00:09:47 | Star Trek: First Contact Review (Part 1 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-first-contact-review/
+| 2009_May_06 | 00:09:58 | Star Trek: First Contact Review (Part 2 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-first-contact-review/
+| 2009_May_06 | 00:08:10 | Star Trek: First Contact Review (Part 3 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-first-contact-review/
+| 2009_May_06 | 00:09:10 | Star Trek: First Contact Review (Part 4 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-first-contact-review/
+| 2009_Jun_10 | 00:09:58 | Star Trek Insurrection Review (Part 1 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-insurrection-review/
+| 2009_Jun_10 | 00:09:59 | Star Trek Insurrection Review (Part 2 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-insurrection-review/
+| 2009_Jun_10 | 00:05:40 | Star Trek Insurrection Review (Part 3 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-insurrection-review/
+| 2009_Jun_10 | 00:09:20 | Star Trek Insurrection Review (Part 4 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-insurrection-review/
+| 2009_Aug_13 | 00:09:59 | Star Trek Nemesis Review (part 1 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-nemesis-review/
+| 2009_Aug_13 | 00:09:59 | Star Trek Nemesis Review (part 2 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-nemesis-review/
+| 2009_Aug_13 | 00:09:56 | Star Trek Nemesis Review (part 3 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-nemesis-review/
+| 2009_Aug_13 | 00:08:28 | Star Trek Nemesis Review (part 4 of 4) | http://redlettermedia.com/mr-plinketts-star-trek-nemesis-review/
+| 2009_Dec_10 | 00:09:59 | Star Wars: The Phantom Menace Review (Part 1 of 7)	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
+| 2009_Dec_10 | 00:09:49 | Star Wars: The Phantom Menace Review (Part 2 of 7)	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
+| 2009_Dec_10 | 00:09:31 | Star Wars: The Phantom Menace Review (Part 3 of 7)	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
+| 2009_Dec_10 | 00:09:58 | Star Wars: The Phantom Menace Review (Part 4 of 7)	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
+| 2009_Dec_10 | 00:09:59 | Star Wars: The Phantom Menace Review (Part 5 of 7)	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
+| 2009_Dec_10 | 00:09:59 | Star Wars: The Phantom Menace Review (Part 6 of 7)	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
+| 2009_Dec_10 | 00:09:46 | Star Wars: The Phantom Menace Review (Part 7 of 7)	| http://redlettermedia.com/mr-plinketts-star-wars-episode-1-the-phantom-menace-review/
+| 2009_Dec_20 | 00:06:31 | Phantom Menace Review Interview Outtakes | http://redlettermedia.com/phantom-menace-review-interview-outtakes/
+| 2010_Feb_10 | 00:09:56 | Avatar Review (Part 1 of 2) | http://redlettermedia.com/mr-plinketts-avatar-review/
+| 2010_Feb_10 | 00:08:22 | Avatar Review (Part 2 of 2) | http://redlettermedia.com/mr-plinketts-avatar-review
+| 2010_Jun_17 | 00:24:52 | Baby's Day Out Review | http://redlettermedia.com/mr-plinketts-babys-day-out-review/
+| 2010_Jul_08 | 00:31:11 | Mr. Plinkett's Attack of the Clones Review (part 1 of 3) | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
+| 2010_Jul_08 | 00:27:46 | Mr. Plinkett's Attack of the Clones Review (part 2 of 3) | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
+| 2010_Jul_08 | 00:28:44 | Mr. Plinkett's Attack of the Clones Review (part 3 of 3) | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
+| 2010_Jul_20 | 00:05:02 | Mr. Plinkett’s Star Wars Episode II Outtakes | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-outtakes/
+| 2010_Sep_01 | 00:28:56 | Mr. Plinkett's Star Trek 2009 Review (part 1 of 2) | http://redlettermedia.com/mr-plinketts-star-trek-09-review/
+| 2010_Sep_01 | 00:38:04 | Mr. Plinkett's Star Trek 2009 Review (part 2 of 2) | http://redlettermedia.com/mr-plinketts-star-trek-09-review/
+| 2010_Dec_30 | 01:41:12 | Mr. Plinkett's Star Wars Episode III: Revenge of the Sith Review | http://redlettermedia.com/mr-plinketts-star-wars-episode-iii-review/
+| 2011_Jan_20 | 00:07:15 | Behind the Scenes: Mr. Plinkett's Star Wars Episode III review (1 of 2) | http://redlettermedia.com/behind-the-scenes-star-wars-episode-iii-review-teaser-trailer/
+| 2011_Jan_20 | 00:06:52 | Behind the Scenes: Mr. Plinkett's Star Wars Episode III review (2 of 2) | http://redlettermedia.com/behind-the-scenes-mr-plinketts-star-wars-episode-iii-review/
+| 2011_Feb_12 | 00:00:50 | Revenge of Nadine: The Episode III Review Epilogue Trailer | http://redlettermedia.com/revenge-of-nadine-the-episode-iii-review-epilogue-trailer/
+| 2011_Mar_11 | 00:19:50 | Revenge of Nadine: The Episode III Review Epilogue | http://redlettermedia.com/509/
+| 2011_Jun_24 | 00:23:31 | Mr. Plinkett's Cop Dog Review | https://redlettermedia.com/mr-plinkett-has-a-new-review/
+| 2011_Dec_23 | 01:10:27 | Mr. Plinkett's Indiana Jones and the Kingdom of the Crystal Skull Review | http://redlettermedia.com/mr-plinetts-indiana-jones-and-the-kingdom-of-the-crystal-skull-review/
+| 2012_Jun_26 | 00:02:24 | Rise of the Plinkett | http://redlettermedia.com/rise-of-the-plinkett-ad/
+| 2012_Aug_24 | 00:01:21 | Mr. Plinkett's Star Wars: A New Hope Commentary Track now available! | http://redlettermedia.com/mr-plinketts-star-wars-a-new-hope-commentary-track-now-available/
+| 2012_Dec_09 | 01:01:20 | Mr. Plinkett's Titanic Review | http://redlettermedia.com/mr-plinkett-review-titanic/
+| 2013_Jan_06 | 00:04:05 | Mr. Plinkett's Titanic Review Behind the Scenes | http://redlettermedia.com/mr-plinketts-titatinic-review-behind-the-scenes/
+| 2013_Mar_08 | 00:02:49 | Mr. Plinkett's Star Trek V Commentary | http://redlettermedia.com/mr-plinketts-star-trek-v-commentary/
+| 2013_Jun_01 | 00:07:16 | Mr. Plinkett - Star Trek: Into Reference | http://redlettermedia.com/mr-plinkett-star-trek-into-reference/
 | 2014_May_21 | 03:14:21 | SOnic 02 | Jack, Rich, Jay, Jessi | twitch.tv/videos/49212629 | youtube.com/watch?v=d1hugi-hHcg | twitter.com/PreviouslyRec/status/469281268023046144
 | 2014_May_28 | 01:12:43 | JimmiJams Vs Jewbbi Jibs | Jack, Rich, Jessi | twitch.tv/videos/49132095 | No YouTube video | twitter.com/PreviouslyRec/status/471706665138393088
 | 2014_May_28 | 00:32:14 | A Sharp increase in audio quality (aka "POWER STONE AKA Jack Doesn't fix the mics" | Jack, Rich, Jay, Jessi | twitch.tv/videos/49132387 | youtube.com/watch?v=56TTbkNFTPo | twitter.com/PreviouslyRec/status/471706665138393088
@@ -324,6 +345,7 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2015_Apr_29 | 00:33:49 | Master of Orion 2 - Half & Hack | Jack, Rich | twitch.tv/videos/5100531 | youtube.com/watch?v=65ipvkOIe4k | twitter.com/PreviouslyRec/status/593594252669493248
 | 2015_May_03 | 00:46:42 | Rich grabs the Shadow of the Colossus (part 1) | Jack, Rich | twitch.tv/videos/5432165 | youtube.com/watch?v=uCiTVkg7fj0 | twitter.com/PreviouslyRec/status/594952336151220224
 | 2015_May_03 | 01:35:52 | Rich grabs the Shadow of the Colossus (part 2) | Jack, Rich | twitch.tv/videos/5433299 | youtube.com/watch?v=g9bv3ALlP9s | twitter.com/PreviouslyRec/status/594952336151220224
+| 2015_May_05 | 00:12:38 | Cinco de Star Wars | http://redlettermedia.com/cinco-de-star-wars/
 | 2015_May_06 | 02:26:06 | Ninja Gaiden Sigma - Rich Solo | Rich | twitch.tv/videos/5434603 | youtube.com/watch?v=PArO4kKQBJU | twitter.com/PreviouslyRec/status/596032645731061760
 | 2015_May_06 | 01:45:15 | Dead Rising 2 - Rich Solo Run | Rich | twitch.tv/videos/5434777 | youtube.com/watch?v=cd7e1dIdbM0 | twitter.com/PreviouslyRec/status/596032645731061760
 | 2015_May_10 | 00:49:24 | Lego Marvel Super Karen & Rich | Rich, Karin | twitch.tv/videos/5692917 | youtube.com/watch?v=EqbUvHUcdao | twitter.com/PreviouslyRec/status/597537896397086721
@@ -569,6 +591,7 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2016_Mar_06 | 00:56:39 | Bonds, Sonny Bonds (police Quest 2 part 2) | Jack, Rich | twitch.tv/videos/61655313 | youtube.com/watch?v=melxVQn3ebE | twitter.com/PreviouslyRec/status/706541467263754241
 | 2016_Mar_06 | 00:54:44 | Bonds, Sonny Bonds (police Quest 2 part 3) | Jack, Rich | twitch.tv/videos/61655559 | youtube.com/watch?v=qpNrJI0aP4o | twitter.com/PreviouslyRec/status/706541467263754241
 | 2016_Mar_06 | 00:56:29 | Bonds, Sonny Bonds (police Quest 2 part 4) | Jack, Rich | twitch.tv/videos/61655736 | youtube.com/watch?v=APc2B-HbByQ | twitter.com/PreviouslyRec/status/706541467263754241
+| 2016_Mar_09 | 00:04:00 | The Plinkett Awakens | http://redlettermedia.com/the-plinkett-awakens/
 | 2016_Mar_09 | 01:16:11 | (not) Gonna Get a Mew (pokemon Plaid part 1) | Jack, Rich | twitch.tv/videos/63099942 | youtube.com/watch?v=A9LB2kd_ha4 | twitter.com/PreviouslyRec/status/707717874094190592
 | 2016_Mar_09 | 00:59:23 | (not) Gonna Get a Mew (pokemon Plaid part 2) | Jack, Rich | twitch.tv/videos/63101183 | youtube.com/watch?v=3npYSC1woJc | twitter.com/PreviouslyRec/status/707717874094190592
 | 2016_Mar_09 | 01:15:36 | (not) Gonna Get a Mew (pokemon Plaid part 3) | Jack, Rich | twitch.tv/videos/63101971 | youtube.com/watch?v=CHq_dGG4aIA | twitter.com/PreviouslyRec/status/707717874094190592
@@ -697,6 +720,7 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2016_Sep_25 | 02:03:01 | Forever and ever and Everspace (part 2) | Jack, Rich | twitch.tv/videos/95516012 | youtube.com/watch?v=MFAXLD80HBU | twitter.com/PreviouslyRec/status/780103291346628608
 | 2016_Sep_28 | 01:33:52 | Go Truck Yourself (part 1) | Jack, Rich, Karin | twitch.tv/videos/95906142 | youtube.com/watch?v=Y-fIJxddYu8 | twitter.com/PreviouslyRec/status/781291086140493824
 | 2016_Sep_28 | 01:35:59 | Go Truck Yourself (part 2) | Jack, Rich, Karin | twitch.tv/videos/95943925 | youtube.com/watch?v=1zykgSXywlI | twitter.com/PreviouslyRec/status/781291086140493824
+| 2016_Oct_02 | 01:45:07 | Mr. Plinkett's The Star Wars Awakens Review | http://redlettermedia.com/mr-plinketts-the-star-wars-awakens-review/
 | 2016_Oct_05 | 01:41:32 | The ''J's'' (part 1) | Jack, Rich, Jay, Josh | twitch.tv/videos/96239211 | youtube.com/watch?v=S-5vDSw5TH8 | twitter.com/PreviouslyRec/status/783723037610893313
 | 2016_Oct_05 | 01:52:30 | The ''J's'' (part 2) | Jack, Rich, Jay, Josh | twitch.tv/videos/96240572 | youtube.com/watch?v=yRpWSny9924 | twitter.com/PreviouslyRec/status/783723037610893313
 | 2016_Oct_09 | 01:13:56 | Five Nights at Freddy's Still Blows. | Jack, Rich | twitch.tv/videos/96241839 | youtube.com/watch?v=nTjU5-9qOCs | twitter.com/PreviouslyRec/status/785258516650995712
@@ -741,11 +765,13 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2016_Dec_18 | 01:53:12 | Merry Jack Plays Isaac! (part 1) | Jack, Rich | twitch.tv/videos/112554988 | youtube.com/watch?v=AT4w4th63Kk | twitter.com/PreviouslyRec/status/810581683963568128
 | 2016_Dec_18 | 01:56:15 | Merry Jack Plays Isaac! (part 2) | Jack, Rich | twitch.tv/videos/112701229 | youtube.com/watch?v=Q_Pg_pVt0v8 | twitter.com/PreviouslyRec/status/810581683963568128
 | 2016_Dec_21 | 04:42:15 | Merry X-COM!!! (Rich Solo) | Rich | twitch.tv/videos/113819439 | youtube.com/watch?v=jj2H7_wjww4 | twitter.com/PreviouslyRec/status/810581683963568128
+| 2016_Dec_26 | 00:07:32 | Mr. Plinkett Talks About Rogue One | http://redlettermedia.com/mr-plinkett-talks-about-rogue-one/
 | 2016_Dec_28 | 01:30:28 | Dead Rising 4.. of bore | Rich, Karin | twitch.tv/videos/114004914 | youtube.com/watch?v=tXf5PMiEfNE | twitter.com/themoviedicks/status/814285666057998338
 | 2016_Dec_28 | 00:33:12 | More Merry XCOM (part 1) | Rich, Karin | twitch.tv/videos/114006194 | youtube.com/watch?v=pPZut8KnkaE | twitter.com/themoviedicks/status/814285666057998338
 | 2016_Dec_28 | 02:14:52 | More Merry XCOM (part 2) | Rich, Karin | twitch.tv/videos/114012890 | youtube.com/watch?v=EzZVEhTaIS8 | twitter.com/themoviedicks/status/814285666057998338
 | 2016_Dec_31 | 01:59:36 | Waiting for the End (part 1) | Rich, Karin | twitch.tv/videos/115485050 | youtube.com/watch?v=zqd7AHGDvKI | 
 | 2016_Dec_31 | 02:18:52 | Waiting for the End (part 2) | Rich, Karin | twitch.tv/videos/115489658 | youtube.com/watch?v=0gjowaJBkmQ | 
+| 2017_Jan_01 | 00:11:58 | Mr. Plinkett Responds to Comments on his Video Commenting on Disney’s Star Wars Rogue One! | http://redlettermedia.com/mr-plinkett-responds-to-comments-on-his-video-commenting-on-disneys-star-wars-rogue-one/
 | 2017_Jan_01 | 03:59:55 | Taking out New Years Aggression (part 1) | Rich, Karin | twitch.tv/videos/115490363 | youtube.com/watch?v=3mZoel5B_8Y | twitter.com/themoviedicks/status/815745192447750144
 | 2017_Jan_01 | 01:49:24 | Taking out New Years Aggression (part 2) | Rich, Karin | twitch.tv/videos/115490595 | youtube.com/watch?v=Xndv7WEw1aw | twitter.com/themoviedicks/status/815745192447750144
 | 2017_Jan_04 | 00:53:00 | Fixing a busted PS4 controller (good) | Jack, Rich | twitch.tv/videos/115823373 | youtube.com/watch?v=wk09X13mefQ | twitter.com/PreviouslyRec/status/816750397503246336
@@ -853,6 +879,7 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2017_Jun_14 | 02:31:47 | E3 2017… this should have been posted earlier | Jack, Rich | twitch.tv/videos/161901493 | youtube.com/watch?v=hpwiP_eUhRg | twitter.com/PreviouslyRec/status/875063975473541120
 | 2017_Jun_21 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | Jack, Rich | twitch.tv/videos/162380759 | youtube.com/watch?v=5Eyr7zvqaiE | twitter.com/PreviouslyRec/status/877610345933578240
 | 2017_Jun_21 | 02:21:32 | Yes, we're playing it again. Shut uo (part 2) | Jack, Rich | twitch.tv/videos/162438655 | youtube.com/watch?v=Tqhy-I_Fb3M | twitter.com/PreviouslyRec/status/877610345933578240
+| 2017_Jun_26 | Mr. Plinkett’s Transformers: The Last Knight Review | http://redlettermedia.com/mr-plinketts-transformers-the-last-knight-review/
 | 2017_Jun_28 | 01:39:18 | Killing Nazis, Sweet (part 1) | Jack, Rich | twitch.tv/videos/162732924 | youtube.com/watch?v=bz6CJSZVP1Q | twitter.com/PreviouslyRec/status/880142947915898881
 | 2017_Jun_28 | 02:10:50 | Killing Nazis, Sweet! (part 2) | Jack, Rich | twitch.tv/videos/163163810 | youtube.com/watch?v=s2nQGPJYTC0 | twitter.com/PreviouslyRec/status/880142947915898881
 | 2017_Jul_02 | 02:10:36 | 3...2...1... Jason!!! | Jack, Rich | twitch.tv/videos/163495784 | youtube.com/watch?v=tTl_KN0o1t8 | twitter.com/PreviouslyRec/status/881583510204690434
@@ -878,6 +905,7 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2017_Aug_02 | 02:31:29 | Dead Cells ring bells (part 2) | Jack, Rich | twitch.tv/videos/169702530 | youtube.com/watch?v=jkR1A-DYe7M | twitter.com/PreviouslyRec/status/892806306289135617
 | 2017_Aug_06 | 03:06:36 | Hangin' With Rich - Dead Cells | Rich, Karin | twitch.tv/videos/169707999 | youtube.com/watch?v=uuEvwXM8cAk | twitter.com/PreviouslyRec/status/894318051679666176
 | 2017_Aug_06 | 02:25:30 | Hangin' With Rich - Friday the 13th | Rich, Karin | twitch.tv/videos/169714808 | youtube.com/watch?v=qhd43DCRUSc | twitter.com/PreviouslyRec/status/894318051679666176
+| 2017_Aug_07 | 00:01:49 | The Next Plinkett Review | http://redlettermedia.com/the-next-plinkett-review/
 | 2017_Aug_09 | 04:31:54 | FTJ: Faster Than Jason | Rich, Karin | No Twitch video | youtube.com/watch?v=G8McwH4SaxQ | twitter.com/PreviouslyRec/status/895371772199133184
 | 2017_Aug_13 | 02:54:42 | Jack - The Return (again) (pUBG) | Jack, Rich | twitch.tv/videos/170543318 | youtube.com/watch?v=IfJ0yZfCiN8 | twitter.com/PreviouslyRec/status/896771037098119168
 | 2017_Aug_13 | 01:44:43 | Jack - The Return (again)(Friday the 13th) | Jack, Rich | twitch.tv/videos/170988390 | youtube.com/watch?v=Tne4rL2IYLI | twitter.com/PreviouslyRec/status/896771037098119168
@@ -929,6 +957,7 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2017_Oct_25 | 02:13:51 | Coffee and Strigas (part 3) | Jack, Rich | twitch.tv/videos/186064468 | youtube.com/watch?v=pSTEl3xgDB8 | twitter.com/PreviouslyRec/status/923245507165741056
 | 2017_Oct_29 | 02:09:42 | Mario Sans Iliad. (Mario Odyssey part 1) | Jack, Rich | twitch.tv/videos/186238820 | youtube.com/watch?v=3zEoHXJ9WuY | twitter.com/PreviouslyRec/status/924716143654322182
 | 2017_Oct_29 | 02:21:19 | Mario Sans Iliad (Mario Odyssey part 2) | Jack, Rich | twitch.tv/videos/186240610 | youtube.com/watch?v=VkEZGcC-848 | twitter.com/PreviouslyRec/status/924716143654322182
+| 2017_Oct_30 | 00:16:03 | Mr. Plinkett's Zombie Review | http://redlettermedia.com/mr-plinketts-zombie-review/
 | 2017_Oct_31 | 01:40:22 | Boo, Eh. (Death Road to Canada) | Jack, Rich | twitch.tv/videos/186719956 | youtube.com/watch?v=PYS1Rqx-neE | twitter.com/PreviouslyRec/status/925427140237189120
 | 2017_Oct_31 | 01:18:56 | Friday the 31st (part 1) | Jack, Rich | twitch.tv/videos/186723147 | youtube.com/watch?v=GhxJVhnqyDg | twitter.com/PreviouslyRec/status/925427140237189120
 | 2017_Oct_31 | 01:10:52 | Friday the 31st (part 2) | Jack, Rich | twitch.tv/videos/186724418 | youtube.com/watch?v=mlFKpGEpAjo | twitter.com/PreviouslyRec/status/925427140237189120
@@ -1100,3 +1129,4 @@ https://web.archive.org/web/20031005150147/http://www.ffrevolution.com:80/fffeat
 | 2018_Jul_22 | 02:26:04 | So Long and Thanks for All the Fish (part 1) | Jack, Rich | twitch.tv/videos/288091864 | youtube.com/watch?v=tp2pg4s2J0Y | twitter.com/PreviouslyRec/status/1021137183531569153
 | 2018_Jul_25 | 01:39:57 | Penultimate | Jack, Rich | twitch.tv/videos/289347253 | youtube.com/watch?v=8JivUDxsbvE | twitter.com/PreviouslyRec/status/1022220044980428801
 | 2018_Jul_25 | 03:44:26 | END. | Jack, Rich | twitch.tv/videos/289348066 | youtube.com/watch?v=op1sxzbWkeo | twitter.com/PreviouslyRec/status/1022220044980428801
+| 2018_Aug_28 | 00:58:10 | Star Wars: The Last Plinkett Review | http://redlettermedia.com/star-wars-the-last-plinkett-review/
