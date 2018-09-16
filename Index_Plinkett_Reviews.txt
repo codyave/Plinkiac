@@ -24,15 +24,18 @@
 | 2010_Feb_10 | 00:09:56 | Avatar Review (Part 1 of 2) | http://redlettermedia.com/mr-plinketts-avatar-review/
 | 2010_Feb_10 | 00:08:22 | Avatar Review (Part 2 of 2) | http://redlettermedia.com/mr-plinketts-avatar-review
 | 2010_Jun_17 | 00:24:52 | Baby's Day Out Review | http://redlettermedia.com/mr-plinketts-babys-day-out-review/
-| 2010_Jul_08 | Mr. Plinkett’s Star Wars Episode II: Attack of the Clones Review | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
-| 2010_Jul_20 | Mr. Plinkett’s Star Wars Episode II Outtakes | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-outtakes/
-| 2010_Sep_01 | Mr. Plinkett's Star Trek '09 Review | http://redlettermedia.com/mr-plinketts-star-trek-09-review/
-| 2010_Dec_30 | Mr. Plinkett's Star Wars Episode III Review | http://redlettermedia.com/mr-plinketts-star-wars-episode-iii-review/
-| 2011_Jan_20 | Behind the Scenes – Star Wars: Episode III Review Teaser Trailer | http://redlettermedia.com/behind-the-scenes-star-wars-episode-iii-review-teaser-trailer/
-| 2011_Jan_20 | Behind the Scenes: Mr. Plinkett’s Star Wars Episode III review | http://redlettermedia.com/behind-the-scenes-mr-plinketts-star-wars-episode-iii-review/
-| 2011_Feb_12 | Revenge of Nadine: The Episode III Review Epilogue Trailer | http://redlettermedia.com/revenge-of-nadine-the-episode-iii-review-epilogue-trailer/
-| 2011_Mar_11 | Revenge of Nadine: The Episode III Review Epilogue | http://redlettermedia.com/509/
-| 2011_Jun_24 | Cop Dog Review | https://redlettermedia.com/mr-plinkett-has-a-new-review/
+| 2010_Jul_08 | 00:31:11 | Mr. Plinkett's Attack of the Clones Review (part 1 of 3) | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
+| 2010_Jul_08 | 00:27:46 | Mr. Plinkett's Attack of the Clones Review (part 2 of 3) | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
+| 2010_Jul_08 | 00:28:44 | Mr. Plinkett's Attack of the Clones Review (part 3 of 3) | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-attack-of-the-clones-review/
+| 2010_Jul_20 | 00:05:02 | Mr. Plinkett’s Star Wars Episode II Outtakes | http://redlettermedia.com/mr-plinketts-star-wars-episode-ii-outtakes/
+| 2010_Sep_01 | 00:28:56 | Mr. Plinkett's Star Trek 2009 Review (part 1 of 2) | http://redlettermedia.com/mr-plinketts-star-trek-09-review/
+| 2010_Sep_01 | 00:38:04 | Mr. Plinkett's Star Trek 2009 Review (part 2 of 2) | http://redlettermedia.com/mr-plinketts-star-trek-09-review/
+| 2010_Dec_30 | 01:41:12 | Mr. Plinkett's Star Wars Episode III: Revenge of the Sith Review | http://redlettermedia.com/mr-plinketts-star-wars-episode-iii-review/
+| 2011_Jan_20 | 00:07:15 | Behind the Scenes: Mr. Plinkett's Star Wars Episode III review (1 of 2) | http://redlettermedia.com/behind-the-scenes-star-wars-episode-iii-review-teaser-trailer/
+| 2011_Jan_20 | 00:06:52 | Behind the Scenes: Mr. Plinkett's Star Wars Episode III review (2 of 2) | http://redlettermedia.com/behind-the-scenes-mr-plinketts-star-wars-episode-iii-review/
+| 2011_Feb_12 | 00:00:50 | Revenge of Nadine: The Episode III Review Epilogue Trailer | http://redlettermedia.com/revenge-of-nadine-the-episode-iii-review-epilogue-trailer/
+| 2011_Mar_11 | 00:19:50 | Revenge of Nadine: The Episode III Review Epilogue | http://redlettermedia.com/509/
+| 2011_Jun_24 | 00:23:31 | Mr. Plinkett's Cop Dog Review | https://redlettermedia.com/mr-plinkett-has-a-new-review/
 | 2011_Dec_23 | Mr. Plinkett’s Indiana Jones and the Kingdom of the Crystal Skull Review! | http://redlettermedia.com/mr-plinetts-indiana-jones-and-the-kingdom-of-the-crystal-skull-review/
 | 2012_Jun_26 | Rise of the Plinkett | http://redlettermedia.com/rise-of-the-plinkett-ad/
 | 2012_Aug_24 | Mr. Plinkett's Star Wars: A New Hope Commentary Track now available! | http://redlettermedia.com/mr-plinketts-star-wars-a-new-hope-commentary-track-now-available/
