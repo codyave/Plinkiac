@@ -26,7 +26,7 @@
 | 2014_Jul_02 | 00:57:32 | Dig Up Stupid: Part 1 | Jack, Rich | twitch.tv/videos/48031575 | youtube.com/watch?v=Yz5kTbI6Rt8 | twitter.com/PreviouslyRec/status/484481999428521985
 | 2014_Jul_02 | 01:00:29 | Dig Up Stupid: Part 2 | Jack, Rich, Jay, Jessi | twitch.tv/videos/48031311 | youtube.com/watch?v=WjtLnfEpwHQ | twitter.com/PreviouslyRec/status/484481999428521985
 | 2014_Jul_02 | 01:02:33 | Dig Up Stupid: Part 3 | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48031283 | youtube.com/watch?v=Kg9wv7rv2Pk | twitter.com/PreviouslyRec/status/484481999428521985
-| 2014_Jul_02 | 03:11:23 | DIG UP STUPID | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48528004 | Duplicate video, see lines 24, 25 & 26 | twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_02 | 03:11:23 | DIG UP STUPID | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48528004 | Duplicate: see lines 26, 27, & 28 | twitter.com/PreviouslyRec/status/484481999428521985
 | 2014_Jul_02 | 00:29:05 | FINGER DEATH PUNCHED OUT | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527923 | youtube.com/watch?v=1O-jXuhw9zA | twitter.com/PreviouslyRec/status/484481999428521985
 | 2014_Jul_02 | 02:30:12 | DUCK Tates, tales, TAILS!!! | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527796 | youtube.com/watch?v=OFm8nCb9NJg | twitter.com/PreviouslyRec/status/484481999428521985
 | 2014_Jul_09 | 01:58:33 | Katamari Damacy - With the gang | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393029 | youtube.com/watch?v=jh140XkYVKY | twitter.com/PreviouslyRec/status/486946595112374273
@@ -626,8 +626,8 @@
 | 2016_Jul_31 | 01:25:38 | Quadrilateral Cowboy (part 2) | Jack, Rich | twitch.tv/videos/83313015 | youtube.com/watch?v=xUIf-H6T1zw | twitter.com/PreviouslyRec/status/759827016719867904
 | 2016_Aug_03 | 00:36:49 | Severed - Cut off - Removed (part 1) | Jack, Rich, Karin | twitch.tv/videos/85633822 | youtube.com/watch?v=N9qTEAVgNn8 | twitter.com/PreviouslyRec/status/760891860239998976
 | 2016_Aug_03 | 01:44:36 | Severed - Cut off - Removed (part 2) | Jack, Rich, Karin | twitch.tv/videos/85640865 | youtube.com/watch?v=ZHK1F5BOR1M | twitter.com/PreviouslyRec/status/760891860239998976
-| 2016_Aug_03 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) | Jack, Rich, Karin | twitch.tv/videos/85642007 | Duplicate: see lines 628 & 629 | twitter.com/PreviouslyRec/status/760891860239998976
-| 2016_Aug_03 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) | Jack, Rich, Karin | twitch.tv/videos/85642285 | Duplicate: see lines 628, 629 & 630 | twitter.com/PreviouslyRec/status/760891860239998976
+| 2016_Aug_03 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) | Jack, Rich, Karin | twitch.tv/videos/85642007 | Duplicate: see lines 627 & 628 | twitter.com/PreviouslyRec/status/760891860239998976
+| 2016_Aug_03 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) | Jack, Rich, Karin | twitch.tv/videos/85642285 | Duplicate: see lines 627, 628 & 629 | twitter.com/PreviouslyRec/status/760891860239998976
 | 2016_Aug_07 | 02:18:43 | Pac-Man Fever (par-Man 256) | Rich, Karin | twitch.tv/videos/86932166 | youtube.com/watch?v=kwjaUqSrNsg | twitter.com/PreviouslyRec/status/762446624090009600
 | 2016_Aug_14 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) | Jack, Rich | twitch.tv/videos/86933658 | youtube.com/watch?v=vHot35dw4qM | twitter.com/PreviouslyRec/status/764879970493689856
 | 2016_Aug_14 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) | Jack, Rich | twitch.tv/videos/86934815 | https://www.youtube.com/watch?v=QFKn7iFds1o | twitter.com/PreviouslyRec/status/764879970493689856
@@ -687,7 +687,7 @@
 | 2016_Nov_11 | 01:14:37 | Get Old Faster!! (GoNNER) | Jack, Rich, Karin | twitch.tv/videos/102160676 | youtube.com/watch?v=ZwMAczusy3I | twitter.com/PreviouslyRec/status/797159417691127808
 | 2016_Nov_13 | 02:21:00 | Stardew my Nutsack, er Rucksack | Jack, Rich | twitch.tv/videos/105345451 | youtube.com/watch?v=M3X4jcg1PTg | twitter.com/PreviouslyRec/status/797890059945078786
 | 2016_Nov_13 | 00:34:23 | Dissin' On the Herd (part 1.1) | Jack, Rich | twitch.tv/videos/105345972 | youtube.com/watch?v=91P1wN3yAIE | twitter.com/PreviouslyRec/status/797890059945078786
-| 2016_Nov_13 | 01:32:50 | Dissin' On the Herd (part 1.2) | Jack, Rich | twitch.tv/videos/105346294 | Duplicate: see line 691 | twitter.com/PreviouslyRec/status/797890059945078786
+| 2016_Nov_13 | 01:32:50 | Dissin' On the Herd (part 1.2) | Jack, Rich | twitch.tv/videos/105346294 | Duplicate: see line 689 | twitter.com/PreviouslyRec/status/797890059945078786
 | 2016_Nov_16 | 01:41:24 | The Finding of My Nutsack (part 1) | Jack, Rich | twitch.tv/videos/106105652 | youtube.com/watch?v=m_33Djnw7CE | twitter.com/PreviouslyRec/status/798985864340652032
 | 2016_Nov_16 | 01:06:48 | The Finding of My Nutsack (part 2) | Jack, Rich | twitch.tv/videos/106143918 | youtube.com/watch?v=1wNLJF5c6RY | twitter.com/PreviouslyRec/status/798985864340652032
 | 2016_Nov_23 | 01:35:16 | Mega Punching Pokemon Moon (part 1) | Jack, Rich |twitch.tv/videos/107010250 | youtube.com/watch?v=ivpHuzTg4gw | twitter.com/PreviouslyRec/status/801600374008332289
