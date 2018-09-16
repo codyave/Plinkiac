@@ -92,7 +92,7 @@
 | 2014_Nov_09 | 00:30:31 | Interstellar | http://redlettermedia.com/half-in-the-bag-interstellar/
 | 2014_Nov_17 | 00:38:55 | Nightcrawler and Birdman | http://redlettermedia.com/half-in-the-bag-nightcrawler-and-birdman/
 | 2014_Dec_22 | 00:19:43 | The Battle of the Five Armies | http://redlettermedia.com/half-in-the-bag-the-hobbit-the-battle-of-the-five-armies/
-| 2015_Jan_10 | 00:07:10 | F*ck You, It's January! (2015) | youtube.com/watch?v=-YFyu9aAZow
+| 2015_Jan_10 | 00:07:10 | F*ck You, It's January! (2015) | http://redlettermedia.com/fuck-you-its-january-2015/
 | 2015_Jan_24 | 00:31:08 | Inherent Vice and Oscar Buzz | http://redlettermedia.com/half-in-the-bag-inherent-vice-and-oscar-buzz/
 | 2015_Feb_12 | 00:34:53 | Jupiter Ascending and Battlefield Earth | http://redlettermedia.com/half-in-the-bag-jupiter-ascending-and-battlefield-earth/
 | 2015_Mar_08 | 00:23:46 | CHAPPiE | http://redlettermedia.com/half-in-the-bag-chappie/
@@ -124,19 +124,20 @@
 | 2016_Jan_26 | 00:34:30 | X-Men: Apocalypse | http://redlettermedia.com/half-in-the-bag-independence-day-resurgence/
 | 2016_Jun_26 | 00:34:30 | Independence Day: Resurgence | http://redlettermedia.com/half-in-the-bag-independence-day-resurgence/
 | 2016_Jul_18 | 00:44:56 | Ghostbusters (2016) | http://redlettermedia.com/half-in-the-bag-ghostbusters-2016/
-| 2016_Jul_28 | 00: | Star Trek Beyond | http://redlettermedia.com/half-in-the-bag-star-trek-beyond/
-| 2016_Aug_07 | 00: | Suicide Squad | http://redlettermedia.com/half-in-the-bag-suicide-squad/
-| 2016_Aug_12 | 00: | Stranger Things | http://redlettermedia.com/half-in-the-bag-stranger-things/
-| 2016_Sep_20 | 00: | Blair Witch and Don't Breathe | http://redlettermedia.com/half-in-the-bag-blair-witch-and-dont-breathe/
-| 2016_Oct_10 | 00: | Box Office Number Crunching | http://redlettermedia.com/half-in-the-bag-box-office-number-crunching/
-| 2016_Nov_07 | 00: | Doctor Strange | http://redlettermedia.com/half-in-the-bag-doctor-strange/
-| 2016_Nov_17 | 00: | Shut In and Arrival | http://redlettermedia.com/half-in-the-bag-shut-in-and-arrival/
-| 2016_Dec_03 | 00: | 2016 Movie Catch-up | http://redlettermedia.com/half-in-the-bag-2016-movie-catch-up/
-| 2016_Dec_19 | 00: | Rogue One | http://redlettermedia.com/half-in-the-bag-rogue-one/
-| 2017_Jan_22 | 00: | La La Land and Bye Bye Man | http://redlettermedia.com/half-in-the-bag-la-la-land-and-the-bye-bye-man/
-| 2017_Mar_05 | 00: | Get Out and Logan | http://redlettermedia.com/half-in-the-bag-get-out-and-logan/
-| 2017_Mar_27 | 00: | Life and Power Rangers | http://redlettermedia.com/half-in-the-bag-life-and-power-rangers/
-| 2017_May_06 | 00: | Guardians of the Galaxy 2 | http://redlettermedia.com/half-in-the-bag-guardians-of-the-galaxy/
+| 2016_Jul_28 | 00:51:20 | Star Trek Beyond | http://redlettermedia.com/half-in-the-bag-star-trek-beyond/
+| 2016_Aug_07 | 00:31:12 | Suicide Squad | http://redlettermedia.com/half-in-the-bag-suicide-squad/
+| 2016_Aug_12 | 00:24:47 | Stranger Things | http://redlettermedia.com/half-in-the-bag-stranger-things/
+| 2016_Sep_20 | 00:36:51 | Blair Witch and Don't Breathe | http://redlettermedia.com/half-in-the-bag-blair-witch-and-dont-breathe/
+| 2016_Oct_10 | 00:27:59 | Box Office Number Crunching | http://redlettermedia.com/half-in-the-bag-box-office-number-crunching/
+| 2016_Nov_07 | 00:29:07 | Doctor Strange | http://redlettermedia.com/half-in-the-bag-doctor-strange/
+| 2016_Nov_17 | 00:41:51 | Shut In and Arrival | http://redlettermedia.com/half-in-the-bag-shut-in-and-arrival/
+| 2016_Dec_03 | 00:53:36 | 2016 Movie Catch-up | http://redlettermedia.com/half-in-the-bag-2016-movie-catch-up/
+| 2016_Dec_19 | 00:37:42 | Rogue One | http://redlettermedia.com/half-in-the-bag-rogue-one/
+| 2017_Jan_12 | 00:08:25 | F**k You, It's January (2017) | youtube.com/watch?v=H18RUB1cxfI
+| 2017_Jan_22 | 00:44:30 | La La Land and Bye Bye Man | http://redlettermedia.com/half-in-the-bag-la-la-land-and-the-bye-bye-man/
+| 2017_Mar_05 | 00:43:54 | Get Out and Logan | http://redlettermedia.com/half-in-the-bag-get-out-and-logan/
+| 2017_Mar_27 | 00:37:35 | Life and Power Rangers | http://redlettermedia.com/half-in-the-bag-life-and-power-rangers/
+| 2017_May_06 | 00:31:23 | Guardians of the Galaxy 2 | http://redlettermedia.com/half-in-the-bag-guardians-of-the-galaxy/
 | 2017_May_21 | 00: | Alien: Covenant | http://redlettermedia.com/half-in-the-bag-alien-covenant/
 | 2017_Jun_04 | 00: | Wonder Woman | http://redlettermedia.com/half-in-the-bag-wonder-woman/
 | 2017_Jun_10 | 00: | The Mummy | http://redlettermedia.com/half-in-the-bag-the-mummy/
