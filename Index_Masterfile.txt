@@ -1013,8 +1013,6 @@
 | 2017_Jan_22 | 01:28:16 | A Floppy Jalopy | Jack, Rich | twitch.tv/videos/120858049 | youtube.com/watch?v=nYV_RRXLBrk | twitter.com/PreviouslyRec/status/823248757290582016
 | 2017_Jan_22 | 02:06:43 | I'd Warhammer in the Morning | Jack, Rich, Jay | twitch.tv/videos/121092092 | youtube.com/watch?v=DI1E2CBiCrs | twitter.com/PreviouslyRec/status/823248757290582016
 | 2017_Jan_22 | 00:39:53 | I'd Warhammer in the Evening | Jack, Rich, Jay | twitch.tv/videos/121620589 | youtube.com/watch?v=b1QmpsCaS7k | twitter.com/PreviouslyRec/status/823248757290582016
-| 2017_Feb_05 | 00:56:39 | Plinketto #3 - The Survivor, Keaton’s Cop, Space Raiders | Mike, Rich, Jack, Josh | youtube.com/watch?v=zVijUWZwZo4
-| 2017_Feb_23 | 00:54:52 | Carnosaur 2, The Skateboard Kid 2, Future Zone | Rich, Jay, Jack, Josh | youtube.com/watch?v=9cNUg3XvVK
 | 2017_Jan_25 | 01:51:24 | Pre-emptive ''Jesus Christ Shut up!!! RE7'' (part 1) | Jack, Rich | twitch.tv/videos/121637713 | youtube.com/watch?v=PhXMeG_qPSY | twitter.com/PreviouslyRec/status/824365444756897793
 | 2017_Jan_25 | 01:59:27 | Pre-emptive ''Jesus Christ Shut up!!! RE7'' (part 2) | Jack, Rich | twitch.tv/videos/121707348 | youtube.com/watch?v=WN3RXh2IH-g | twitter.com/PreviouslyRec/status/824365444756897793
 | 2017_Jan_29 | 01:29:48 | Master of Vakyria | Jack, Rich | twitch.tv/videos/122277306 | youtube.com/watch?v=2igKSbl3sFk | twitter.com/PreviouslyRec/status/824365444756897793
@@ -1022,6 +1020,7 @@
 | 2017_Feb_01 | 01:36:32 | Let this stream DIE!!! (part 1) | Jack, Rich | twitch.tv/videos/122558377 | youtube.com/watch?v=N7rDdjrw1Ms | twitter.com/PreviouslyRec/status/826909567606980613
 | 2017_Feb_01 | 01:44:33 | Let this stream DIE!!! (part 2) | Jack, Rich | twitch.tv/videos/122723335 | youtube.com/watch?v=lVbGosHp_1U | twitter.com/PreviouslyRec/status/826909567606980613
 | 2017_Feb_03 | 00:32:04 | ABSTRACT-MO-TRON: THE EPISODE | http://redlettermedia.com/pre-rec-abstract-mo-tron-the-episode/
+| 2017_Feb_05 | 00:56:39 | Plinketto #3 - The Survivor, Keaton’s Cop, Space Raiders | Mike, Rich, Jack, Josh | youtube.com/watch?v=zVijUWZwZo4
 | 2017_Feb_05 | 01:12:16 | SuperBowl Punday... there will be no puns (part 1) | Jack, Rich | twitch.tv/videos/123256577 | youtube.com/watch?v=juxUmoSYFx0 | twitter.com/PreviouslyRec/status/828279272175521793
 | 2017_Feb_05 | 01:35:24 | SuperBowl Punday... there will be no puns. (part 2) | Jack, Rich | twitch.tv/videos/123486223 | youtube.com/watch?v=ssjbk6_vBX0 | twitter.com/PreviouslyRec/status/828279272175521793
 | 2017_Feb_05 | 00:56:33 | SuperBowl Punday... there will be no puns (part 3) | Jack, Rich | twitch.tv/videos/123489370 | youtube.com/watch?v=cd0QKRD6q4I | twitter.com/PreviouslyRec/status/828279272175521793
