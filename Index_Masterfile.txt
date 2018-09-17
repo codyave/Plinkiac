@@ -1113,7 +1113,6 @@
 | 2017_Jun_05 | 01:40:01 | Barbie Queen of the the Mother Fucking Prom | Jack, Rich, Karin, Katie | twitch.tv/videos/158899231 | youtube.com/watch?v=vrp3YJI3e90 | twitter.com/PreviouslyRec/status/871872146431246336
 | 2017_Jun_07 | 00:18:29 | Strafe | http://redlettermedia.com/pre-rec-strafe/
 | 2017_Jun_07 | 02:06:03 | Witchy Whoa-Man(Jack Solo Stream) | Jack | twitch.tv/videos/159355651 | youtube.com/watch?v=g6mw6JMIAIc | twitter.com/PreviouslyRec/status/872508148275400704
-| 2017_Jul_09 | 00:45:56 | Baby Driver and Spider-Man: Homecoming | http://redlettermedia.com/half-in-the-bag-baby-driver-and-spider-man-homecoming/
 | 2017_Jun_10 | 00:34:03 | The Mummy | http://redlettermedia.com/half-in-the-bag-the-mummy/
 | 2017_Jun_11 | 02:05:54 | Sunday the 11th (part 1) | Jack, Rich | twitch.tv/videos/159387973 | youtube.com/watch?v=H3cB49hbId4 | twitter.com/PreviouslyRec/status/873984859022163969
 | 2017_Jun_11 | 01:57:06 | Sunday the 11th (part 2) | Jack, Rich | twitch.tv/videos/159407115 | youtube.com/watch?v=5CPDZeEcJrc | twitter.com/PreviouslyRec/status/873984859022163969
@@ -1131,6 +1130,7 @@
 | 2017_Jul_02 | 02:11:51 | 3...2...1... Jason!!! | Jack, Rich | twitch.tv/videos/163502569 | youtube.com/watch?v=Lz90b1z2b-8 | twitter.com/PreviouslyRec/status/881583510204690434
 | 2017_Jul_05 | 02:22:48 | Murdering Jason(But not (part 1)) | Jack, Rich | twitch.tv/videos/164132318 | youtube.com/watch?v=0wMphCnr5mo | twitter.com/PreviouslyRec/status/882675544978067456
 | 2017_Jul_05 | 02:21:38 | Murdering Jason(But not (part2)) | Jack, Rich | twitch.tv/videos/164135708 | youtube.com/watch?v=qKzJsfV-viE | twitter.com/PreviouslyRec/status/882675544978067456
+| 2017_Jul_09 | 00:45:56 | Baby Driver and Spider-Man: Homecoming | http://redlettermedia.com/half-in-the-bag-baby-driver-and-spider-man-homecoming/
 | 2017_Jul_09 | 01:34:24 | Old School Stein | Jack, Rich | twitch.tv/videos/164509834 | youtube.com/watch?v=yKfXZ81f__o | twitter.com/PreviouslyRec/status/884155085152014336
 | 2017_Jul_09 | 01:59:55 | Old School Jason | Jack, Rich | twitch.tv/videos/164516402 | youtube.com/watch?v=h13LSCKGfUQ | twitter.com/PreviouslyRec/status/884155085152014336
 | 2017_Jul_11 | 00:42:50 | Friday the 13th: The Game | youtube.com/watch?v=dYBt7C8m7LA
