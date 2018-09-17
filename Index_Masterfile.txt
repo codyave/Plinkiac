@@ -1369,7 +1369,6 @@
 | 2018_May_16 | 01:16:24 | Gee Wizard (part 1) | Jack, Rich | twitch.tv/videos/262256730 | youtube.com/watch?v=xhGOUtvBaVE | twitter.com/PreviouslyRec/status/996857038805356545
 | 2018_May_16 | 01:16:47 | Gee Wizard (part 2) | Jack, Rich | twitch.tv/videos/262260930 | youtube.com/watch?v=hPEYHzU3GbA | twitter.com/PreviouslyRec/status/996857038805356545
 | 2018_May_16 | 01:26:05 | Gee Wizard (part 3) | Jack, Rich | twitch.tv/videos/262265156 | youtube.com/watch?v=i6kP-qdOh20 | twitter.com/PreviouslyRec/status/996857038805356545
-| 2018_May_29 | 00:43:51 | Solo: A Star Wars Story | http://redlettermedia.com/half-in-the-bag-solo-a-star-wars-story/
 | 2018_May_20 | 01:57:00 | Large and (not) in Charge (pt 1) | Jack, Rich | twitch.tv/videos/264753137 | youtube.com/watch?v=zskWI5MjpmY | twitter.com/PreviouslyRec/status/998287645976551425
 | 2018_May_20 | 02:08:49 | Large and (not) in Charge (pt 2) | Jack, Rich | twitch.tv/videos/264758141 | youtube.com/watch?v=B3wqboiVLBA | twitter.com/PreviouslyRec/status/998287645976551425
 | 2018_May_23 | 01:13:31 | The Mashter Sword (part 1) | Jack, Rich | twitch.tv/videos/264866074 | youtube.com/watch?v=uq_F1apdjTQ | twitter.com/PreviouslyRec/status/999385055452688385
@@ -1377,6 +1376,7 @@
 | 2018_May_23 | 01:19:10 | The Mashter Sword (part 3) | Jack, Rich | twitch.tv/videos/264877542 | youtube.com/watch?v=rh1BOxgTs2s | twitter.com/PreviouslyRec/status/999385055452688385
 | 2018_May_27 | 01:44:02 | Questing in SPAAAAAAAAAAaaaace (part 1) | Jack, Rich | twitch.tv/videos/269170974 | youtube.com/watch?v=Ils2ZZg9PbU | twitter.com/PreviouslyRec/status/1000832938471231488
 | 2018_May_27 | 01:40:53 | Questing in SPAAAAAAAAAAaaaace (part 2) | Jack, Rich | twitch.tv/videos/269171684 | youtube.com/watch?v=xN29neOVLkw | twitter.com/PreviouslyRec/status/1000832938471231488
+| 2018_May_29 | 00:43:51 | Solo: A Star Wars Story | http://redlettermedia.com/half-in-the-bag-solo-a-star-wars-story/
 | 2018_May_30 | 02:13:18 | Questing in SPAAAAAAAAAAaaaace (part 3) | Jack, Rich | twitch.tv/videos/269173264 | youtube.com/watch?v=qhc9HClLfls | twitter.com/PreviouslyRec/status/1001879332036411392
 | 2018_May_30 | 02:13:07 | Decent Descenders | Jack, Rich | twitch.tv/videos/269176509 | youtube.com/watch?v=CW9VXMkgMxs | twitter.com/PreviouslyRec/status/1001879332036411392
 | 2018_Jun_02 | 01:03:10 | Kill Squad, Ryan's Babe, Demonwarp | Jay, Rich, Jack, Josh | youtube.com/watch?v=jcK4ioF8ODc
