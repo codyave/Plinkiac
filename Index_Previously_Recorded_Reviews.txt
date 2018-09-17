@@ -35,8 +35,12 @@
 | 2016_Dec_01 | 00:25:11 | Dishonored 2 | http://redlettermedia.com/pre-rec-dishonored-2/
 | 2017_Feb_03 | 00:32:04 | ABSTRACT-MO-TRON: THE EPISODE | http://redlettermedia.com/pre-rec-abstract-mo-tron-the-episode/
 | 2017_Mar_09 | 00:22:54 | Horizon Zero Dawn | http://redlettermedia.com/pre-rec-horizon-zero-dawn/
+| 2017_Apr_01 | 00:26:16 | Mass Effect Andromeda | youtube.com/watch?v=yewHl_TcOE8
 | 2017_May_05 | 00:25:10 | Bayonetta | http://redlettermedia.com/pre-rec-bayonetta/
+| 2017_Mar_28 | 00:56:29 | The Legend of Zelda: Breath of the Wild | youtube.com/watch?v=50LgwCJf4Ek
 | 2017_Jun_07 | 00:18:29 | Strafe | http://redlettermedia.com/pre-rec-strafe/
+| 2017_Jun_14 | 00:19:24 | Vanquish | youtube.com/watch?v=L_UaQ0xmWNY
+| 2017_Jul_11 | 00:42:50 | Friday the 13th: The Game | youtube.com/watch?v=dYBt7C8m7LA
 | 2017_Aug_05 | 00:25:42 | Playerunknown's Battleground | http://redlettermedia.com/pre-rec-playerunknowns-battleground/
 | 2017_Sep_20 | 00:27:00 | Mario + Rabbids Kingdom Battle | youtube.com/watch?v=okipIlrLqvs
 | 2017_Oct_05 | 00:13:30 | Cuphead | http://redlettermedia.com/pre-rec-cuphead/
