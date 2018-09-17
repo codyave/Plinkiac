@@ -100,19 +100,26 @@
 | 2012_Dec_31 | 00:38:01 | Django Unchained and 2012 Re-cap | http://redlettermedia.com/half-in-the-bag-django-unchained-and-2012-re-cap/
 | 2013_Jan_06 | 00:04:05 | Mr. Plinkett's Titanic Review Behind the Scenes | http://redlettermedia.com/mr-plinketts-titatinic-review-behind-the-scenes/
 | 2013_Jan_09 | 00:08:57 | Tarantino and More 2012 Re-cap | http://redlettermedia.com/half-in-the-bag-extras-tarantino-and-more-2012-re-cap/
+| 2013_Jan_18 | 00:33:19 | Russian Terminator, Ninja Vengeance, and Never Too Young To Die | Mike, Rich, Jay, Josh | youtube.com/watch?v=q6TY-nBkxqY
 | 2013_Jan_23 | 00:36:47 | The Last Stand and A Haunted House | http://redlettermedia.com/half-in-the-bag-the-last-stand-and-a-haunted-house/
+| 2013_Feb_01 | 00:31:21 | The New Gladiators, Exterminator 2, Aftermath | Jay, Rich, Jack, Josh | youtube.com/watch?v=cnDJa_HZVP0
 | 2013_Feb_07 | 00:26:16 | Warm Bodies and Movie 43 | http://redlettermedia.com/half-in-the-bag-warm-bodies-and-movie-43/
+| 2013_Feb_13 | 00:31:08 | The Killer Eye, They Bite, Xtro | Mike, Jessi, Jack, Josh | youtube.com/watch?v=vcBkm1nOI5k
 | 2013_Feb_22 | 00:32:16 | A Good Day to Die Hard | http://redlettermedia.com/half-in-the-bag-a-good-day-to-die-hard/
 | 2013_Mar_05 | 00:30:57 | Hansel and Gretel: Witch Hunters and Jack the Giant Slayer | http://redlettermedia.com/half-in-the-bag-hansel-and-gretel-witch-hunters-and-jack-the-giant-slayer/
 | 2013_Mar_07 | 00:11:42 | Extras: Hollywood Trends (Also, "Episode 48 Outtakes") | http://redlettermedia.com/half-in-the-bag-episode-48-outtakes/
 | 2013_Mar_08 | 00:02:49 | Mr. Plinkett's Star Trek V Commentary | http://redlettermedia.com/mr-plinketts-star-trek-v-commentary/
 | 2013_Mar_14 | 00:32:35 | Oz the Great and Powerful and Return to Oz | http://redlettermedia.com/half-in-the-bag-oz-the-great-and-powerful-and-return-to-oz/
+| 2013_Mar_24 | 00:41:15 | Deadly Prey, Hard Ticket to Hawaii, Miami Connection | Jay, Rich, Jack, Josh | youtube.com/watch?v=mbWTthXfdBc
 | 2013_Apr_07 | 00:28:25 | Evil Dead | http://redlettermedia.com/half-in-the-bag-evil-dead/
 | 2013_Apr_16 | 00:04:10 | Extras: Evil Dead Outtakes | http://redlettermedia.com/half-in-the-bag-extras-evil-dead-outtakes/
 | 2013_Apr_25 | 00:36:33 | Oblivion and The Lords of Salem | http://redlettermedia.com/half-in-the-bag-oblivion-and-the-lords-of-salem/
+| 2013_Apr_30 | 00:29:07 | Wheel of the Worst #1 - Candid Candid Camera Vol. 6, Let’s Rap Fire Safety, The Dance of Birth | Mike, Rich, Jay, Jessi | youtube.com/watch?v=JkWk_chVcJk
 | 2013_May_09 | 00:30:19 | Iron Man 3 and Pain & Gain | http://redlettermedia.com/half-in-the-bag-iron-man-3-and-pain-gain/
 | 2013_May_13 | 00:06:05 | Extras: More Iron Man 3 Talk | http://redlettermedia.com/half-in-the-bag-extras-more-iron-man-3-talk/
+| 2013_May_16 | 00:45:25 | The Vindicator, Cyber Tracker, Robot Jox, and R.O.T.O.R. | Jay, Rich, Jack, Josh | youtube.com/watch?v=s76vZATqLrE
 | 2013_May_24 | 00:44:30 | Star Trek: Into Darkness | http://redlettermedia.com/half-in-the-bag-star-trek-into-darkness/
+| 2013_May_28 | 00:35:24 | Playing Dangerous, Shapeshifter, and Thunderpants | Mike, Rich, Jay, Jessi | youtube.com/watch?v=WGI-BKctOK8
 | 2013_Jun_01 | 00:07:16 | Mr. Plinkett - Star Trek: Into Reference | http://redlettermedia.com/mr-plinkett-star-trek-into-reference/
 | 2013_Jun_06 | 00:36:31 | The Hangover Part III and After Earth | http://redlettermedia.com/half-in-the-bag-the-hangover-part-iii-and-after-earth/
 | 2013_Jun_20 | 00:39:31 | Man of Steel | http://redlettermedia.com/half-in-the-bag-man-of-steel/
@@ -120,19 +127,31 @@
 | 2013_Jul_11 | 00:29:53 | White House Down and Lone Ranger | http://redlettermedia.com/half-in-the-bag-white-house-down-and-the-lone-ranger/
 | 2013_Jul_16 | 00:02:54 | Grown Ups 2 | http://redlettermedia.com/half-in-the-bag-grown-ups-2/
 | 2013_Jul_18 | 00:19:45 | Pacific Rim | http://redlettermedia.com/half-in-the-bag-pacific-rim/
+| 2013_Aug_08 | 00:32:30 | Wheel of the Worst #2 - Key Matters, Gary Coleman: For Safety’s Sake, The Family Guide to the Internet | Mike, Rich, Jack, Josh | youtube.com/watch?v=7Kf00CUxMto
 | 2013_Aug_16 | 00:29:05 | The Wolverine vs. X-Men Origins: Wolverine | http://redlettermedia.com/half-in-the-bag-the-wolverine-vs-x-men-origins-wolverine/
+| 2013_Aug_28 | 00:38:14 | V-World Matrix, The Amazing Bulk, Gymkata | Mike, Rich, Jay, Colin | youtube.com/watch?v=o4HOlhADlZo
+| 2013_Sep_18 | 00:42:31 | Bloody Birthday, Crazy Fat Ethel II, and Psycho From Texas | Mike, Jay, Jack, Gillian | youtube.com/watch?v=x94zXO02VPU
 | 2013_Oct_07 | 00:46:32 | Summer Movie Catch Up and THINGS | http://redlettermedia.com/half-in-the-bag-the-conjuring-only-god-forgives-blue-jasmine-and-things/
 | 2013_Oct_25 | 00:39:55 | Gravity and Carrie | http://redlettermedia.com/half-in-the-bag-gravity-and-carrie/
+| 2013_Oct_31 | 00:48:17 | Night Beast, Trick or Treat, Skull Forest | Mike, Rich, Jay, Jack | youtube.com/watch?v=J7eSdXLmj9A
 | 2013_Nov_14 | 00:29:04 | Ender's Game and Thor: The Dark World | http://redlettermedia.com/half-in-the-bag-enders-game-and-thor-the-dark-world/
+| 2013_Nov_22 | 00:33:26 | Wheel of the Worst #3 - Tree Stand Safety, Where Did I Come From?, Incredible Instant Adoring Boyfriend | Mike, Rich, Jay, Jessi | www.youtube.com/watch?v=5fkjMstO-t0
+| 2013_Nov_30 | 00:41:39 | Playing Dangerous 2, The Exterminator, Deadliest Prey | Rich, Jay, Jack, Josh | youtube.com/watch?v=kdGfGjusufo
+| 2013_Nov_30 | 00:02:10 | Extras: Shark Movies | Rich, Jay, Jack, Josh | https://www.youtube.com/watch?v=MkGCtin50SU
 | 2013_Dec_16 | 00:29:30 | The Hobbit: The Desolation of Smaug | http://redlettermedia.com/half-in-the-bag-the-hobbit-the-desolation-of-smaug/
+| 2013_Dec_23 | 00:53:39 | Elves, Santa Claus, and Christmas Vacation 2 | Mike, Jessi, Rich, Jack | youtube.com/watch?v=3plH6M1LadY
 | 2014_Jan_02 | 00:42:09 | The Wolf of Wall Street and 2013 Re-cap | http://redlettermedia.com/half-in-the-bag-the-wolf-of-wall-street-and-2013-re-
 | 2014_Jan_07 | 00:02:41 | Extras: Plinkett Eats | http://redlettermedia.com/half-in-the-bag-extras-plinkett-eats/cap/
 | 2014_Jan_20 | 00:33:06 | The Legend of hercules and Her | http://redlettermedia.com/half-in-the-bag-the-legend-of-hercules-and-her/
+| 2014_Jan_29 | 00:45:27 | Robo-C.H.I.C., Alien Seed, and Yor: The Hunter from the Future | Mike, Rich, Jay, Josh | https://www.youtube.com/watch?v=Hb_VwaOT4QQ
 | 2014_Feb_13 | 00:23:28 | Robocop | http://redlettermedia.com/half-in-the-bag-robocop/
 | 2014_Feb_19 | 00:23:52 | Robocop (2014) | http://redlettermedia.com/half-in-the-bag-robocop-2014/
+| 2014_Feb_28 | 00:39:45 | Wheel of the Worst #4 - Kitten Kommotion, Dunkin’ Donuts 1994 Fall Donut Event Finishing Video with Bob Rosenberg, The Shoji Tabuchi Show | Mike, Rich, Jessi, Jay | youtube.com/watch?v=kakU6kQDmU4
+| 2014_Mar_09 | 00:45:07 | Supergirl, Captain America (1990), Roger Corman's Fantastic Four | Rich, Jay, Jack, Josh | youtube.com/watch?v=d-O_RzwrZPw
 | 2014_Mar_29 | 00:28:39 | Cheap Thrills and The Grand Budapest Hotel | http://redlettermedia.com/half-in-the-bag-cheap-thrills-and-the-grand-budapest-hotel/
 | 2014_Apr_09 | 00:21:28 | Captain America: The Winter Soldier | http://redlettermedia.com/half-in-the-bag-captain-america-the-winter-soldier/
 | 2014_Apr_15 | 00:11:22 | Risk of Rain | http://redlettermedia.com/pre-rec-risk-of-rain/
+| 2014_May_02 | 00:49:45 | The Domination, Ninja Warriors, Lethal Ninja | Mike, Rich, Jay, Jack, Len Kabasinski | youtube.com/watch?v=ZERv4Q92vXA
 | 2014_May_07 | 00:38:06 | Transcendence and The Amazing Spider-Man 2 | http://redlettermedia.com/half-in-the-bag-transcendence-and-the-amazing-spider-man-2/
 | 2014_May_15 | 00:11:47 | The Banner Saga | http://redlettermedia.com/pre-rec-the-banner-saga/
 | 2014_May_21 | 03:14:21 | SOnic 02 | Jack, Rich, Jay, Jessi | twitch.tv/videos/49212629 | youtube.com/watch?v=d1hugi-hHcg | twitter.com/PreviouslyRec/status/469281268023046144
@@ -143,6 +162,7 @@
 | 2014_May_28 | 00:41:43 | Mike's Power Stones | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/49132285 | youtube.com/watch?v=vJB0gsh6C8M | twitter.com/PreviouslyRec/status/471706665138393088
 | 2014_Jun_01 | 00:54:11 | Risk of Jack Solo Stream Part 1 | Jack | twitch.tv/videos/47839355 | youtube.com/watch?v=9MErAkmwEb4 | twitter.com/PreviouslyRec/status/473223232988778496
 | 2014_Jun_01 | 00:53:24 | Risk of Jack Solo Stream Part 2 | Jack | twitch.tv/videos/47839049 | youtube.com/watch?v=y5Ffjc9uAoQ | twitter.com/PreviouslyRec/status/473223232988778496
+| 2014_Jun_03 | 00:41:33 | Wheel of the Worst #5 - Cleared for Takeoff, Tales from Genesis Space, SOS | Mike, Rich, Jay, Jack | youtube.com/watch?v=ceUSZBMeREY
 | 2014_Jun_04 | 00:52:38 | Dark Sauls (with Rich, Jack, & Jay) Part 1 | Jack, Rich, Jay | twitch.tv/videos/42721737 | youtube.com/watch?v=0L8C_bfH0MQ | twitter.com/PreviouslyRec/status/474327236238405632
 | 2014_Jun_04 | 01:06:39 | Dark Sauls (with Rich, Jack, & Jay) Part 2 | Jack, Rich, Jay | twitch.tv/videos/42721679 | youtube.com/watch?v=2jv_i3iW92Q | twitter.com/PreviouslyRec/status/474327236238405632
 | 2014_Jun_04 | 01:00:21 | Dark Sauls (with Rich, Jack, & Jay) Part 3 | Jack, Rich, Jay | twitch.tv/videos/42721743 | youtube.com/watch?v=-io_OXwcv_8 | twitter.com/PreviouslyRec/status/474327236238405632
@@ -170,6 +190,7 @@
 | 2014_Jul_02 | 03:11:23 | DIG UP STUPID | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48528004 | Duplicate: see lines 26, 27, & 28 | twitter.com/PreviouslyRec/status/484481999428521985
 | 2014_Jul_02 | 00:29:05 | FINGER DEATH PUNCHED OUT | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527923 | youtube.com/watch?v=1O-jXuhw9zA | twitter.com/PreviouslyRec/status/484481999428521985
 | 2014_Jul_02 | 02:30:12 | DUCK Tates, tales, TAILS!!! | Jack, Rich, Jay, Jessi, Mike | twitch.tv/videos/48527796 | youtube.com/watch?v=OFm8nCb9NJg | twitter.com/PreviouslyRec/status/484481999428521985
+| 2014_Jul_03 | 00:57:05 | Ghetto Blaster, Terror in Beverly Hills, Killing American Style | Rich, Jay, Jim, Colin | youtube.com/watch?v=AND1YZSp6YI
 | 2014_Jul_09 | 01:58:33 | Katamari Damacy - With the gang | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393029 | youtube.com/watch?v=jh140XkYVKY | twitter.com/PreviouslyRec/status/486946595112374273
 | 2014_Jul_09 | 00:34:21 | Friends Forever with MR Mosquito | Jack, Rich, Jay, Jessi | twitch.tv/videos/48393114 | youtube.com/watch?v=dFN23jNaUcY | twitter.com/PreviouslyRec/status/486946595112374273
 | 2014_Jul_09 | 01:01:27 | Shadow over Sweat Pants | Jack, Rich, Jay | twitch.tv/videos/48393201 | youtube.com/watch?v=BDLWT9kA-78 | twitter.com/PreviouslyRec/status/486946595112374273
@@ -183,6 +204,7 @@
 | 2014_Jul_30 | 01:23:18 | Fuggit, we're Streaming Mario Kart 8 | Jack, Rich, Jay | twitch.tv/videos/47946683 | youtube.com/watch?v=dc4v8RXgnvs | twitter.com/PreviouslyRec/status/494668800608849920
 | 2014_Jul_30 | 01:12:22 | Meri Kert 64!!!! | Jack, Rich, Jay, Jessi, Josh | twitch.tv/videos/47906574 | youtube.com/watch?v=t-IIHUSkBoU | twitter.com/PreviouslyRec/status/494630233375395842
 | 2014_Jul_30 | 01:04:08 | New Super Fugg Brothers U | Jack, Rich, Jay | twitch.tv/videos/47946625 | youtube.com/watch?v=Hrt8ZbGSOVE | twitter.com/PreviouslyRec/status/494668800608849920
+| 2014_Jul_31 | 00:50:29 | High Voltage, Death Spa, Space Mutiny | Mike, Rich, Jay, Josh | youtube.com/watch?v=6pgbB9ORqRg
 | 2014_Aug_01 | 01:01:02 | Goldeen, I. N64 With Josh, Jack, and Rich | Jack, Rich, Josh | twitch.tv/videos/47906825 | youtube.com/watch?v=kFASb8BI4sc | twitter.com/PreviouslyRec/status/495347750326636544
 | 2014_Aug_01 | 01:01:06 | Perrrrfect Dark N64 - Polygons, Yo! | Jack, Rich, Josh | twitch.tv/videos/47906756 | youtube.com/watch?v=Dr2XcdZ7ge0 | twitter.com/PreviouslyRec/status/495347750326636544
 | 2014_Aug_01 | 00:36:30 | Dark Rift - Unplug...then plug it back in | Jack, Rich, Josh | twitch.tv/videos/47906955 | youtube.com/watch?v=T0bBVi27qUM | twitter.com/PreviouslyRec/status/495347750326636544
@@ -201,13 +223,17 @@
 | 2014_Aug_20 | 01:14:35 | Papers Please - GlItChY | Jack, Rich, Jay | twitch.tv/videos/42698789 | youtube.com/watch?v=Pn8f4GF76ME | twitter.com/PreviouslyRec/status/502230961770086400
 | 2014_Aug_20 | 00:55:13 | FT...nope checkers | Jack, Rich, Jay | twitch.tv/videos/42698813 | youtube.com/watch?v=OxfmlRdawMI | twitter.com/PreviouslyRec/status/502230961770086400
 | 2014_Aug_22 | 00:14:31 | Mario Kart 8 | http://redlettermedia.com/pre-rec-mario-kart-8/
+| 2014_Aug_24 | 00:00:45 | Regarding Samurai Cop | Mike, Jay, Matt Hannon | https://www.youtube.com/watch?v=JZ11SSSu49k
 | 2014_Aug_27 | 00:41:24 | Paapers Plas! With Rich & Jack & Jay | Jack, Rich, Jay | twitch.tv/videos/42589180 | youtube.com/watch?v=XEG4OBOMJDE | twitter.com/PreviouslyRec/status/504782020883398658
+| 2014_Aug_27 | 00:47:25 | Shakma, Python II, Beaks: The Movie | Mike, Rich, Jay, Jack | youtube.com/watch?v=QAzZceRTmpc
 | 2014_Aug_27 | 00:50:38 | Rich is Good at XCOM Part 1 | Jack, Rich, Jay | twitch.tv/videos/42587913 | youtube.com/watch?v=BEYzUulfn38 | twitter.com/PreviouslyRec/status/504723505850904577
 | 2014_Aug_27 | 00:50:01 | Rich is Good at XCOM Part 2 | Jack, Rich, Jay | twitch.tv/videos/42587716 | youtube.com/watch?v=ZzdCwF0TtUE | twitter.com/PreviouslyRec/status/504723505850904577
 | 2014_Aug_27 | 01:24:28 | Rich is Good at XCOM Part 3 | Jack, Rich, Jay | twitch.tv/videos/42587178 | youtube.com/watch?v=YTBev2fgWe8 | twitter.com/PreviouslyRec/status/504723505850904577
 | 2014_Aug_27 | 00:32:35 | Checkers!!! The Revenging | Jack, Rich, Jay | twitch.tv/videos/42586832 | youtube.com/watch?v=FWdwNogIi04 | twitter.com/PreviouslyRec/status/504723505850904577
+| 2014_Aug_31 | 00:27:45 | A Conversation with Samurai Cop star Matt Hannon (part 1 of 2) | Mike, Jay, Matt Hannon | https://www.youtube.com/watch?v=W8830UXkTzY
 | 2014_Aug_31 | 00:28:14 | Super Time Suck...good joke | Jack | twitch.tv/videos/43294170 | youtube.com/watch?v=QYSb5qKiSdQ | twitter.com/PreviouslyRec/status/506149898971271168
 | 2014_Aug_31 | 00:44:58 | Shovle Night Jack Solo Stream | Jack | twitch.tv/videos/43294018 | youtube.com/watch?v=XsL07y3mcs4 | twitter.com/PreviouslyRec/status/506149898971271168
+| 2014_Sep_05 | 00:16:25 | A Conversation with Samurai Cop star Matt Hannon (part 2 of 2) | https://www.youtube.com/watch?v=zMsWmsR8Smk
 | 2014_Sep_10 | 00:57:22 | Invisible Inc. Rich Run (Part 1) | Jack, Rich, Jay | twitch.tv/videos/43283999 | youtube.com/watch?v=EzGW-_eRrMM | twitter.com/PreviouslyRec/status/509839336909455360
 | 2014_Sep_10 | 00:43:59 | Invisible Inc. Rich Run (Part 2) | Jack, Rich, Jay | twitch.tv/videos/43283888 | youtube.com/watch?v=rQ75gvWLJqo | twitter.com/PreviouslyRec/status/509839336909455360
 | 2014_Sep_10 | 00:16:58 | Invisible Inc. (Early Access) | http://redlettermedia.com/pre-rec-invisible-inc-early-access/
@@ -224,6 +250,7 @@
 | 2014_Sep_17 | 00:57:53 | Punch Out Wii - Sick and Tired (Part 1) | Jack, Rich | twitch.tv/videos/47722768 | youtube.com/watch?v=j6aMUcaqkV8 | twitter.com/PreviouslyRec/status/512396902164201473
 | 2014_Sep_17 | 00:54:35 | Punch Out Wii - Sick and Tired (Part 2) | Jack, Rich | twitch.tv/videos/47722727 | youtube.com/watch?v=2gYnJJh4dWw | twitter.com/PreviouslyRec/status/512396902164201473
 | 2014_Sep_17 | 01:11:10 | Punch Out Wii - Sick and Tired (Part 3) | Jack, Rich | twitch.tv/videos/47722702 | youtube.com/watch?v=W0SFzqHP1yU | twitter.com/PreviouslyRec/status/512396902164201473
+| 2014_Sep_18 | 00:53:10 | Wheel of the Worst #6 - How Can I Tell If I’m Really In Love?, The Osteoporosis Dance, American Flatulators | Mike, Jessi, Jim, Colin | youtube.com/watch?v=aA2Z16QiNsE
 | 2014_Sep_22 | 01:07:14 | Rich Tries TF2 (Part 1) | Jack, Rich | twitch.tv/videos/47721565 | No YouTube video | twitter.com/PreviouslyRec/status/514227346509791232
 | 2014_Sep_23 | 00:23:57 | 2014 Movie Catch-up (Part 1 of 2) | http://redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-1/
 | 2014_Sep_22 | 01:15:05 | Rich Tries TF2 (Part 2) | Jack, Rich | twitch.tv/videos/47721680 | No YouTube video | twitter.com/PreviouslyRec/status/514227346509791232
@@ -237,6 +264,7 @@
 | 2014_Sep_28 | 00:56:20 | Happy Birthday Isaac: I love you (Part 2) | Jack | twitch.tv/videos/45418258 | youtube.com/watch?v=5HiyYNzP5nY | twitter.com/PreviouslyRec/status/516398328779513857
 | 2014_Sep_28 | 00:42:31 | Jack and Half Sucks at FTL | Jack, Rich | twitch.tv/videos/45416374 | No YouTube video | twitter.com/PreviouslyRec/status/516398328779513857
 | 2014_Oct_02 | 00:13:37 | Guacamelee | http://redlettermedia.com/pre-rec-guacamelee/
+| 2014_Oct_05 | 00:53:48 | Theodore Rex, Carnosaur, Tammy and the T-Rex | Rich, Jay, Jack, Josh | youtube.com/watch?v=t4pJL1eAh00
 | 2014_Oct_05 | 00:05:56 | Rich Fails at Streaming | Rich | twitch.tv/videos/45416029 | No YouTube video | twitter.com/PreviouslyRec/status/518976031894409217
 | 2014_Oct_05 | 00:32:51 | Jack & Rich Chat (part 1) Solitaire | Jack, Rich | www.twitch.tv/videos/45416321 | youtube.com/watch?v=nbtcDYmErWc | twitter.com/PreviouslyRec/status/518976031894409217
 | 2014_Oct_05 | 00:55:42 | Jack & Rich Chat (part 2) MS Paint | Jack, Rich | twitch.tv/videos/45416204 | youtube.com/watch?v=9sBqpmhr7BY | twitter.com/PreviouslyRec/status/518976031894409217
@@ -268,6 +296,7 @@
 | 2014_Oct_29 | 00:43:39 | Haunt the SPOOKY House - Terrortown | Jack, Rich, Jay | twitch.tv/videos/45028975 | youtube.com/watch?v=CRGDe8h57Ho | twitter.com/PreviouslyRec/status/527639938368405504
 | 2014_Oct_29 | 00:50:20 | Spooky NES - Nightmare on Elm St. And Friday the 13th | Jack, Rich, Jay | twitch.tv/videos/45028868 | youtube.com/watch?v=ktXJSsTBq8Q | twitter.com/PreviouslyRec/status/527639938368405504
 | 2014_Oct_29 | 01:22:32 | Outlast (spooky) | Jack, Rich, Jay | twitch.tv/videos/45028129 | youtube.com/watch?v=uVa3PTaWAvM | twitter.com/PreviouslyRec/status/527639938368405504
+| 2014_Oct_30 | 00:57:14 | The Item, The Crawlers, Blood Lock | Mike, Jay, Jessi, Josh | youtube.com/watch?v=n747ktceuwI
 | 2014_Nov_02 | 01:06:19 | Daylight Saving SUPER time FORCE | Jack, Rich | twitch.tv/videos/44873315 | youtube.com/watch?v=cCCd7qbrCRg | twitter.com/PreviouslyRec/status/529094730106171392
 | 2014_Nov_02 | 01:04:24 | Monaco Saving Time | Jack, Rich | twitch.tv/videos/44870867 | youtube.com/watch?v=D-gjqbZojig | twitter.com/PreviouslyRec/status/529129932425674752
 | 2014_Nov_02 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) | Jack, Rich | twitch.tv/videos/44855805 | youtube.com/watch?v=DDX4oSUteSI | twitter.com/PreviouslyRec/status/529135428092190720
@@ -325,11 +354,14 @@
 | 2014_Dec_17 | 00:40:34 | Tie MOTHERFUCKING Fighter (part 2) | Jack, Rich, Jay | twitch.tv/videos/3640329 | youtube.com/watch?v=uRdSDPLTfKY | twitter.com/PreviouslyRec/status/545413877740343296
 | 2014_Dec_17 | 00:20:36 | I, Zombie (aaaahhhrrr) | twitch.tv/videos/3640645 | Jack, Rich, Jay | youtube.com/watch?v=KTxIgS-RBrU | twitter.com/PreviouslyRec/status/545413877740343296
 | 2014_Dec_17 | 00:36:26 | Pac-Man Champs!!! | twitch.tv/videos/3640700 | Jack, Rich, Jay | youtube.com/watch?v=NjYG2SyWDS0 | twitter.com/PreviouslyRec/status/545413877740343296
+| 2014_Dec_18 | 00:54:56 | Wheel of the Worst #7 - Ice Dams: Causes, Combats, and Cures, Kids And Airbags, How to Become a Teenage Ninja, Dog Sitter VHS | Mike, Rich, Jay, Freddie Williams II | youtube.com/watch?v=wZFuyATj5EI
 | 2014_Dec_21 | 00:41:40 | MS PAINT Game Gift Giveaway (Part 01) The Preamble | Jack, Rich, Jay | No Twitch video | youtube.com/watch?v=h0DK80PGoN8 | twitter.com/PreviouslyRec/status/546836000346243072
 | 2014_Dec_21 | 00:30:39 | MS PAINT Game Gift Giveaway (Part 2) | Jack, Rich, Jay | No Twitch video | youtube.com/watch?v=T0fkIqw61H4 | twitter.com/PreviouslyRec/status/546836000346243072
 | 2014_Dec_21 | 00:46:32 | MS PAINT Game Gift Givaway (Part 3) | Jack, Rich, Jay | No Twitch video | youtube.com/watch?v=Sx7iy_mYUXw | twitter.com/PreviouslyRec/status/546836000346243072
 | 2014_Dec_21 | 01:19:02 | MS PAINT Game Gift Givaway (Part 4) | Jack, Rich, Jay | No Twitch video | youtube.com/watch?v=-r4cy2qZ7t4 | twitter.com/PreviouslyRec/status/546836000346243072
 | 2014_Dec_22 | 00:19:43 | The Battle of the Five Armies | http://redlettermedia.com/half-in-the-bag-the-hobbit-the-battle-of-the-five-armies/
+| 2014_Dec_23 | 00:42:55 | The Star Wars Holiday Special | Mike, Rich, Jay, Josh | youtube.com/watch?v=_CtUd0yuYN4
+| 2014_Dec_25 | 00:43:41 | The Star Wars Holiday Special (FOR REAL) | Mike, Rich, Jay, Josh | youtube.com/watch?v=xW4m0oYK0WQ
 | 2014_Dec_28 | 01:02:53 | XCOM - the New PC-in-ing (part 1) | Jack, Rich | twitch.tv/videos/3662604 | youtube.com/watch?v=tr1UobY5jD4 | twitter.com/PreviouslyRec/status/549389718602125312
 | 2014_Dec_28 | 00:59:51 | XCOM - the New PC-in-ing (part 2) | Jack, Rich | twitch.tv/videos/3662646 | youtube.com/watch?v=BLWzVXqV5oM | twitter.com/PreviouslyRec/status/549389718602125312
 | 2014_Dec_28 | 01:29:49 | XCOM - the New PC-in-ing (part 3) | Jack, Rich | twitch.tv/videos/3662764 | youtube.com/watch?v=l5aWyL30n64 | twitter.com/PreviouslyRec/status/549389718602125312
@@ -387,6 +419,7 @@
 | 2015_Feb_15 | 01:19:12 | STRAFE (motherfugger (part 1)) | Jack, Rich, Thom Glunt | twitch.tv/videos/3837895 | youtube.com/watch?v=-KTK95SPRwQ | twitter.com/PreviouslyRec/status/567156838987476992
 | 2015_Feb_15 | 01:34:27 | STRAFE (motherfugger (part 2)) | Jack, Rich, Thom Glunt | twitch.tv/videos/3838093 | youtube.com/watch?v=KpJdCa91ri4 | twitter.com/PreviouslyRec/status/567156838987476992
 | 2015_Feb_17 | 01:53:06 | STRAFE (motherfugger (part 3)) | Jack, Rich | twitch.tv/videos/3838258 | youtube.com/watch?v=k4zZRQh2CLg | twitter.com/PreviouslyRec/status/567875077057941504
+| 2015_Feb_18 | 01:00:13 | Alienator, Alien from the Deep, Hands of Steel | Mike, Rich, Jay, Jack | youtube.com/watch?v=z5PnYARAyUw
 | 2015_Feb_18 | 00:34:35 | Master of Orion 2... and Jack's Crocodile Brain (part 1.1) | Jack, Rich, Jay | twitch.tv/videos/3858589 | youtube.com/watch?v=jvfKeAE5Ozk | twitter.com/PreviouslyRec/status/568216497195229185
 | 2015_Feb_18 | 00:46:11 | Master of Orion 2... and Jack's Crocodile Brain (part 1.2) | Jack, Rich, Jay | twitch.tv/videos/3858605 | Duplicate: see line 226 | twitter.com/PreviouslyRec/status/568216497195229185
 | 2015_Feb_18 | 01:05:04 | Chat-lunky (part 1) | Jack, Rich, Jay | twitch.tv/videos/3858625 | youtube.com/watch?v=9V5ZHtEJQP4 | twitter.com/PreviouslyRec/status/568216497195229185
@@ -419,6 +452,7 @@
 | 2015_Mar_22 | 01:17:25 | Heavy Bullets - Jack Solo Stream | Jack | twitch.tv/videos/4000649 | youtube.com/watch?v=eRyA9jkqtMc | twitter.com/PreviouslyRec/status/579763537356005376
 | 2015_Mar_22 | 00:58:16 | Batman Arkham Asylum - Jack Solo & Half (part 1) | Jack, Rich | twitch.tv/videos/4001248 | youtube.com/watch?v=PoVjAdabkDc
 | 2015_Mar_22 | 01:10:37 | Batman Arkham Asylum - Hack & Half (part 2) | Jack, Rich | twitch.tv/videos/4001455 | youtube.com/watch?v=p81M2MZciwk
+| 2015_Mar_23 | 01:01:09 | Blood Debts, The Tomb, Undefeatable | Mike, Rich, Jack, Josh | youtube.com/watch?v=3NTaoheLMvM
 | 2015_Mar_25 | 00:55:04 | Zone in your Enders 2 (part 1) | Jack, Rich, Jay | twitch.tv/videos/4002025 | youtube.com/watch?v=II-Q3PAl5P0 | twitter.com/PreviouslyRec/status/580881449445769216
 | 2015_Mar_25 | 00:56:23 | Zone in your Enders (part 2) | Jack, Rich, Jay | twitch.tv/videos/4002887 | youtube.com/watch?v=Tt-bm6rdb2o | twitter.com/PreviouslyRec/status/580881449445769216
 | 2015_Mar_25 | 00:55:59 | Zone in your Enders (part 3) | Jack, Rich, Jay | twitch.tv/videos/4003002 | youtube.com/watch?v=swyKeFpPfc0 | twitter.com/PreviouslyRec/status/580881449445769216
@@ -430,6 +464,7 @@
 | 2015_Apr_05 | 01:00:52 | More Bloodborne - Hack & Half (part 1) | Jack, Rich | twitch.tv/videos/4198344 | youtube.com/watch?v=KD3EvHitrB8 | twitter.com/PreviouslyRec/status/584757709657935872
 | 2015_Apr_05 | 01:05:22 | More Bloodborne - Hack & Half (part 2) | Jack, Rich | twitch.tv/videos/4198472 | youtube.com/watch?v=VmDl3lhRoA4 | twitter.com/PreviouslyRec/status/584757709657935872
 | 2015_Apr_05 | 01:08:19 | More Bloodborne - Hack & Half (part 3) | Jack, Rich | twitch.tv/videos/4198695 | youtube.com/watch?v=yy00N6Xkook | twitter.com/PreviouslyRec/status/584757709657935872
+| 2015_Apr_06 | 00:01:45 | Extra: Backwards VHS Footage | https://www.youtube.com/watch?v=35T9I7lSD_g
 | 2015_Apr_08 | 00:57:48 | Rich's Bloodborne Audio Debacle (part 1) | Jack, Rich | twitch.tv/videos/4291397 | youtube.com/watch?v=2AfCSlTq1Us | twitter.com/PreviouslyRec/status/585888027806863362
 | 2015_Apr_08 | 01:31:34 | Rich's Bloodborne Debacle (part 2) | Jack, Rich | twitch.tv/videos/4291674 | youtube.com/watch?v=kbjoSEHIvCg | twitter.com/PreviouslyRec/status/585888027806863362
 | 2015_Apr_08 | 01:37:50 | Rich's Stolen GTAV | Jack, Rich, Jay | twitch.tv/videos/4293001 | youtube.com/watch?v=vFnntfgEX5w | twitter.com/PreviouslyRec/status/585888027806863362
@@ -484,6 +519,7 @@
 | 2015_May_24 | 01:21:03 | Police Quest - The Quest for More Police (part 3) | Jack, Rich | twitch.tv/videos/6272444 | youtube.com/watch?v=B2SiNHMSsFk | twitter.com/PreviouslyRec/status/602628083309539329
 | 2015_May_24 | 00:58:11 | Police Quest - The Quest for More Police (part 4) | Jack, Rich | twitch.tv/videos/6272737 | youtube.com/watch?v=Jax0MAwdL9c | twitter.com/PreviouslyRec/status/602628083309539329
 | 2015_May_24 | 01:11:45 | Police Quest - The Quest for More Police (part 5) | Jack, Rich | twitch.tv/videos/6273320 | youtube.com/watch?v=176_PRmYP2E | twitter.com/PreviouslyRec/status/602628083309539329
+| 2015_May_27 | 00:51:40 | Wheel of the Worst #8 - Let’s Sing and Dance Music Video, Twentieth Anniversary Geritol Follies, Learn Gun Safety with Eddie Eagle | Mike, Rich, Jay, Jack | youtube.com/watch?v=X0wdZHNwV7s
 | 2015_May_27 | 00:55:39 | Police Quest - The Quest for More Police (part 6) | Jack, Rich | twitch.tv/videos/6273969 | youtube.com/watch?v=TVT-tgORh8M | twitter.com/PreviouslyRec/status/603719985551298560
 | 2015_May_27 | 01:35:38 | Police Quest - The Quest for More Police (part 7) | Jack, Rich | twitch.tv/videos/6274004 | youtube.com/watch?v=5jeaWRbEYaU | twitter.com/PreviouslyRec/status/603719985551298560
 | 2015_May_31 | 00:16:38 | Broken Age | http://redlettermedia.com/pre-rec-broken-age/
@@ -515,6 +551,7 @@
 | 2015_Jun_28 | 01:00:33 | Ba-Man - Ark Ham Spoileriffic (part 2) | Jack, Rich | twitch.tv/videos/7576865 | youtube.com/watch?v=sEMERT6jhgc | twitter.com/PreviouslyRec/status/615334129152856066
 | 2015_Jun_28 | 01:02:16 | Ba-Man - Ark Ham Spoileriffic (part 3) | Jack, Rich | twitch.tv/videos/7576998 | youtube.com/watch?v=BQNeTOfLZ4s | twitter.com/PreviouslyRec/status/615334129152856066
 | 2015_Jun_28 | 01:03:14 | Ba-Man - Ark Ham Spoileriffic (part 4) | Jack, Rich | twitch.tv/videos/7577165 | youtube.com/watch?v=yUjyb0BIYR4 | twitter.com/PreviouslyRec/status/615334129152856066
+| 2015_Jul_01 | 00:52:12 | Lady Terminator, Lost in Dinosaur World, and Low Blow | Rich, Jay, Jack, Colin | youtube.com/watch?v=JPfamikeU3E
 | 2015_Jul_01 | 00:50:01 | Invisible Pun (part 1) | Jack, Rich | twitch.tv/videos/8952794 | youtube.com/watch?v=tXgFyiZAcAI | twitter.com/PreviouslyRec/status/616291758180331520
 | 2015_Jul_01 | 00:49:04 | Invisible Pun (part 2) | Jack, Rich | twitch.tv/videos/8964935 | youtube.com/watch?v=sxBr1bPXLk4 | twitter.com/PreviouslyRec/status/616291758180331520
 | 2015_Jul_01 | 01:19:15 | XCOM Pun | twitch.tv/videos/8981393 | Jack, Rich | youtube.com/watch?v=_N4WgEshuJ4 | twitter.com/PreviouslyRec/status/616291758180331520
@@ -558,6 +595,7 @@
 | 2015_Aug_19 | 01:04:19 | Mute Crimson+ (part 2) | Jack, Rich, Jay | twitch.tv/videos/13779247 | youtube.com/watch?v=Ew6OZSpG5OA | twitter.com/PreviouslyRec/status/634061668138397696
 | 2015_Aug_19 | 00:38:56 | Fingered | twitch.tv/videos/13782221 | Jack, Rich, Jay | youtube.com/watch?v=3shJdsLpZ3I | twitter.com/PreviouslyRec/status/634061668138397696
 | 2015_Aug_19 | 01:33:13 | INK! | twitch.tv/videos/13784425 | Jack, Rich, Jay | youtube.com/watch?v=PgvnlXVcxjc | twitter.com/PreviouslyRec/status/634061668138397696
+| 2015_Aug_22 | 00:52:59 | Wheel of the Worst #9 - America Online for Internet, Backyard Stunting, Rainbow’s Remedy | Mike, Rich, Jim, Colin | youtube.com/watch?v=ZCtnb81OhV4
 | 2015_Aug_23 | 01:16:53 | Space Cop Effects Work!!!! (part 1) | Jack, Rich | twitch.tv/videos/14297698 | youtube.com/watch?v=RJuq_bp9gH4 | twitter.com/PreviouslyRec/status/635627705640185856
 | 2015_Aug_23 | 01:31:01 | Space Cop Effects Work!!!! (part 2) | Jack, Rich | twitch.tv/videos/14301068 | youtube.com/watch?v=3wo3otIkUjE | twitter.com/PreviouslyRec/status/635627705640185856
 | 2015_Aug_26 | 01:04:35 | Kings Quest, not the new one. part 1 of 13 | Jack, Rich | twitch.tv/videos/14855608 | youtube.com/watch?v=UEV_PFQw7lk | twitter.com/PreviouslyRec/status/636607497097232384
@@ -590,6 +628,7 @@
 | 2015_Sep_23 | 00:59:44 | Rocket League Challenge (part 1) | Jack, Rich, Jay | twitch.tv/videos/18911210 | youtube.com/watch?v=hxG2nTaXXYY | twitter.com/PreviouslyRec/status/646839873505259524
 | 2015_Sep_23 | 01:01:34 | Rocket League Challenge (part 2) | Jack, Rich, Jay | twitch.tv/videos/18912416 | youtube.com/watch?v=yds2_4VhHvI | twitter.com/PreviouslyRec/status/646839873505259524
 | 2015_Sep_23 | 01:08:15 | Rocket League Challenge (part 3) | Jack, Rich, Jay | twitch.tv/videos/18913290 | youtube.com/watch?v=IDOHWnW9B8c | twitter.com/PreviouslyRec/status/646839873505259524
+| 2015_Sep_24 | 01:01:32 | Future War, The Jar, White Fire | Mike, Rich, Jay, Josh | youtube.com/watch?v=JsnzlIests4
 | 2015_Sep_27 | 00:27:09 | Metal Gear Solid V | http://redlettermedia.com/pre-rec-metal-gear-solid-v/
 | 2015_Sep_27 | 00:42:07 | Uncomfortable Showers | Jack, Rich | twitch.tv/videos/19436970 | youtube.com/watch?v=xeJOJzUNF04 | twitter.com/PreviouslyRec/status/648226691295375360
 | 2015_Sep_28 | 01:19:30 | Go Westarado, Young Man | Jack, Rich | twitch.tv/videos/19438252 | youtube.com/watch?v=k5mDNTB3A38 | twitter.com/PreviouslyRec/status/648226691295375360
@@ -621,6 +660,7 @@
 | 2015_Oct_28 | 00:59:19 | Dark Souls 2 - The Revengening (part 1) | Jack, Rich |twitch.tv/videos/26078366 | youtube.com/watch?v=hxpuI-4z2DM | twitter.com/PreviouslyRec/status/659475792473280513
 | 2015_Oct_28 | 01:03:18 | Dark Souls 2 - The Revengening (part 2) | Jack, Rich | twitch.tv/videos/26079677 | youtube.com/watch?v=2ZsT_zUnRU4 | twitter.com/PreviouslyRec/status/659475792473280513
 | 2015_Oct_28 | 01:02:36 | Super Ultra Mega Jay's Movie Giveaway | Jack, Rich, Jay | twitch.tv/videos/26079916 | youtube.com/watch?v=HnaelyB3fxk | twitter.com/PreviouslyRec/status/659475792473280513
+| 2015_Oct_29 | 01:00:31 | Kiss Meets the Phantom of the Park, Killer Workout, Mystics in Bali | Mike, Rich, Jay, Jack | youtube.com/watch?v=mA5f86pD7o4
 | 2015_Nov_01 | 01:31:33 | Undertale with wacky voices. (part 1) | Jack, Rich |twitch.tv/videos/26080441 | youtube.com/watch?v=sKNOBf-OBhc | twitter.com/PreviouslyRec/status/660895951465398272
 | 2015_Nov_01 | 01:14:45 | Undertale with wacky voices. (part 2) | Jack, Rich | twitch.tv/videos/26080621 | youtube.com/watch?v=Wd6DgBIN2b4 | twitter.com/PreviouslyRec/status/660895951465398272
 | 2015_Nov_08 | 00:57:30 | Brutal Doom and BS (part 1) | Jack, Rich, Jay | twitch.tv/videos/27084397 | youtube.com/watch?v=PdZOQ5palnI | twitter.com/PreviouslyRec/status/663418542021287936
@@ -653,6 +693,7 @@
 | 2015_Dec_02 | 00:56:06 | Return of the Undertale. (part 2) | Jack, Rich | twitch.tv/videos/34644070 | youtube.com/watch?v=52VgNw1eJYw | twitter.com/PreviouslyRec/status/672140691213037572
 | 2015_Dec_02 | 00:52:47 | Return of the Undertale. (part 3) | Jack, Rich | twitch.tv/videos/34644198 | youtube.com/watch?v=aEAQH7skqvo | twitter.com/PreviouslyRec/status/672140691213037572
 | 2015_Dec_02 | 00:52:12 | Return of the Undertale. (part 4) | Jack, Rich | twitch.tv/videos/34644468 | youtube.com/watch?v=8Z9tVbIiDEk | twitter.com/PreviouslyRec/status/672140691213037572
+| 2015_Dec_03 | 01:02:08 | The Photon Effect, How I Saved the President, Double Down | Mike, Rich, Jay, Max Landis | youtube.com/watch?v=2-3wkbqmgxs
 | 2015_Dec_07 | 00:26:35 | Krampus | http://redlettermedia.com/half-in-the-bag-krampus/
 | 2015_Dec_09 | 04:13:07 | Rich Solo Bloodborne Streaming to the Oldies. | Rich | No Twitch video | youtube.com/watch?v=yGzo63iF1Eo | twitter.com/PreviouslyRec/status/674711065620557826
 | 2015_Dec_06 | 01:21:07 | Would You Like to Know More? (Helldivers part 1) | Jack, Rich | twitch.tv/videos/35551015 | youtube.com/watch?v=LwdfSPCkP1g | twitter.com/PreviouslyRec/status/673601031675088896
@@ -671,6 +712,7 @@
 | 2015_Dec_21 | 00:50:16 | THE RETURN OF DON WILSON!! (Freedom Planet part 2) | Jack, Rich | twitch.tv/videos/39780453 | youtube.com/watch?v=Tt7Tlzztt48 | twitter.com/PreviouslyRec/status/679021103377948672
 | 2015_Dec_21 | 01:53:52 | Star Wars - The Force Awakens spoiler discussion | Jack, Rich | twitch.tv/videos/39780934 | youtube.com/watch?v=71RJJ0umdjQ | twitter.com/PreviouslyRec/status/679021103377948672
 | 2015_Dec_23 | 05:13:17 | Rich's Christmas The Last of Us Extravaganza | Rich | No Twitch video | youtube.com/watch?v=FCdVnY6H0FE | twitter.com/PreviouslyRec/status/679798168977014784
+| 2015_Dec_25 | 01:06:15 | A Very Cannon Christmas - Death Wish 3, The Christmas Tree, Invasion U.S.A. | Mike, Rich, Jay, Josh | youtube.com/watch?v=fgbPUHfBJA0
 | 2015_Dec_?? | 04:08:29 | PreRec After Dark | Rich | No Twitch video | youtube.com/watch?v=pwq7FNULaDw | twitter.com/StephenGrillo/status/720254370949021696
 | 2016_Jan_03 | 01:01:54 | Dragon Fantasy with the Fiance (part 1) | Rich, Karin | twitch.tv/videos/49413379 | youtube.com/watch?v=Im1taiQh4tQ | twitter.com/PreviouslyRec/status/683849637552353280
 | 2016_Jan_03 | 01:10:39 | Dragon Fantasy with the Fiance (part 2) | Rich, Karin | twitch.tv/videos/49419172 | youtube.com/watch?v=4qsO1Hwg5hs | twitter.com/PreviouslyRec/status/683849637552353280
@@ -712,9 +754,11 @@
 | 2016_Feb_10 | 01:11:51 | XCOM 2 MADNESS!!! (part 2) | Jack, Rich | twitch.tv/videos/58527948 | youtube.com/watch?v=KlIRjaW49lw | twitter.com/PreviouslyRec/status/697503674013257729
 | 2016_Feb_10 | 01:07:42 | XCOM 2 MADNESS!!! (part 3) | Jack, Rich | twitch.tv/videos/58528970 | youtube.com/watch?v=Nqx20FJwvlk | twitter.com/PreviouslyRec/status/697503674013257729
 | 2016_Feb_10 | 00:59:14 | Generic Fantasy MADNESS (Dragon's Dogma) | Jack, Rich | twitch.tv/videos/58530273 | youtube.com/watch?v=wZHyER-QgbQ | twitter.com/PreviouslyRec/status/697503674013257729
+| 2016_Feb_12 | 00:52:54 | Wheel of the Worst #10 - Show Off - How to be cool at parties, MotherLode, Exploding Varmints | Mike, Rich, Jay, Jack | youtube.com/watch?v=ZmRs1QjHU-k
 | 2016_Feb_17 | 01:13:50 | XCOMmunicable disease (part 1) | Jack, Rich | twitch.tv/videos/59095040 | youtube.com/watch?v=vJPtWuyKdc4 | twitter.com/PreviouslyRec/status/700024150354751489
 | 2016_Feb_17 | 00:58:34 | XCOMmunicable disease (part 2) | Jack, Rich | twitch.tv/videos/59095812 | youtube.com/watch?v=UEi2wf-EZuk | twitter.com/PreviouslyRec/status/700024150354751489
 | 2016_Feb_17 | 01:19:03 | XCOMmunicable disease (part 3) | Jack, Rich | twitch.tv/videos/59097336 | youtube.com/watch?v=3Lor2yBBcaE | twitter.com/PreviouslyRec/status/700024150354751489
+| 2016_Mar_18 | 01:04:31 | Order of the Black Eagle, Wired to Kill, Raiders of Atlantis | Mike, Rich, Jay, Josh | youtube.com/watch?v=CONHKI2q-DM
 | 2016_Feb_19 | 00:29:07 | Deadpool and Comic Book Movie Predictions | http://redlettermedia.com/half-in-the-bag-deadpool-and-comic-book-movie-predictions/
 | 2016_Feb_22 | 01:20:28 | XCOM 2 Electric Boogaloo (part 1) | Jack, Rich | twitch.tv/videos/59179831 | youtube.com/watch?v=ixcKkqASBK0 | twitter.com/PreviouslyRec/status/701826160834039809
 | 2016_Feb_22 | 01:12:22 | XCOM 2 Electric Boogaloo (part 2) | Jack, Rich | twitch.tv/videos/59184308 | youtube.com/watch?v=s3HF6sIPGWg | twitter.com/PreviouslyRec/status/701826160834039809
@@ -778,6 +822,7 @@
 | 2016_Apr_18 | 02:05:06 | Darkborne 3 - Souls of the Blood (part 2) | Jack, Rich | twitch.tv/videos/71843348 | youtube.com/watch?v=pFoKyb09nsM | twitter.com/PreviouslyRec/status/722123164365430784
 | 2016_Apr_20 | 02:31:50 | Stabbin Some Tree Balls (Dark Souls 3) | Jack, Rich | twitch.tv/videos/72181639 | \youtube.com/watch?v=rBB69JSmQaA | twitter.com/PreviouslyRec/status/722864150934896640
 | 2016_Apr_20 | 01:14:02 | Done Stabbing Tree Balls (Dark Souls 3) | Jack, Rich | twitch.tv/videos/72181996 | youtube.com/watch?v=K9uK130jKgA | twitter.com/PreviouslyRec/status/722864150934896640
+| 2016_Apr_25 | 00:55:39 | Plinketto #1 - Double Dragon, Deathstalker, Doctor Butcher MD | Mike, Rich, Jack, Josh | youtube.com/watch?v=X4WzW8wYr0o
 | 2016_Apr_27 | 02:15:41 | Slash'N'Dash (part 1) | Jack, Rich | twitch.tv/videos/72911271 | youtube.com/watch?v=wo6-6p7ohdA | twitter.com/PreviouslyRec/status/725424599106613248
 | 2016_Apr_27 | 02:09:22 | Slash'N'Dash (part 2) | Jack, Rich | twitch.tv/videos/72913043 | youtube.com/watch?v=P2HT_BUYZkE | twitter.com/PreviouslyRec/status/725424599106613248
 | 2016_May_01 | 02:30:17 | Totally Not Organ Trail (part 1) | Jack, Rich | twitch.tv/videos/73290481 | youtube.com/watch?v=tNQF84bzQf0 | twitter.com/PreviouslyRec/status/726820079329902593
@@ -795,6 +840,7 @@
 | 2016_May_15 | 01:43:58 | DOOMED (part 2) | Jack, Rich | twitch.tv/videos/75314023 | youtube.com/watch?v=7zjBBuvpa0Y | twitter.com/PreviouslyRec/status/731932783791116288
 | 2016_May_18 | 02:05:28 | DOOMED (part 3) | Jack, Rich | twitch.tv/videos/76327671 | youtube.com/watch?v=rLdKIukgxTo | twitter.com/PreviouslyRec/status/733016089542545408
 | 2016_May_18 | 01:47:13 | DOOMED (part 4) | Jack, Rich | twitch.tv/videos/76328252 | youtube.com/watch?v=ttiVVoN5oXQ | twitter.com/PreviouslyRec/status/733016089542545408
+| 2016_May_19 | 00:58:37 | Wheel of the Worst #11 - How To Seduce Women Through Hypnosis, How To Get Revenge, UPC Codes & 666 | Mike, Rich, Jay, Jack | youtube.com/watch?v=-M2khjpOxzc 
 | 2016_May_21 | 00:20:45 | Doom | http://redlettermedia.com/pre-rec-doom/
 | 2016_May_22 | 01:59:56 | Wrighting Wrongs (phoenix Wright part 2) | Jack, Rich | twitch.tv/videos/76328899 | youtube.com/watch?v=kAR2hW5QoWY | twitter.com/PreviouslyRec/status/734480549914370048
 | 2016_May_22 | 02:08:55 | Wrighting Wrongs (phoenix Wright part 3) | Jack, Rich | twitch.tv/videos/76328977 | youtube.com/watch?v=eMsftXlDEdg | twitter.com/PreviouslyRec/status/734480549914370048
@@ -814,6 +860,7 @@
 | 2016_Jun_15 | 03:00:12 | E3 2016 Extravaganza. | Jack, Rich | twitch.tv/videos/72709214 | youtube.com/watch?v=tagfsS-joIY | twitter.com/PreviouslyRec/status/743175212062085120
 | 2016_Jun_19 | 01:40:40 | Shooting Demons is (Wasted) Space | Jack, Rich | twitch.tv/videos/80634752 | youtube.com/watch?v=VoOqFs6eAGU | twitter.com/PreviouslyRec/status/744619531503427584
 | 2016_Jun_19 | 01:43:54 | Dancing Demons | Jack, Rich | twitch.tv/videos/80640934 | youtube.com/watch?v=ANHVyFEH0F0 | twitter.com/PreviouslyRec/status/744619531503427584
+| 2016_Jun_21 | 01:18:32 | Pocket Ninjas, Cyclone, Dangerous Men | Rich, Jay, Jack, Josh | youtube.com/watch?v=3mRJmcuC-8Y
 | 2016_Jun_22 | 02:24:43 | Mighty! Mighty! Mighty! | Jack, Rich | twitch.tv/videos/81034152 | youtube.com/watch?v=KYDx4rTgepk | twitter.com/PreviouslyRec/status/745711925858795523
 | 2016_Jun_26 | 00:34:30 | Independence Day: Resurgence | http://redlettermedia.com/half-in-the-bag-independence-day-resurgence/
 | 2016_Jun_29 | 01:37:34 | DOOMButt()() | Rich, Jay, Colin, April | twitch.tv/videos/81105242 | youtube.com/watch?v=aQXS5HNiJAs | twitter.com/PreviouslyRec/status/748232502943186944
@@ -823,6 +870,7 @@
 | 2016_Jul_06 | 03:31:33 | Rich Solo DOOM(Gungeon) | Rich | twitch.tv/videos/81738163 | youtube.com/watch?v=L_g1IzVSBhk | twitter.com/PreviouslyRec/status/750786627966935040
 | 2016_Jul_08 | 01:55:52 | Inside Insides (part 1) | Jack, Rich | twitch.tv/videos/81760762 | youtube.com/watch?v=jdzYdYm4EV4 | twitter.com/PreviouslyRec/status/751528288581873665
 | 2016_Jul_08 | 02:07:37 | Inside Insides (part 2) | Jack, Rich | twitch.tv/videos/81767971 | youtube.com/watch?v=c44kQIm3m9k | twitter.com/PreviouslyRec/status/751528288581873665
+| 2016_Jul_09 | 00:54:04 | Wheel of the Worst #12 - My Twinn, Magic Tricks You Can Do, Come and Learn the Alphabet with Mrs. Udderly | Rich, Jay, Jim, Colin (special appearances: Mike, Jack, Josh, and Max Landis) | youtube.com/watch?v=n8uKazrF2r8
 | 2016_Jul_10 | 01:36:16 | Furi Road (part 1) | Jack, Rich | twitch.tv/videos/81923646 | youtube.com/watch?v=qmhRv0EQB_w | twitter.com/PreviouslyRec/status/752216472684892160
 | 2016_Jul_10 | 01:48:05 | Furi Road (part 2) | Jack, Rich | twitch.tv/videos/81926491 | youtube.com/watch?v=FVzETBZo-Z0 | twitter.com/PreviouslyRec/status/752216472684892160
 | 2016_Jul_13 | 00:39:31 | Pokemon Go! clusterfuck yourself | Jack, Rich | No Twitch video | youtube.com/watch?v=jHjVtnYrFMo | twitter.com/PreviouslyRec/status/753229691608326145
@@ -856,6 +904,7 @@
 | 2016_Aug_23 | 00:29:01 | No Man's Sky | http://redlettermedia.com/pre-rec-no-mans-sky/
 | 2016_Aug_24 | 01:36:56 | Starbound and Gagged | Jack, Rich | twitch.tv/videos/89403961 | youtube.com/watch?v=VkEcco8OoOM | twitter.com/PreviouslyRec/status/768529336064499712
 | 2016_Aug_24 | 02:00:22 | Rocket to the Stars (Rocket League) | Jack, Rich | twitch.tv/videos/89406064 | youtube.com/watch?v=Mx0RofOYeUw | twitter.com/PreviouslyRec/status/768529336064499712
+| 2016_Aug_25 | 00:59:44 | Plinketto #2 - Mutant Species, The Skateboard Kid, Repo Jake | Mike, Rich, Jay, Jack | youtube.com/watch?v=rXYcFYaN_ns
 | 2016_Aug_28 | 04:49:25 | Jack's Heart Pounding PC Build!!!!! | twitch.tv/videos/89406952 | youtube.com/watch?v=rBWzz4oALd4 | twitter.com/PreviouslyRec/status/769972109498060800
 | 2016_Aug_31 | 01:51:16 | Overwatch, but not XCOM related :( (part 1) | Jack, Rich | twitch.tv/videos/89408212 | youtube.com/watch?v=akIoOFvE048 | twitter.com/PreviouslyRec/status/771049689999343617
 | 2016_Aug_31 | 01:48:46 | Overwatch, but not XCOM related :( (part 2) | Jack, Rich | twitch.tv/videos/89409248 | youtube.com/watch?v=8E8EaL4tTAE | twitter.com/PreviouslyRec/status/771049689999343617
@@ -890,6 +939,7 @@
 | 2016_Oct_10 | 00:27:59 | Box Office Number Crunching | http://redlettermedia.com/half-in-the-bag-box-office-number-crunching/
 | 2016_Oct_12 | 01:29:56 | Stealing my Heart (Thief Gold part 1) | Jack, Rich, Karin | twitch.tv/videos/97391427 | youtube.com/watch?v=sfSr3uj_jpg | twitter.com/PreviouslyRec/status/786367308847468544
 | 2016_Oct_12 | 01:42:29 | Stealing my Heart (Thief Gold part 2) | Jack, Rich, Karin | twitch.tv/videos/97391954 | youtube.com/watch?v=Flh8pCsoxt4 | twitter.com/PreviouslyRec/status/786367308847468544
+| 2016_Oct_16 | 01:08:06 | Parole Violators, Future Force, Geteven | Mike, Rich, Jim, Colin | youtube.com/watch?v=7Bd_CLKt9yA
 | 2016_Oct_16 | 01:11:04 | Grind my Gears (part 1) | Jack, Rich | twitch.tv/videos/97970799 | youtube.com/watch?v=9-6kDrAw41c | twitter.com/PreviouslyRec/status/787822127403507713
 | 2016_Oct_16 | 01:08:28 | Grind my Gears (part 2) | Jack, Rich | twitch.tv/videos/97971993 | youtube.com/watch?v=Yq_UDBI-UcU | twitter.com/PreviouslyRec/status/787822127403507713
 | 2016_Oct_16 | 01:31:20 | Grind my Gears (part 3) (mostly multplayer) | Jack, Rich | twitch.tv/videos/97972352 | youtube.com/watch?v=2FgCRlAIyKc | twitter.com/PreviouslyRec/status/787822127403507713
@@ -900,6 +950,7 @@
 | 2016_Oct_23 | 01:50:46 | Domo Aragami Mr. Roboto (part 2) | Jack, Rich | twitch.tv/videos/100809409 | youtube.com/watch?v=ytLojRb5QJA | twitter.com/PreviouslyRec/status/790269776736190464
 | 2016_Oct_26 | 01:48:56 | Hide and Seek (Dead by Daylight) | Jack, Rich, Jay | twitch.tv/videos/101455170 | youtube.com/watch?v=5oYTr2bDRqc | twitter.com/PreviouslyRec/status/791451561712943108
 | 2016_Oct_26 | 02:24:01 | Old Ghoul (Halloween Forever) | Jack, Rich, Jay | twitch.tv/videos/101458302 | youtube.com/watch?v=B3FtDHDHi5o | twitter.com/PreviouslyRec/status/791451561712943108
+| 2016_Oct_30 | 01:03:45 | Scary or Die, Chopping Mall, Exorcist II: The Heretic | Rich, Jay, Jack, Josh | youtube.com/watch?v=LLanYkRg09I
 | 2016_Oct_30 | 01:35:32 | Dawn of the Dumb (part 1) | Jack, Rich |twitch.tv/videos/102140403 | youtube.com/watch?v=M4C8Qy8Unr0 | twitter.com/PreviouslyRec/status/792799118292688896
 | 2016_Nov_19 | 01:30:00 | Dawn of the Dumb (part 2) | Jack, Rich | twitch.tv/videos/102142674 | youtube.com/watch?v=2BwAAN8JnNM | twitter.com/PreviouslyRec/status/792799118292688896
 | 2016_Nov_02 | 03:04:13 | Owlboy and the Funky Bunch | Jack | twitch.tv/videos/102143252 | youtube.com/watch?v=VyQJ4Xxbao0 | twitter.com/PreviouslyRec/status/793859355477028864
@@ -928,11 +979,13 @@
 | 2016_Dec_07 | 02:04:40 | Chatting with Edmund McMillin | Jack, Rich, Jay, Edmund McMillin | twitch.tv/videos/112316377 | youtube.com/watch?v=9Yg8j5AI0sc | twitter.com/PreviouslyRec/status/806649995269128192
 | 2016_Dec_11 | 01:48:24 | X-Classic (part 1) | Jack, Rich | twitch.tv/videos/112357634 | youtube.com/watch?v=uF5LPF2mW_w | twitter.com/PreviouslyRec/status/808038301080887296
 | 2016_Dec_11 | 01:57:05 | X-ClassicNOPEcom | twitch.tv/videos/112541068 | youtube.com/watch?v=MBoeqJ-71pc | twitter.com/PreviouslyRec/status/808038301080887296
+| 2016_Dec_13 | 00:59:45 | Wheel of the Worst #13 - Get Street Smart: A Kid’s Guide to Stranger Dangers, Travelling with Ooga Booga: On Trains, Trucks and Airplanes, Dr. Misterio’s Patented Video Almanac of Fun Vol. 2, Bear Attacks, Just Kidding!, Rude Pranks and Dirty Gags, Nightmare on Drug Street, Safe Crossing: An Egg-cellent Idea, How to Spot Counterfeit Beanie Babies | Mike, Jay, Jack, Josh | youtube.com/watch?v=ELYudG_0j3c
 | 2016_Dec_14 | 00:17:06 | The Last Guardian | youtube.com/watch?v=-sM9JUYKswg
 | 2016_Dec_18 | 01:53:12 | Merry Jack Plays Isaac! (part 1) | Jack, Rich | twitch.tv/videos/112554988 | youtube.com/watch?v=AT4w4th63Kk | twitter.com/PreviouslyRec/status/810581683963568128
 | 2016_Dec_18 | 01:56:15 | Merry Jack Plays Isaac! (part 2) | Jack, Rich | twitch.tv/videos/112701229 | youtube.com/watch?v=Q_Pg_pVt0v8 | twitter.com/PreviouslyRec/status/810581683963568128
 | 2016_Dec_19 | 00:37:42 | Rogue One | http://redlettermedia.com/half-in-the-bag-rogue-one/
 | 2016_Dec_21 | 04:42:15 | Merry X-COM!!! (Rich Solo) | Rich | twitch.tv/videos/113819439 | youtube.com/watch?v=jj2H7_wjww4 | twitter.com/PreviouslyRec/status/810581683963568128
+| 2016_Dec_23 | 00:58:53 | RepliGATOR, Johnson Family Christmas Dinner, Alligator | Mike, Rich, Jay, Jack | youtube.com/watch?v=Urd5vtoGmfI&
 | 2016_Dec_26 | 00:07:32 | Mr. Plinkett Talks About Rogue One | http://redlettermedia.com/mr-plinkett-talks-about-rogue-one/
 | 2016_Dec_28 | 01:30:28 | Dead Rising 4.. of bore | Rich, Karin | twitch.tv/videos/114004914 | youtube.com/watch?v=tXf5PMiEfNE | twitter.com/themoviedicks/status/814285666057998338
 | 2016_Dec_28 | 00:33:12 | More Merry XCOM (part 1) | Rich, Karin | twitch.tv/videos/114006194 | youtube.com/watch?v=pPZut8KnkaE | twitter.com/themoviedicks/status/814285666057998338
@@ -960,7 +1013,8 @@
 | 2017_Jan_22 | 01:28:16 | A Floppy Jalopy | Jack, Rich | twitch.tv/videos/120858049 | youtube.com/watch?v=nYV_RRXLBrk | twitter.com/PreviouslyRec/status/823248757290582016
 | 2017_Jan_22 | 02:06:43 | I'd Warhammer in the Morning | Jack, Rich, Jay | twitch.tv/videos/121092092 | youtube.com/watch?v=DI1E2CBiCrs | twitter.com/PreviouslyRec/status/823248757290582016
 | 2017_Jan_22 | 00:39:53 | I'd Warhammer in the Evening | Jack, Rich, Jay | twitch.tv/videos/121620589 | youtube.com/watch?v=b1QmpsCaS7k | twitter.com/PreviouslyRec/status/823248757290582016
-| 2017_Feb_11 | 00:06:24 | From Guttenberg to Goldberg :aka - Jack Loves Sister Act | twitch.tv/videos/121215320 | youtube.com/watch?v=v8dXyG4zhrk | 
+| 2017_Feb_05 | 00:56:39 | Plinketto #3 - The Survivor, Keaton’s Cop, Space Raiders | Mike, Rich, Jack, Josh | youtube.com/watch?v=zVijUWZwZo4
+| 2017_Feb_23 | 00:54:52 | Carnosaur 2, The Skateboard Kid 2, Future Zone | Rich, Jay, Jack, Josh | youtube.com/watch?v=9cNUg3XvVK
 | 2017_Jan_25 | 01:51:24 | Pre-emptive ''Jesus Christ Shut up!!! RE7'' (part 1) | Jack, Rich | twitch.tv/videos/121637713 | youtube.com/watch?v=PhXMeG_qPSY | twitter.com/PreviouslyRec/status/824365444756897793
 | 2017_Jan_25 | 01:59:27 | Pre-emptive ''Jesus Christ Shut up!!! RE7'' (part 2) | Jack, Rich | twitch.tv/videos/121707348 | youtube.com/watch?v=WN3RXh2IH-g | twitter.com/PreviouslyRec/status/824365444756897793
 | 2017_Jan_29 | 01:29:48 | Master of Vakyria | Jack, Rich | twitch.tv/videos/122277306 | youtube.com/watch?v=2igKSbl3sFk | twitter.com/PreviouslyRec/status/824365444756897793
@@ -982,6 +1036,7 @@
 | 2017_Feb_22 | 00:26:05 | Nioh | youtube.com/watch?v=4qmchZRyeDU
 | 2017_Feb_22 | 02:01:12 | Under Wrist Over Watch (part 1) | Jack, Rich | twitch.tv/videos/129005892 | youtube.com/watch?v=oV8P7LNI6FU | twitter.com/PreviouslyRec/status/834561012468678656
 | 2017_Feb_22 | 01:44:04 | Under Wrist Over Watch (part 2) | Jack, Rich | twitch.tv/videos/129081657 | youtube.com/watch?v=eWFNdm8fnVc | twitter.com/PreviouslyRec/status/834561012468678656
+| 2017_Feb_23 | 00:54:52 | Carnosaur 2, The Skateboard Kid 2, Future Zone | Rich, Jay, Jack, Josh | youtube.com/watch?v=9cNUg3XvVKk
 | 2017_Feb_26 | 00:39:52 | We Wait for Berserk | Jack, Rich | twitch.tv/videos/130215649 | youtube.com/watch?v=H3x7YhGNDfk | twitter.com/PreviouslyRec/status/835964099980902400
 | 2017_Feb_26 | 01:42:36 | This game is Berserk!!! | Jack, Rich | twitch.tv/videos/130233355 | youtube.com/watch?v=UiUgCTcVorY | twitter.com/PreviouslyRec/status/835964099980902400
 | 2017_Mar_21 | 00:48:13 | FTL - Missiles only Run | Jack, Rich | twitch.tv/videos/130239736 | youtube.com/watch?v=9O7D15E-zfc | twitter.com/PreviouslyRec/status/835964099980902400
@@ -999,6 +1054,7 @@
 | 2017_Mar_15 | 01:19:32 | Invisigun Crazy! | Jack, Rich | twitch.tv/videos/134647106 | youtube.com/watch?v=NZSE_POJvwA | twitter.com/PreviouslyRec/status/842109123772723202
 | 2017_Mar_19 | 01:27:08 | Adventures in EVIL!!! | Jack, Rich | twitch.tv/videos/135171641 | youtube.com/watch?v=89rwyzTjD18 | twitter.com/PreviouslyRec/status/843529706813247488
 | 2017_Mar_19 | 03:09:24 | Nier - Faar - Wherever U R | Jack, Rich | twitch.tv/videos/135177031 | youtube.com/watch?v=3054_kdAcbk | twitter.com/PreviouslyRec/status/843529706813247488
+| 2017_Mar_20 | 01:10:55 | Biohazard, Slaughter High, Kill Point | Mike, Rich, Jay, Freddie Williams II | youtube.com/watch?v=7lGxABYQG8M
 | 2017_Mar_26 | 02:20:35 | Adventures in Attorney-ing (part 1) | Jack, Rich | twitch.tv/videos/136440160 | youtube.com/watch?v=s8DQ8JvLYB8 | twitter.com/PreviouslyRec/status/846086732705677312
 | 2017_Mar_27 | 00:37:35 | Life and Power Rangers | http://redlettermedia.com/half-in-the-bag-life-and-power-rangers/
 | 2017_Mar_28 | 00:56:29 | The Legend of Zelda: Breath of the Wild | youtube.com/watch?v=50LgwCJf4Ek
@@ -1009,8 +1065,10 @@
 | 2017_Apr_02 | 01:40:46 | He's a Magic Man. | Jack, Rich | twitch.tv/videos/137751752 | youtube.com/watch?v=X0yVI6gqqpE | twitter.com/PreviouslyRec/status/848620529816829953
 | 2017_Apr_07 | 01:41:12 | Catching up with 20XX | Jack, Rich | twitch.tv/videos/137752942 | youtube.com/watch?v=mpxiyjJbdeY | twitter.com/PreviouslyRec/status/850424576941187075
 | 2017_Apr_07 | 03:01:21 | Full of Sp(el)unk! | Jack, Rich | twitch.tv/videos/137754213 | youtube.com/watch?v=zDvUOsozY-k | twitter.com/PreviouslyRec/status/850424576941187075
+| 2017_Apr_08 | 00:02:40 | Curse of the Worst | Mike, Rich, Jay, Jack, Josh | https://www.youtube.com/watch?v=w2ugxX1lh5A
 | 2017_Apr_09 | 02:33:28 | Breath of the Jay (part 1) | Jack, Rich, Jay | twitch.tv/videos/139706495 | youtube.com/watch?v=ytmwpx4VDx0 | twitter.com/PreviouslyRec/status/851140700855054336
 | 2017_Apr_09 | 02:34:30 | Breath of the Jay (part 2) | Jack, Rich, Jay | twitch.tv/videos/139710556 | youtube.com/watch?v=9rW60Z8eL38 | twitter.com/PreviouslyRec/status/851140700855054336
+| 2017_Apr_11 | 00:43:13 | Wheel of the Worst #14 - Hospital Clowning, Wormania, Octopuff in Kumquat, A Day Full of Joy | Mike, Rich Jay, Josh | youtube.com/watch?v=jtshsLOoMbM
 | 2017_Apr_12 | 02:12:24 | Splitting Hairs (Bayonetta part 1) | Jack, Rich | twitch.tv/videos/141216269 | youtube.com/watch?v=bp7J8-_b3qg | twitter.com/PreviouslyRec/status/852233295307919360
 | 2017_Apr_12 | 01:53:54 | Splitting Hairs (Bayonetta part 2) | Jack, Rich | twitch.tv/videos/141221202 | youtube.com/watch?v=6Md34TfbJjc | twitter.com/PreviouslyRec/status/852233295307919360
 | 2017_Apr_19 | 01:38:40 | Flinthook Line and Sinker! (part 1) | Jack, Rich | twitch.tv/videos/141862421 | youtube.com/watch?v=PJc35Gk5Yfg | twitter.com/PreviouslyRec/status/854750270659678208
@@ -1033,6 +1091,7 @@
 | 2017_May_10 | 02:32:00 | Party Like it's 1996!!! (Strafe part 2) | Jack, Rich | twitch.tv/videos/150702977 | youtube.com/watch?v=siatSG14szM | twitter.com/PreviouslyRec/status/862397311149899776
 | 2017_May_15 | 01:43:48 | Oracle of Seasons of Guardians Spoilers (part 1) | Jack, Rich | twitch.tv/videos/153749776 | youtube.com/watch?v=3spwufkT6_Y | twitter.com/PreviouslyRec/status/864201991983165442
 | 2017_May_15 | 01:46:12 | Oracle of Seasons of Guardians Spoilers (part 2) | Jack, Rich | twitch.tv/videos/153754018 | youtube.com/watch?v=aVttD5dRNWs | twitter.com/PreviouslyRec/status/864201991983165442
+| 2017_May_16 | 01:02:03 | Bigfoot vs D.B. Cooper, Black Cougar, Raw Force | Mike, Rich, Jack, Len Kabasinski | youtube.com/watch?v=H1s4zrjlzWg
 | 2017_May_17 | 02:09:24 | More STRAFE (part 1) | Jack, Rich, Karin | twitch.tv/videos/153839815 | youtube.com/watch?v=GY-0kWZZcLk | twitter.com/PreviouslyRec/status/864925809471102976
 | 2017_May_17 | 02:15:39 | More STRAFE (part 2) (Then Bookworm) | Jack, Rich, Karin | twitch.tv/videos/153846860 | youtube.com/watch?v=NlBB-mEQNYA | twitter.com/PreviouslyRec/status/864925809471102976
 | 2017_May_21 | 00:26:38 | Alien: Covenant | http://redlettermedia.com/half-in-the-bag-alien-covenant/
@@ -1061,6 +1120,7 @@
 | 2017_Jun_14 | 00:19:24 | Vanquish | youtube.com/watch?v=L_UaQ0xmWNY
 | 2017_Jun_14 | 01:31:36 | Friday the E3th | Jack, Rich | twitch.tv/videos/161889759 | youtube.com/watch?v=CIOAoYSRKDs | twitter.com/PreviouslyRec/status/875063975473541120
 | 2017_Jun_14 | 02:31:47 | E3 2017… this should have been posted earlier | Jack, Rich | twitch.tv/videos/161901493 | youtube.com/watch?v=hpwiP_eUhRg | twitter.com/PreviouslyRec/status/875063975473541120
+| 2017_Jun_21 | 00:29:44 | Hollywood Cop | Mike, Rich, Jay | youtube.com/watch?v=9PILodU2wXw
 | 2017_Jun_21 | 02:00:42 | Yes, we're playing it again. Shut up (part 1) | Jack, Rich | twitch.tv/videos/162380759 | youtube.com/watch?v=5Eyr7zvqaiE | twitter.com/PreviouslyRec/status/877610345933578240
 | 2017_Jun_21 | 02:21:32 | Yes, we're playing it again. Shut uo (part 2) | Jack, Rich | twitch.tv/videos/162438655 | youtube.com/watch?v=Tqhy-I_Fb3M | twitter.com/PreviouslyRec/status/877610345933578240
 | 2017_Jun_23 | 00:00:00 | Transformers: The Lost Knight | http://redlettermedia.com/half-in-the-bag-transformers-the-last-knight/
@@ -1074,6 +1134,7 @@
 | 2017_Jul_09 | 01:34:24 | Old School Stein | Jack, Rich | twitch.tv/videos/164509834 | youtube.com/watch?v=yKfXZ81f__o | twitter.com/PreviouslyRec/status/884155085152014336
 | 2017_Jul_09 | 01:59:55 | Old School Jason | Jack, Rich | twitch.tv/videos/164516402 | youtube.com/watch?v=h13LSCKGfUQ | twitter.com/PreviouslyRec/status/884155085152014336
 | 2017_Jul_11 | 00:42:50 | Friday the 13th: The Game | youtube.com/watch?v=dYBt7C8m7LA
+| 2017_Jul_12 | 00:56:38 | Wheel of the Worst #15 - Golden Road: Today’s Senior Drivers, Hangin’ with Leo!, Telepathic Communication with Animals | Mike, Rich, Jim, Colin | youtube.com/watch?v=ebb8baFaQ-s
 | 2017_Jul_12 | 02:32:24 | The End is ToNIGHt (part 1) | Jack, Rich | twitch.tv/videos/164525722 | youtube.com/watch?v=JdBUbvOc_kE | twitter.com/PreviouslyRec/status/885209871683121152
 | 2017_Jul_12 | 02:03:50 | The End is ToNIGHt (part 2) | Jack, Rich | twitch.tv/videos/164530210 | youtube.com/watch?v=9NL1ZFijffw | twitter.com/PreviouslyRec/status/885209871683121152
 | 2017_Jul_16 | 00:48:42 | F13 While Waiting for Jack(Oh Jack's Here) | Jack, Rich | twitch.tv/videos/166667830 | youtube.com/watch?v=ZQA5pedBJwY | twitter.com/PreviouslyRec/status/886643491249508352
@@ -1087,6 +1148,7 @@
 | 2017_Jul_26 | 01:51:06 | Jack Returns to PUBG (part 2) | Jack, Rich | twitch.tv/videos/168482251 | youtube.com/watch?v=fLNoTtUOFDQ | twitter.com/PreviouslyRec/status/890284219649458176
 | 2017_Jul_30 | 01:41:18 | PUB GEE TEAM PLAY (part 1) | Jack, Rich | twitch.tv/videos/168549034 | youtube.com/watch?v=HcpnEmoLTCE | twitter.com/PreviouslyRec/status/891719552006049792
 | 2017_Jul_30 | 02:08:32 | PUB GEE TEAM PLAY (part 2) | Jack, Rich | twitch.tv/videos/168549868 | youtube.com/watch?v=sop6LJCW2I0 | twitter.com/PreviouslyRec/status/891719552006049792
+| 2017_Jul_31 | 01:08:00 | The Sweeper, Empire of the Dark, Mad Foxes | Mike, Rich, Jay, Josh | youtube.com/watch?v=kWKlmbTudD8
 | 2017_Aug_02 | 02:04:00 | Dead Cells ring bells (part 1) | Jack, Rich | twitch.tv/videos/169268463 | youtube.com/watch?v=TUqsiTeM8l8 | twitter.com/PreviouslyRec/status/892806306289135617
 | 2017_Aug_02 | 02:31:29 | Dead Cells ring bells (part 2) | Jack, Rich | twitch.tv/videos/169702530 | youtube.com/watch?v=jkR1A-DYe7M | twitter.com/PreviouslyRec/status/892806306289135617
 | 2017_Aug_05 | 00:25:42 | Playerunknown's Battleground | http://redlettermedia.com/pre-rec-playerunknowns-battleground/
@@ -1101,6 +1163,7 @@
 | 2017_Aug_16 | 02:06:36 | Helloooo 20XX | Jack, Rich | twitch.tv/videos/171041791 | youtube.com/watch?v=Le4LuOJXxGw | twitter.com/PreviouslyRec/status/897903978171645953
 | 2017_Aug_20 | 03:16:18 | Call me Mr. Steal Your Crew | Jack, Rich | twitch.tv/videos/171742028 | youtube.com/watch?v=1lrn-IlFqlA | twitter.com/PreviouslyRec/status/899354689313148929
 | 2017_Aug_20 | 01:29:10 | They call me Mr. PUBG Your Girl | Jack, Rich | twitch.tv/videos/171975795 | youtube.com/watch?v=-tzeBFQbMT0 | twitter.com/PreviouslyRec/status/899354689313148929
+| 2017_Aug_21 | 00:38:52 | The Last Vampire on Earth | Mike, Rich, Jay, Colin | youtube.com/watch?v=y43vWEPkceM
 | 2017_Aug_23 | 01:30:12 | Pub Bee Gee's - Stayin' Alive (part 1) | Jack, Rich | twitch.tv/videos/172465832 | youtube.com/watch?v=OlDlgAh1Z7U | twitter.com/PreviouslyRec/status/900461775384170496
 | 2017_Aug_23 | 01:48:02 | Pub Bee Gee's - Stayin' Alive (part 2) | Jack, Rich | twitch.tv/videos/172479131 | youtube.com/watch?v=fen2W_2MxpI | twitter.com/PreviouslyRec/status/900461775384170496
 | 2017_Aug_27 | 02:04:12 | Skyway to Hell!!! (part 1) | Jack, Rich | twitch.tv/videos/172573649 | youtube.com/watch?v=T2IbzpwipZA | twitter.com/PreviouslyRec/status/901892808008765440
@@ -1137,6 +1200,7 @@
 | 2017_Oct_08 | 01:29:31 | Roasting Jack's Nuts | Jack, Rich | twitch.tv/videos/181425765 | youtube.com/watch?v=oC0y5437NJI | twitter.com/PreviouslyRec/status/917125979918819328
 | 2017_Oct_11 | 01:55:55 | Heavy Metal Thunder (part 1) | Jack, Rich | twitch.tv/videos/181593254 | youtube.com/watch?v=mKM0wyhfzec | twitter.com/PreviouslyRec/status/918200441632186369
 | 2017_Oct_11 | 01:43:58 | Heavy Metal Thunder (part 2) | Jack, Rich | twitch.tv/videos/181594620 | youtube.com/watch?v=9xd6HUEp2QE | twitter.com/PreviouslyRec/status/918200441632186369
+| 2017_Oct_12 | 00:56:34 | Plinketto #4 - Turbulence 3: Heavy Metal, Little Bigfoot, Feeders | Mike, Rich, Jack, Josh | youtube.com/watch?v=Q7TxylhyW1Y
 | 2017_Oct_15 | 02:17:38 | Tie ''Died'' (part 1) | Jack, Rich | twitch.tv/videos/182617851 | youtube.com/watch?v=AIh9p3zWDl0 | twitter.com/PreviouslyRec/status/919638260229558273
 | 2017_Oct_15 | 02:19:35 | Tie ''Died'' (part 2) | Jack, Rich | twitch.tv/videos/182619385 | youtube.com/watch?v=D5PJXa5NJsM | twitter.com/PreviouslyRec/status/919638260229558273
 | 2017_Oct_18 | 01:24:05 | If you can't stand the heat... | Jack, Rich | twitch.tv/videos/183345981 | youtube.com/watch?v=T-wbOA_lJtM | twitter.com/PreviouslyRec/status/920704214174662656
@@ -1148,6 +1212,7 @@
 | 2017_Oct_25 | 00:59:42 | Coffee and Strigas (part 1) | Jack, Rich | twitch.tv/videos/185502791 | youtube.com/watch?v=JhXnW5KaqjI | twitter.com/PreviouslyRec/status/923245507165741056
 | 2017_Oct_25 | 01:18:56 | Coffee and Strigas (part 2) | Jack, Rich | twitch.tv/videos/185507635 | youtube.com/watch?v=tHD4kJSMCG8 | twitter.com/PreviouslyRec/status/923245507165741056
 | 2017_Oct_25 | 02:13:51 | Coffee and Strigas (part 3) | Jack, Rich | twitch.tv/videos/186064468 | youtube.com/watch?v=pSTEl3xgDB8 | twitter.com/PreviouslyRec/status/923245507165741056
+| 2017_Oct_26 | 01:03:06 | Vampire Assassin, Hack-O-Lantern, and Cathy's Curse | Mike, Jay, Jack, Josh | youtube.com/watch?v=W1QJazEHMUo
 | 2017_Oct_29 | 02:09:42 | Mario Sans Iliad. (Mario Odyssey part 1) | Jack, Rich | twitch.tv/videos/186238820 | youtube.com/watch?v=3zEoHXJ9WuY | twitter.com/PreviouslyRec/status/924716143654322182
 | 2017_Oct_29 | 02:21:19 | Mario Sans Iliad (Mario Odyssey part 2) | Jack, Rich | twitch.tv/videos/186240610 | youtube.com/watch?v=VkEZGcC-848 | twitter.com/PreviouslyRec/status/924716143654322182
 | 2017_Oct_30 | 00:16:03 | Mr. Plinkett's Zombie Review | http://redlettermedia.com/mr-plinketts-zombie-review/
@@ -1160,6 +1225,7 @@
 | 2017_Nov_05 | 02:19:22 | Rich's Odyssey (part 3) STRANGER THINGS 2 SPOILERS | Jack, Rich | twitch.tv/videos/188072204 | youtube.com/watch?v=dsDASsJdW7k | twitter.com/PreviouslyRec/status/927269304176922625
 | 2017_Nov_08 | 02:07:21 | Ye of Little Fate (part 1) | Jack, Rich | twitch.tv/videos/188805622 | youtube.com/watch?v=6Tf66ueqE1k | twitter.com/PreviouslyRec/status/928360833931005952
 | 2017_Nov_08 | 02:04:02 | Ye of Little Fate (part 2) | Jack, Rich | twitch.tv/videos/188807281 | youtube.com/watch?v=zHdAs7_xaQw | twitter.com/PreviouslyRec/status/928360833931005952
+| 2017_Nov_10 | 00:39:20 | Suburban Sasquatch | Mike, Rich, Jay, Jack | youtube.com/watch?v=OCmolso_LrQ
 | 2017_Nov_12 | 01:21:03 | Final Fantasy Seven-es with the Evans’ (part 1) | Jack, Rich, Karin, Katie, Erin, Jim | twitch.tv/videos/201223701 | youtube.com/watch?v=XaBWwDpbeFU | twitter.com/PreviouslyRec/status/929762602401587200
 | 2017_Nov_12 | 01:24:56 | Final Fantasy Seven-es with the Evans’ (part 2) | Jack, Rich, Karin, Katie, Erin, Jim | twitch.tv/videos/201224262 | youtube.com/watch?v=_VeYbJtVjSo | twitter.com/PreviouslyRec/status/929762602401587200
 | 2017_Nov_16 | 01:35:54 | Morning Jack Zero Dawn (part 1) | Jack | twitch.tv/videos/202072189 | youtube.com/watch?v=HVDaGVdHfwg | twitter.com/PreviouslyRec/status/931195194791354370
@@ -1172,6 +1238,7 @@
 | 2017_Nov_26 | 02:31:01 | Little Nightmares (part 2) | Jack, Rich | twitch.tv/videos/205613187 | youtube.com/watch?v=zhACqhr1vxc | twitter.com/PreviouslyRec/status/934875582453682176
 | 2017_Nov_26 | 02:24:33 | Witchy Woman | Jack, Rich | twitch.tv/videos/205618586 | youtube.com/watch?v=SUrI2Wg-ZHc | twitter.com/PreviouslyRec/status/934875582453682176
 | 2017_Nov_29 | 01:55:58 | 401 AER | Jack, Rich | twitch.tv/videos/205616229 | youtube.com/watch?v=OCKb1yrgypY | twitter.com/PreviouslyRec/status/935972878754906112
+| 2017_Dec_04 | 00:55:37 | Wheel of the Worst #16 - Manners: Who Needs Them?, Top Slots - Spotting the Best, Surviving Edged Weapons | Mike, Rich, Jay, Josh | youtube.com/watch?v=p1sxc3V0lzQ
 | 2017_Dec_05 | 02:01:52 | Over the Watch and Through the Woods | Jack | twitch.tv/videos/207283334 | youtube.com/watch?v=LqnUTazgCik | twitter.com/PreviouslyRec/status/938120715601145857
 | 2017_Dec_06 | 02:05:33 | Does Anything a Spider Can | Jack, Rich | twitch.tv/videos/207397522 | youtube.com/watch?v=NF-wZslptQA | twitter.com/PreviouslyRec/status/938488464772927489
 | 2017_Dec_06 | 01:58:56 | Game Smash! | Jack, Rich | twitch.tv/videos/207399243 | youtube.com/watch?v=AFA227FU9So | twitter.com/PreviouslyRec/status/938488464772927489
@@ -1188,6 +1255,7 @@
 | 2017_Dec_20 | 01:53:34 | Doggie Doo What Ninten Don't (Okami pt 3) | Jack, Rich | twitch.tv/videos/211305472 | youtube.com/watch?v=_ctMyMF6frs | twitter.com/PreviouslyRec/status/943592036741021697
 | 2017_Dec_27 | 02:33:08 | Stream a Little Stream With Me | Rich | twitch.tv/videos/213173589 | youtube.com/watch?v=N0sYKNpCEY4 | twitter.com/PreviouslyRec/status/946131182558756864
 | 2017_Dec_27 | 02:49:10 | Hack and Crash!!! | Rich | twitch.tv/videos/213175171 | youtube.com/watch?v=ybrIApVOahE | twitter.com/PreviouslyRec/status/946131182558756864
+| 2017_Dec_28 | 00:57:38 | Merry Kick-mas! - Karate Cop, The Christmas Light, Night of the Kickfighters | Mike, Rich, Jay, Jack | youtube.com/watch?v=PSqcvmLE0ek
 | 2017_Dec_31 | 01:43:32 | Patience Zero (Take 1) | Rich | No Twitch Video | youtube.com/watch?v=JlXtN2SuvE4 | twitter.com/PreviouslyRec/status/947533580896489472
 | 2017_Dec_31 | 01:49:04 | Patience Zero (Take 2) | Rich | No Twitch Video | youtube.com/watch?v=z74BzgkeHds | twitter.com/PreviouslyRec/status/947533580896489472
 | 2018_Jan_03 | 01:51:35 | Dead Tired (part 1) | Jack, Rich | youtube.com/watch?v=OoO7F9QSX0o | twitter.com/PreviouslyRec/status/948656176501321729
@@ -1210,6 +1278,7 @@
 | 2018_Jan_21 | 01:25:40 | Rich Tackles DR2 (part 1) | Jack, Rich | twitch.tv/videos/221136810 | youtube.com/watch?v=Wlq6qfdlUS8 | twitter.com/PreviouslyRec/status/955155673523867649
 | 2018_Jan_21 | 01:31:03 | Rich Tackles DR2 (part 2) | Jack, Rich | twitch.tv/videos/221139365 | youtube.com/watch?v=GZhk8mbEbMc | twitter.com/PreviouslyRec/status/955155673523867649
 | 2018_Jan_21 | 01:30:47 | Rich Tackles DR2 (part 3) | Jack, Rich | twitch.tv/videos/221141521 | youtube.com/watch?v=iNAsCwIoWek | twitter.com/PreviouslyRec/status/955155673523867649
+| 2018_Jan_22 | 01:08:04 | Plinketto #5 - Nail Gun Massacre, Deathstalker 2, Princess Warrior | Mike, Jay, Jack, Josh | youtube.com/watch?v=I1dxYbL-t5c
 | 2018_Jan_24 | 02:16:28 | Some Game. | Jack, Rich | twitch.tv/videos/222100427 | youtube.com/watch?v=C_LUYzBToNw | twitter.com/PreviouslyRec/status/956279921336311815
 | 2018_Jan_24 | 01:58:25 | Tony Hawk - Pro Faceplanter | Jack, Rich | twitch.tv/videos/222102318 | youtube.com/watch?v=KHsORQsc0nQ | twitter.com/PreviouslyRec/status/956279921336311815
 | 2018_Jan_26 | 04:20:54 | Dead Rising Fail | Rich | twitch.tv/videos/223514288 | youtube.com/watch?v=aH9W-GLtNXg | twitter.com/PreviouslyRec/status/957015344295669761
@@ -1252,6 +1321,7 @@
 | 2018_Mar_07 | 01:28:02 | Once More, Into the Breach! (part 2) | Jack, Rich | twitch.tv/videos/237892708 | youtube.com/watch?v=E5q5-n0Z1PM | twitter.com/PreviouslyRec/status/971493869111119875
 | 2018_Mar_11 | 02:05:42 | Fear the Old Fraud (part 1) | Jack, Rich | twitch.tv/videos/237895862 | youtube.com/watch?v=WRFt-fMrMAw | twitter.com/PreviouslyRec/status/972913938995339266
 | 2018_Mar_11 | 02:01:48 | Fear the Old Fraud (part 2) | Jack, Rich | twitch.tv/videos/237898520 | youtube.com/watch?v=eyenqpdo3q8 | twitter.com/PreviouslyRec/status/972913938995339266
+| 2018_Mar_13 | 01:09:46 | The Black Spline Edition - Blackstreetboyz, Don Beveridge 5/1/98 Customerization Seminar, Plymouth International Ice Festival, Partners | Mike, Rich, Jay, Jack | youtube.com/watch?v=_igaLv7ro8o
 | 2018_Mar_14 | 02:20:39 | Pun Averted (Ghost of a Tale pt 1... of 1) | Jack, Rich | twitch.tv/videos/238915591 | youtube.com/watch?v=jwo-B09tD7g | 
 | 2018_Mar_14 | 01:50:51 | Man vs. Slay | Jack, Rich | twitch.tv/videos/238922652 | youtube.com/watch?v=y_08XqMCRvg | twitter.com/PreviouslyRec/status/974016246739030018
 | 2018_Mar_18 | 01:35:48 | Craving more Bloodborne (part 1) | Jack, Rich | twitch.tv/videos/240383197 | youtube.com/watch?v=qdqMm0qk3VU | twitter.com/PreviouslyRec/status/975463333716545539
@@ -1271,6 +1341,7 @@
 | 2018_Apr_08 | 01:44:45 | We Don't Know Diddy | Jack, Rich | twitch.tv/videos/252001718 | youtube.com/watch?v=_9aacOShfVw | twitter.com/PreviouslyRec/status/983054317992185857
 | 2018_Apr_08 | 01:38:46 | Yes, More Zelda. (part 1) | Jack, Rich | twitch.tv/videos/252005055 | youtube.com/watch?v=kvFeA8tbMOM | twitter.com/PreviouslyRec/status/983054317992185857
 | 2018_Apr_08 | 01:39:06 | Yes, More Zelda (part 2) | Jack, Rich | twitch.tv/videos/252007723 | youtube.com/watch?v=-syyYZ95XAA | twitter.com/PreviouslyRec/status/983054317992185857
+| 2018_Apr_13 | 01:02:07 | Hologram Man, Faust, and Blood Street	 | Mike, Rich, Jay, Jack | youtube.com/watch?v=f1je3wob5JA
 | 2018_Apr_16 | 03:24:07 | One Fine Morning | Jack | twitch.tv/videos/253564859 | youtube.com/watch?v=tZiUbDbm21c | twitter.com/PreviouslyRec/status/985881612855513088
 | 2018_Apr_17 | 00:00:28 | RIP Harry Anderson | http://redlettermedia.com/rip-harry-anderson/
 | 2018_Apr_18 | 01:00:08 | Stream(featuring Zelda) (part 1) | Jack, Rich | twitch.tv/videos/254144683 | youtube.com/watch?v=1eMYkyQk_3g | twitter.com/PreviouslyRec/status/986695526216237061
@@ -1290,6 +1361,7 @@
 | 2018_May_02 | 01:00:56 | Minit to Win it (part 1) | Jack, Rich | twitch.tv/videos/257144605 | youtube.com/watch?v=BL9vkxNhY-E | twitter.com/PreviouslyRec/status/991762359764029440
 | 2018_May_02 | 01:13:56 | Minit to Win it (part 2) | Jack, Rich | twitch.tv/videos/257148386 | youtube.com/watch?v=2zKts6XNIiw | twitter.com/PreviouslyRec/status/991762359764029440
 | 2018_May_02 | 01:48:06 | Dad of Boy | Jack, Rich | twitch.tv/videos/257149751 | youtube.com/watch?v=KbWObYxvuF0 | twitter.com/PreviouslyRec/status/991762359764029440
+| 2018_May_07 | 01:06:29 | Plinketto #6 - Rocktober Blood, The Pit, Mankillers | Mike, Rich, Jay, Simon Barrett | youtube.com/watch?v=0JcNT6jYGwI
 | 2018_May_09 | 00:37:16 | God of War (2018) | http://redlettermedia.com/pre-rec-god-of-war-2018/
 | 2018_May_09 | 01:07:40 | Pikanope. | Jack, Rich | twitch.tv/videos/259701641 | youtube.com/watch?v=I9meT9m3QvY | twitter.com/PreviouslyRec/status/994292659543007232
 | 2018_May_09 | 01:43:43 | Trials by Fraud (part 4) | Jack, Rich | twitch.tv/videos/259705558 | youtube.com/watch?v=wA9RxC7tWIg | twitter.com/PreviouslyRec/status/994292659543007232
@@ -1307,6 +1379,7 @@
 | 2018_May_27 | 01:40:53 | Questing in SPAAAAAAAAAAaaaace (part 2) | Jack, Rich | twitch.tv/videos/269171684 | youtube.com/watch?v=xN29neOVLkw | twitter.com/PreviouslyRec/status/1000832938471231488
 | 2018_May_30 | 02:13:18 | Questing in SPAAAAAAAAAAaaaace (part 3) | Jack, Rich | twitch.tv/videos/269173264 | youtube.com/watch?v=qhc9HClLfls | twitter.com/PreviouslyRec/status/1001879332036411392
 | 2018_May_30 | 02:13:07 | Decent Descenders | Jack, Rich | twitch.tv/videos/269176509 | youtube.com/watch?v=CW9VXMkgMxs | twitter.com/PreviouslyRec/status/1001879332036411392
+| 2018_Jun_02 | 01:03:10 | Kill Squad, Ryan's Babe, Demonwarp | Jay, Rich, Jack, Josh | youtube.com/watch?v=jcK4ioF8ODc
 | 2018_Jun_03 | 01:35:24 | Unworthy | Jack, Rich | twitch.tv/videos/269180313 | youtube.com/watch?v=SoL1uA-kdqE | twitter.com/PreviouslyRec/status/1003350807612477441
 | 2018_Jun_03 | 01:10:45 | Stream fail. | Jack, Rich | twitch.tv/videos/269181145 | youtube.com/watch?v=l5jbz-CWYl0 | twitter.com/PreviouslyRec/status/1003350807612477441
 | 2018_Jun_06 | 00:26:49 | Battletech | http://redlettermedia.com/pre-rec-battletech/
@@ -1334,6 +1407,7 @@
 | 2018_Jul_01 | 02:10:07 | No Justice in This World (part 3) | Jack, Rich | twitch.tv/videos/279944992 | youtube.com/watch?v=_2w_XbDwlBU | twitter.com/PreviouslyRec/status/1013523002984747019
 | 2018_Jul_01 | 01:52:49 | No Justice in This World (part 4) | Jack, Rich | twitch.tv/videos/279948205 | youtube.com/watch?v=MQNZObyFWwI | twitter.com/PreviouslyRec/status/1013523002984747019
 | 2018_Jul_03 | 00:40:19 | Moonlighter VS Recettear | http://redlettermedia.com/pre-rec-moonlighter-vs-recettear/
+| 2018_Jul_09 | 01:03:12 | Wheel of the Worst #17 - Celebration of Age: The Croning Ceremony, Hug-a-Tree and Survive, World Wide Web of Deceit | Mike, Rich, Colin, Jim | 
 | 2018_Jul_11 | 02:01:06 | Slayer of Orcs! (part 1) | Jack, Rich | twitch.tv/videos/283637825 | youtube.com/watch?v=qKlBVHTKWD0 | twitter.com/PreviouslyRec/status/1017128477047304192
 | 2018_Jul_11 | 02:04:43 | Slayer of Orcs! (part 2) | Jack, Rich | twitch.tv/videos/283641274 | youtube.com/watch?v=qO_39IvbByI | twitter.com/PreviouslyRec/status/1017128477047304192
 | 2018_Jul_11 | 02:02:09 | Slayer of Orcs (part 3) | Jack, Rich | twitch.tv/videos/283645405 | youtube.com/watch?v=w6D8e1oiezA | twitter.com/PreviouslyRec/status/1017128477047304192
@@ -1346,6 +1420,7 @@
 | 2018_Jul_25 | 01:39:57 | Penultimate | Jack, Rich | twitch.tv/videos/289347253 | youtube.com/watch?v=8JivUDxsbvE | twitter.com/PreviouslyRec/status/1022220044980428801
 | 2018_Jul_25 | 03:44:26 | END. | Jack, Rich | twitch.tv/videos/289348066 | youtube.com/watch?v=op1sxzbWkeo | twitter.com/PreviouslyRec/status/1022220044980428801
 | 2018_Jul_28 | 00:38:32 | Comic Con 2018 Trailers | http://redlettermedia.com/half-in-the-bag-comic-con-2018-trailers/
+| 2018_Aug_07 | 01:02:15 | Night of the Lepus, Zombie 3, and Silk | Mike, Rich, Jay, Josh | youtube.com/watch?v=m0QUo5jnhYE
 | 2018_Aug_15 | 00:34:11 | Slender Man | http://redlettermedia.com/half-in-the-bag-slender-man/
 | 2018_Aug_28 | 00:58:10 | Star Wars: The Last Plinkett Review | http://redlettermedia.com/star-wars-the-last-plinkett-review/
 | 2018_Sep_05 | 00:34:46 | 2018 Catch-Up (part 1 of 2) | http://redlettermedia.com/half-in-the-bag-2018-catch-up-part-1-of-2/
