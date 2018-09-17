@@ -33,7 +33,9 @@
 | 2016_Sep_29 | 00:16:09 | Event[0] | youtube.com/watch?v=Zg2TldfgeJQ
 | 2016_Nov_04 | 00:16:48 | Gears of War 4 | http://redlettermedia.com/pre-rec-gears-of-war-4/
 | 2016_Dec_01 | 00:25:11 | Dishonored 2 | http://redlettermedia.com/pre-rec-dishonored-2/
+| 2016_Dec_14 | 00:17:06 | The Last Guardian | youtube.com/watch?v=-sM9JUYKswg
 | 2017_Feb_03 | 00:32:04 | ABSTRACT-MO-TRON: THE EPISODE | http://redlettermedia.com/pre-rec-abstract-mo-tron-the-episode/
+| 2017_Feb_22 | 00:26:05 | Nioh | youtube.com/watch?v=4qmchZRyeDU
 | 2017_Mar_09 | 00:22:54 | Horizon Zero Dawn | http://redlettermedia.com/pre-rec-horizon-zero-dawn/
 | 2017_Apr_01 | 00:26:16 | Mass Effect Andromeda | youtube.com/watch?v=yewHl_TcOE8
 | 2017_May_05 | 00:25:10 | Bayonetta | http://redlettermedia.com/pre-rec-bayonetta/
