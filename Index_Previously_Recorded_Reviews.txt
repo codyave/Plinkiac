@@ -24,23 +24,27 @@
 | 2015_Dec_13 | 00:17:08 | Star Wars Battlefront - Hard West | http://redlettermedia.com/pre-rec-star-wars-battlefront-hard-west/
 | 2016_Jan_20 | 00:18:16 | Helldivers | http://redlettermedia.com/pre-rec-helldivers/
 | 2016_Feb_08 | 00:25:00 | Dragon Dogma | http://redlettermedia.com/pre-rec-dragons-dogma/
-| 2016_Mar_22 | 00: | Superhot | http://redlettermedia.com/pre-rec-superhot/
-| 2016_May_22 | 00: | Quantum Break | http://redlettermedia.com/pre-rec-quantum-break/
-| 2016_May_21 | 00: | Doom | http://redlettermedia.com/pre-rec-doom/
-| 2016_Aug_23 | 00: | No Man's Sky | http://redlettermedia.com/pre-rec-no-mans-sky/
-| 2016_Nov_04 | 00: | Gears of War 4 | http://redlettermedia.com/pre-rec-gears-of-war-4/
-| 2016_Dec_01 | 00: | Dishonored 2 | http://redlettermedia.com/pre-rec-dishonored-2/
-| 2017_Feb_03 | 00: | ABSTRACT-MO-TRON: THE EPISODE | http://redlettermedia.com/pre-rec-abstract-mo-tron-the-episode/
-| 2017_Mar_09 | 00: | Horizon Zero Dawn | http://redlettermedia.com/pre-rec-horizon-zero-dawn/
-| 2017_May_05 | 00: | Bayonetta | http://redlettermedia.com/pre-rec-bayonetta/
-| 2017_Jun_07 | 00: | Strafe | http://redlettermedia.com/pre-rec-strafe/
-| 2017_Aug_05 | 00: | Playerunknown's Battleground | http://redlettermedia.com/pre-rec-playerunknowns-battleground/
-| 2017_Oct_05 | 00: | Cuphead | http://redlettermedia.com/pre-rec-cuphead/
-| 2018_Feb_21 | 00: | Slay the Spire | http://redlettermedia.com/pre-rec-slay-the-spire/
-| 2018_Mar_07 | 00: | Metal Gear Survive | http://redlettermedia.com/pre-rec-metal-gear-survive/
-| 2018_May_09 | 00: | God of War (2018) | http://redlettermedia.com/pre-rec-god-of-war-2018/
-| 2018_Jun_06 | 00: | Battletech | http://redlettermedia.com/pre-rec-battletech/
-| 2018_Jul_03 | 00: | Moonlighter VS Recettear | http://redlettermedia.com/pre-rec-moonlighter-vs-recettear/
+| 2016_Mar_22 | 00:12:44 | Superhot | http://redlettermedia.com/pre-rec-superhot/
+| 2016_Apr_12 | 00:26:14 | Stardew valley | youtube.com/watch?v=ZcUZrkHWoMQ
+| 2016_May_02 | 00:18:57 | Quantum Break | http://redlettermedia.com/pre-rec-quantum-break/
+| 2016_May_21 | 00:20:45 | Doom | http://redlettermedia.com/pre-rec-doom/
+| 2016_Jul_15 | 00:26:55 | Battle of the NOT Mega Man Games | youtube.com/watch?v=nAwkAqzeEKE
+| 2016_Aug_23 | 00:29:01 | No Man's Sky | http://redlettermedia.com/pre-rec-no-mans-sky/
+| 2016_Sep_29 | 00:16:09 | Event[0] | youtube.com/watch?v=Zg2TldfgeJQ
+| 2016_Nov_04 | 00:16:48 | Gears of War 4 | http://redlettermedia.com/pre-rec-gears-of-war-4/
+| 2016_Dec_01 | 00:25:11 | Dishonored 2 | http://redlettermedia.com/pre-rec-dishonored-2/
+| 2017_Feb_03 | 00:32:04 | ABSTRACT-MO-TRON: THE EPISODE | http://redlettermedia.com/pre-rec-abstract-mo-tron-the-episode/
+| 2017_Mar_09 | 00:22:54 | Horizon Zero Dawn | http://redlettermedia.com/pre-rec-horizon-zero-dawn/
+| 2017_May_05 | 00:25:10 | Bayonetta | http://redlettermedia.com/pre-rec-bayonetta/
+| 2017_Jun_07 | 00:18:29 | Strafe | http://redlettermedia.com/pre-rec-strafe/
+| 2017_Aug_05 | 00:25:42 | Playerunknown's Battleground | http://redlettermedia.com/pre-rec-playerunknowns-battleground/
+| 2017_Sep_20 | 00:27:00 | Mario + Rabbids Kingdom Battle | youtube.com/watch?v=okipIlrLqvs
+| 2017_Oct_05 | 00:13:30 | Cuphead | http://redlettermedia.com/pre-rec-cuphead/
+| 2018_Feb_21 | 00:19:36 | Slay the Spire | http://redlettermedia.com/pre-rec-slay-the-spire/
+| 2018_Mar_07 | 00:28:57 | Metal Gear Survive | http://redlettermedia.com/pre-rec-metal-gear-survive/
+| 2018_May_09 | 00:37:16 | God of War (2018) | http://redlettermedia.com/pre-rec-god-of-war-2018/
+| 2018_Jun_06 | 00:26:49 | Battletech | http://redlettermedia.com/pre-rec-battletech/
+| 2018_Jul_03 | 00:40:19 | Moonlighter VS Recettear | http://redlettermedia.com/pre-rec-moonlighter-vs-recettear/
 
 
 
