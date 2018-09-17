@@ -758,7 +758,6 @@
 | 2016_Feb_17 | 01:13:50 | XCOMmunicable disease (part 1) | Jack, Rich | twitch.tv/videos/59095040 | youtube.com/watch?v=vJPtWuyKdc4 | twitter.com/PreviouslyRec/status/700024150354751489
 | 2016_Feb_17 | 00:58:34 | XCOMmunicable disease (part 2) | Jack, Rich | twitch.tv/videos/59095812 | youtube.com/watch?v=UEi2wf-EZuk | twitter.com/PreviouslyRec/status/700024150354751489
 | 2016_Feb_17 | 01:19:03 | XCOMmunicable disease (part 3) | Jack, Rich | twitch.tv/videos/59097336 | youtube.com/watch?v=3Lor2yBBcaE | twitter.com/PreviouslyRec/status/700024150354751489
-| 2016_Mar_18 | 01:04:31 | Order of the Black Eagle, Wired to Kill, Raiders of Atlantis | Mike, Rich, Jay, Josh | youtube.com/watch?v=CONHKI2q-DM
 | 2016_Feb_19 | 00:29:07 | Deadpool and Comic Book Movie Predictions | http://redlettermedia.com/half-in-the-bag-deadpool-and-comic-book-movie-predictions/
 | 2016_Feb_22 | 01:20:28 | XCOM 2 Electric Boogaloo (part 1) | Jack, Rich | twitch.tv/videos/59179831 | youtube.com/watch?v=ixcKkqASBK0 | twitter.com/PreviouslyRec/status/701826160834039809
 | 2016_Feb_22 | 01:12:22 | XCOM 2 Electric Boogaloo (part 2) | Jack, Rich | twitch.tv/videos/59184308 | youtube.com/watch?v=s3HF6sIPGWg | twitter.com/PreviouslyRec/status/701826160834039809
@@ -788,6 +787,7 @@
 | 2016_Mar_16 | 01:04:15 | Deadbolt... that's a little too close to Wedlock. (part 1) | Jack, Rich | twitch.tv/videos/64978501 | youtube.com/watch?v=WkjNQpLt85A | twitter.com/PreviouslyRec/status/710177861601103872
 | 2016_Mar_16 | 01:21:09 | Deadbolt... that's a little too close to Wedlock (part 2) | Jack, Rich | twitch.tv/videos/64982370 | youtube.com/watch?v=iepyssLtSJQ | twitter.com/PreviouslyRec/status/710177861601103872
 | 2016_Mar_16 | 01:35:12 | Going down the Downwell | Jack, Rich | twitch.tv/videos/64985695 | youtube.com/watch?v=afj5hpzYuWE | twitter.com/PreviouslyRec/status/710177861601103872
+| 2016_Mar_18 | 01:04:31 | Order of the Black Eagle, Wired to Kill, Raiders of Atlantis | Mike, Rich, Jay, Josh | youtube.com/watch?v=CONHKI2q-DM
 | 2016_Mar_20 | 00:43:44 | Bonds, Sonny Bonds (police Quest 2 part 8) | Jack, Rich | twitch.tv/videos/65865212 | youtube.com/watch?v=qS-TvaxV-Is | twitter.com/PreviouslyRec/status/711636626493939712
 | 2016_Mar_20 | 00:55:57 | Bonds, Sonny Bonds (police Quest 2 part 9) | Jack, Rich | twitch.tv/videos/65865517 | youtube.com/watch?v=NfPRC2bysCY | twitter.com/PreviouslyRec/status/711636626493939712
 | 2016_Mar_20 | 00:49:28 | Bonds, Sonny Bonds (police Quest 2 part 10) | Jack, Rich | twitch.tv/videos/65865758 | youtube.com/watch?v=2kC0j6p9XYM | twitter.com/PreviouslyRec/status/711636626493939712
