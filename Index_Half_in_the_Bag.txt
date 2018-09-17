@@ -121,7 +121,7 @@
 | 2016_Apr_14 | 00:26:11 | Hardcore Henry | http://redlettermedia.com/half-in-the-bag-hardcore-henry/
 | 2016_May_03 | 00:28:18 | Green Room | http://redlettermedia.com/half-in-the-bag-green-room/
 | 2016_May_07 | 00:40:58 | Captain America: Civil War | http://redlettermedia.com/half-in-the-bag-captain-america-civil-war/
-| 2016_Jan_26 | 00:34:30 | X-Men: Apocalypse | http://redlettermedia.com/half-in-the-bag-independence-day-resurgence/
+| 2016_May_30 | 00:37:02 | X-Men: Apocalypse | http://redlettermedia.com/half-in-the-bag-x-men-apocalypse/
 | 2016_Jun_26 | 00:34:30 | Independence Day: Resurgence | http://redlettermedia.com/half-in-the-bag-independence-day-resurgence/
 | 2016_Jul_18 | 00:44:56 | Ghostbusters (2016) | http://redlettermedia.com/half-in-the-bag-ghostbusters-2016/
 | 2016_Jul_28 | 00:51:20 | Star Trek Beyond | http://redlettermedia.com/half-in-the-bag-star-trek-beyond/
