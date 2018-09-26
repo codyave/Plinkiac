@@ -30,34 +30,35 @@
 | 2012_Mar_15 | 00:23:16 | Silent House and John Carter | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-silent-house-and-john-carter/
 | 2012_Mar_30 | 00:34:41 | The Hunger Games and Jeff Who Lives at Home | Mike, Jay, Rich (Plinkett), Jack (FUCK-BOT 5000) | http://redlettermedia.com/half-in-the-bag-the-hunger-games-and-jeff-who-lives-at-home/
 | 2012_Apr_15 | 00:29:01 | Cabin in the Woods and The Three Stooges | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-cabin-in-the-woods-and-the-three-stooges/
-| 2012_Apr_30 | 00:24:47 | Zaat | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-zaat/
+| 2012_Apr_30 | 00:24:47 | Zaat | Mike, Jay | http://redlettermedia.com/half-in-the-bag-zaat/
 | 2012_May_08 | 00:28:53 | The Avengers and CPHPIX Film Festival | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-avengers-and-cphpix-film-festival/
 | 2012_May_25 | 00:29:28 | Battleship and Dark Shadows | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-battleship-and-dark-shadows/
 | 2012_Jun_11 | 00:24:07 | Prometheus | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-prometheus/
 | 2012_Jun_28 | 00:29:18 | Abraham Lincoln Vampire Hunter and That's My Boy | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-abraham-lincoln-vampire-hunter-and-thats-my-boy/
-| 2012_Jul_08 | 00:30:52 | The Amazing Spider-Man | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-amazing-spider-man/
-| 2012_Jul_22 | 00:19:53 | The Dark Knight Rises (1 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-dark-knight-rises/
-| 2012_Jul_22 | 00:13:56 | The Dark Knight Rises (2 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-dark-knight-rises/
-| 2012_Aug_07 | 00:08:11 | Step Up Revolution and Special Guest Star Tim Heidecker | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-step-up-revolution/
-| 2012_Sep_21 | 00:21:41 | Resident Evil series Part 1 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-resident-evil-series/
+| 2012_Jul_08 | 00:30:52 | The Amazing Spider-Man | Mike, Jay, Rich (Comic store owner) | http://redlettermedia.com/half-in-the-bag-the-amazing-spider-man/
+| 2012_Jul_22 | 00:19:53 | The Dark Knight Rises (1 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-dark-knight-rises/
+| 2012_Jul_22 | 00:13:56 | The Dark Knight Rises (2 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-dark-knight-rises/
+| 2012_Aug_07 | 00:08:11 | Step Up Revolution and Special Guest Star Tim Heidecker | Mike, Jay, Tim Heidecker, Rich (George Lucas), Jocelyn Ridgely (Sheila) | http://redlettermedia.com/half-in-the-bag-step-up-revolution/
+| 2012_Sep_21 | 00:21:41 | Resident Evil series Part 1 | Mike, Jay| http://redlettermedia.com/half-in-the-bag-the-resident-evil-series/
 | 2012_Sep_21 | 00:17:10 | Resident Evil series Part 2 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-resident-evil-series/
-| 2012_Oct_06 | 00:39:43 | Looper and Dredd | http://redlettermedia.com/half-in-the-bag-looper-and-dredd/
-| 2012_Oct_25 | 00:43:50 | Sinister and Paranormal Activity 4 | http://redlettermedia.com/half-in-the-bag-sinister-and-paranormal-activity/
+| 2012_Oct_06 | 00:39:43 | Looper and Dredd | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-looper-and-dredd/
+| 2012_Oct_25 | 00:43:50 | Sinister and Paranormal Activity 4 | Mike, Jay, Rich (Plinkett), Wisconsin and Milwaukee Area Paranormal Research and Investigation Society (Zach, Liz) | http://redlettermedia.com/half-in-the-bag-sinister-and-paranormal-activity/
 | 2012_Nov_15 | 00:24:50 | Skyfall | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-skyfall/
-| 2012_Nov_21 | 00:25:02 | Twilight: Breaking Dawn Part II | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-twilight-breaking-dawn-part-2/
+| 2012_Nov_21 | 00:25:02 | Twilight: Breaking Dawn Part II | Mike, Jay | http://redlettermedia.com/half-in-the-bag-twilight-breaking-dawn-part-2/
 | 2012_Dec_19 | 00:33:07 | The Hobbit: An Unexpected Journey | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-hobbit-an-unexpected-journey/
 | 2012_Dec_31 | 00:38:01 | Django Unchained and 2012 Re-cap | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-django-unchained-and-2012-re-cap/
-| 2013_Jan_09 | 00:08:57 | Tarantino and More 2012 Re-cap | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-extras-tarantino-and-more-2012-re-cap/
-| 2013_Jan_23 | 00:36:47 | The Last Stand and A Haunted House | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-last-stand-and-a-haunted-house/
-| 2013_Feb_07 | 00:26:16 | Warm Bodies and Movie 43 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-warm-bodies-and-movie-43/
+| 2013_Jan_09 | 00:08:57 | Tarantino and More 2012 Re-cap | Mike, Jay | http://redlettermedia.com/half-in-the-bag-extras-tarantino-and-more-2012-re-cap/
+| 2013_Jan_23 | 00:36:47 | The Last Stand and A Haunted House | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-last-stand-and-a-haunted-house/
+| 2013_Jan_28 | 00:05:55 | EXTRAS: Copycat Films and More Styrofoam Beating | Mike, Jay | http://redlettermedia.com/half-in-the-bag-extras-copycat-films-and-more-styrofoam-beating/
+| 2013_Feb_07 | 00:26:16 | Warm Bodies and Movie 43 | Mike, Jay, Lauren Burke | http://redlettermedia.com/half-in-the-bag-warm-bodies-and-movie-43/ | youtube.com/watch?v=sbEM-oZyGo8
 | 2013_Feb_22 | 00:32:16 | A Good Day to Die Hard | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-a-good-day-to-die-hard/
-| 2013_Mar_05 | 00:30:57 | Hansel and Gretel: Witch Hunters and Jack the Giant Slayer | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-hansel-and-gretel-witch-hunters-and-jack-the-giant-slayer/
-| 2013_Mar_07 | 00:11:42 | Extras: Hollywood Trends (Also, "Episode 48 Outtakes") | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-episode-48-outtakes/
+| 2013_Mar_05 | 00:30:57 | Hansel and Gretel: Witch Hunters and Jack the Giant Slayer | Mike, Jay | http://redlettermedia.com/half-in-the-bag-hansel-and-gretel-witch-hunters-and-jack-the-giant-slayer/
+| 2013_Mar_07 | 00:11:42 | Extras: Hollywood Trends (aka "Episode 48 Outtakes") | Mike, Jay | http://redlettermedia.com/half-in-the-bag-episode-48-outtakes/
 | 2013_Mar_14 | 00:32:35 | Oz the Great and Powerful and Return to Oz | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-oz-the-great-and-powerful-and-return-to-oz/
 | 2013_Apr_07 | 00:28:25 | Evil Dead | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-evil-dead/
 | 2013_Apr_16 | 00:04:10 | Extras: Evil Dead Outtakes | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-extras-evil-dead-outtakes/
-| 2013_Apr_25 | 00:36:33 | Oblivion and The Lords of Salem | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-oblivion-and-the-lords-of-salem/
-| 2013_May_09 | 00:30:19 | Iron Man 3 and Pain & Gain | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-iron-man-3-and-pain-gain/
+| 2013_Apr_25 | 00:36:33 | Oblivion and The Lords of Salem | Mike, Jay | http://redlettermedia.com/half-in-the-bag-oblivion-and-the-lords-of-salem/
+| 2013_May_09 | 00:30:19 | Iron Man 3 and Pain & Gain | Mike, Jay, Rich (Plinkett), Tim Higgins (hipster) | http://redlettermedia.com/half-in-the-bag-iron-man-3-and-pain-gain/
 | 2013_May_13 | 00:06:05 | Extras: More Iron Man 3 Talk | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-extras-more-iron-man-3-talk/
 | 2013_May_24 | 00:44:30 | Star Trek: Into Darkness | http://redlettermedia.com/half-in-the-bag-star-trek-into-darkness/
 | 2013_Jun_06 | 00:36:31 | The Hangover Part III and After Earth | http://redlettermedia.com/half-in-the-bag-the-hangover-part-iii-and-after-earth/
