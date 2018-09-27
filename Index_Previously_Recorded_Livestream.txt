@@ -718,7 +718,6 @@
 | 2017_Jan_04 | 00:06:24 | A little taste of Frog Fractions 2 | Jack, Rich | twitch.tv/videos/112296480 | youtube.com/watch?v=j-9h60lEho4 | twitter.com/PreviouslyRec/status/816750397503246336
 | 2017_Jan_08 | 02:23:44 | Shovelware Roulette (part 1) Good | Jack, Rich | twitch.tv/videos/117254192 | youtube.com/watch?v=GQ3lg_jb0_M | twitter.com/PreviouslyRec/status/818176594263023616
 | 2017_Jan_08 | 01:43:03 | Shovelware Roulette (part 2) | Jack, Rich | twitch.tv/videos/117711952 | youtube.com/watch?v=jWHmz20jTEs | twitter.com/PreviouslyRec/status/818176594263023616
-| 2017_Jan_25 | 00:00:12 | Jack need Secrets Agent Footage | twitch.tv/videos/117293474 | No YouTube video | twitter.com/PreviouslyRec/status/819276361508548611
 | 2017_Jan_11 | 00:44:12 | A bit of Master Spy | Jack, Rich, Karin | twitch.tv/videos/118479825 | youtube.com/watch?v=PSrqadS3Sks | twitter.com/PreviouslyRec/status/819276361508548611
 | 2017_Jan_11 | 00:25:44 | A Move Plays The Stanley Parable | Jack, Rich, Karin | twitch.tv/videos/118522430 | youtube.com/watch?v=PK5H_rUF_m8 | twitter.com/PreviouslyRec/status/819276361508548611
 | 2017_Jan_11 | 01:21:01 | Spy the Orion Trail | Jack, Rich, Karin | twitch.tv/videos/118528339 | youtube.com/watch?v=odWCD_28NXI | twitter.com/PreviouslyRec/status/819276361508548611
@@ -728,7 +727,6 @@
 | 2017_Jan_22 | 01:28:16 | A Floppy Jalopy | Jack, Rich | twitch.tv/videos/120858049 | youtube.com/watch?v=nYV_RRXLBrk | twitter.com/PreviouslyRec/status/823248757290582016
 | 2017_Jan_22 | 02:06:43 | I'd Warhammer in the Morning | Jack, Rich, Jay | twitch.tv/videos/121092092 | youtube.com/watch?v=DI1E2CBiCrs | twitter.com/PreviouslyRec/status/823248757290582016
 | 2017_Jan_22 | 00:39:53 | I'd Warhammer in the Evening | Jack, Rich, Jay | twitch.tv/videos/121620589 | youtube.com/watch?v=b1QmpsCaS7k | twitter.com/PreviouslyRec/status/823248757290582016
-| 2017_Feb_11 | 00:06:24 | From Guttenberg to Goldberg :aka - Jack Loves Sister Act | twitch.tv/videos/121215320 | youtube.com/watch?v=v8dXyG4zhrk | 
 | 2017_Jan_25 | 01:51:24 | Pre-emptive ''Jesus Christ Shut up!!! RE7'' (part 1) | Jack, Rich | twitch.tv/videos/121637713 | youtube.com/watch?v=PhXMeG_qPSY | twitter.com/PreviouslyRec/status/824365444756897793
 | 2017_Jan_25 | 01:59:27 | Pre-emptive ''Jesus Christ Shut up!!! RE7'' (part 2) | Jack, Rich | twitch.tv/videos/121707348 | youtube.com/watch?v=WN3RXh2IH-g | twitter.com/PreviouslyRec/status/824365444756897793
 | 2017_Jan_29 | 01:29:48 | Master of Vakyria | Jack, Rich | twitch.tv/videos/122277306 | youtube.com/watch?v=2igKSbl3sFk | twitter.com/PreviouslyRec/status/824365444756897793
@@ -935,7 +933,6 @@
 | 2018_Jan_07 | 02:07:15 | Shot in the Back (pUBG part 2) | Jack, Rich | twitch.tv/videos/216543454 | youtube.com/watch?v=yW3Qfi-KbVA | twitter.com/PreviouslyRec/status/950127842624528385
 | 2018_Jan_10 | 01:03:58 | Blind Leading the Blind (pUBG) | Jack, Rich | twitch.tv/videos/217441932 | youtube.com/watch?v=AS1zBBTwPGE | twitter.com/PreviouslyRec/status/951215457347997696
 | 2018_Jan_10 | 01:18:25 | Technical Difficulties. (???) | Jack, Rich | twitch.tv/videos/217443615 | youtube.com/watch?v=i3cg-d6Qqug | twitter.com/PreviouslyRec/status/951215457347997696
-| 2018_Jan_10 | 00:01:59 | He probably just crawled past us...(PUBG) | Jack, Rich | No Twitch video | youtube.com/watch?v=pTPgL9aQ_Fw | twitter.com/PreviouslyRec/status/951215457347997696
 | 2018_Jan_10 | 01:28:09 | Zombie Slaughter!!! (LFD2) | Jack, Rich | twitch.tv/videos/217444289 | youtube.com/watch?v=FxqMaNv_OOQ | twitter.com/PreviouslyRec/status/951215457347997696
 | 2018_Jan_14 | 01:14:23 | Let's Try This Again. (part 1) | Jack, Rich | twitch.tv/videos/218738560 | youtube.com/watch?v=5t2pIzCBsWg | twitter.com/PreviouslyRec/status/952643200472281088
 | 2018_Jan_14 | 01:25:01 | Let's Try This Again. (part 2) | Jack, Rich | twitch.tv/videos/218739333 | youtube.com/watch?v=vv2L2Oip0-4 | twitter.com/PreviouslyRec/status/952643200472281088
@@ -1035,8 +1032,8 @@
 | 2018_Jun_06 | 01:25:39 | I want that juicy Shaq meat! | Jack, Rich | twitch.tv/videos/278450237 | youtube.com/watch?v=O_ABXDLojxk | twitter.com/PreviouslyRec/status/1004447878176264192
 | 2018_Jun_06 | 01:32:45 | Moonlighting Hack Frauds (part 1) | Jack, Rich | twitch.tv/videos/278453513 | youtube.com/watch?v=yGC9Ihr94TM | twitter.com/PreviouslyRec/status/1004447878176264192
 | 2018_Jun_06 | 01:34:49 | Moonlighting Hack Frauds (part 2) | Jack, Rich | twitch.tv/videos/278457094 | youtube.com/watch?v=WvTBr-oTyVA | twitter.com/PreviouslyRec/status/1004447878176264192
-| 2018_Jun_10 | 02:11:54 | Skyrim-ing Jack Solo (part 2) | Jack | twitch.tv/videos/273159187 | youtube.com/watch?v=r--SBOn3EFk | twitter.com/PreviouslyRec/status/1005857172973121536
 | 2018_Jun_10 | 01:33:54 | Skyrim-ing Jack Solo (part 1) | Jack | twitch.tv/videos/273159188 | youtube.com/watch?v=UH5pJPIKsl4 | twitter.com/PreviouslyRec/status/1005857172973121536
+| 2018_Jun_10 | 02:11:54 | Skyrim-ing Jack Solo (part 2) | Jack | twitch.tv/videos/273159187 | youtube.com/watch?v=r--SBOn3EFk | twitter.com/PreviouslyRec/status/1005857172973121536
 | 2018_Jun_13 | 00:27:04 | E3 2018ing (part 1) | Jack, Rich | twitch.tv/videos/273173027 | youtube.com/watch?v=Y5i-9XedyyM | twitter.com/PreviouslyRec/status/1006977057975349249
 | 2018_Jun_13 | 01:10:38 | E3 2018ing (part 2) | Jack, Rich | twitch.tv/videos/273173026 | youtube.com/watch?v=LiSUg0dqD9A | twitter.com/PreviouslyRec/status/1006977057975349249
 | 2018_Jun_13 | 01:31:18 | E3 2018ing (part 3) | Jack, Rich | twitch.tv/videos/273173028 | youtube.com/watch?v=B1hbGvzDqPs | twitter.com/PreviouslyRec/status/1006977057975349249
@@ -1060,7 +1057,7 @@
 | 2018_Jul_15 | 01:52:44 | Lara Croft Macaroni and Cheese (part 2) | Jack, Rich | twitch.tv/videos/285230148 | youtube.com/watch?v=444X-JRRw3U | twitter.com/PreviouslyRec/status/1018601804991549440
 | 2018_Jul_18 | 01:45:23 | Nobody Likes Orcs (part 1) | Jack, Rich | twitch.tv/videos/286449618 | youtube.com/watch?v=SWJkrAjbqL0 | twitter.com/PreviouslyRec/status/1019674900586549248
 | 2018_Jul_18 | 01:48:47 | Nobody Likes Orcs (part 2) | Jack, Rich | twitch.tv/videos/286449619 | youtube.com/watch?v=acKv6FlhTL8 | twitter.com/PreviouslyRec/status/1019674900586549248
-| 2018_Jul_22 | 01:57:25 | So Long and Thanks for All the Fish (part 2) | Jack, Rich | twitch.tv/videos/288091865 | youtube.com/watch?v=5e8wBm4o5Ws | twitter.com/PreviouslyRec/status/1021137183531569153
 | 2018_Jul_22 | 02:26:04 | So Long and Thanks for All the Fish (part 1) | Jack, Rich | twitch.tv/videos/288091864 | youtube.com/watch?v=tp2pg4s2J0Y | twitter.com/PreviouslyRec/status/1021137183531569153
+| 2018_Jul_22 | 01:57:25 | So Long and Thanks for All the Fish (part 2) | Jack, Rich | twitch.tv/videos/288091865 | youtube.com/watch?v=5e8wBm4o5Ws | twitter.com/PreviouslyRec/status/1021137183531569153
 | 2018_Jul_25 | 01:39:57 | Penultimate | Jack, Rich | twitch.tv/videos/289347253 | youtube.com/watch?v=8JivUDxsbvE | twitter.com/PreviouslyRec/status/1022220044980428801
 | 2018_Jul_25 | 03:44:26 | END. | Jack, Rich | twitch.tv/videos/289348066 | youtube.com/watch?v=op1sxzbWkeo | twitter.com/PreviouslyRec/status/1022220044980428801
