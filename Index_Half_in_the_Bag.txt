@@ -63,32 +63,32 @@
 | 2013_May_24 | 00:44:30 | Star Trek: Into Darkness | Mike, Jay, Rich (pre-internet film reviewer), Tim Higgins (hipster) | http://redlettermedia.com/half-in-the-bag-star-trek-into-darkness/
 | 2013_Jun_06 | 00:36:31 | The Hangover Part III and After Earth | Mike, Jay, Rich (Plinkett), Tim Higgins (hipster) | http://redlettermedia.com/half-in-the-bag-the-hangover-part-iii-and-after-earth/
 | 2013_Jun_20 | 00:39:31 | Man of Steel | Mike, Jay, Rich (Plinkett, construction worker) | http://redlettermedia.com/half-in-the-bag-man-of-steel/
-| 2013_Jun_26 | 00:06:35 | Extras: Zack Snyder, Superman IV, and The Justice League | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-extras-zack-snyder-superman-iv-and-the-justice-league/
-| 2013_Jul_11 | 00:29:53 | White House Down and Lone Ranger | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-white-house-down-and-the-lone-ranger/
-| 2013_Jul_16 | 00:02:54 | Grown Ups 2 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-grown-ups-2/
-| 2013_Jul_18 | 00:19:45 | Pacific Rim | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-pacific-rim/
-| 2013_Aug_16 | 00:29:05 | The Wolverine vs. X-Men Origins: Wolverine | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-wolverine-vs-x-men-origins-wolverine/
-| 2013_Oct_07 | 00:46:32 | Summer Movie Catch Up and THINGS | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-conjuring-only-god-forgives-blue-jasmine-and-things/
+| 2013_Jun_26 | 00:06:35 | Extras: Zack Snyder, Superman IV, and The Justice League | Mike, Jay, Rich (construction worker) | http://redlettermedia.com/half-in-the-bag-extras-zack-snyder-superman-iv-and-the-justice-league/
+| 2013_Jul_11 | 00:29:53 | White House Down and Lone Ranger | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-white-house-down-and-the-lone-ranger/
+| 2013_Jul_16 | 00:02:54 | Grown Ups 2 | Mike, Jay | http://redlettermedia.com/half-in-the-bag-grown-ups-2/
+| 2013_Jul_18 | 00:19:45 | Pacific Rim | Mike, Jay | http://redlettermedia.com/half-in-the-bag-pacific-rim/
+| 2013_Aug_16 | 00:29:05 | The Wolverine vs. X-Men Origins: Wolverine | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-wolverine-vs-x-men-origins-wolverine/
+| 2013_Oct_07 | 00:46:32 | Summer Movie Catch Up and THINGS | Mike (Palpatine), Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-conjuring-only-god-forgives-blue-jasmine-and-things/
 | 2013_Oct_25 | 00:39:55 | Gravity and Carrie | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-gravity-and-carrie/
 | 2013_Nov_14 | 00:29:04 | Ender's Game and Thor: The Dark World | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-enders-game-and-thor-the-dark-world/
 | 2013_Dec_16 | 00:29:30 | The Hobbit: The Desolation of Smaug | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-hobbit-the-desolation-of-smaug/
 | 2014_Jan_02 | 00:42:09 | The Wolf of Wall Street and 2013 Re-cap | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-wolf-of-wall-street-and-2013-re-
 | 2014_Jan_07 | 00:02:41 | Extras: Plinkett Eats | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-extras-plinkett-eats/cap/
-| 2014_Jan_20 | 00:33:06 | The Legend of hercules and Her | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-legend-of-hercules-and-her/
-| 2014_Feb_13 | 00:23:28 | Robocop | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-robocop/
+| 2014_Jan_20 | 00:33:06 | The Legend of hercules and Her | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-legend-of-hercules-and-her/
+| 2014_Feb_13 | 00:23:28 | Robocop | Mike, Jay, Rich (Officer Kaslowski) | http://redlettermedia.com/half-in-the-bag-robocop/
 | 2014_Feb_19 | 00:23:52 | Robocop (2014) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-robocop-2014/
 | 2014_Mar_29 | 00:28:39 | Cheap Thrills and The Grand Budapest Hotel | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-cheap-thrills-and-the-grand-budapest-hotel/
 | 2014_Apr_09 | 00:21:28 | Captain America: The Winter Soldier | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-captain-america-the-winter-soldier/
-| 2014_May_07 | 00:38:06 | Transcendence and The Amazing Spider-Man 2 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-transcendence-and-the-amazing-spider-man-2/
-| 2014_May_23 | 00:26:12 | Godzilla (98) and Godzilla (2014) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-godzilla-98-and-godzilla-2014/
-| 2014_Jun_06 | 00:35:53 | X-Men: Days of Future Past and A Million Ways to Die in the West | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-x-men-days-of-future-past-and-a-million-ways-to-die-in-the-west/
-| 2014_Jun_24 | 00:11:43 | The Transformers Series [Triple Feature] | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-transformers-series/
-| 2014_Jul_12 | 00:34:18 | Deliver Us From Evil, Edge of Tomorrow, and Transformers 4 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-deliver-us-from-evil-edge-of-tomorrow-and-transformers-4/
+| 2014_May_07 | 00:38:06 | Transcendence and The Amazing Spider-Man 2 | Mike, Jay, Rich (comic book illustrator) | http://redlettermedia.com/half-in-the-bag-transcendence-and-the-amazing-spider-man-2/
+| 2014_May_23 | 00:26:12 | Godzilla (98) and Godzilla (2014) | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-godzilla-98-and-godzilla-2014/
+| 2014_Jun_06 | 00:35:53 | X-Men: Days of Future Past and A Million Ways to Die in the West | Mike, Jay | http://redlettermedia.com/half-in-the-bag-x-men-days-of-future-past-and-a-million-ways-to-die-in-the-west/
+| 2014_Jun_24 | 00:11:43 | The Transformers Series - Triple Feature | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-the-transformers-series/
+| 2014_Jul_12 | 00:34:18 | Deliver Us From Evil, Edge of Tomorrow, and Transformers 4 | Mike, Jay | http://redlettermedia.com/half-in-the-bag-deliver-us-from-evil-edge-of-tomorrow-and-transformers-4/
 | 2014_Jul_19 | 00:22:11 | Dawn of the Planet of the Apes | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-dawn-of-the-planet-of-the-apes/
-| 2014_Aug_04 | 00:25:44 | Boyhood and Guardians of the Galaxy | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-boyhood-and-guardians-of-the-galaxy/
-| 2014_Aug_15 | 00:36:06 | Into the Storm and Teenage Mutant Ninja Turtles | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-into-the-storm-and-teenage-mutant-ninja-turtles/
-| 2014_Sep_23 | 00:23:57 | 2014 Movie Catch-up (Part 1 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-1/
-| 2014_Sep_26 | 00:20:25 | 2014 Movie Catch-up (Part 2 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-2/
+| 2014_Aug_04 | 00:25:44 | Boyhood and Guardians of the Galaxy | Mike, Jay | http://redlettermedia.com/half-in-the-bag-boyhood-and-guardians-of-the-galaxy/
+| 2014_Aug_15 | 00:36:06 | Into the Storm and Teenage Mutant Ninja Turtles | Mike, Jay, Rich (construction worker) | http://redlettermedia.com/half-in-the-bag-into-the-storm-and-teenage-mutant-ninja-turtles/
+| 2014_Sep_23 | 00:23:57 | 2014 Movie Catch-up (Part 1 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-1/
+| 2014_Sep_26 | 00:20:25 | 2014 Movie Catch-up (Part 2 of 2) | Mike, Jay, Rich (hazmat worker) | http://redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-2/
 | 2014_Oct_10 | 00:33:37 | Gone Girl and Annabelle | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-gone-girl-and-annabelle/
 | 2014_Nov_09 | 00:30:31 | Interstellar | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-interstellar/
 | 2014_Nov_17 | 00:38:55 | Nightcrawler and Birdman | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-nightcrawler-and-birdman/
