@@ -90,21 +90,21 @@
 | 2014_Sep_23 | 00:23:57 | 2014 Movie Catch-up (Part 1 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-1/
 | 2014_Sep_26 | 00:20:25 | 2014 Movie Catch-up (Part 2 of 2) | Mike, Jay, Rich (hazmat worker) | http://redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-2/
 | 2014_Oct_10 | 00:33:37 | Gone Girl and Annabelle | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-gone-girl-and-annabelle/
-| 2014_Nov_09 | 00:30:31 | Interstellar | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-interstellar/
-| 2014_Nov_17 | 00:38:55 | Nightcrawler and Birdman | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-nightcrawler-and-birdman/
-| 2014_Dec_22 | 00:19:43 | The Battle of the Five Armies | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-hobbit-the-battle-of-the-five-armies/
+| 2014_Nov_09 | 00:30:31 | Interstellar | Mike, Jay | http://redlettermedia.com/half-in-the-bag-interstellar/
+| 2014_Nov_17 | 00:38:55 | Nightcrawler and Birdman | Mike, Jay | http://redlettermedia.com/half-in-the-bag-nightcrawler-and-birdman/
+| 2014_Dec_22 | 00:19:43 | The Battle of the Five Armies | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-the-hobbit-the-battle-of-the-five-armies/
 | 2015_Jan_10 | 00:07:10 | F*ck You, It's January! (2015) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/fuck-you-its-january-2015/
 | 2015_Jan_24 | 00:31:08 | Inherent Vice and Oscar Buzz | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-inherent-vice-and-oscar-buzz/
 | 2015_Feb_12 | 00:34:53 | Jupiter Ascending and Battlefield Earth | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-jupiter-ascending-and-battlefield-earth/
 | 2015_Mar_08 | 00:23:46 | CHAPPiE | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-chappie/
 | 2015_Apr_10 | 00:31:27 | Furious 7 and It Follows | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-furious-7-and-it-follows/
-| 2015_Apr_21 | 00:30:55 | Unfriended and Paul Blart: Mall Cop 2 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-unfriended-and-paul-blart-mall-cop-2/
-| 2015_May_08 | 00:35:36 | Avengers: Age of Ultron | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-avengers-age-of-ultron/
-| 2015_May_17 | 00:21:16 | Mad Max: Fury Road | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-mad-max-fury-road/
-| 2015_Jun_15 | 00:27:21 | Jurassic World | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-jurassic-world-and-jurassic-park-commentary-track/
-| 2015_Jul_06 | 00:30:57 | Termintator Genisys | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-bag-terminator-genisys/
-| 2015_Jul_26 | 00:22:02 | Ant-Man | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-ant-man/
-| 2015_Jul_27 | 00:32:07 | Pixels | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-pixels/
+| 2015_Apr_21 | 00:30:55 | Unfriended and Paul Blart: Mall Cop 2 | Mike, Jay | http://redlettermedia.com/half-in-the-bag-unfriended-and-paul-blart-mall-cop-2/
+| 2015_May_08 | 00:35:36 | Avengers: Age of Ultron | Mike, Jay, Rich (Plinkett, video game repairman), Jack (video game repairman) | http://redlettermedia.com/half-in-the-bag-avengers-age-of-ultron/
+| 2015_May_17 | 00:21:16 | Mad Max: Fury Road | Mike, Jay | http://redlettermedia.com/half-in-the-bag-mad-max-fury-road/
+| 2015_Jun_15 | 00:27:21 | Jurassic World | Mike, Jay, Rich (video game repairman), Jack (video game repairman) | http://redlettermedia.com/half-in-the-bag-jurassic-world-and-jurassic-park-commentary-track/
+| 2015_Jul_06 | 00:30:57 | Termintator Genisys | Mike, Jay | http://redlettermedia.com/half-in-bag-terminator-genisys/
+| 2015_Jul_26 | 00:22:02 | Ant-Man | Mike, Jay, Rich (video game repairman), Jack (video game repairman) | http://redlettermedia.com/half-in-the-bag-ant-man/
+| 2015_Jul_27 | 00:32:07 | Pixels | Mike, Jay, Rich (video game repairman, Plinkett), Jack (video game repairman) | http://redlettermedia.com/half-in-the-bag-pixels/
 | 2015_Aug_09 | 00:27:18 | Fantastic Four | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-fantastic-four/
 | 2015_Aug_31 | 00:26:09 | American Ultra | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-american-ultra/
 | 2015_Sep_16 | 00:29:12 | The Visit and Turbo Kid | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-visit-and-turbo-kid/
@@ -164,7 +164,7 @@
 | 2018_Apr_19 | 00:38:45 | Truth or Dare and A Quiet Place | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-truth-or-dare-and-a-quiet-place/
 | 2018_Apr_28 | 00:32:25 | Avengers: Infinity War | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-avengers-infinity-war/
 | 2018_May_29 | 00:43:51 | Solo: A Star Wars Story | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-solo-a-star-wars-story/
-| 2018_Jun_13 | 00:33:45 | Hereditary | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-hereditary/
+| 2018_Jun_13 | 00:33:45 | Hereditary | Mike, Jay | http://redlettermedia.com/half-in-the-bag-hereditary/
 | 2018_Jun_28 | 00:34:29 | Jurassic World: Fallen Kingdom | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-jurassic-world-fallen-kingdom/
 | 2018_Jul_28 | 00:38:32 | Comic Con 2018 Trailers | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-comic-con-2018-trailers/
 | 2018_Aug_15 | 00:34:11 | Slender Man | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-slender-man/
