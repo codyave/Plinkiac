@@ -117,12 +117,12 @@
 | 2016_Jan_25 | 00:24:19 | The Revenant | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-revenant/
 | 2016_Feb_19 | 00:29:07 | Deadpool and Comic Book Movie Predictions | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-deadpool-and-comic-book-movie-predictions/
 | 2016_Feb_24 | 00:49:21 | The 2016 Oscars | Mike, Jay, Rich (alien, Plinkett) | http://redlettermedia.com/half-in-the-bag-the-2016-oscars/
-| 2016_Mar_15 | 00:37:09 | 10 Cloverfield Lane and Me Him Her | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-10-cloverfield-land-and-me-him-her/
-| 2016_Mar_27 | 00:46:40 | Batman v Superman: Dawn of Justice | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-v-batman-v-superman-dawn-of-justice/
+| 2016_Mar_15 | 00:37:09 | 10 Cloverfield Lane and Me Him Her | Mike, Jay | http://redlettermedia.com/half-in-the-bag-10-cloverfield-land-and-me-him-her/
+| 2016_Mar_27 | 00:46:40 | Batman v Superman: Dawn of Justice | Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair) | http://redlettermedia.com/half-in-the-bag-v-batman-v-superman-dawn-of-justice/
 | 2016_Apr_14 | 00:26:11 | Hardcore Henry | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-hardcore-henry/
-| 2016_May_03 | 00:28:18 | Green Room | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-green-room/
-| 2016_May_07 | 00:40:58 | Captain America: Civil War | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-captain-america-civil-war/
-| 2016_May_30 | 00:37:02 | X-Men: Apocalypse | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-x-men-apocalypse/
+| 2016_May_03 | 00:28:18 | Green Room | Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair) | http://redlettermedia.com/half-in-the-bag-green-room/
+| 2016_May_07 | 00:40:58 | Captain America: Civil War | Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair), Christopher Elst (Butch from Lightning Fast VCR Repair) | http://redlettermedia.com/half-in-the-bag-captain-america-civil-war/
+| 2016_May_30 | 00:37:02 | X-Men: Apocalypse | Mike, Jay | http://redlettermedia.com/half-in-the-bag-x-men-apocalypse/
 | 2016_Jun_26 | 00:34:30 | Independence Day: Resurgence |Mike, Jay, Rich (Plinkett) |  http://redlettermedia.com/half-in-the-bag-independence-day-resurgence/
 | 2016_Jul_18 | 00:44:56 | Ghostbusters (2016) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-ghostbusters-2016/
 | 2016_Jul_28 | 00:51:20 | Star Trek Beyond | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-star-trek-beyond/
