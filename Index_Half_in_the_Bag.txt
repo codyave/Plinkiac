@@ -113,7 +113,7 @@
 | 2015_Nov_28 | 00:38:34 | Creed and Victor Frankenstein | Mike, Jay | http://redlettermedia.com/half-in-the-bag-creed-and-victor-frankenstein/
 | 2015_Dec_07 | 00:26:35 | Krampus | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-krampus/
 | 2015_Dec_20 | 00:42:20 | Star Wars: The Force Awakens | Mike, Jay, Rich (Kris Kringle) | http://redlettermedia.com/half-in-the-bag-star-wars-the-force-awakens/
-| 2016_Jan_08 | 00:41:08 | The Hateful Eight and The Ridiculous 6 (sort of) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-hateful-eight-and-the-ridiculous-6-sort-of/
+| 2016_Jan_08 | 00:41:08 | The Hateful Eight and The Ridiculous 6 (sort of) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-hateful-eight-and-the-ridiculous-6-sort-of/
 | 2016_Jan_25 | 00:24:19 | The Revenant | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-revenant/
 | 2016_Feb_19 | 00:29:07 | Deadpool and Comic Book Movie Predictions | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-deadpool-and-comic-book-movie-predictions/
 | 2016_Feb_24 | 00:49:21 | The 2016 Oscars | Mike, Jay, Rich (alien, Plinkett) | http://redlettermedia.com/half-in-the-bag-the-2016-oscars/
@@ -124,36 +124,36 @@
 | 2016_May_07 | 00:40:58 | Captain America: Civil War | Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair), Christopher Elst (Butch from Lightning Fast VCR Repair) | http://redlettermedia.com/half-in-the-bag-captain-america-civil-war/
 | 2016_May_30 | 00:37:02 | X-Men: Apocalypse | Mike, Jay | http://redlettermedia.com/half-in-the-bag-x-men-apocalypse/
 | 2016_Jun_26 | 00:34:30 | Independence Day: Resurgence |Mike, Jay, Rich (Plinkett) |  http://redlettermedia.com/half-in-the-bag-independence-day-resurgence/
-| 2016_Jul_18 | 00:44:56 | Ghostbusters (2016) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-ghostbusters-2016/
-| 2016_Jul_28 | 00:51:20 | Star Trek Beyond | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-star-trek-beyond/
-| 2016_Aug_07 | 00:31:12 | Suicide Squad | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-suicide-squad/
-| 2016_Aug_12 | 00:24:47 | Stranger Things | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-stranger-things/
+| 2016_Jul_18 | 00:44:56 | Ghostbusters (2016) | Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair) | http://redlettermedia.com/half-in-the-bag-ghostbusters-2016/
+| 2016_Jul_28 | 00:51:20 | Star Trek Beyond | Mike, Jay | http://redlettermedia.com/half-in-the-bag-star-trek-beyond/
+| 2016_Aug_07 | 00:31:12 | Suicide Squad | Mike, Jay | http://redlettermedia.com/half-in-the-bag-suicide-squad/
+| 2016_Aug_12 | 00:24:47 | Stranger Things | Mike, Jay | http://redlettermedia.com/half-in-the-bag-stranger-things/
 | 2016_Sep_20 | 00:36:51 | Blair Witch and Don't Breathe | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-blair-witch-and-dont-breathe/
-| 2016_Oct_10 | 00:27:59 | Box Office Number Crunching | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-box-office-number-crunching/
+| 2016_Oct_10 | 00:27:59 | Box Office Number Crunching | Mike, Jay | http://redlettermedia.com/half-in-the-bag-box-office-number-crunching/
 | 2016_Nov_07 | 00:29:07 | Doctor Strange | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-doctor-strange/
 | 2016_Nov_17 | 00:41:51 | Shut In and Arrival | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-shut-in-and-arrival/
-| 2016_Dec_03 | 00:53:36 | 2016 Movie Catch-up | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2016-movie-catch-up/
-| 2016_Dec_19 | 00:37:42 | Rogue One | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-rogue-one/
-| 2017_Jan_12 | 00:08:25 | F**k You, It's January (2017) | Mike, Jay, Rich (Plinkett) | youtube.com/watch?v=H18RUB1cxfI
-| 2017_Jan_22 | 00:44:30 | La La Land and Bye Bye Man | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-la-la-land-and-the-bye-bye-man/
+| 2016_Dec_03 | 00:53:36 | 2016 Movie Catch-up | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2016-movie-catch-up/
+| 2016_Dec_19 | 00:37:42 | Rogue One | Mike, Jay, Rich ("Rich Minorsky", Milwaukee City building inspector) | http://redlettermedia.com/half-in-the-bag-rogue-one/
+| 2017_Jan_12 | 00:08:25 | F**k You, It's January (2017) | Mike, Jay | youtube.com/watch?v=H18RUB1cxfI
+| 2017_Jan_22 | 00:44:30 | La La Land and Bye Bye Man | Mike, Jay | http://redlettermedia.com/half-in-the-bag-la-la-land-and-the-bye-bye-man/
 | 2017_Mar_05 | 00:43:54 | Get Out and Logan | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-get-out-and-logan/
-| 2017_Mar_27 | 00:37:35 | Life and Power Rangers | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-life-and-power-rangers/
+| 2017_Mar_27 | 00:37:35 | Life and Power Rangers | Mike, Jay | http://redlettermedia.com/half-in-the-bag-life-and-power-rangers/
 | 2017_May_06 | 00:31:23 | Guardians of the Galaxy 2 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-guardians-of-the-galaxy/
-| 2017_May_21 | 00:26:38 | Alien: Covenant | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-alien-covenant/
+| 2017_May_21 | 00:26:38 | Alien: Covenant | Mike, Jay | http://redlettermedia.com/half-in-the-bag-alien-covenant/
 | 2017_Jun_04 | 00:32:10 | Wonder Woman | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-wonder-woman/
 | 2017_Jun_10 | 00:34:03 | The Mummy | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-mummy/
-| 2017_Jul_09 | 00:45:56 | Baby Driver and Spider-Man: Homecoming | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-baby-driver-and-spider-man-homecoming/
+| 2017_Jul_09 | 00:45:56 | Baby Driver and Spider-Man: Homecoming | Mike, Jay, Rich (Plinkett, restaurant patron) | http://redlettermedia.com/half-in-the-bag-baby-driver-and-spider-man-homecoming/
 | 2017_Jun_23 | 00:00:00 | Transformers: The Lost Knight | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-transformers-the-last-knight/
-| 2017_Aug_16 | 00:36:16 | Annabelle Creation | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-annabelle-creation/
-| 2017_Sep_10 | 00:45:36 | IT (1990) and IT (2017) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-it-1990-and-it-2017/
-| 2017_Sep_20 | 00:30:02 | mother! | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-mother/
-| 2017_Oct_07 | 00:29:08 | Blade Runner 2049 | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-blade-runner-2049/
+| 2017_Aug_16 | 00:36:16 | Annabelle Creation | Mike, Jay | http://redlettermedia.com/half-in-the-bag-annabelle-creation/
+| 2017_Sep_10 | 00:45:36 | IT (1990) and IT (2017) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-it-1990-and-it-2017/
+| 2017_Sep_20 | 00:30:02 | mother! | Mike, Jay | http://redlettermedia.com/half-in-the-bag-mother/
+| 2017_Oct_07 | 00:29:08 | Blade Runner 2049 | Mike, Jay | http://redlettermedia.com/half-in-the-bag-blade-runner-2049/
 | 2017_Nov_05 | 00:33:43 | Thor: Ragnarok | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-thor-ragnarok/
-| 2017_Nov_19 | 00:39:04 | Justice League | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-justice-league/
-| 2017_Dec_10 | 00:24:22 | The Disaster Artist | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-disaster-artist/
-| 2017_Dec_19 | 00:46:59 | The Last Jedi | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-last-last-jedi-review/
-| 2018_Jan_06 | 00:53:15 | 2017 Catch-up (Part 1 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2017-catch-up-part-1-of-2/
-| 2018_Jan_10 | 00:37:58 | 2017 Catch-up (Part 2 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2017-movie-catch-up-part-2-of-2/
+| 2017_Nov_19 | 00:39:04 | Justice League | Mike, Jay, Rich ("Rich McCaskey" from Just Ice, Inc.) | http://redlettermedia.com/half-in-the-bag-justice-league/
+| 2017_Dec_10 | 00:24:22 | The Disaster Artist | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-disaster-artist/
+| 2017_Dec_19 | 00:46:59 | The Last Jedi | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-the-last-last-jedi-review/
+| 2018_Jan_06 | 00:53:15 | 2017 Catch-up (Part 1 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2017-catch-up-part-1-of-2/
+| 2018_Jan_10 | 00:37:58 | 2017 Catch-up (Part 2 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2017-movie-catch-up-part-2-of-2/
 | 2018_Jan_28 | 00:13:25 | Maze Runner: The Death Cure | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-maze-runner-the-death-cure/
 | 2018_Feb_13 | 00:30:15 | The Cloverfield Paradox and the Netflix Conundrum | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-cloverfield-paradox-and-the-netflix-conundrum-spoilers/
 | 2018_Feb_18 | 00:26:29 | Black Panther | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-black-panther/
