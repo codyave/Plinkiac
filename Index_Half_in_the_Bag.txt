@@ -105,18 +105,18 @@
 | 2015_Jul_06 | 00:30:57 | Termintator Genisys | Mike, Jay | http://redlettermedia.com/half-in-bag-terminator-genisys/
 | 2015_Jul_26 | 00:22:02 | Ant-Man | Mike, Jay, Rich (video game repairman), Jack (video game repairman) | http://redlettermedia.com/half-in-the-bag-ant-man/
 | 2015_Jul_27 | 00:32:07 | Pixels | Mike, Jay, Rich (video game repairman, Plinkett), Jack (video game repairman) | http://redlettermedia.com/half-in-the-bag-pixels/
-| 2015_Aug_09 | 00:27:18 | Fantastic Four | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-fantastic-four/
-| 2015_Aug_31 | 00:26:09 | American Ultra | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-american-ultra/
-| 2015_Sep_16 | 00:29:12 | The Visit and Turbo Kid | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-visit-and-turbo-kid/
-| 2015_Oct_04 | 00:17:51 | Everest | Mike, Jay,  (Plinkett) | http://redlettermedia.com/half-in-the-bag-everest/
-| 2015_Oct_11 | 00:55:11 | 2015 Re-cap (So Far) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2015-re-cap-so-far/
-| 2015_Nov_28 | 00:38:34 | Creed and Victor Frankenstein | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-creed-and-victor-frankenstein/
+| 2015_Aug_09 | 00:27:18 | Fantastic Four | Mike, Jay | http://redlettermedia.com/half-in-the-bag-fantastic-four/
+| 2015_Aug_31 | 00:26:09 | American Ultra | Mike, Jay | http://redlettermedia.com/half-in-the-bag-american-ultra/
+| 2015_Sep_16 | 00:29:12 | The Visit and Turbo Kid | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-visit-and-turbo-kid/
+| 2015_Oct_04 | 00:17:51 | Everest | Mike, Jay | http://redlettermedia.com/half-in-the-bag-everest/
+| 2015_Oct_11 | 00:55:11 | 2015 Re-cap (So Far) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2015-re-cap-so-far/
+| 2015_Nov_28 | 00:38:34 | Creed and Victor Frankenstein | Mike, Jay | http://redlettermedia.com/half-in-the-bag-creed-and-victor-frankenstein/
 | 2015_Dec_07 | 00:26:35 | Krampus | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-krampus/
-| 2015_Dec_20 | 00:42:20 | Star Wars: The Force Awakens | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-star-wars-the-force-awakens/
+| 2015_Dec_20 | 00:42:20 | Star Wars: The Force Awakens | Mike, Jay, Rich (Kris Kringle) | http://redlettermedia.com/half-in-the-bag-star-wars-the-force-awakens/
 | 2016_Jan_08 | 00:41:08 | The Hateful Eight and The Ridiculous 6 (sort of) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-hateful-eight-and-the-ridiculous-6-sort-of/
 | 2016_Jan_25 | 00:24:19 | The Revenant | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-revenant/
 | 2016_Feb_19 | 00:29:07 | Deadpool and Comic Book Movie Predictions | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-deadpool-and-comic-book-movie-predictions/
-| 2016_Feb_24 | 00:49:21 | The 2016 Oscars | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-2016-oscars/
+| 2016_Feb_24 | 00:49:21 | The 2016 Oscars | Mike, Jay, Rich (alien, Plinkett) | http://redlettermedia.com/half-in-the-bag-the-2016-oscars/
 | 2016_Mar_15 | 00:37:09 | 10 Cloverfield Lane and Me Him Her | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-10-cloverfield-land-and-me-him-her/
 | 2016_Mar_27 | 00:46:40 | Batman v Superman: Dawn of Justice | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-v-batman-v-superman-dawn-of-justice/
 | 2016_Apr_14 | 00:26:11 | Hardcore Henry | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-hardcore-henry/
