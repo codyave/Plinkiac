@@ -154,19 +154,20 @@
 | 2017_Dec_19 | 00:46:59 | The Last Jedi | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-the-last-last-jedi-review/
 | 2018_Jan_06 | 00:53:15 | 2017 Catch-up (Part 1 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2017-catch-up-part-1-of-2/
 | 2018_Jan_10 | 00:37:58 | 2017 Catch-up (Part 2 of 2) | Mike, Jay | http://redlettermedia.com/half-in-the-bag-2017-movie-catch-up-part-2-of-2/
-| 2018_Jan_28 | 00:13:25 | Maze Runner: The Death Cure | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-maze-runner-the-death-cure/
-| 2018_Feb_13 | 00:30:15 | The Cloverfield Paradox and the Netflix Conundrum | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-the-cloverfield-paradox-and-the-netflix-conundrum-spoilers/
-| 2018_Feb_18 | 00:26:29 | Black Panther | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-black-panther/
-| 2018_Mar_07 | 00:23:24 | Annihilation | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-annihilation/
-| 2018_Mar_19 | 00:29:04 | Demon House | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-demon-house/
-| 2018_Apr_02 | 00:35:18 | Ready Player One | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-ready-player-one/
-| 2018_Apr_17 | 00:00:28 | RIP Harry Anderson | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/rip-harry-anderson/
+| 2018_Jan_28 | 00:13:25 | Maze Runner: The Death Cure | Mike, Jay, Rich (Plinkett, Daniel), Jack (officiating priest) | http://redlettermedia.com/half-in-the-bag-maze-runner-the-death-cure/
+| 2018_Feb_13 | 00:30:15 | The Cloverfield Paradox and the Netflix Conundrum | Mike, Jay | http://redlettermedia.com/half-in-the-bag-the-cloverfield-paradox-and-the-netflix-conundrum-spoilers/
+| 2018_Feb_18 | 00:26:29 | Black Panther | Mike, Jay | http://redlettermedia.com/half-in-the-bag-black-panther/
+| 2018_Mar_07 | 00:23:24 | Annihilation | Mike, Jay | http://redlettermedia.com/half-in-the-bag-annihilation/
+| 2018_Mar_19 | 00:29:04 | Demon House | Mike, Jay | http://redlettermedia.com/half-in-the-bag-demon-house/
+| 2018_Apr_02 | 00:35:18 | Ready Player One | Mike, Rich (Jay Bauman) | http://redlettermedia.com/half-in-the-bag-ready-player-one/
+| 2018_Apr_17 | 00:00:28 | RIP Harry Anderson | Rich (Plinkett) | http://redlettermedia.com/rip-harry-anderson/
 | 2018_Apr_19 | 00:38:45 | Truth or Dare and A Quiet Place | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-truth-or-dare-and-a-quiet-place/
-| 2018_Apr_28 | 00:32:25 | Avengers: Infinity War | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-avengers-infinity-war/
-| 2018_May_29 | 00:43:51 | Solo: A Star Wars Story | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-solo-a-star-wars-story/
+| 2018_Apr_28 | 00:32:25 | Avengers: Infinity War | Mike, Jay, Rich (Evan Richards, Attorney at Law) | http://redlettermedia.com/half-in-the-bag-avengers-infinity-war/
+| 2018_May_29 | 00:43:51 | Solo: A Star Wars Story | Mike, Jay, Rich | http://redlettermedia.com/half-in-the-bag-solo-a-star-wars-story/
 | 2018_Jun_13 | 00:33:45 | Hereditary | Mike, Jay | http://redlettermedia.com/half-in-the-bag-hereditary/
-| 2018_Jun_28 | 00:34:29 | Jurassic World: Fallen Kingdom | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-jurassic-world-fallen-kingdom/
+| 2018_Jun_28 | 00:34:29 | Jurassic World: Fallen Kingdom | Mike, Jay, Jim, Colin, Rich | http://redlettermedia.com/half-in-the-bag-jurassic-world-fallen-kingdom/
 | 2018_Jul_28 | 00:38:32 | Comic Con 2018 Trailers | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-comic-con-2018-trailers/
 | 2018_Aug_15 | 00:34:11 | Slender Man | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-slender-man/
 | 2018_Sep_05 | 00:34:46 | 2018 Catch-Up (part 1 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2018-catch-up-part-1-of-2/
 | 2018_Sep_08 | 00:36:01 | 2018 Catch-Up (part 1 of 2) | Mike, Jay, Rich (Plinkett) | http://redlettermedia.com/half-in-the-bag-2018-catch-up-part-2-of-2/
+| 2018_Sep_20 | 00:47:35 | Mandy and The Predator | Mike, Jay | http://redlettermedia.com/half-in-the-bag-mandy-and-the-predator/
