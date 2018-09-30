@@ -174,7 +174,7 @@
 | 2014_Dec_28 | 01:02:53 | XCOM - the New PC-in-ing (part 1) | Jack, Rich | twitch.tv/videos/3662604 | youtube.com/watch?v=tr1UobY5jD4 | twitter.com/PreviouslyRec/status/549389718602125312
 | 2014_Dec_28 | 00:59:51 | XCOM - the New PC-in-ing (part 2) | Jack, Rich | twitch.tv/videos/3662646 | youtube.com/watch?v=BLWzVXqV5oM | twitter.com/PreviouslyRec/status/549389718602125312
 | 2014_Dec_28 | 01:29:49 | XCOM - the New PC-in-ing (part 3) | Jack, Rich | twitch.tv/videos/3662764 | youtube.com/watch?v=l5aWyL30n64 | twitter.com/PreviouslyRec/status/549389718602125312
-| 2015_Jan_05 | 00:59:33 | Moving Stories - Hack And a Half (part1.2) | Jack, Rich | twitch.tv/videos/3674022 | youtube.com/watch?v=H0N1hEGi2fo | twitter.com/PreviouslyRec/status/551851528730865664
+| 2015_Jan_04 | 00:59:33 | Moving Stories - Hack And a Half | Jack, Rich | twitch.tv/videos/3674022 | youtube.com/watch?v=H0N1hEGi2fo | twitter.com/PreviouslyRec/status/551851528730865664
 | 2015_Jan_04 | 00:14:22 | NaNaNaNa Batman - Arkham Asylum (part 1.1) | Jack, Rich | twitch.tv/videos/3674290 | youtube.com/watch?v=pPmC6UMhioo | twitter.com/PreviouslyRec/status/551851528730865664
 | 2015_Jan_04 | 00:47:34 | NaNaNaNa Batman - Arkham Asylum (part 1.2) | Jack, Rich | twitch.tv/videos/3674301 | Duplicate: see line 177 | twitter.com/PreviouslyRec/status/551851528730865664
 | 2015_Jan_04 | 00:55:52 | NaNaNaNa Batman - Arkham Asylum (part 2) | Jack, Rich | twitch.tv/videos/3674308 | youtube.com/watch?v=YV1_WVjTpc0 | twitter.com/PreviouslyRec/status/551851528730865664
