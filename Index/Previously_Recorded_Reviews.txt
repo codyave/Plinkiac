@@ -27,6 +27,7 @@
 | 2016_Mar_22 | 00:12:44 | Superhot | http://redlettermedia.com/pre-rec-superhot/
 | 2016_Apr_12 | 00:26:14 | Stardew valley | youtube.com/watch?v=ZcUZrkHWoMQ
 | 2016_May_02 | 00:18:57 | Quantum Break | http://redlettermedia.com/pre-rec-quantum-break/
+| 2016_May_03 | 00:02:22 | Extra: Quantum Break, Always Online, and Piracy | youtube.com/watch?v=Y8MpJVxKrEE
 | 2016_May_21 | 00:20:45 | Doom | http://redlettermedia.com/pre-rec-doom/
 | 2016_Jul_15 | 00:26:55 | Battle of the NOT Mega Man Games | youtube.com/watch?v=nAwkAqzeEKE
 | 2016_Aug_23 | 00:29:01 | No Man's Sky | http://redlettermedia.com/pre-rec-no-mans-sky/
