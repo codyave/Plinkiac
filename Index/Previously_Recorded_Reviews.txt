@@ -1,0 +1,53 @@
+| 2014_Apr_15 | 00:11:22 | Risk of Rain | http://redlettermedia.com/pre-rec-risk-of-rain/
+| 2014_May_15 | 00:11:47 | The Banner Saga | http://redlettermedia.com/pre-rec-the-banner-saga/
+| 2014_Jun_15 | 00:15:31 | E3 2014 | http://redlettermedia.com/pre-rec-e3-2014/
+| 2014_Jul_15 | 00:11:42 | Titan Fall | http://redlettermedia.com/pre-rec-titan-fall/
+| 2014_Jul_28 | 00:16:46 | Sonic, The Most Overrated Game Ever? | http://redlettermedia.com/pre-rec-sonic-the-most-overrated-game-ever/
+| 2014_Aug_22 | 00:14:31 | Mario Kart 8 | http://redlettermedia.com/pre-rec-mario-kart-8/
+| 2014_Sep_10 | 00:16:58 | Invisible Inc. (Early Access) | http://redlettermedia.com/pre-rec-invisible-inc-early-access/
+| 2014_Oct_02 | 00:13:37 | Guacamelee | http://redlettermedia.com/pre-rec-guacamelee/
+| 2014_Oct_19 | 00:21:36 | Alien Isolation | http://redlettermedia.com/pre-rec-alien-isolation/
+| 2014_Nov_14 | 00:16:37 | Zelda II - The Adventure of Link | http://redlettermedia.com/pre-rec-zelda-ii-the-adventure-of-link/
+| 2014_Dec_12 | 00:26:49 | What We're Playing Now | http://redlettermedia.com/pre-rec-what-were-playing-now/
+| 2015_Jan_07 | 00:18:06 | Crypt of the Necrodancer | http://redlettermedia.com/pre-rec-crypt-of-the-necrodancer/
+| 2015_Feb_22 | 00:16:58 | Why Mario is More Immersive Than Call of Duty | http://redlettermedia.com/pre-rec-why-mario-is-more-immersive-than-call-of-duty/
+| 2015_Mar_07 | 00:31:34 | The Order 1886 | http://redlettermedia.com/pre-rec-the-order-1886/
+| 2015_Apr_02 | 00:15:46 | Hand of Fate | http://redlettermedia.com/pre-rec-hand-of-fate/
+| 2015_Apr_15 | 00:20:53 | Bloodborne | http://redlettermedia.com/pre-rec-bloodborne/
+| 2015_May_11 | 00:14:11 | Shovel Knight | http://redlettermedia.com/pre-rec-shovel-knight/
+| 2015_May_20 | 00:03:05 | *REDACTED* Nintendo Game | youtube.com/watch?v=q3w8ZNYoFEQ
+| 2015_May_31 | 00:16:38 | Broken Age | http://redlettermedia.com/pre-rec-broken-age/
+| 2015_Jul_17 | 00:19:12 | Batman Arkahm Knight | http://redlettermedia.com/pre-rec-batman-arkham-knight/
+| 2015_Sep_04 | 00:17:58 | Rocket League | http://redlettermedia.com/pre-rec-rocket-league/
+| 2015_Sep_27 | 00:27:09 | Metal Gear Solid V | http://redlettermedia.com/pre-rec-metal-gear-solid-v/
+| 2015_Nov_14 | 00:19:22 | Steam Controller | http://redlettermedia.com/pre-rec-steam-controller/
+| 2015_Dec_13 | 00:17:08 | Star Wars Battlefront - Hard West | http://redlettermedia.com/pre-rec-star-wars-battlefront-hard-west/
+| 2016_Jan_20 | 00:18:16 | Helldivers | http://redlettermedia.com/pre-rec-helldivers/
+| 2016_Feb_08 | 00:25:00 | Dragon Dogma | http://redlettermedia.com/pre-rec-dragons-dogma/
+| 2016_Mar_22 | 00:12:44 | Superhot | http://redlettermedia.com/pre-rec-superhot/
+| 2016_Apr_12 | 00:26:14 | Stardew valley | youtube.com/watch?v=ZcUZrkHWoMQ
+| 2016_May_02 | 00:18:57 | Quantum Break | http://redlettermedia.com/pre-rec-quantum-break/
+| 2016_May_21 | 00:20:45 | Doom | http://redlettermedia.com/pre-rec-doom/
+| 2016_Jul_15 | 00:26:55 | Battle of the NOT Mega Man Games | youtube.com/watch?v=nAwkAqzeEKE
+| 2016_Aug_23 | 00:29:01 | No Man's Sky | http://redlettermedia.com/pre-rec-no-mans-sky/
+| 2016_Sep_29 | 00:16:09 | Event[0] | youtube.com/watch?v=Zg2TldfgeJQ
+| 2016_Nov_04 | 00:16:48 | Gears of War 4 | http://redlettermedia.com/pre-rec-gears-of-war-4/
+| 2016_Dec_01 | 00:25:11 | Dishonored 2 | http://redlettermedia.com/pre-rec-dishonored-2/
+| 2016_Dec_14 | 00:17:06 | The Last Guardian | youtube.com/watch?v=-sM9JUYKswg
+| 2017_Feb_03 | 00:32:04 | ABSTRACT-MO-TRON: THE EPISODE | http://redlettermedia.com/pre-rec-abstract-mo-tron-the-episode/
+| 2017_Feb_22 | 00:26:05 | Nioh | youtube.com/watch?v=4qmchZRyeDU
+| 2017_Mar_09 | 00:22:54 | Horizon Zero Dawn | http://redlettermedia.com/pre-rec-horizon-zero-dawn/
+| 2017_Mar_28 | 00:56:29 | The Legend of Zelda: Breath of the Wild | youtube.com/watch?v=50LgwCJf4Ek
+| 2017_Apr_01 | 00:26:16 | Mass Effect Andromeda | youtube.com/watch?v=yewHl_TcOE8
+| 2017_May_05 | 00:25:10 | Bayonetta | http://redlettermedia.com/pre-rec-bayonetta/
+| 2017_Jun_07 | 00:18:29 | Strafe | http://redlettermedia.com/pre-rec-strafe/
+| 2017_Jun_14 | 00:19:24 | Vanquish | youtube.com/watch?v=L_UaQ0xmWNY
+| 2017_Jul_11 | 00:42:50 | Friday the 13th: The Game | youtube.com/watch?v=dYBt7C8m7LA
+| 2017_Aug_05 | 00:25:42 | Playerunknown's Battleground | http://redlettermedia.com/pre-rec-playerunknowns-battleground/
+| 2017_Sep_20 | 00:27:00 | Mario + Rabbids Kingdom Battle | youtube.com/watch?v=okipIlrLqvs
+| 2017_Oct_05 | 00:13:30 | Cuphead | http://redlettermedia.com/pre-rec-cuphead/
+| 2018_Feb_21 | 00:19:36 | Slay the Spire | http://redlettermedia.com/pre-rec-slay-the-spire/
+| 2018_Mar_07 | 00:28:57 | Metal Gear Survive | http://redlettermedia.com/pre-rec-metal-gear-survive/
+| 2018_May_09 | 00:37:16 | God of War (2018) | http://redlettermedia.com/pre-rec-god-of-war-2018/
+| 2018_Jun_06 | 00:26:49 | Battletech | http://redlettermedia.com/pre-rec-battletech/
+| 2018_Jul_03 | 00:40:19 | Moonlighter VS Recettear | http://redlettermedia.com/pre-rec-moonlighter-vs-recettear/
