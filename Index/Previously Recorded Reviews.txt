@@ -47,6 +47,7 @@
 | 2017_Aug_05 | 00:25:42 | Playerunknown's Battleground | http://redlettermedia.com/pre-rec-playerunknowns-battleground/
 | 2017_Sep_20 | 00:27:00 | Mario + Rabbids Kingdom Battle | youtube.com/watch?v=okipIlrLqvs
 | 2017_Oct_05 | 00:13:30 | Cuphead | http://redlettermedia.com/pre-rec-cuphead/
+| 2017_Nov_22 | 00:13:23 | PRE-REC_QUICK-EP - Hand of Fate 2 | https://www.youtube.com/watch?v=4nc7UGvrdPQ
 | 2018_Feb_21 | 00:19:36 | Slay the Spire | http://redlettermedia.com/pre-rec-slay-the-spire/
 | 2018_Mar_07 | 00:28:57 | Metal Gear Survive | http://redlettermedia.com/pre-rec-metal-gear-survive/
 | 2018_May_09 | 00:37:16 | God of War (2018) | http://redlettermedia.com/pre-rec-god-of-war-2018/
