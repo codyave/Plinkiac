@@ -1,0 +1,1305 @@
+Space Cop Effects Work!!!! (part 1)
+August 23, 2015
+https://www.youtube.com/watch?v=RJuq_bp9gH4
+
+ah people should be seeing you in all of
+your glory as the space come right now
+yeah glory all your glory boom by anti
+glory your anti glory and all of this
+fat hello everybody
+oh good people are seeing hack frauding
+do you hear me the here rich
+do you hear some music in the background
+WC space cop these are all the important
+questions these are all the important
+questions you think about those
+questions while I tweet a little tweet
+tweet a little tweet at me yes and what
+the rich sings apparently so rich right
+before I hit start streaming yeah you
+were saying that you don't like the
+Smurfs I never really liked the Smurfs -
+no I just got a splint stupid I don't I
+don't get it I don't get what's so
+interesting about them oh can I just go
+ahead and say I'm totally with you yeah
+I think the Smurfs suck okay well I
+might be going a bit far I mean yo come
+on no no they're terrible pointless yeah
+that that makes them terrible at their
+pointless I mean at least the storks
+were underwater an underwater is cool
+what the snorts those are the basically
+they're underwater Smurfs right with
+snorkels on their head right I don't I
+don't want to remember those okay they
+were a short-lived thing there you go
+they came out during during Smurf pipe
+you made something just like the Smurfs
+but not exactly the Smurfs
+we put them under water called a snork
+like do you guys your music do you guys
+hear music I've been I'm hoping you do
+because I have music playing in my
+headphones you should be hearing an
+album by chris christie dulu the same
+guy that did the risk of rain soundtrack
+did to this wonderful album called
+hexadecimal and I think it's really cool
+and we'll be linking to his band camp
+age throughout the night
+mods could one of you link to Chris
+Chris to do it was the guy who did risk
+of brain spam campaign because he asked
+me to and right so here's what we're
+doing I hear music it's quiet though
+well yeah that might be a little quiet
+I'll turn it up here is what we are
+working on tonight we are working on
+space cap special effects oh and rich
+yeah do you have the the subscriber note
+for you Internet yes it's turned out
+great so you keep keep on that well I
+well I start up the the space company so
+one of the things I've been doing here
+and I'm just gonna kind of this is I
+guess you know a little preface is um
+this will not be like a tutorial video
+this is literally just work that I'm
+doing on space cow like usually in
+tutorial videos they'll already have
+done the effect and kind of just walk
+you through the steps to make sure that
+they do it right right but I I'm just
+doing work on this and so like I might
+have something up it might take me a
+long time to get something done but
+that's that's good they'll see what the
+deal is exactly so
+I guess that's what I'm saying is is be
+prepared for failure and be prepared for
+slowness but it should be a lot of fun
+this is something I've been doing a lot
+space cop is window and scream
+replacements and so if you see over here
+is the green screen window for this
+scene and this was a little tricky
+I'm handed the tricky stuff to to motion
+track and so right now I'm in After
+Effects this is After Effects CC 2015
+and what I'm going to do is export this
+clip so this is a pro res clip that Jay
+gave to me and I like to work in mocha
+for motion tracking and the thing that
+mocha really likes is TIFF image
+sequences what is a TIFF image sequence
+so yeah I mean everyone knows that a
+movie is a series of still images you
+know put together right bond when it's
+like a QuickTime movie it's put together
+as a movie but if you export it as a tip
+sequence it literally is exported as a
+series of still images okay and they are
+much higher quality surgeons EEMA Colin
+Colin is working on space convey effects
+right now hey Colin please was I was
+gonna have a good laugh because he's mad
+Colin you are a professional and please
+be kind and be kind to my level he's
+gonna watch this whole thing while
+chuckling exactly
+okay so what do we have to do
+great okay so I'm gonna export this out
+as a tip sequence which will just take a
+little bit no doohickey you're tweaking
+notification came on time this time we
+just started a little bit ago I haven't
+even done any affecting Jack can you
+talk about your trackball thinking of
+getting one oh yeah I tweeted a picture
+of my little work station right now I
+have a if you check our Twitter I have a
+bamboo I don't know if it's called
+though I call it a Wacom but I think
+it's also called a Wacom and so I use a
+stylus a tablet stylus what a Wacom what
+are you a racist no basically you are
+rich funny you must be a racist I just I
+just started watching the the wheel of
+the worst I haven't even gotten through
+it yet and so rich talk to me about your
+rampant racism what rant rampant is what
+I please oh so anyways our to talk about
+my trackball I like my trackball just
+because I do a lot of a lot of mouse
+work and I find it it works really well
+for precision work and
+and it's light on my wrist and that's
+something that's really important to me
+because I just do stuff all the time so
+as you see here like normally like a
+like a movie like you can see here this
+literally just exported every single
+frame as a still image which is super
+great for from oka because it means all
+every single frame is a very high
+quality bokeh what are you a racist
+what's your problem I'm not the one
+who's saying Wacom we could and Wakeham
+and mocha alright yeah Colin you were
+there for that episode what was going on
+in Rich's head I think so also something
+really important if you if you motion
+track in mocha and you start a project
+this is something really really
+important is you have to double check
+the framerate because as you see here
+the framerate is set to 24 frames per
+second but if we look at the actual
+footage back in After Effects here it's
+uh
+this is moon mayor 1 if you look right
+here the actual frame per second is
+23.976 and that kind of that like little
+bit of variation will really fuck up
+your track so heads up mid there flipper
+I've made that mistake a couple times
+let me get these out of the way we'll
+keep up on okay Oh key b85 future future
+Jay cracker man 5 to 6 avi an yo and jr.
+collie 22 for subscribing we really
+appreciate it it's true we do ok so now
+we are in mocha and mocha is a planar
+tracker which sounds crazy but what it
+means is it's really good at tracking
+planes and movements and so what why
+would you want a planar tracker not like
+a fancier one that could do more stuff
+the planar tracker is the fancy one that
+doesn't make any sense
+oh I get it the planar
+Ridge I honestly didn't get that joke
+for a second thank you ah what is the
+learning curve for something like After
+Effects is it hard to pick up if someone
+already knows Photoshop a lot of the
+basic stuff is the same really just
+figuring out you know the
+the buttons and brushes do you know
+After Effects is all about brushes or
+Photoshop is all about brushes After
+Effects is more about like layering
+effects and you can figure it out if you
+already know one it's easy to move to
+the other okay so this thing this window
+is what we want to track right this
+whole wall is what we're on a track and
+so I'm going to grab my spline here and
+make just basically a really sloppy mask
+mmm I'm gonna get sloppy mask on it okay
+so that is a pretty good mask and
+I've been practicing talking myself
+through yeah all of the on the process
+so I can just say it out loud okay and
+so basically what this exes spline does
+this is called the next line is it just
+looks at the information inside of the
+mask and then when I hit track it will
+try to match all of the information
+underneath it
+and okay literally just that easy and
+we're gonna turn on all the little
+doohickeys here translation scale
+rotation shear in perspective and would
+you see how good of a track we get and
+already I can see it's it might be
+coming up a little bit but we'll see
+well see that's right Len flick ocinski
+we are the top streamer of space cop
+effects I lost it I totally lost if it'd
+be sad if we weren't
+wouldn't it be yeah okay so because we
+know that we are you know this wall is
+one plane basically what we're gonna
+have to do here is another X plane here
+so you know basically we just want to
+say like everything
+so Jacob at what stage of the movie are
+we going to digitally replace me with a
+real actor good question good question
+uh you know I've been talking with Jay
+about that and we've been working on
+some options okay cuz I haven't seen any
+work but you guys have done that yet I
+mean you know we were trying rich we are
+honestly trying I know I was just like a
+like a like a temp actor right so you
+can find somebody
+farmer Joe was saying why don't you just
+chroma key the green screen Jack we can
+we can just chroma key the green screen
+what I'm doing right now so obviously
+we'll take out the green screen but we
+need to put in an image behind the green
+screen and it needs to be the exact same
+as the camera movement and so basically
+what I'm doing right now is telling I'm
+telling the computer or I'm letting the
+computer figure out what the camera
+movement was and then it will match the
+the cameraman we could like yes well
+just green screen out and actually we I
+won't be green screening out the actual
+window because if you see here
+doo doo doo doo doo hey I'll get a
+little closer
+Jane Mike didn't paint this screen they
+just used green pieces of paper or
+painted big green pieces of paper and
+today we're great this is a paper we
+sprung for the green pane you forced you
+sprung for the great thing so
+congratulations but what we have here is
+these big awful scenes and that might be
+a pain - green screen out but if I get a
+really solid track on this wall I can
+make just one mask on this window and it
+will be a perfect mask and you we won't
+have to worry about anything I see I see
+so this is you know it takes a little
+more time to do it this way but if we do
+it correctly and I'm hoping oh yeah this
+is much better already I can tell
+so I'm you know what I do what I did
+there is I added this other mask down
+here to give Moka more information on
+the wall that we're trying to track
+people people in the chat are
+complaining about lag
+what kind of lag buffering I don't know
+what that means it keeps freezing up oh
+I guess it's not much we can do about it
+I don't think oh you know what there
+might be something we can do yeah there
+might be something we can do about that
+okay I don't know why do I might have to
+stop and start the stream I might have
+um I might not have this dream settings
+set up correctly hold on first up I'm
+shooting from my Mac today and we
+usually don't do that
+have we ever done that no no I've never
+I've never Oh yep this is totally my
+fault
+oh don't mind me you you should find I
+just changed a setting they were go
+sorry about that you should find that uh
+it's streaming a little more smoothly
+now we can hope we can only hope okay
+hope hope against hope all right hold on
+oh where was I you guys I'm trying to do
+work and you're talking about dreaming
+I think by streaming this now I've
+reached a new pinnacle in my workaholism
+in which I'm bringing work to my work
+that's no that's just efficient right
+you know I'm trying I'm trying so what
+I'm doing here is I'm taking this one
+frame at a time because I don't want
+Rich's leg to get into the track because
+that'll mess up the information that I'm
+trying to give to MOCA and so I'm just
+waiting I even say like we're getting
+and so basically what I can do which is
+really awesome is I can just kind of
+move this mask here and it'll keep
+tracking as if nothing's the matter keep
+tracking that's amazing what the
+technology can do isn't it beautiful
+yeah I never even thought we'd get to a
+spot where computers gonna read like
+handwriting yeah and they can oh yeah
+and so basically all it's doing now is
+looking for this windowpane and it's
+doing a pretty good job now so this
+should be it this is great whoa wrong
+setting Jack your yard down what Oh did
+the phone did the phone dial numbers
+blow up your headphones really apologize
+for that hopefully now you can see the
+stream more and that's the more
+important part now that's the more
+important part okay so let's check on
+this track so basically what we're
+looking for now is that this thing is
+like a part of the wall and it looks
+pretty good but there's a way we can
+double check on that
+so here's the fun thing about modern
+digital cameras is they have this thing
+where if you move them too fast it turns
+the world into jello and you might be
+seeing that now with this window you'll
+see the window kind of wobble a little
+bit as the camera moves and that's
+really awful but the good news is as we
+can see it you know the good news is
+MOCA kind of figures that out all right
+so I'm gonna set this box here a chant I
+think it's too late for me to pull in my
+leg to do what
+pull in my leg was getting in the way
+your mask oh no that's okay if his leg
+would have gotten in the way I would
+have masked around it and hopefully well
+we'll come into some footage where you
+can see that work yeah I'm not there
+life no we're not filming we're not
+filming rich live pretty good so I turn
+on this grid here because what I'm
+trying to do is make this grid match the
+angle of the wall
+if I do it right if I do it right so now
+if we watch it it should look like this
+grid is stuck to the wall basically of
+course there's no guarantee that I'm
+doing it right yeah but that's okay cuz
+this is just what we're doing this is
+what we're doing tonight we're working
+on space cotton this is your first
+official sneak peak at space cop I hope
+you're enjoying I hope you're enjoying
+this twelve frames at a time you guys
+are helping you guys okay so now let's
+watch this and save obviously all the
+time save let's watch this and see if
+this grid is stuck to the wall and it's
+looking pretty good
+and looking pretty tight you know as you
+can see what's what's really interesting
+is like just how much the wall you know
+the the angle of the wall warps as the
+camera kind of zooms and pans up but
+this is looking actually pretty good
+that's the thing is there's a lot of
+information here you know there's a lot
+of corners there's a lot of different
+colors there's a lot of really good
+information for us to work off of so I'm
+going to go ahead and call that a win
+okay one point for Jack
+one point for Jack exactly
+one point for Gryffindor I have an iMac
+and I've up to the RAM it's I mean my
+iMac is I mean how old is this iMac now
+it's old it's quidditch the dumbest
+thing ever
+Quidditch yeah that's that Harry Potter
+game you know this is a mid 2011 iMac by
+the way have anything to do with Harry
+Potter Jack
+oh I'm just 100% apologize for any times
+I have ever made fun of Jack if I had to
+do this editing and my life depended on
+it I would be straight up a worm food oh
+no piece of trying to make fun of me all
+you want that's fine
+Quidditch might be the dumbest game ever
+but you have to applaud Harry Potter for
+coming up with something right like
+that's a world building you could come
+up with something better let me just
+grab the ball and win the game
+everything else that happens is
+completely irrelevant well see but
+you're you're thinking movie Harry
+Potter isn't in book it is in book Harry
+Potter
+Quidditch games lasted like weeks and
+sometimes no one would ever catch the
+Golden Snitch and you know you would
+just have to win by points alone
+we're gonna use this we're gonna use
+this okay so then what we do is we turn
+off that little gear right there and we
+lock it down lock it down so that's our
+wall track hooray hurrah so now what we
+get to do real quick check yeah Dagobah
+Dave thank you for subscribing we really
+appreciate it
+dig above Dave you missed your chance
+what it's technically technically I did
+say Dago Oh rich I'm not up on your
+racism I haven't seen all the episode
+yet technically technically speaking I
+said that yes that's true it's
+undeniable yeah we have you're cooking
+something with vinegar no you're all
+done
+think about it for a little bit it's
+fine don't worry about it it'll come to
+you
+everything's fine are you just not
+mentioning that he's done what did you
+say I was reading chat oh I said I said
+now if you start cooking something with
+vinegar then you're really all done it's
+a because there's a racial slur inside
+the word vinegar
+sometimes and not even that there was no
+pole long enough oh no no you should
+know you don't even don't don't even
+rich I mean some in some wacky context I
+could still get away with saying Dago
+that's true
+take over but that other thing no no no
+no no no don't even don't even know
+basically all I'm doing here is trying
+to make sure that I'm as close to the
+edges as possible this is like a shadow
+right here and so I kind of want to be
+in between there to preserve some of the
+shadow because having the natural shadow
+helps sell the effect but like you know
+there's this there's this like pixely
+area between the green screen and the
+and the frame and I kind of want to be
+right in the middle of that and then
+when I blur my mask later hopefully it
+will kind of match seamlessly but over
+here you can see I have a little more
+green so we need to lower that one and
+right now I'm using speaking uh going
+back to the person who was asking about
+my trackball right now I'm using my
+trackball which is really nice because I
+can get very fine precise movement out
+of it without moving my entire wrist or
+having the my mouse set to like some
+kind of ridiculously low sensitivity
+that looks pretty good I don't know how
+they're scoring this jack you'll be
+happy to know that the checks is one
+Jack yeah negative one rich say you're
+you're up you're up wait what is it what
+did you lose on I don't know I I don't
+know hmm okay well that's fine I mean
+that's fine I'm drinking both beer and
+coffee right now okay
+here we go okay so now what we have here
+is a really nice mask over the window
+right but we don't need to worry about
+tracking that mask because we already
+have a really good wall track and so all
+I do is take this layer which I should
+label window mask and link it to the
+wall track window so now if the world is
+a perfect in just place our nice window
+mask you put something goofy outside of
+that window I can put anything you want
+outside the window that's the magic of
+computers like a producting in a bathtub
+absolutely that's what you need rich so
+as you can see here I made my mask a
+little too short for the whole window so
+MOCA has a couple really cool things
+these little green things right here are
+normal keyframes and for anyone who's
+worked in After Effects or really any
+editing software you know what keyframes
+are that change of that any sort of
+value over the time of the time frame
+but mocha has something called the uber
+key where if I made a mistake in my mask
+right here I can just click on that uber
+key bunk and it changes all keyframes
+little bit more over purple space
+bazooka thank you for subscribing we
+really appreciate it
+and no I'm sorry I'm sorry what else do
+I see oh I see a No so it's like no
+thank you for subscribing we really
+appreciate it it's true we do
+that should take care of our problem all
+right so there's a little futzin we have
+to do here but that's fine it's still a
+really a really good track sleet snow z
+oh I see a no I'm saying like no I'm
+looking for it Zook no yeah that's
+pretty good
+that's pretty good jack is getting
+aroused by that window I am are to kiss
+Rex I you know you do this often enough
+and like it's the little wins and win it
+what what you don't understand is before
+mocha I would have to do this every
+single frame like you know every uh
+every single frame I would have to move
+that mask to match and now it does it
+for me automatically and it's a
+beautiful thing but my you know it
+jumped off a little bit and so we just
+need to adjust it a little bit
+Longshanks one thank you for subscribing
+we really appreciate it it's true we
+really do you really do still waiting
+for you to put something fun on the
+window Chan well you know sometimes
+filmmaking is so bright so boring in
+fact most of the time filmmaking is this
+terribly tedious and boring event just
+gonna make sure my video game
+we're not playing a video game tonight
+we're working West base copping space
+copying tonight rich
+this is a little bit of why of you know
+the stuff we've been doing when not
+doing all the other stuff happy to go I
+know and I think it's important for
+people to see like we working on stuff
+and this is the kind of shit we do and
+this is this is what percentage of the
+movie right here exactly this is like
+this has been two seconds of footage
+right about yeah yeah but if you ever
+wonder why I'm my fantasy movies try to
+find ways to do things in modern times
+like the movie now you know oh no in
+Tiberius Kirk I have not done I have
+done similar shots before but all the
+work you are seeing right now is is I
+haven't touched this before there could
+be failures which is why it's frankly
+taking so long
+but that's okay all right so now we just
+have to kind of watch and you can see
+here we kind of jump a little now over
+that threshold we on
+see that like over here it's kind of
+more in the green up there and then we
+move it up and it moves more towards the
+gray side of things which is very
+nitpicky which is frankly it's important
+to me
+maybe too much
+it might be too much
+oh good oh good I'm glad I'm glad you
+guys are linking to the music I I
+reached out to Chris Christie dulu who
+has a very open policy by the way about
+streamers using his music for background
+music and his policy is totally just
+like yeah use it but credit me and you
+know let me know ahead of time that
+would be really nice and so I sent him a
+message today and was like can I use
+your music because I listened to it
+while doing this work anyway which is
+the actual truth and he said totally and
+he III know you love that FTL music this
+is risk of rain at risk of rain I love
+that FCL music as well but this is the
+risk of rain and rain original
+soundtrack rich you blew it
+I misspoke it happens I'm rich Evans
+pretty good you know what I'm gonna I'm
+gonna distract you from that waffle tale
+thank you for subscribing we really
+appreciate it it's true we really do
+there I go wagging the dog wagging the
+dog it's a reference to a movie media
+all right you know what
+it's a movie where the president fakes a
+war with the news in order to distract
+animals scandal with Dustin Hoffman yes
+good dog I know that good nothing in the
+window yet why is the window have you
+been streaming that long and there's
+nothing in the 900 actually it's 9:15
+it's been longer than that Oh God well
+yeah this is how long I think sometimes
+I really like to be precise here because
+if you're you know what's what's the the
+carpenter saying measure twice cut once
+right yeah and so for me all the the
+wonderful thing about something like
+mocha and really just all of the things
+in modern special effects and
+compositors is it does a lot of the work
+for you and so you can be incredibly
+nitpicky and get it right and you know
+what for a feature film it's important
+to get it all right right
+any carpenter should ignore that advice
+because every missed every messed up cut
+I mean that's that's a lot of free scrap
+wood you could take home I mean you
+could you could build your own shed in
+like a month you're right and that's
+more billable hours keep fucking up
+those cuts man we gotta we gotta we
+gotta make this job last a week you know
+if you do it right it'll be like four
+days sitting home not making money for
+three days that week that's true
+you know measure once motherfucker okay
+so now that we have our super nice
+window mask here I can export the shape
+data export mode shape data for a copy
+that to the clipboard
+and back over to after-effects and it
+pays to Malcolm ask Jenny mh-60 4:55
+would like me to make sure that you you
+know that there is a green screen glare
+in my sunglasses that's true it's also
+true that a mind thank you for
+subscribing and also mr. Pharma Mele
+thank you for subscribing we really
+appreciate it
+those things are all true oh my God look
+at that
+look at that that's all I can see now oh
+I hate you for pointing that out you
+know like so there's one green screen
+over here and then there's some more
+stuff back here but that's pretty
+blurred I can take care of that I can
+take care of that green screen you just
+watch you just watched I'm gonna take
+care of that green screen we're gonna do
+that on the fly I wasn't even planning
+on doing that we're gonna do that right
+on the fly that's great okay hey right
+now first of all we have some other
+stuff to take care of first we have to
+just make the green screen happen first
+all right yep so now we have our nice
+masks and that looks pretty good you're
+still seeing some of those green edges
+only because I am going to blur them out
+I'm going to feather I think I've been
+doing for with an expansion of two how
+does that look
+that looks really nice a feather of four
+with an expansion of two and that
+basically like fuzz's the edges
+great great and so like I could have
+green screamed that you know like all
+that time I spent making the mask it
+could have been like just one plop on
+the green screen right yeah but I think
+the green screen would have been more
+time-intensive because of those because
+of those cuts in the paper and I was
+already tracking it for they said this
+is it oh so this is our this is what's
+going in the window right here I can't
+see yo you're gonna see it in a second I
+hope it's amazing I mean no it's new you
+see I mean you've seen it in real life
+some try to build suspense here Joe I'm
+trying to do my job I'm sorry I'm sorry
+you're right yeah okay oh six thank you
+for subscribing we really appreciate it
+Colin what he's saying just route around
+that glass is refraction reflection and
+D saturated yeah that was my plan uh
+Colin I have a I have a really cool
+program in my red giant color suite
+called I think it's color ista called
+color rista and that actually you can
+set a color and it will change that
+color to any other color and it works
+really really well and so really all I
+was going to do was take that green
+screen and make it significantly darker
+and have this like bluish tint to it
+which is a really cheap way to do it
+like if I if I wanted to be really
+badass I could put this reflection in
+the glasses but there's no way because
+that would take a long long time and
+nobody's gonna notice that except for
+some fuckers on the Internet
+okay so now there's a couple ways I can
+handle this putting putting the the city
+in there I think what I'm gonna do is
+first I'm gonna try just taking that
+window and exporting basic tracking data
+just all that is is the position scale
+and rotation of the object if people are
+telling me that Jays and lreditor Jay
+Jack don't worry about the sunglasses
+glare I'll get rid of them when I'm
+color grading oh okay listen we're
+taking care of it Jay we're taking care
+of it
+you don't need to worry about it you
+need to worry about radio link down we
+really appreciate it it's true we do we
+really do okay so here's what we're
+gonna do do-do-do-do-do we are going to
+add a new null object which is this
+right here we're gonna rename it window
+no we are going to paste all of our
+tracking information to that null and so
+now you see that little square moving
+exactly where we're tracking the shit
+before right let me find a good spot
+here we can really see that window that
+will take our
+our moon and we'll put it there
+so am I going to do the Cantonese dub
+for space comp is that it's not the plan
+I wouldn't have it any other way rich
+somebody somebody is saying this is
+worse than the rich Evans builds a PC
+stream you think that was a fine stream
+listen you know we we labeled what we
+were streaming tonight we made a big
+deal out of streaming After Effects and
+milca work tonight so I guess you can
+deal with it or you could leave you
+could do either one yeah I think there
+are some people who really enjoy so
+really cook what I'm doing here is now
+that I have kind of the the the base
+here in a position that I wanted to I
+take this little Pickwick tool pick whip
+it to the no and now it should follow
+the knot I think we have some people
+here who enjoy this kind of stuff oh my
+god that doesn't work at all great and
+they're probably really enjoying
+themselves yeah just because you're a
+dickhead doesn't mean you have to ruin
+it for everyone
+all right and that doesn't work all that
+well but that's fine we can fix it let's
+try it yes
+let's go - lets go to obsolete basic 3d
+and mess with the no not the tilt I
+always get these two confused what am I
+saying that's not good at all
+rich that's not good at all
+sorry ersatz human thank you for
+subscribing first we have human than a
+reference I don't know
+first I thought it was you know earth
+stairs like a knockoff but it's er s ATZ
+o / sets you know what
+yeah I think I got it I think I got it
+that looks pretty good you know what no
+hm that looks pretty good
+someone else sing too saying green
+screen glare off my gun
+no green screen glare everywhere yeah
+there's a little green on your gun but
+that'll see like the gun they're seeing
+like right here there's some green on
+the gun yeah that will be taken care of
+and color correction easy peasy
+that's just that's a I can't even
+believe really you would only notice
+that if you knew there was a green
+screen you know yeah a little bit here I
+don't think many people are going to
+assume we filmed on the moon I think I
+think super green screen involved yeah
+the one yeah problem you know what rich
+probably but you never know you never
+never knew don't there are some dumb
+motherfuckers out there people like
+Attack of the Clones
+that happen that's the thing that
+happens I'm just gonna do a quick Ram
+preview here to see how this looks see
+if it looks all right
+oh I'll remember J no problem
+the another shot I was working on in the
+same scene there were some really there
+was some really tricky green screen
+effects and so I just what I what I'll
+end up doing here is exporting just the
+window movement how do you handle handle
+like green screen in a foggy room
+well I've been dealing with that yes
+this does not work at all look you can
+see like watch the city it bounces that
+does not work at all okay that's okay
+we can do something else here you know
+it does this really gross bounce that's
+okay
+we'll deal with that what I did what I
+did for those is I actually saw a green
+screen to the green screen right but
+then I put another layer of the green
+screen layer underneath it and color
+corrected it so it was a different color
+I made it really bright blue and then
+when I put this screen in over that I
+like changed with the opacity and I
+changed the layer effect and so the
+smoke still came through because I had
+changed the color of the other layer it
+was that was actually a really tricky
+one but I'm not allowed to show that
+moon Shah says well you you edit out the
+nerd in the middle of the frame at some
+point and you know I'm saying that's
+racist that's racist by that well there
+you go which is offended and this is a
+horrible track this is a horrible
+horrible track look at that again
+yuck okay so my hope in using the
+I don't want to do here and using the
+null is not gonna work
+I'm just gonna bring anyone in get rid
+of this now that did not work okay
+that's fine that's fine so we head back
+to mocha and here's what I had to do
+with the other shots because because our
+shot is so bouncy and because we have
+this like sheer change you know it's
+such a big perspective change you can
+you can see it on the mask over here
+like how much the bottom dips because we
+have that we can't just use the the
+trans the the position data right and so
+what we need to do here is take our
+window mask and turn on our boxee box
+link here's our boxee box is that the
+technical term that's the technical term
+I'm sure there is an actual technical
+term but I have no idea what it is I am
+NOT a good spokesperson for this product
+not only because I don't know what it's
+called and so basically what I'm doing
+here is I'm taking yeah all right I can
+find out what this is called the planar
+surface tool it's called whack this way
+for subscribing we really appreciate it
+it's true we do and look now Jim's here
+Jim welcome to the pretty boring effects
+stream hmm I'm having fun
+oh because I enjoy doing this kind of
+stuff okay so what I want to do here is
+take our planner surface tool and kind
+of align it to the window right make it
+make it the size of the window make sure
+it matches up here too
+I like making little noises so we kind
+of make it match up to the surface here
+we go that is pretty good so then if we
+take our what is this one called planar
+grid okay so then if we take our grid
+tool this should stick pretty nicely to
+the wall
+flushy patch says i promised to start
+paying more attention to windows and
+movies well you know a lot of windows in
+movies are usually on sets and so what
+they'll actually be is like real stuff
+out like real fake stuff you know like
+any interior shot is probably on a set
+yeah in a space movie Oh in his face
+movie newer oh oh ya know pay attention
+to windows okay I believe Star Trek had
+the plaid the backdrops outside next-gen
+oh yeah yeah I think those are just big
+curtains for holes I would believe it
+I would absolutely believe it okay so
+now what I'm doing is instead of
+exporting basically just the positional
+and size data I'm gonna use this blue
+box and I'm going to export corner pin
+data link like that copy that to
+clipboard and basically so now what I
+will do is attach these corner pins to
+to the shot here and I'll put this right
+in front so you guys can see it and I
+use a use this lovely program called
+mocha import plus from clipboard what
+clique did you track one okay and so we
+could apply yes and so now what you can
+see once I get rid of this I put the the
+layer on top is what you can see now it
+does a much better job of sticking
+actually to the window so now what we
+need to do is take our corner pin effect
+and you can stretch and expand it so
+what I'll do is I'll move it now behind
+this get a good look at it and we just
+stretch it out until it looks good oh my
+god I know so exciting rich
+here's the real thing is I really do
+think it's exciting I actually did it
+no it's neat it's all good
+is it is it all good rich I'm gonna say
+yes okay great I'm happy I'm happy that
+it's all good I stretch out that top
+stretch out the left a little bit more
+okay but it'll look funny unless we turn
+the motion blur on okay so now save
+always say let's have a look at this now
+you know something's still wrong what is
+that shake coming from
+am i nervous about doing stuff like this
+in front of the talent you know yeah
+yeah you know rich rich is really harsh
+look I can't complain about anything I'm
+the worst aspect of the rich rich is my
+harshest critic no I mean like I'm
+definitely worried about doing stuff
+like this in front of a live audience
+I'm not too worried about it though cuz
+I'm gonna go ahead and assume that you
+guys understand that this is just a long
+and tedious process with lots of
+mistakes and I'm sure you're gonna be
+very kind there is something there is
+something that does not look right about
+this and I
+I'm checking the original the original
+footage it actually bounces a little bit
+oh that's what it is that's what it is
+J you fucker look at this the footage is
+bouncy that's what I've been I've been
+trying to I've been trying to fix you
+know like there's been this little
+bounce and I wasn't sure what it was and
+it's actually in the footage the footage
+that I was given has a little bounce to
+it I'm sure there's gotta be a bounce
+free couple seconds maybe the answer is
+maybe
+J says I'll have to get you updated
+background elements later yes thank you
+Jay no that's what you know what that's
+okay that happens that happens all the
+time again everyone is gonna be really
+understanding that this is a process
+right yeah and this is part of the
+process here's here's part of the
+process heavily fed and today today for
+subscribing to the next really how would
+you pronounce TD axp - did accident no
+you know you don't want to steal picture
+because like there is things like this
+like this little red light there's an
+there's an atmosphere and you know like
+you can see it in the the little like
+grain speckles there's a human I would
+notice something off yes the the human I
+would notice that it was a still image
+and we wanted to look you know live and
+so know what probably happened is while
+filming this somebody walks by the
+camera and jostle did slightly which is
+not a big deal I did that once I'm a
+space kappa fact really sorry about that
+J and that's okay there's a still shot
+I'm sure
+so we'll just you know we're gonna do
+we're gonna move on to something else we
+are gonna save all of that because
+here's the really great thing is this
+corner pin information is solid right
+and so basically all I have to do once
+we get once I get the right shot I just
+I just replace I replaced this shot with
+a nut with with the still shot and boom
+boom boom it works in two seconds right
+so great will save this and we'll move
+on to some channels
+shada saying you can stabilize that and
+after-effects I know I can stabilize
+that the question is would it look
+stabilized better better just to wait
+for a better or yeah or I just wait for
+an already stabilized shot like the
+problem with digital stabilization is a
+lot of times the image doesn't move but
+the motion blur stays there you know
+okay and so you have a still image that
+suddenly for a couple frames gets fuzzy
+yeah yeah that's it
+I tell me that was Jim Colin Jim smoked
+a bunch of do burrs and bumped bumped
+the camera while he was hi Jim
+you mother flipper no that's okay
+we can get a better shot that's okay we
+have all the information so now we just
+plug in the good job and it's easy it's
+easy peasy lemon squeezy all right so
+what are we moving on to now we will
+move on
+- I've been working on that's fine I've
+been working on the space cop cruisers
+why oh my lord that is not how to do
+that in this program I've been working
+on the space cop car all that will save
+we will come here and open up this save
+again of course always so I did do this
+a little bit just to make sure I
+remembered how to do this let's see if
+it looks halfway decent here and so we
+what I am doing here is replacing the
+light bars on the space cop car with
+with the SyFy lights here let me turn
+this off here so you know that we had
+these things bolted to the top of the
+space cop car yeah get this centered
+here and all I am doing is what Jay was
+looking for were kind of like what we
+need is we need like knots on light bars
+and on light bars and these are the not
+on light bars they're just white and
+eventually I'm gonna have them kind of
+like pulsating white but for now they're
+just kind of a white glowy thing right
+yeah looks pretty cool
+but it's not perfect really all I was
+doing was making sure that uh are you
+making it red flashing science fiction
+device no I'm eventually they'll be red
+and blue you know they'll be they'll be
+just like a cop but for when he's not on
+duty or when he's not you know chasing
+down the criminals they need to just be
+something they need to be non green bars
+and so they're this
+and so what I did
+Jynx Tron you do here the risk of rain
+soundtrack and it is one of my most
+favorite things to listen to while
+working and I got Chris Chris to do lose
+permission to stream with it because
+he's a super cool guy and he is another
+album actually that sounds very similar
+to the risk of rain album that is called
+hexadecimal also on his band camp we
+listen to that a little bit earlier I
+have some stuff lined up to listen to
+okay so here's what I did here is one I
+did is the first thing I'll show ya so
+first thing I did it was I tracked the
+light bar there then I tracked the front
+of the car and then a whole bunch of
+other stuff but the light bar doesn't
+move exactly the way that I want it to
+which is a little upsetting to me
+because you know like the car bounces
+right it does like this thing and you
+know like it gets a little bit of an
+angled bounce to it and so it doesn't
+move exactly like I want it to the light
+bar doesn't over and you know here I'll
+show you over an After Effects
+hexadecimal not hacks like hex like like
+a hexagon hexadecimal but I did not Chad
+I did not get pulled over while filming
+the movie but but there was one time
+when we were filming and I don't really
+get pulled over for the cops pulled up
+next to us just to check out what was
+going on mm-hmm
+yeah you know I think they came out and
+had to talk with us they said they had a
+a call from somebody complaining that
+some Muslims were driving around a car
+with missiles strapped on it by the
+airport so we dig terrorists right
+that's hilarious
+ABS had a good laugh mate when they saw
+us
+that's really funny and so this is what
+I've been this was just kind of a test
+shot and really it looks it looks okay
+that might being there's a couple things
+they need to fit fix which is like one
+the mask over here you'll see the mask
+breaks on the window and to the size of
+it it grows really big at the end for
+some reason it grows a really big at the
+end for some reason I get it I get it
+was like a sex pun and what all what I'm
+doing here is using the video co-pilots
+lightsaber effect on your light bars so
+this right here is a lightsaber which i
+think is really fun yeah see look all it
+is is a lightsaber and then I mask out
+the front of the car to make it look
+like light bars and I think it's really
+funny but for some reason it gets bigger
+I need to fix that and I don't
+necessarily know how but I'll I'll work
+on it
+just a little bit like here if I change
+the thickness
+thickness is at 20.6 where's the license
+plate number chat far from your prying
+eyes right
+oh I double-check that before I start in
+Street yeah that looks pretty good
+okay great so now I just need to fix my
+mask I was I was a little sloppy with my
+mask here as you can see that in my work
+- there we go that'll work - I can just
+do them great so that should be one
+light bar done do the other one I'm just
+gonna do the other one right it's not
+that big a deal
+the other thing I need to do is much
+like the sunglasses there is the
+reflection of the light bars on your
+windshield and so after I get the light
+bars change I need to go back and also
+put this white glow over the reflection
+of your windshield and that is a much
+larger pain in the ass oh yeah I can
+imagine but I think this looks pretty
+good everyone we're gonna see we're
+gonna see
+serious question when you shoot
+something with a logo like the Ford
+badge is there any legal type crap you
+have to deal with is that the Ford badge
+I think that's the you guys put a
+special emblem on a space cub badge over
+it yeah you can you can almost a whole
+movie though you can kind of see right
+here that that is actually not the Ford
+badge that is a special emblem that they
+put on
+but yes you do technically speaking have
+to get rid of stuff like that
+bolla hecka thank you for subscribing we
+really appreciate it
+it's true what we do 14 motherfucking
+months in a row bill you're crazy
+thank you we really do appreciate it
+earlier mochi b85 also 14 months that's
+great yeah that was her her her year or
+his or her happy Anya sounds like such a
+feminine thing I don't know 12 12 months
+your air for Suri I think it's great
+it's actually pretty good we're gonna
+use that okay save them oh come back
+into mocha and we are gonna try tracking
+this other Djem azor I had I had some
+difficulty tracking this and so I had a
+different plan but I wanted to try and
+Elvis Douglas with a slightly less
+impressive 13 months in a row you for
+subscribing really it's true we really
+do we really do you're coming in third
+place buddy
+third place you'll always find you'll
+never get a month you'll never get a
+month on Dula hacker I guess what we're
+saying is get your shit together first
+being in second place for all time I'm
+so sorry
+thank you
+no no this is something I'm just testing
+out because I want to know it's my work
+nope this might work nope no not at all
+not even a little bit okay
+nevermind when I was when I was testing
+out this effect way way back in the day
+I tracked the side of the car and that
+worked a lot better for all the bounds
+that you get and I can't track that
+that's okay we'll just drag this and
+everything will be fine
+not a ton of information for a mocha to
+deal with but I'm hoping it's just
+enough
+so we have this little circle here and
+his front which is a decent point you
+know would have been an average that we
+had no way of knowing nobody had any way
+of knowing at the time if we had some
+sort of like distinct markers on here I
+could have tracked it a lot better but
+not blamin I ain't blamin oh well those
+were painted silver I think of those
+original we're gonna be just like it's
+gonna be tell it part of light bar
+mm-hmm oh I have no idea I have no idea
+what's going on
+Circle
+yet if you mean by stunt-driving that i
+just drove around the city next to my
+candor Jai's car then yes I did do all
+of my own stunt driving when the car is
+flying it's it's not really flying so I
+can't call that stuck driving yeah whoa
+oh you fuck what look at this look what
+happens so I I hate track and it it
+bounces to the other one oh really
+my god like it bounces to the other
+light bar because they look so similar
+in track what do you what do you what
+are you trying to do both at the same
+time maybe Oh God get over here no I
+just need to I just need to remind it
+who's boss here you stay where I put you
+I think we just need to start it like a
+little different area if you do this
+again I'm gonna be mad we did not we
+don't I don't think we got permits to
+drive around the space cop car but we
+did ask the police station nicely so
+yeah we're driving around those goofy
+car in this area to stay is that okay
+you know that's the great thing about
+the City of Milwaukee and filming is you
+don't need a permit to film on public
+property and so you can film stuff like
+this out in the open whereas like for
+example in LA you need a permit if
+you're filming anywhere outdoors like if
+you go to a park and film you have to
+have
+to film there what makes a fair amount
+of sense I mean not many people filming
+Milwaukee right right but actually was
+that was part of a like a big we used to
+have a film initiative here in Milwaukee
+this mask is just not gonna work you
+know where we tried to give tax
+incentives to people to film here and it
+was a horrible bust but nobody because
+nobody cared to film here but a little
+different here tracking a larger area
+why did that bus jack there's just not
+enough information you know it's a solid
+gray it's a solid gray sphere or a solid
+gray circle and it just it's too blurry
+and it confused the computer there is
+not enough information what's really
+nice to track like for example when I
+tracked the front of the space cop car
+here lots of harsh contrasted
+contrasting areas lots of jagged edges
+lots of different color variations a lot
+of information for mocha to track right
+but then you look up here and it's just
+just a grain blob you know oh yeah I
+think we do have the space cop badge on
+the front of that Ford logo yeah yeah
+let's see thinking a little closer I can
+enhance zoom in enhance that's
+definitely the space cop logo you can
+see it right there I'm zooming in
+enhancing
+you know somebody somebody 3 printed the
+couple of a few of those out and send
+them to us oh yeah that's really I saw
+those those are great someone 3d printed
+them yeah we got we got some view side
+of it there you go the offhand chance
+that you are in the chat right now let's
+just stop

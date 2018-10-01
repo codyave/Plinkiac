@@ -1,0 +1,1476 @@
+Space Cop Effects Work!!!! (part 2)
+August 23, 2015
+https://www.youtube.com/watch?v=3wo3otIkUjE
+
+in the chat right now let's just stop
+all right let's try this again let's see
+if this can track any better and then
+let's turn off sheer and turn off
+let's try rotation too so so all these
+things these are the things that you can
+track translation scale rotation shear
+perspective the more of them you have on
+the more likely you are to fuck up your
+track and so then you just have to
+decide what's important you know and
+really the important stuff is
+translation the position of this and the
+scale the size of it because it does
+come closer to camera so I'm hoping this
+will be enough oh it's fucking up
+already that's fine that's fine we can
+fix this as you can see like still not
+enough information it's kind of like
+sucking in here but that's okay we can
+fix that
+Shaz asking this pattern recognition the
+only method to track no no I it's where
+I have the most experience I use mocha
+all the time for tracking because I
+think it works the best
+over in after-effects and we can give
+this a try just so people can I can see
+it you know let me finish this up and
+then we will try to track and
+after-effects to show you the difference
+After Effects has kind of point
+recognition and this is planar tracking
+don't think you should use the fancier
+tracker the tattoo I know the plane
+tracking is apparently really not
+working for me but it's a good joke rich
+that's an acceptable joke it's a joke is
+what it is so I appreciate that
+really I appreciate you just you sit and
+then talking with me while I'm doing
+this or else it would have been a very
+quiet stream
+but see not bad like there was a little
+like scale mix-up but overall now that
+so all I'm doing now is kind of
+correcting the scaling of the mask right
+and because I knew I drew it I drew it
+right around the object it still does a
+really good job of like sticking to it
+you know like catching the bounces and
+whatnot but the scale just needed to be
+adjusted so that's the pretty good good
+purple purple space Pacifica likes the
+architecture and the background
+buildings I thank you we spent a lot of
+time on that yeah yeah yeah yeah you
+wouldn't believe what a pain in the ass
+it is to get a whole building go you
+know the background of a shot but I know
+that that world building is something
+that was really important yeah to you
+Jay and Mike and and I think I think
+what that shows is just your your made
+up it ate up the budget though I mean we
+had nothing to spend after that right
+right you can see I'm wearing he's we've
+got a thrift store outfit I mean that's
+a real time that's just beautiful
+downtown Milwaukee beautiful old-world
+Milwaukee all right so that does a
+pretty good job it's not the most solid
+track in the world but I'm gonna say
+that's a pretty good job and so here's
+what I'll do so now as a comparison boom
+let's do this let's Expo a should label
+your layers always label your layers
+right bar track
+and I'm cliff fat and lock it so I can't
+mess with it later let me take our right
+by track explorer tracking data
+transform data copy to clipboard back
+and after effects new no object that no
+is the right and I know technically it's
+the left bar but because you know like
+it's it's camera right that's what I'm
+that's why I'm really had a right bar
+yep well it's for your reference that's
+for my reference right that's for the
+car's reference but confuse the car it
+would it would absolutely confuse the
+car alright so let's see here
+all right so that so now we have our
+know from oh and you know actually hear
+of no mocha right so that's our mocha no
+and now I'll turn our mocha no off come
+back to the cruiser over here in this
+one and we will try tracking it in in
+after-effects previously recorded live
+rich aside from obviously being space
+cop himself awesome what other things do
+you contribute I I was the architect up
+building that we blew the entire budget
+of the movie on you you see this
+building
+yeah it's rich design like this red
+building right here rich spent I mean
+one for weeks getting three and a half
+but do much I worked like like 10-hour
+days that's it that's an impressive
+facade right yeah and you know there was
+a big argument there's this green arch
+here I mean we had to tear down this old
+beautiful building that used to be there
+in order to put that in front of it
+ya know enrich a really fought for the
+greener old building we had to fight
+with us you know the historic council
+and yeah we got to put up our our new
+false front building yeah no no I think
+it looks great he rich wanted that these
+white stripes originally to be green
+like the arch and we had to fight him on
+it just for time but you know I know you
+really wanted that art
+Stickley because it represents i think
+you called it like the dying planet
+which represents space cops inner
+turmoil yes yes exactly
+okay says the building looks fake okay
+getting stuff set up here so now we are
+going to the motion here and so what we
+have here is a point tracker and we'll
+see if this does a better job sometimes
+I'll be honest even though I like I like
+Moka more sometimes the after effects
+tracker does a better job if you want to
+know what I did in the movie there's
+almost certainly going to be a behind
+the scenes feature speaking and or
+bluray do you think yeah do you think
+they'll be behind-the-scenes featurettes
+think that's I think that's very
+possible more features it's multiple of
+them yeah yeah I do I don't think
+they'll be quality they'll be
+high-quality extras blu-ray hey for
+subscribing appreciate it it's sure we
+we really do okay so this is now
+after-effects tracker and it is not a
+planar tracker like the the the way the
+MOCA tracker works is it looks for
+surfaces and then it tries to justify
+those surfaces in a 3d space right and
+that's why it does a really good job of
+tracking this is a point tracker and all
+it looks at is pixels and those pixels
+in relation to the next frame right and
+so we'll see if this works any better
+and it might anyways
+I'm sure not bad slushy patch wants to
+know rich did you get a regular trailer
+or a deluxe trailer I I got a teaser
+trailer i we need like we did list we
+need like a morning show radio sound
+effects rich we need people we need
+people to go I would like a thing either
+in my pocket or hanging off some kind of
+necklace for was just a button I could
+press and then it was a rim shot yeah
+wouldn't it be the best thing I mean no
+it probably wouldn't be the best thing
+but you know if you want to believe that
+someone someone in the chat send me a
+rim shot keychain I want a room shot
+keechak lend me one goddamn it we need
+you we need it we need something more
+than a soundboard though all right okay
+so this it just does the rimshot I'll be
+happy yeah yeah yeah all right this is
+actually working pretty well so that's
+all I could even track no no rotation
+won't help so then we added target and
+we
+okay okay so now our new law no actually
+what we can do here is we should delete
+our tracker because that'll just eat up
+the memory so our new tracker is there
+and good dual dual 871 a rim shot is
+something used to see more with older
+comedians where once they told a joke
+after the punchline there'd be a drummer
+from the band nearby and he would go
+dum-dum what's being the cymbals it's
+gonna just like a stinger to the jokes
+to the effect go on reg I don't know
+there's much more to say something I'm
+forgetting about the rimshot that you
+would like to add Jack nope
+I'm I'm sorry what was that rich well
+that's what was that what was what
+alright let's see how this looks let's
+see how this looks so this is with it
+attached to the aftereffects no and it's
+just gonna take a moment to render out
+rimshots oh you know why this isn't
+gonna work
+what okay so here's here's the real deal
+here's here's where it gets real I know
+that you're about to see you're about to
+see why it's not gonna work or why it
+would be more difficult and you might be
+noticing it already the the bar right
+now is very small right because with
+After Effects in order to calculate
+scale or rotation you need another point
+on the object in order to you know give
+it some sort of relativity to use your
+scale right and so what you end up with
+with this is we don't have any scale
+hooked up to this null and there's not
+another good point on the light bar and
+so it's a good track like you know the
+motion looks really good but yeah let's
+turn these off and so you know because
+we tracked because we tracked this this
+gray bar on this in order to get scale
+right for this area we would need
+another thing on the bar and because the
+rest of the bars just a solid color
+wouldn't wear it really work I could use
+this the other silver thing from the
+other one as a scale relativity marker
+but because it's at a slightly different
+location you know it's a little bit
+closer to the camera and it moves a
+little bit
+different battle throw it off and so
+that's what happens when we do that but
+luckily we have the there we go we have
+the mocha knoll
+ready and waiting in the wings right bar
+mocha so now let's give that a look
+hopefully this will scale better this
+will scale better colin is asking if I
+could do the glowing light tubes and in
+his shots you know for continuity
+absolutely absolutely send him my way
+that wasn't a joke
+that wasn't a joke rich so now let's see
+if this scales properly J doesn't have a
+lot of work to do walk this way J is
+Jay's a monster editor I haven't seen
+him in two months that's true he's been
+sitting in front of that computer for
+ages it's truly his hunch has gotten
+noticeably worse his beard we now have
+to get him an extra chair just to hold
+his beard which is groans what you can't
+be stopped now that's funny hello hello
+jack yeah rich Jack rich rich hello
+hello I can hear you I'm here you're
+back there game I think I accidentally
+turned down the hit the volume knob on
+my headset here okay everything when you
+everything went nude yeah oh yeah oh oh
+a key hold on whoopsie
+okay
+now we gotta watch it again the job 1980
+1996 or DJA DJA 19 says previously
+recorded live I discovered you guys last
+year when I was diagnosed with an
+illness which basically paralyzed me in
+bed for a year you guys really kept my
+spirits high throughout all this and I
+really just wanted to thank you guys as
+of last week I'm finally back to proper
+health and I'm going to film school I
+just wanted to thank you hack frogs
+frogs for the content I look forward to
+more in the future yes
+we don't order a poster I'm gonna love
+it if you guys could sign it we would be
+glad to sign it that's that's so sweet
+it is great I had to read it that's
+that's I won first congratulations on
+getting your health back I can only
+imagine that was incredibly demoralizing
+any sort of injury like that so
+congratulations and you know glad we
+could do something even even if it was
+just be Schmucks on the internet we're
+pretty good at that I mean I hurt my
+back for a little bit last month so I'm
+more than anybody else know how you feel
+right Yeah right hold on we ran out of
+music I'm gonna switch I'm gonna switch
+music now and people people might not
+like it oh no you know what I can do
+this people might like this
+I doing doing my proper produce Oriole
+duties I got permission to use songs
+before the stream because that's the
+correct thing to do getting permission
+to use songs this is a local band and I
+happen to be friends with them
+and I sent him a message asking for
+permission and I'm sure he's gonna say
+yes I didn't actually get permission but
+this is a band called golden coins and
+they're from Milwaukee and I enjoy
+listening to their music everybody is
+clamoring for Lady t-top now only we
+can't use Lady t-table because I didn't
+get permission to stream like it eats
+huh I reached out to a few people and
+and some got back to me in some didn't
+and but Sunday so you can't blame
+everybody that's pretty good and it's
+pretty good actually this is right one
+you know on the the left one here we had
+a problem where it got too big and the
+right one I feel like gets smaller so
+actually I want to change that a little
+bit doing it already not on point
+laughs bar I forgot to label the light
+bars and I almost got really confused
+okay here we go
+also this music is slightly different
+and so tell me if it's too loud so so in
+the spacecraft universe why are there
+light sabers on top of a car because you
+know light sabers are multi-purpose we
+don't cut anything I mean these are just
+lights these are fancy lights right the
+car does not get into a sword fight the
+subjects won't be happening in the films
+and that's true I'm reading in the chat
+we did not get permission to use lady
+teats on before and that was a mistake
+on our part we got caught up we were
+young streamers I mean that was 14
+months ago that we had lady teeth come
+in there
+again okay now that's pretty good
+what are we doing okay there's space
+lights exactly and the this is just the
+beginning basically all I'm trying to do
+here is get the tracking down right and
+what's gonna happen next is they're
+going to pulsate some sort of grind yeah
+I know they're gonna do like a grape
+pulsate thing so right now all I'm
+trying to do is get their motion to look
+right and here I think I think I have it
+that looks pretty good they're doing
+like a glow thing is that part of the
+lightsaber effect I think that is maybe
+it's part of the lightsaber effect they
+flicker this is the problem is they're
+flickering rich put a stop to that shit
+yeah yeah you know what just stopped it
+get that flicker out of my jam okay
+his shadows it's twitch plays Dark Souls
+still a bust
+no I heard they were doing well I heard
+they were doing well but they were
+cheating oh yeah she think how oh I
+don't know I just saw the headline and I
+moved on I have not been paying
+attention to the twitch plays part
+twitch plays Dark Souls have you noticed
+twitch plays Pokemon in the chat ever
+since our Pokemon stream yeah yeah did I
+did I did I chase twitchplayspokemon
+away no he came did I when that he came
+back doing something funny you guys do
+realize it during that stream I was kind
+of I was kind of playing the heel
+wrestler at some point did the jerk oh
+no no sorry I was I was giving everybody
+someone to root against and having fun
+doing it sure my god happens here
+that's weird look look at this left this
+left bar and it just it jumps it jumps
+in size for some reason and I don't like
+that I don't like what it's doing there
+Jim LCD software thank you for
+subscribing we really appreciate it
+mm-hmm that's true we do what what oh
+why are you rimshot Eng subscribers I
+don't know what you're talking with and
+yes
+Diogenes lamp I am trying to diminish
+the effects of the bar right now the
+scale of the scale is changing for some
+reason but there's you know like just
+frame to frame there's no reason for the
+scale to change that much you know
+relative to the car the scale shouldn't
+change that much and so basically all
+I'm gonna do here is take these are all
+key frames these are individual key
+frames that came over from the MOCA
+track and the middle one is the scale
+and so all I'm gonna do is remove the
+key frames of the scale and see if that
+works you know just like if I remove
+boom those three and scale key frames
+like they still jump up but it's a lot
+more gradual actually I want to just
+remove them all
+if I just get rid of all of these scale
+keyframes and then of the scale will be
+a lot smoother and there won't be that
+one jump let's see that let's see how
+that looks
+you know they're still getting bulky at
+the end there but it's definitely a lot
+smoother which I'm which I'm liking
+you know cuz really at this point the
+car is like is pretty flush with the
+camera you know like here the car comes
+up so they get bigger but then from here
+on out they should stay pretty flush
+with the camera actually I'm just gonna
+see what happens if I remove all of
+these scales
+get rid of this one as well that is much
+much better that is much much better
+okay let's take a look at that
+yes that looks much much better
+and this right here you are seeing the
+incredibly exciting part about editing
+anything which is just watching it over
+and over and over again yes the only
+thing I wonder is I know like if I take
+away the other thing that doesn't quite
+look right is like I I put the the the
+light bar kind of on par with where the
+real bar was you see that we're kind of
+like hi it kind of like disappears
+beyond the the car but doesn't that make
+it look weird doesn't that make it look
+like it's coming out from the car oh
+I'll have to see once once I catch up to
+where you're showing me what now like
+doesn't it almost look like it's going
+up instead of straight out and see
+without the glow again and so like here
+is without the glow and even even
+without the glow they look like they're
+going up it's just like a weird like
+camera perspective thing I think it's
+possible you've just been looking at it
+too long and then his possibly too many
+times it seemed weird after a while
+that's true that's true
+here's what I'm gonna try just just for
+shits and giggles as we are going to
+we're going to take our lightsaber
+controls here and just take the back of
+it and move it up a little bit
+Tiberius Kirk says yes Jack you are
+absolutely right it looks like it's not
+tracking the plane of the light bar hey
+now Tiberius Kirk that is not nice
+that is as that hurts my feelings
+now here and he's the great stuff is
+like all of these Sabre controls and all
+of that like the individual controls for
+the light beam they have nothing to do
+with all of that tracking data so I can
+mess with this all I want and all that
+same tracking data still applies you
+know so just something yeah so what I
+did now is I kind of moved it so it's
+more on top of the car I think it might
+look better I think it does too
+so French strat tres
+thank you for subscribing we really
+appreciate it
+French direct res yeah thanks fret
+stretch res that's treacherous yes that
+looks much better now I've moved it to
+like be on the top of the car and that
+looks much much better
+great no I mean I have to redo the
+reflections anyway and so I'm just gonna
+mess with the reflections it might it
+might make a little bit of a difference
+but not I don't care because people
+aren't gonna be paying that much
+attention to the reflections they're
+gonna be paying attention to the big
+shiny glowy light bars on top and this
+looks much much better but good looking
+out good looking out everybody
+take a look at this right bar now and do
+the same thing just strange letters is
+you guys gonna do any special editions
+of space cop and will rich shoot first
+we can we can barely get a regular
+edition dump we're working hard on the
+regular just space cap you know that's a
+that's it we'll see Lando was taken
+thank you for subscribing we really
+appreciate it
+it's true Lando we really do Lando was
+taking us at 11 months 11 months that's
+nice you guys are fantastic I can't
+believe we've been doing it for that
+long and that you guys have been with us
+for that long okay
+this looks much better now I've adjusted
+the right one and now it looks like
+they're sitting on top of the car it
+does I feel much happier about this
+great so now let's just make sure that
+they do it for the entirety of the shop
+so once again we watch the same shot
+over and over let me let me get ready
+with the rim shot but for when this
+inevitably fails I think I just need to
+adjust my mask but I think over oh
+you're about to say something I did
+wrong but that's okay that's an easy fix
+the the this is the right bar is in
+front of the left bar and so it makes it
+weird but that's okay we just go like
+this
+that's an easy fix
+that was dumb that was funny
+okay now I think there's a little like
+there's a weird like sighs thing we need
+to deal with and I really should motion
+blur these that'll help
+that'll help smooth it out okay here we
+go
+they look like two glowing cocks maybe
+you know maybe they're going cops they
+don't look anything like glowing cocks
+do you think anything that's like a rod
+shape looks like a car you look like a
+pack of batteries and you say like look
+at all those cocks kind of coke is it
+can I have a can of cock maybe maybe
+they don't know what cocks look like
+there's more to being a cop than being a
+rod you know the the you know yeah this
+is looking pretty good now that I've
+added the M we have we have some scaling
+work to do yet cuz now it gets a little
+it's a little funny scale wise but this
+is looking pretty good
+I'm relatively happy with this I also
+think like this whole left bar needs to
+penny and I go over here more
+no bottle of Mountain Dew let me drink
+from that cock what wait I'm sorry we
+think you kept a nitpick for for linking
+to the golden coins I I really enjoyed
+this band the the bass player is a good
+a good friend of mine also actually a
+visual artist here in Milwaukee a
+post-production graphic designer artist
+and I really enjoy I know this is the
+kind of stuff I really enjoyed listening
+to while working cuz it's soothing
+so thank you for linking to their band
+camp golden coins okay let's get back to
+this let's get back to work rich right
+it's good you just said did you that is
+incredibly not helping me
+knowledge junkie thank you for
+subscribing we really appreciate it
+it's true we really do
+so here's nothing I don't know if anyone
+noticed is like I have this I'm asked
+out the the front the windshield of the
+cruiser stuff to get the perspective
+right here's what it looks like when you
+take a mask off now that looks like a
+couple in DX
+okay so what is that though there's like
+this weird black bar but I do think
+that's the top of the I need to mess
+with my mask I should be fine now that
+just looks like the type of guy that's
+fine
+okay do do to do to do what do I need to
+do rich what do I need to do what do you
+have to do here it is this is this is my
+problem here is now so like I'm really
+digging this perspective yeah now that
+we've changed up like kind of where they
+are on the car yeah
+I'm really seeing those reflections now
+well oh sure that's next
+don't you worry that is next that's got
+to be difficult um no you know hopefully
+the real hope is that we can use the
+tracking data we already have from the
+from the top bars yeah and just apply
+that like the same nulls that we're
+using now of just apply that to the
+reflections and hope to mask them out
+okay we're getting a little like floaty
+you know like the bars are kind of up on
+top and then the car slumps down a
+little bit but the bars don't slump down
+all the way so there's a little key
+framing that I need to do to get these
+things to look right and a little size
+thing like this left one looks smaller
+and then you know as they get closer the
+perspective gets right so I need to
+change it for a couple things but I
+think overall I'm very happy with other
+you're doing great jack I'm feet I feel
+like I'm doing great I'm glad you know
+what I'm glad this is at least we're
+getting like we're showing people at
+least some progression and I'm glad I
+wasn't a total clusterfuck I was really
+worried we've been we've been streaming
+for two hours have we been that you've
+gotten partial work done on a grand
+total of four seconds of movie ask Jim
+and Colin that's exactly oh my god if
+we've been doing this for two hours I
+literally need to get up and just my
+legs first night 10:00 10:30 one is
+10:30 already oh my god
+we take broke I have a problem rich I
+don't notice time when I'm working I
+have a real problem that's that's how
+much of a workaholic I am I just love
+doing this so much now I don't even
+notice okay okay okay here is what it's
+gonna happen that's how we did it okay
+great I'm gonna meet me for a second
+okay and I'm gonna mute Richard for a
+second I'm gonna stretch my legs get a
+fresh beer and we'll be back and we will
+continue I think we can get this shot
+right here I think we can get this
+finished tonight oh my god
+that's probably I mean it's probably not
+gonna happen but more so because the
+next music I have come up is gonna be a
+pump a shot of adrenaline and no one's
+gonna like it except for me so it's
+gonna be growl it's gonna be it's gonna
+be great
+you
+and we are unmuted thank you
+here's here's a real thing about me is I
+have a program on my computer I need to
+figure out what it's called now I just
+got it in it works really great I got a
+special program on my computer that
+every hour it pops up a little reminder
+it's called stand yeah and literally all
+it is is a an hour timer you can set it
+for you know any time every hour so I
+set it to the half hour every hour and a
+little thing pops up on the screen it
+says you need to get up and walk around
+now okay because if I don't have the
+little thing that reminds me to get up
+and walk around every hour I just don't
+you will never get up I will never get
+up and watch ever I know I die I
+wouldn't all day like unless I needed to
+do something I sometimes I go I forget
+lunch you know okay so let's get back to
+it Oh music we are now we need a pump
+shot of adrenaline now and so we are
+gonna listen to one of my most the most
+ridiculous Milwaukee musician ever to
+exist juice box with triple exes I
+fuckin love juice box so this is juice
+box
+Thunder zone volume one okay it's like a
+mixtape for rich I won't be able to hear
+any of them you you're not able to hear
+any of it but I can hear it and I'm so
+into it you have no idea how much I am
+into it
+I love juice box
+I got I got juice box I got a tallboy of
+Miller High Life the champagne of beers
+like I'm leaving life underpaid movie
+editor
+that's exactly alright here we go I
+hopefully you guys can hear juice box
+cuz it's the greatest alright so first
+thing we're going to do is figure out
+that there's this weird like size thing
+that's happening right here the size and
+floaty thing that's happening so I like
+the size that they're at here and it's
+this left bar and in After Effects if
+you're on any layer so right now I'm on
+the Left bar layer and I hit that you
+button it brings up all of the keyframes
+that you have on that bar so like here's
+a keyframe and I like the thickness of
+the bar right here so I'm just gonna
+know what makes a keyframe a keyframe
+Jane a keyframe just um gives the the
+value for any or gives a number to any
+value and so like right now I have a
+keyframe for the thickness right the
+thickness of the light bar and what that
+means is I can animate it so right like
+right here the thickness is at twenty
+point six now I can go way to the
+beginning and say I want it to be let's
+see what looks good here twenty two
+point seven looks pretty good right okay
+and so now the first keyframe is still
+at twenty point six but now the new
+keyframe at a different point in the
+timeline is at twenty two point eight
+and so it's a way that animates values
+its manually adjustable manually just at
+exactly
+juice box is a hot mess Krieger he's a
+fucking hot mess and I love him for it
+that's great that looks great so and
+because we took the light bars and put
+their position and scale on a null layer
+so they're basically just following the
+null and then what I can do is fine-tune
+their position and scale and size and
+stuff without messing with the overall
+position and scale it's really neat it's
+like it's like a puppet being controlled
+by another puppet you know purple track
+70 forces oh shit space cop thank you
+for joining us furball track you you
+missed the rich Evans walks through the
+door for an hour see you had already
+come through the door at that point okay
+rich Evans walks further through the
+door repeatedly and forwards and in
+Reverse I never said that tonight was
+going to be exciting I just said we were
+gonna get some work done and that's
+what's happening I think it's valuable
+if you want to go into full you know
+what's involved with this i I really
+enjoy the this kind of part of it
+because it is it's so intricate and it's
+so detail-oriented that I can really get
+into it the only issue now the only
+issue now and I knew I was gonna run
+into this problem is what we've tracked
+here with these is one point in space
+right but these light bars should be
+bouncing with the car you know the back
+of the bars need to kind of taller than
+the car at some points and it's not the
+bars and you'll notice it like right
+here especially the bars are staying
+stationary while the
+bounces up and down and while its
+overall following the movement it's not
+perfect it's not perfect with the hood
+and that is bothersome sounds like a lot
+of manually adjusted it's either a lot
+of manual adjusting or I need to figure
+out to figure out how to do this so I
+can you know automate the the process
+but I think this is pretty good for now
+I think basically what I have here is a
+really good start
+servos zero eighty-six thank you for
+subscribing I don't even know what I was
+laughing at then it's an important
+person Jack and you didn't even say your
+line you missed your life oh my god I
+wasn't I'm sorry I was looking at the
+shot yeah we really do we really do
+appreciate it it's true we really do I
+think actually here's what here's what I
+think the real problem is yeah I can't
+listen to juice box and and talk to you
+or I could be you do it differently than
+I do it what let's try it with another
+one Donny was like don't even think
+about I think turn April Ryan 22 thank
+you for subscribing we really appreciate
+it
+it's do we true Oh Jack April Ryan
+subscribe she was very happy to
+subscribe and you fucked up or thanks
+you fucked it up you know what I made it
+unique
+I made her thanks unique you just just
+you know sir is her prom night you just
+dump pig's blood all over that is not
+true that is exactly how she's gonna
+come nuts and she's gonna kill everybody
+with her brain don't don't kill people
+with your brain here's what's really
+gonna happen
+what people I'm assuming her I assumed
+genders based on names sometimes I'm
+sorry I'm I'm a horrible person
+you are because I see April I think I'll
+female because I've never met a male
+April that's never happened I'm going
+back to Chris Krista dulu here's what's
+happening because the juice box was too
+intense in my ear this is what this is a
+real thing that was happening is that
+trying to listen to you and have a
+conversation also pay attention to the
+shots and also pay attention to the chat
+while juice box was happening in my
+brain was too much and I listened to
+juice box a lot while editing button the
+added oopsie they got the added chats
+and rich chat
+I needed to this is a real thing that
+needed to happen okay okay we need some
+more coffee
+let's get back to work okay
+all right here we go jack to switch to
+Slayer I'm not switching this layer no
+we are gonna listen to the the lovely
+music of Chris Christie do Lou this is
+his album hexadecimal how about rich
+Evans sing Slayer can you think it's
+layered would that be acceptable
+probably not okay so these light bars
+I'm gonna say they look pretty good for
+now like the the movement overall
+matches and basically I'm just gonna
+have to go in there and fine-tune the
+rotation of them which I can do but I'm
+not gonna worry about that for now
+because what I want to worry about right
+now is the reflection so we're gonna see
+if we can do this a cheap and easy way
+that's it we're gonna try to do and I've
+done this before and I want to say I got
+away with a cheap and easy so you're
+gonna proudly announce to the stream and
+everybody that you're going to do this
+to cheap and easy way the cheap and easy
+well would you like the movie done this
+year
+you know there's only there's only so
+much I can do but this might work this
+might work and if it doesn't we can
+always go back to something a little
+more complicated later
+this might work
+obviously this looks great already I can
+know I know you can tell that so here's
+what I'm going to try I'm gonna try is
+just masking out masking out in a white
+layer the reflection and then messing
+with the opacity oh my god that looks
+awful yeah that's incredibly not helpful
+me what you're doing not helping
+no no even dere's not good all done so
+then the other thing I want to try to do
+is if we take this to the left one does
+this even stick on
+Berserker says no one will notice this
+by the way well you know you got take
+pride in your work and take take a
+little bit fried you well you you'll
+notice Berserker here here's them here's
+the real thing is it's possible that no
+one might notice you know it's like this
+tiny little green reflection in the
+windshield right and yeah right like 90%
+95% of people watching the movie would
+never think about that right yeah but
+for that 5% a little effect like this
+can mean the difference between you know
+keeping with the movie and it's
+something that's important to me like if
+I saw a technical flub like that I would
+be taken out of the movie and obviously
+space Coppedge is a schlocky comedy
+right but plus with our stuff people
+will be looking for right fine toothcomb
+right here
+this isn't it this isn't it but this is
+working we're somewhere I mean there's
+gonna be enough flub just with stuff we
+missed so we really can't afford to let
+things we do notice go right I I almost
+missed the sunglasses thing that would
+have been horrible I would have been
+horrifying right if I miss the
+sunglasses thing this isn't bad this is
+bad this is maybe if we do that's a
+little better
+yeah just playing around with stuff yeah
+it's playing around with stuff like to
+add and then let's take this and add a
+blur fast blur
+good
+and didn't work at all is it because
+rich is a funnier character than we've
+ever had to see the key to all of this
+I've never heard that one before that's
+that's a new and original joke that's a
+totally new also original joke you know
+what that doesn't look good that might
+be how it would reflect you know also
+just trying to figure out like how
+something like this would reflect off of
+a windshield it's distracting in any
+case what how that works oh yeah yeah
+I'm with you just bring it down a lot
+intensity intensity light huh
+maybe yep
+actually yeah could we just do one what
+if this will work this is this is where
+you really notice that this is not like
+I haven't done this particular shot
+before because I'm still figuring out
+how I'm doing the effect yeah yeah and
+that's that's part of the process is
+just figuring out how the effect is done
+in the first place
+air air bosses haha how awesome would it
+be of George Lucas bitterly tore apart
+every aspect of this movie you know what
+that would be the best possible fucking
+thing that could happen oh my god cuz
+that would be some attention
+shit load of attention George Lucas
+tearing this movie a new one that would
+be great can we make that happen
+I could I could buy a house if that
+happen oh god yeah that's better
+that's better but is it good is the
+question
+rich is it good
+I don't know it is better it is I think
+it's better I think it's better hold on
+this whole thing I want this whole thing
+come on I can move it up you know you
+know what the funny thing is hmm before
+right like like the week before George
+Lucas sold Star Wars to Disney for four
+billion dollars i I was joking around
+with Mike and Jay and possibly you were
+if you were there not that we should
+make a Kickstarter for four billion
+dollars to buy Star Wars from George
+Lucas billion oh sure just a number out
+of your ass mostly whatever the sale
+price actually was that's really great
+no I think I think that was the best
+possible outcome he I just don't
+understand why he held on to it for so
+long
+ego ego I mean money obviously like it's
+it was worth four billion dollars right
+but I can only imagine that it I can't
+blame them for holding on to it
+and I mean it to be perfectly fair
+wouldn't have existed without him I mean
+yeah sure that's true that's just fuckin
+ruined it later in his life but she had
+that right and guys I remembered that
+I've moved the bars button here's the
+bad part as I can't necessarily move the
+reflection because I'm covering up the
+old reflection so maybe I just have to
+widen it
+what are you doing what are you doing
+you don't know rich you don't have to
+you don't have to answer that question
+that wasn't necessarily for you you know
+it's it's what I'm looking for here is
+tough because I need to both cover up
+the green but also make the white on the
+window reflective you know you could
+track the windshield first then key out
+the green then add a small flare
+technically speaking I already have was
+that some Jim and Collin advice no no
+that was um I given column laughing
+given calendar probably laughing yeah
+because they probably have the correct
+way to do this well that's okay okay I
+but I already have here's the great part
+is I already have a track of the
+windshield so what I can do here back in
+mocha I kept a mocha opened the
+windshield mask great great great great
+great so make a couple new explains here
+strange strange letter I don't think it
+would matter if JJ Abrams has seemed the
+the placate refuse
+I mean he's he knows what he's doing
+he's a decent filmmaker I think I think
+you can count on a quality bump from the
+prequels no matter what mm oh ya know
+and I think this I think this is what we
+have said the literally entire time
+since we first heard that JJ Abrams was
+directing Star Wars Episode Episode
+seven which is it's gonna be fine it's
+gonna be absolutely fine
+it's gonna be everything's gonna be fine
+everybody there are worth phone seven
+now why I just don't understand why JJ
+is not doing eight and nine because he's
+something something's about it that he
+doesn't like yeah so there's there's
+reason to worry
+no no I think that actually might be
+reason to be okay with it I think you
+know JJ has grown accustomed to a
+certain level of freedom yeah
+also his movies have been terrible
+thinking specifically of into darkness
+his falters of the writers fault he has
+control over it so it's he's the captain
+of the ship if the ship okay you can't
+blame the navigator if you're the
+captain you make those decisions right
+okay and so it's quite possible that
+Disney being the smart business people
+they are wanted you know possibly
+standard and you know maybe a more
+boring movie than he was going for but
+you know he wanted something a little
+more into darkness II the next two were
+just like big question marks in my brain
+mm-hmm in what way I don't know what
+you're gonna get with the next two after
+the JJ Abrams one that's true
+that's really true do we know any
+directors yeah I have no idea no other
+thing well then the answer is no isn't
+it I just know Fantastic Four guy almost
+did the one of the spin-off so you know
+what you got to lock in those contracts
+man gotta lock in those contracts while
+you can you're only remembered for the
+last movie you made you should have you
+should have locked that down while I
+could before Fantastic Four bombed
+you call fantasy for a nuclear bomb no
+because a nuclear bomb is at least
+exciting
+that's just marvel so I guess it would
+be a gamma bomb boom no it was a like
+what's the most pathetic bomb it's the
+question pathetic bomb yeah what name
+it's like a fart bomb it's like the
+smoke bombs that you get at the firework
+store and then you know you only
+remember the epic ones you remember the
+lone Ranger's the water world's the
+Ishtar's I think like a remem mild Bob
+Lone Ranger was it was a nuclear bomb
+Big Trouble in Little China mild bomb
+great movie mmm by the box office
+mild bump oh yes yeah no no something
+like something like you said Lone Ranger
+that's and that's that's a great bomb
+that's a beautiful bomb that's a bomb
+that we will watch the footage of over
+and over again chat saying JOHN CARTER
+hmm Oh John Carter was a glorious bomb
+that was their new franchise
+but yeah Fantastic Four will be a it
+will be a whimper I mean it will be not
+to get too terribly topical but you know
+tonight is the the deadline for for
+North Korea apparently attacking South
+Korea it will be on the level of what
+I'm sure their bottoms look like the the
+deadline
+what happened there's this thing happen
+have you not been paying attention to
+the news I know I don't have TV I just I
+get everything every news I gets from
+the internet no that's where I get my
+news to and managed to miss this Korean
+news apparently North Korea is is
+attacking South Korea tonight that'll
+happen yeah exactly
+well that's what I'm saying the
+Fantastic Four is on on the bomb level
+of them a vo how adorable you think
+you're making a bomb that's pretty good
+well there ya they were they wanted
+there was some sort of there was some
+sort of like were attacking South Korea
+at you know whatever time Sunday night
+unless something happens yeah I don't
+remember exactly what the you know
+something or whatever was but
+all right so these are barr-reeve
+elections export data clipboard bring
+him back over here we take our Cruiser
+great
+let's see here it'll be fine you know
+alright you'll be fine mmm to placate
+the crews their bottom Cruiser and add
+the masks take smoking mats a boom
+and subtract them
+I'm above no no no I would not subtract
+we need intersects no difference
+mmm what have I done wrong many things
+in my life I think I think that everyday
+Jack every day so I wake up what what
+mistakes have I made oh oh god I'm such
+a dummy I left the other that's the
+other one on is what me is what I did
+wrong Oh everything so I am don't worry
+okay dummy dummy get your head in the
+game
+rich mostly rich check that in the game
+okay one masks when shield masks don't
+care about that mask anymore you are
+pretty good at turning me on that's a
+quote from The Simpsons yeah yeah that's
+cool that's quote from The Simpsons I
+wasn't saying that just about rich know
+what the Simpsons are okay great so now
+what we have here is a cutout of just
+the reflections the layer below it is
+the windshield for the foreground to
+block off our light bars and the bottom
+layer is of course just the layer so now
+what I can do
+I wait one more thing I need to do one
+more thing I need to do I need to add
+the masks too so I need to take this
+layer
+Oh actually I wonder what do you what do
+you suppose the odds are that North
+Korea will be a radioactive crater
+tomorrow morning
+no that would take some sort of effort
+on anyone's part and I just don't think
+anyone carry they're gonna get a they're
+gonna get a bitch-slap they're gonna get
+a slap on the wrist what if what if they
+do something crazy you know they're
+gonna do something crazy thank God it's
+just something crazy that's when you see
+the nuclear craters nice but if they do
+something crazy enough I suppose really
+all we need is any sort of excuse to
+take out kim jung-han right that's still
+so bomb the fuck out of him though
+exactly they just they just need to
+remove him from existence would it
+matter or him and he seems like an idiot
+I mean I'm assuming the power comes from
+the people behind him the isn't I
+believe the thing is that he the
+propaganda is so strong in North Korea
+that the people actually believe that
+him and his family are descendants of
+gods
+kind of thing but you don't think it
+need to at least take out some of the
+rest of the leadership - Oh probably
+that's gross but I think we're on the
+right track I think we're on the right
+track here rich with this I mean I
+imagine there are people still around
+there who remember a time before the
+family was some power oh no it was his
+father who was in power right like one
+day well that whole thing happened was
+it Dobbs early 50s right it's like it's
+like Demolition Man one one generation
+later nobody remembers what violence was
+even though many of those people are
+still alive what am i doing rich I don't
+know why you're losing my job I am
+losing my marbles turn on some more risk
+afraid music it's done well yeah this is
+his other album I am slowly losing my
+marbles I had a plan I swear to God I
+had a plan to deal with this and you
+know what it is is I haven't been
+labeling my shit and now I don't know
+what's one okay hold on so I Green
+screamed this that's why okay
+everything time
+what what what what I can do this
+I can do this
+and that you consider that Caligula
+wasn't even the second-to-last emperor
+of his dynasty yet us that's why I'm
+saying you need the more you need to
+kill more people than just Kim Jong yes
+I do have a slinky and I'm glad you
+heard that I'm everyone who knows me
+knows I am a fidgeter yes and I have a
+slinky on my desk
+purely for fidgeting purposes it never
+goes downstairs mm-hm it just it just
+flops around in my hand
+everything is fine that rich because I
+figured out what I have to do
+good all the uber key boom
+and I just I messed up my initial mask
+but and I guess I guess the the slinky
+is cylinder-shaped so you could say I
+was playing with my dick
+can we get 11 you could if all cylinders
+are no dicks as we established earlier
+on genders or days absolutely we know
+that we know this to be true rich I'm
+just sitting you're playing with my dick
+hold VIN MIDI key holdin the Dicky
+that's great that's great rich what
+today I messed everything up there we go
+I fixed it it's ok ok great almost okay
+I got this everything's fine
+everything's fine all the time totally
+got this export rape data go go go go go
+just leave the damn light bars green no
+Tiberius Kirk no no no no no you know
+why I've gone too far
+what are you why did I do that rich
+that's the real question
+I don't know yeah every everything looks
+back
+everything looks well yeah everything
+looks bad now it won't in just a moment
+I mean it might in just a mask here to
+subtract and we go to subtract now I
+know what you're saying
+these still look really bad and you
+would be correct but that's wait I was
+anticipating the button but aren't you
+only playing with my dick and
+anticipating the button there you go
+one and eat what did I just do what did
+I just do
+oh Jesus Christ everything's fine hey
+Andy
+that is slightly better okay that is
+slightly I think that that gives us a
+good start not perfect yet but that
+gives us a really good start I found a
+way to kind of like lighten up the area
+and add a little bit of a glow but
+there's still some green showing through
+okay
+oh I know the mask won't completely
+removed the green in fact like I almost
+want to keep a little bit of that green
+because it has a nice reflection to it
+and so really I was just hoping to kind
+of change the green do you feel me
+yeah feel me yes I take anticipating the
+bud and I'm feeling you rich
+what you not helping oh these things are
+true you can't deny it check I'm denied
+I'm denied average I'm straight-up
+denying it what does that help not even
+that doesn't help even a little bit rich
+what I'm doing now hold on I think I
+think I have an idea okay I think I have
+an idea and it's probably not gonna work
+and we're gonna stop streaming in a
+little bit okay because I'm losing my
+marbles okay okay you're gonna try
+I'm losing my marbles excuse me sir do
+you have any marbles I would like to
+talk to you about my marbles here we go
+here we go here we go here we go here we
+go here we go now here we go here we go
+here we go here we go here we go here we
+go here we go here we go
+go go go go down I don't know who dudu -
+here we go no he will oh this looks
+horrible a little bit there's something
+in there I'm gonna figure this out it's
+basically free gir seven eight three is
+blaming the juice box here you should
+Krieger I mean I love juice boy I love
+juice box with all of my heart but that
+did not get me in the right headspace
+okay so basically this does not I mean
+what I have right now doesn't look good
+but what you can see here is the start
+of the effect is we're getting a nice
+glow off of the reflection of the
+windshield okay it's a little much but
+actually if you look at the left one the
+left one is looking pretty decent
+covering wise you know yeah octo Jay
+says I'm going to take Collins idea and
+pass it off as my own just wrote oh the
+green areas and desaturate them yeah but
+I think it needs a glow because they're
+reflecting something that's glowing I
+feel like the windshield needs it good
+would your brain notice if there weren't
+a globe right would it be less
+distracting
+I don't know like what are you watching
+this now I've been staring at it too
+long I don't know yeah yep needs to be
+like half that yeah I could see them I
+could see that let's just let's just see
+what happens if we bring the opacity
+down a little bit
+yeah yeah you'd have to desaturate it
+first or you'll still see the green
+under it right that's what we're doing
+next somebody else says the light
+flowers light fires look floating yes
+yeah we've already talked about the
+light bar is being floating and I will
+be fixing that later this is this is not
+finished work
+oh no no as much glow as the action of
+light bars I'm so I know Colin yeah the
+the reflection won't be as intense as
+the light bar but it'll still be there
+so I don't think we can just desaturate
+the cones yeah but you know what let's
+give it a try as long as I'm here and
+mildly insane I don't think it would you
+know hurt anything Colin Colin is a
+profession Colin is a professional so
+what we should probably do is listen
+probably to the probably listen to the
+professional okay did you hear that
+I don't know but love to have you kisses
+you can do it jack no we believe in you
+you shouldn't in you jack no it'll be
+fine I'll figure this out I will 100%
+figure this out okay so here are the
+masks for the bars I already have those
+yep so now take those and we go to color
+correction and you say just desaturate
+now what if we dr. fector almost three
+hours later and about 20 seconds in the
+video is partially edited yes and it's
+it's less than 20 seconds and that's
+that's the nature of this kind of shit
+but welcome to video editing
+here we go human situation situation
+okay I just wanted to take out the green
+though oh no I don't want human
+saturation I want Chan alright sure did
+you I don't know no there's um there's
+something in here to take out a specific
+color oh and I mean I've never ever had
+to use it it is Colin Colin help shift
+channels is that it no that's not it
+this is rich to editing easy more of an
+idea man I am a bad idea man essentially
+essentially I'm useless that's not true
+at all you're a great idea man
+I don't know what it's called an After
+Effects what is it called oh there's a I
+mean there's change to color you know
+color to change is we want this
+no no not that much
+digital artery says so so why isn't the
+suicide rate for VFX artists higher you
+know it's huge saturation oh well yes
+that's how you desaturate it like if we
+are is that in is here's hue/saturation
+and like that's how you can just like
+okay do that guy just like take from a
+specific range you know like if I just
+wanted to kind of like blindly turn the
+whole thing different colors that's what
+you would do but the last Thomas says
+they try to commit suicide but can never
+seem to get it just right it's pretty
+funny hue/saturation not hue/saturation
+hold on
+take this that over there and over there
+explode up it now this won't look good
+right away
+fun be with me here for a second may I
+I have to do well I mean technically you
+could leave at any point I'm glad that
+you're still here with me yeah as it
+gives me someone to talk to
+okay okay so we do that and then what if
+we add this to the original obviously
+that's a little much it's a little crazy
+right now hold on hold hold hold hold
+the phone hold the goddamn phone blur it
+a little bit right and then take the
+whole thing and turn the opacity today I
+already turn the opacity
+I'll pass it down
+mmm no God
+no there is there is an effect in here
+somewhere rich okay what did I do now oh
+it's done and that's right there's an
+effect in here somewhere and I want to
+say it's in the channel no no not that
+one
+somebody's saying hue/saturation to
+channel control two greens or yellows
+okay okay now we're talking thanks
+everybody
+you're getting waiting where mine colors
+you're getting 87 who with that bit
+Kay's 87 that's it
+that's it I'm in the master for
+hue/saturation so now if we go to the
+greens oh yeah this is a ridge this is
+it this is exactly what I was looking
+for thank you who did that
+Kay's 87 does the one I noticed Kay's 87
+you you the person you the person who
+did this you're helping everybody you're
+helping you are helping this is exactly
+the thing I was looking for
+this is exactly the thing I was looking
+for okay all right so then we know we
+still need to mess with our masks a
+little bit because our masks are little
+our little jank and that might be
+passable you know the issue Ness so now
+I'm like I've taken away all the green
+right and I have them gray at the moment
+which is you know that's something yeah
+that is something I have this so I have
+them gray but they're not necessarily
+they still don't look reflect II know
+god that's a terrible way the way I can
+add even a little more hmm
+but this is good this is a really good
+start this is a really good start at
+least now they're not green you know but
+they definitely don't look like glowing
+rods on top but they're not green so I
+think I think this is I I feel
+comfortable I feel confident leaving
+here you know the the real issue the
+real real issue is those caps on the end
+of the tubes are dark you know yeah and
+so you have this glowy white bar and
+this dark too but I think starting from
+here I might be able to get something
+it's good good good good thank thank you
+guys for helping
+thank you guys for helping that was yeah
+okay all right then this is where we're
+gonna do I this is where I'm gonna do
+thanks for coming out tonight I thought
+that was a ton of fun and it helped me
+get some work done and my brain is done
+I can tell
+I can't even think of the words to say
+I'm rich and you take us out
+did you hit it no I didn't hit
