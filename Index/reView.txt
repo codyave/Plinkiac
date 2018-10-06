@@ -4,7 +4,7 @@
 | 2016_Jul_03 | Eraserhead | Jay, Josh | http://redlettermedia.com/eraserhead-review/
 | 2016_Jul_12 | Ghostbusters (1984) | Mike, Jay | http://redlettermedia.com/ghostbusters-1984-review/
 | 2016_Jul_22 | Mad Max 2: The Road Warrior | Jay, Rich | http://redlettermedia.com/mad-max-2-the-road-warrior-review/
-| 2016_Sep_02 | The Blair Witch | Mike, Jay | http://redlettermedia.com/the-blair-witch-project-review/
+| 2016_Sep_02 | The Blair Witch Project | Mike, Jay | http://redlettermedia.com/the-blair-witch-project-review/
 | 2016_Sep_10 | Blade | Jay, Jack | http://redlettermedia.com/blade-review/
 | 2016_Oct_13 | The Gate | Jay, Josh | http://redlettermedia.com/the-gate-review/
 | 2016_Oct_25 | Dawn of the Dead | Mike, Jay | http://redlettermedia.com/dawn-of-the-dead-review/
