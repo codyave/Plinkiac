@@ -1,43 +1,44 @@
-| Jan 07, 2002 | Review - The Long Walk Home | https://web.archive.org/web/20180618085356/http://www.b-independent.com/reviews/thelongwalkhome.htm
-| Jun 07, 2003 | Sultan of Schlock: An interview with Mike Stoklasa | https://web.archive.org/web/20030607232106/http://ffrevolution.com:80/interviews/stoklasainterview.html
-| Jun 13, 2004 | Interview with Writer & Director Mike Stoklasa | https://web.archive.org/web/20050404230930/http://www.baal-peor.gq.nu:80/fuq/ssv/ss_interv118.html
-| Jun 25, 2004 | Interview with Writer & Director Rich Evans | https://web.archive.org/web/20050404052315/http://www.baal-peor.gq.nu:80/fuq/ssv/ss_interv124.html
-| Oct 05, 2004 | Interview with Lauren Burke of Blanc Screen Cinema | https://web.archive.org/web/20050310174930/http://www.baal-peor.gq.nu:80/fuq/ssv/ss_interv170.html
-| Oct 17, 2004 | Interview with Jay Bauman of Blanc Screen Cinema (2004) | https://web.archive.org/web/20041101000851/http://www.baal-peor.gq.nu:80/fuq/ssv/ss_interv169.html
-| Oct_17, 2004 | Interview with Ron Lipski of Blanc Screen Cinemas (2004) | https://web.archive.org/web/20050311220359/http://www.baal-peor.gq.nu:80/fuq/ssv/ss_interv175.html
-| Feb 04, 2010 | Red Letter Media's Mike Stoklasa | https://geekpropaganda.wordpress.com/2011/02/04/red-letter-medias-mike-stoklasa-2/
-| Mar 15, 2010 | RedLetterMedia's Spin on the Crazed YouTube Reviewer | https://web.archive.org/web/20180606205340/https://www.popmatters.com/122310-red-letter-medias-fresh-spin-on-the-crazed-youtube-reviewer-2496179543.html
-| Apr 05, 2010 | Red Letter Media at it Again With 90-Minute Review of Attack of the Clones | http://techland.time.com/2010/04/05/red-letter-media-at-it-again-with-90-minute-review-of-attack-of-the-clones
-| Apr 13, 2010 | Films Worth Watching According to Red Letter Media's Notorious Film Critic | http://techland.time.com/2010/04/13/films-actually-worth-watching-according-to-red-letter-medias-most-notorious-film-critic
-| Sep 01, 2010 | Plinkett Defends Movie Remakes With the (Old) New Star Trek Movie | http://techland.time.com/2010/09/01/plinkett-defends-movie-remakes-with-the-old-new-star-trek-movie/
-| Jan 04, 2011 | He’s Baaack - Harry Plinkett on “Star Wars Episode III” | http://techland.time.com/2011/01/04/hes-baaack-harry-plinkett-on-star-wars-episode-iii/
-| Mar 11, 2011 | Nerd Alert: Pokemon Black/White (special guest Mike Stoklasa) | https://web.archive.org/web/20110314183450/http://www.collegehumor.com:80/video:1949105, youtube.com/watch?v=iD97UzRE5Rc
-| Apr 11, 2011 | Half in the Bag with Jay Bauman | https://geekpropaganda.wordpress.com/2011/04/11/half-in-the-bag-with-jay-bauman/
-| Nov 23, 2011 | Inside Red Letter Media's Obsessively Nerdy Brand of Humor | http://www.vulture.com/2011/11/inside-red-letter-medias-obsessively-nerdy-brand-of-humor.html
-| Jan 01, 2012 | Exclusive Interview with Mike Stoklasa and Jay Bauman, Creators of Mr. Plinkett and Half in the Bag | http://moongadget.com/redlettermedia/index.html
-| Feb 10, 2012 | Red Letter Media's "Phantom Menace" Commentary Track | https://www.buzzfeed.com/abrams/red-letter-medias-phantom-menace-commentary-tra?utm_term=.bwKGbLzqz#.ynw0GZ2a2
-| May 07, 2012 | 135 CPH PIX 2012 #6: Den ultimative "Star Wars"-hader | https://www.youtube.com/watch?v=uKy43Kgv7wk
-| Jun 26, 2012 | Mike Stoklasa: Not a Snarky, Complaining, Armchair Critic? Come On! | http://web.archive.org/web/20140427083659/http://www.geekexchange.com/not-a-snarky-complaining-armchair-critic-come-on-33425.html
-| Oct 17, 2012 | Old Milwaukee Really Does Pay For Its Commercials With Beer, Not Money | http://www.businessinsider.com/the-story-behind-old-milwaukees-hey-pass-me-a-beer-video-2012-10
-| Nov 02, 2012 | 4 Reasons You Should Be Thrilled Disney Bought Star Wars | http://www.cracked.com/quick-fixes/4-reasons-you-should-be-thrilled-disney-bought-star-wars/
-| Jan 31, 2013 | That Awful Film, Incredibly, Has a Following | https://web.archive.org/web/20130203193602/https://www.nytimes.com/2013/02/01/nyregion/box-office-duds-have-a-following-too.html
-| Apr 27, 2013 | IHC DVD Review: RedLetterMedia’s Gorilla Interrupted | https://web.archive.org/web/20130708145108/http://www.iheartchaos.com:80/post/48987680468/ihc-dvd-review-redlettermedias-gorilla-interrupted
+| Jan 07, 2002 | Review - The Long Walk Home | web.archive.org/web/20180618085356/b-independent.com/reviews/thelongwalkhome.htm
+| Jun 07, 2003 | Sultan of Schlock: An interview with Mike Stoklasa | web.archive.org/web/20030607232106/ffrevolution.com:80/interviews/stoklasainterview.html
+| Jun 13, 2004 | Interview with Writer & Director Mike Stoklasa web.archive.org/web/20050404230930/baal-peor.gq.nu:80/fuq/ssv/ss_interv118.html
+| Jun 25, 2004 | Interview with Writer & Director Rich Evans | web.archive.org/web/20050404052315/baal-peor.gq.nu:80/fuq/ssv/ss_interv124.html
+| Oct 05, 2004 | Interview with Lauren Burke of Blanc Screen Cinema | web.archive.org/web/20050310174930/baal-peor.gq.nu:80/fuq/ssv/ss_interv170.html
+| Oct 17, 2004 | Interview with Jay Bauman of Blanc Screen Cinema (2004) | web.archive.org/web/20041101000851/baal-peor.gq.nu:80/fuq/ssv/ss_interv169.html
+| Oct_17, 2004 | Interview with Ron Lipski of Blanc Screen Cinemas (2004) | web.archive.org/web/20050311220359/baal-peor.gq.nu:80/fuq/ssv/ss_interv175.html
+| Feb 04, 2010 | Red Letter Media's Mike Stoklasa | geekpropaganda.wordpress.com/2011/02/04/red-letter-medias-mike-stoklasa-2/
+| Mar 15, 2010 | RedLetterMedia's Spin on the Crazed YouTube Reviewer | web.archive.org/web/20180606205340/popmatters.com/122310-red-letter-medias-fresh-spin-on-the-crazed-youtube-reviewer-2496179543.html
+| Apr 05, 2010 | Red Letter Media at it Again With 90-Minute Review of Attack of the Clones | techland.time.com/2010/04/05/red-letter-media-at-it-again-with-90-minute-review-of-attack-of-the-clones
+| Apr 13, 2010 | Films Worth Watching According to Red Letter Media's Notorious Film Critic | techland.time.com/2010/04/13/films-actually-worth-watching-according-to-red-letter-medias-most-notorious-film-critic
+| Sep 01, 2010 | Plinkett Defends Movie Remakes With the (Old) New Star Trek Movie | techland.time.com/2010/09/01/plinkett-defends-movie-remakes-with-the-old-new-star-trek-movie/
+| Jan 04, 2011 | He’s Baaack - Harry Plinkett on “Star Wars Episode III” | techland.time.com/2011/01/04/hes-baaack-harry-plinkett-on-star-wars-episode-iii/
+| Mar 11, 2011 | Nerd Alert: Pokemon Black/White (special guest Mike Stoklasa) | web.archive.org/web/20110314183450/collegehumor.com:80/video:1949105, youtube.com/watch?v=iD97UzRE5Rc
+| Apr 11, 2011 | Half in the Bag with Jay Bauman | geekpropaganda.wordpress.com/2011/04/11/half-in-the-bag-with-jay-bauman/
+| Oct 19, 2011 | Blue Collar Movie Reviews Done Awesome by Red Letter Media | tubefilter.com/2011/10/19/movie-reviews-red-letter-media/
+| Nov 23, 2011 | Inside Red Letter Media's Obsessively Nerdy Brand of Humor | vulture.com/2011/11/inside-red-letter-medias-obsessively-nerdy-brand-of-humor.html
+| Jan 01, 2012 | Exclusive Interview with Mike Stoklasa and Jay Bauman, Creators of Mr. Plinkett and Half in the Bag | moongadget.com/redlettermedia/index.html
+| Feb 10, 2012 | Red Letter Media's "Phantom Menace" Commentary Track | buzzfeed.com/abrams/red-letter-medias-phantom-menace-commentary-tra?utm_term=.bwKGbLzqz#.ynw0GZ2a2
+| May 07, 2012 | 135 CPH PIX 2012 #6: Den ultimative "Star Wars"-hader | youtube.com/watch?v=uKy43Kgv7wk
+| Jun 26, 2012 | Mike Stoklasa: Not a Snarky, Complaining, Armchair Critic? Come On! | web.archive.org/web/20140427083659/geekexchange.com/not-a-snarky-complaining-armchair-critic-come-on-33425.html
+| Oct 17, 2012 | Old Milwaukee Really Does Pay For Its Commercials With Beer, Not Money | businessinsider.com/the-story-behind-old-milwaukees-hey-pass-me-a-beer-video-2012-10
+| Nov 02, 2012 | 4 Reasons You Should Be Thrilled Disney Bought Star Wars | cracked.com/quick-fixes/4-reasons-you-should-be-thrilled-disney-bought-star-wars/
+| Jan 31, 2013 | That Awful Film, Incredibly, Has a Following | web.archive.org/web/20130203193602/nytimes.com/2013/02/01/nyregion/box-office-duds-have-a-following-too.html
+| Apr 27, 2013 | IHC DVD Review: RedLetterMedia’s Gorilla Interrupted | web.archive.org/web/20130708145108/iheartchaos.com:80/post/48987680468/ihc-dvd-review-redlettermedias-gorilla-interrupted
 | May 21, 2013 | Oswalt Live Tweets His TV Show Favorites | Honolulu Star Advertiser, p. A8
-| Jun 03, 2013 | Red Letter Media Breaks Down References in 'Star Trek Into Darkness' | http://www.slashfilm.com/red-letter-media-breaks-down-references-in-star-trek-into-darkness/
-| Jul 31, 2013 | Mike Stoklasa Interview | https://web.archive.org/web/20130731084737/http://www.rileysautographs.com/mike_stoklasa_interview.html
-| Sep 10, 2013 | I Hate the Idea of Self Censoring: An Exclusive Interview with Mike Stoklasa | http://film.org.pl/a/cykl/for-english-readers/i-hate-the-idea-of-self-censoring-interview-with-red-letter-medias-mike-stoklasa-42585/
-| Jan 18, 2014 | Hibernating? Chill out with offbeat shows, DVDs | https://www.dailyherald.com/article/20140117/entlife/701179987/
-| Jun 25, 2014 | Madness Is Watching the First Three Transformers Movies All at Once | https://kotaku.com/madness-is-watching-the-first-three-transformers-movies-1595847283
-| Jul 30, 2014 | Making the Case That Sonic the Hedgehog Is Way Overrated | https://kotaku.com/making-the-case-that-sonic-the-hedgehog-is-way-overrate-1613257440
-| Aug 04, 2014 | Re: Previously Recorded - Sonic | http://enduringbeta.com/2014/08/04/re-previously-recorded-sonic/
-| Sep 13, 2014 | Blog Interview with Rich and Jack | https://www.destructoid.com/blogs/CblogRecaps/cblogs-of-09-12-14-and-bbainisms-281141.phtml
-| Oct 05, 2014 | Why Sonic Needs To Slow Down | https://tay.kinja.com/why-sonic-needs-to-slow-down-1641462087
-| Dec 02, 2014 | Mr. Plinkett of Red Letter Media Reacts to the Star Wars Episode VII: The Force Awakens Teaser Trailer | https://laughingsquid.com/mr-plinkett-red-letter-media-reacts-to-star-wars-episode-vii-the-force-awakens-teaser-trailer/
-| Dec 03, 2014 | Red Letter Media's Mr. Plinkett reacts to that new Star Wars trailer | https://news.avclub.com/red-letter-media-s-mr-plinkett-reacts-to-that-new-star-1798274596
-| Dec 13, 2014 | Rich Evans Reacts To The Star Wars: The Force Awakens Trailer | https://web.archive.org/web/20180527003419/https://www.comicbookmovie.com/sci-fi/star_wars/video-rich-evans-reacts-to-the-star-wars-the-force-awakens-trailer-a111927
-| Nov 12, 2015 | Red Letter Media Wants to Talk About How Awesome ‘Boyhood’ Is | http://www.comingsoon.net/g00/movies/news/602592-red-letter-media-wants-talk-awesome-boyhood?i10c.encReferrer=&i10c.ua=1&i10c.dv=14
-| Mar 10, 2015 | Vinny - Interview with RedLetterMedia | https://www.youtube.com/watch?v=NVb2X3DvO20
-| Apr 15, 2015 | 12 Fantastic YouTube Gaming Channels You Should Watch Right Now | http://www.wow247.co.uk/2015/04/15/best-youtube-gaming-channels/
-| Apr 29, 2015 | Red Letter Media distills the formula for blockbuster trailers | https://news.avclub.com/red-letter-media-distills-the-formula-for-blockbuster-t-1798279150
-| Sep 22, 2015 | Sort Characters from Cut-Outs with the Plinkett Test | https://www.pcgamer.com/sort-characters-from-cut-outs-with-the-plinkett-test/
-| Dec 17, 2015 | Before 'The Force Awakens,' Here's How to Bury the Hatchet with the Star Wars Prequels | https://mashable.com/2015/12/17/star-wars-prequel-angst-over/#_cPu8qMj9gqU
+| Jun 03, 2013 | Red Letter Media Breaks Down References in 'Star Trek Into Darkness' | slashfilm.com/red-letter-media-breaks-down-references-in-star-trek-into-darkness/
+| Jul 31, 2013 | Mike Stoklasa Interview | web.archive.org/web/20130731084737/rileysautographs.com/mike_stoklasa_interview.html
+| Sep 10, 2013 | I Hate the Idea of Self Censoring: An Exclusive Interview with Mike Stoklasa | film.org.pl/a/cykl/for-english-readers/i-hate-the-idea-of-self-censoring-interview-with-red-letter-medias-mike-stoklasa-42585/
+| Jan 18, 2014 | Hibernating? Chill out with offbeat shows, DVDs | dailyherald.com/article/20140117/entlife/701179987/
+| Jun 25, 2014 | Madness Is Watching the First Three Transformers Movies All at Once | kotaku.com/madness-is-watching-the-first-three-transformers-movies-1595847283
+| Jul 30, 2014 | Making the Case That Sonic the Hedgehog Is Way Overrated | kotaku.com/making-the-case-that-sonic-the-hedgehog-is-way-overrate-1613257440
+| Aug 04, 2014 | Re: Previously Recorded - Sonic | enduringbeta.com/2014/08/04/re-previously-recorded-sonic/
+| Sep 13, 2014 | Blog Interview with Rich and Jack | destructoid.com/blogs/CblogRecaps/cblogs-of-09-12-14-and-bbainisms-281141.phtml
+| Oct 05, 2014 | Why Sonic Needs To Slow Down | tay.kinja.com/why-sonic-needs-to-slow-down-1641462087
+| Dec 02, 2014 | Mr. Plinkett of Red Letter Media Reacts to the Star Wars Episode VII: The Force Awakens Teaser Trailer | laughingsquid.com/mr-plinkett-red-letter-media-reacts-to-star-wars-episode-vii-the-force-awakens-teaser-trailer/
+| Dec 03, 2014 | Red Letter Media's Mr. Plinkett reacts to that new Star Wars trailer | news.avclub.com/red-letter-media-s-mr-plinkett-reacts-to-that-new-star-1798274596
+| Dec 13, 2014 | Rich Evans Reacts To The Star Wars: The Force Awakens Trailer | web.archive.org/web/20180527003419/comicbookmovie.com/sci-fi/star_wars/video-rich-evans-reacts-to-the-star-wars-the-force-awakens-trailer-a111927
+| Nov 12, 2015 | Red Letter Media Wants to Talk About How Awesome ‘Boyhood’ Is | comingsoon.net/g00/movies/news/602592-red-letter-media-wants-talk-awesome-boyhood?i10c.encReferrer=&i10c.ua=1&i10c.dv=14
+| Mar 10, 2015 | Vinny - Interview with RedLetterMedia | youtube.com/watch?v=NVb2X3DvO20
+| Apr 15, 2015 | 12 Fantastic YouTube Gaming Channels You Should Watch Right Now | wow247.co.uk/2015/04/15/best-youtube-gaming-channels/
+| Apr 29, 2015 | Red Letter Media distills the formula for blockbuster trailers | news.avclub.com/red-letter-media-distills-the-formula-for-blockbuster-t-1798279150
+| Sep 22, 2015 | Sort Characters from Cut-Outs with the Plinkett Test | pcgamer.com/sort-characters-from-cut-outs-with-the-plinkett-test/
+| Dec 17, 2015 | Before 'The Force Awakens,' Here's How to Bury the Hatchet with the Star Wars Prequels | mashable.com/2015/12/17/star-wars-prequel-angst-over/#_cPu8qMj9gqU
