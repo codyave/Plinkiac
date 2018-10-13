@@ -1,0 +1,37 @@
+﻿Aug 4, 2014
+Re: Previously Recorded - Sonic
+http://enduringbeta.com/2014/08/04/re-previously-recorded-sonic/
+
+Jack Packard and Rich Evans of Red Letter Media have a relatively new series called “Previously Recorded” where they chat about video gaming on their usually-film-focused website. This week Packard shared a controversial opinion that Sonic the Hedgehog is extremely overrated.
+
+I started to strongly disagree with their criticisms, So I Left A Comment that became large enough to be its own blog post…
+
+Early on, Parkcard and Evans start criticizing the story behind the Sonic games. I get it: it’s thin, it’s silly, and you can poke holes in Doctor Eggman’s animal-robot-creating evil scheme. But is that any worse than the weirdness that is the mushroom-guzzling plumber Mario racing to stop a royalty-obsessed reptile? Cut games some slack for the creativity they showed in spite of the computational limitations of the 80s and 90s.
+
+The hosts move to criticizing the core mechanic of Sonic games: the speed. They show a montage of gameplay fails while trying to complete levels. Only some were because of speed, and rarely were they any worse than dying to a rogue fireball or pit in a Mario game. Criticism of a game beyond the “it’s old” dimension (which I’ll get to) has to involve comparing it to contemporary titles, like Super Mario World, which I believe paints Sonic in a more favorable light.
+
+Sonic games implement and encourage speed at certain times, with combat and platforming during others. Speed during any of those sections is best used after some mastery of the level. It’s most appealing when the player has a mapping of the level in their head and are able to nail everything quickly: remembering the enemy midway through the run to dodge, knowing when to jump based on environment cues. The high cost of losing all collected rings when hit leans toward this emphasis on perfection and a higher skill ceiling, as well.
+
+The hosts quantify the reaction time required to dodge a specific enemy they hit. But the quarter of a second they came up with isn’t an impossibly tall order for a game in the first place. Many games ask for that response time or level of ability. With the context that in early runs you’re bound to get hit, this problem seems even less severe. The later runs of the level are when it should be smoother, stylish, and more fun. I don’t believe that was a design flaw, as Evans put it, back then.
+
+In that sense, it’s almost like a racing game. No one criticizes games like Super Mario Kart or F-Zero because the first time around a track results in a lot of ugly turns and doesn’t get you first place. A single playthrough of the game isn’t enough to capture its lasting appeal in fans of the series. You learn the levels, turns, shortcuts, and dangerous spots, and get better at them.
+
+I think the best argument one can make in the hosts’ favor is that the game was made in a time where players were expected to invest a lot of time into it. Maybe that is no longer reasonable or palatable today without better instructions or control. But this is the “it’s old” objection, which doesn’t touch the fact that the game was fun and fit in its environment at the time. Players would have fewer games and play a lot more of each of them, mastering the few dozen levels the cartridge had.
+
+This is the last interesting point to me. If a game doesn’t hold up over time, does that mean players back then were playing a bad game all along? I think it very much depends on the part that doesn’t hold up. Packard is trying to establish that Sonic is overrated, which I believe must take context into account: his proposition is that people playing it in the 90s were using bad judgment, even of the standards of the time. I thought of some examples to enlighten this idea.
+
+Goldeneye 007 was a landmark first-person shooter for the Nintendo 64 that is widely regarded as practically unplayable today due to its graphics, frame rate, and aiming ability. I consider these problems to be mostly limitations of their time. Given that the game was an early pioneer of the now-mainstream multiplayer shooters on consoles, as well, this game maintains its “good” status from the past, though I will acknowledge that “good” and “influential” do not always overlap.
+
+Duke Nukem games, especially Duke Nukem 3D, have a deep-rooted 90s aesthetic full of action-movie tropes and some strippers. The tone of the titular character and his world does not age well, in my opinion, and one would like to think it is no longer embraced in quite the same way. The early marker of sexism in gaming this title holds both was and remains harmful, but the action hero tropes may be a more acceptable product and characteristic of the time.
+
+The low-polygon count in Final Fantasy VII makes playing it today very difficult, but it was amazing at release. Games with bad graphics for even their time can be criticized more generally.
+
+(Outside of gaming, Star Wars’ special effects were revolutionary in the 70s, for example, even if they don’t perfectly stand up now. The Carl Sagan series Cosmos is slower than its newer version with Neil deGrasse Tyson, but that was more accepted in 1980.)
+
+What’s tough are the titles that exist between the obvious extremes. Old arcade games, for example, were designed to suck quarters from children, after all. Are they bad games, both now and then, because of this design that makes play frustrating? (Usually, re-releases of these titles change things around, but maybe that opens up more questions!) Have we reached the point where games without skippable cutscenes today are objectively flawed from the start? Are games with grinding for levels badly made or sometimes acceptable today?
+
+The point relating all this to Sonic is that I can’t strongly say whether designing a game intending for players to invest significant time before really succeeding was bad or is bad. But I would say that the gamer culture of the time implied the investment was expected to some degree, lending to acceptable design.
+
+In this post I’ve put forth my opinion that the complaints against Sonic by Packard and Evans are not airtight or completely valid. I also hypothetically conceded it is not enjoyable today to consider if that implies flaw in the past. And I’d love to hear responses, if I’m dead on or off track.
+
+I enjoy talking about and watching discussions of video games. I like that my favorite movie reviewers are diving into another form of media and giving it the same treatment, but it takes patience and some nuance to go decades back and assess the quality of these titles. They seem to do fine placing old bad films in their context: though horrible writing, acting, or execution is timeless. The same consideration should be given for games!
