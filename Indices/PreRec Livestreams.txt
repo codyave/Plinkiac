@@ -16,7 +16,7 @@
 | Jun 11, 2014 | 01:37:57 | Rich does Binding of Isaac [Jack, Rich, Jay] twitch.tv/videos/48999594, twitter.com/PreviouslyRec/status/476806067653844992
 | Jun 22, 2014 | 01:22:45 | Binding od Eve dies [Jack] twitch.tv/videos/48894717, twitter.com/PreviouslyRec/status/480885925681975296
 | Jun 22, 2014 | 01:56:32 | TF2 with all these ass holes [Jack] twitch.tv/videos/48893533, twitter.com/PreviouslyRec/status/480768814028554240
-| Jun 25, 2014 | 00:59:43 | XCOM Enemy of my Friend (Part 1) [Jack[Jack, Rich, Jay] twitch.tv/videos/42850729, youtube.com/watch?v=y5KIR7zg6TE, twitter.com/PreviouslyRec/status/481938348089430016
+| Jun 25, 2014 | 00:59:43 | XCOM Enemy of my Friend (Part 1) [Jack, Rich, Jay] twitch.tv/videos/42850729, youtube.com/watch?v=y5KIR7zg6TE, twitter.com/PreviouslyRec/status/481938348089430016
 | Jun 25, 2014 | 01:02:58 | XCOM Enemy of my Friend (Part 2) [Jack, Rich, Jay] twitch.tv/videos/42850241, youtube.com/watch?v=0fMr3g6CXho, twitter.com/PreviouslyRec/status/481938348089430016
 | Jun 25, 2014 | 01:01:13 | XCOM Enemy of my Friend (Part 3) [Jack, Rich, Jay] twitch.tv/videos/42850157, youtube.com/watch?v=TYJNJqyBKYs, twitter.com/PreviouslyRec/status/481938348089430016
 | Jun 25, 2014 | 01:03:07 | XCOM Enemy of my Friend (Part 4) [Jack, Rich, Jay] twitch.tv/videos/42850158, youtube.com/watch?v=09GAPb64rUM, twitter.com/PreviouslyRec/status/481938348089430016
@@ -43,7 +43,7 @@
 | Aug 01, 2014 | 00:36:30 | Dark Rift - Unplug...then plug it back in [Jack, Rich, Josh] twitch.tv/videos/47906955, youtube.com/watch?v=T0bBVi27qUM, twitter.com/PreviouslyRec/status/495347750326636544
 | Aug 01, 2014 | 00:41:57 | Body Harvest is a game I guess. [Jack, Rich, Jay, Josh] twitch.tv/videos/47906660, youtube.com/watch?v=dWT6JXhwar4, twitter.com/PreviouslyRec/status/495347750326636544
 | Aug 03, 2014 | 01:05:45 | Rogue Legacy - Jack Solo Part 1 Y'all [Jack] twitch.tv/videos/42960628, youtube.com/watch?v=Cdc0l2cEs0k, twitter.com/PreviouslyRec/status/496010324705673216
-| Aug 03, 2014 | 00:56:24 | Rogue Legacy - Jack Solo Part 2 Y'all [Jack[Jack] twitch.tv/videos/42960434, youtube.com/watch?v=PWevSnUw1Bc, twitter.com/PreviouslyRec/status/496010324705673216
+| Aug 03, 2014 | 00:56:24 | Rogue Legacy - Jack Solo Part 2 Y'all [Jack] twitch.tv/videos/42960434, youtube.com/watch?v=PWevSnUw1Bc, twitter.com/PreviouslyRec/status/496010324705673216
 | Aug 03, 2014 | 00:53:03 | FTL: Faster Than Jack Part 1 [Jack] twitch.tv/videos/42960072, youtube.com/watch?v=_mWbPNdg104, twitter.com/PreviouslyRec/status/496010324705673216
 | Aug 03, 2014 | 01:20:28 | FTL: Faster Than Jack Part 2 [Jack] twitch.tv/videos/42960143, youtube.com/watch?v=4YCl5IMRi38, twitter.com/PreviouslyRec/status/496010324705673216
 | Aug 04, 2014 | 00:33:10 | FTL: Faster Than Jack Part 3 [Jack] twitch.tv/videos/42946345, youtube.com/watch?v=mhJl52KFUGI, twitter.com/PreviouslyRec/status/496465592186966016
@@ -638,7 +638,7 @@
 | Aug 21, 2016 | 01:37:23 | Cop a Feel (police Quest 3 part 2) [Jack, Rich] twitch.tv/videos/86936589, youtube.com/watch?v=gUAxMIbkdbA | https://twitter.com/PreviouslyRec/status/766817527242555392
 | Aug 24, 2016 | 01:36:56 | Starbound and Gagged [Jack, Rich] twitch.tv/videos/89403961 | youtube.com/watch?v=VkEcco8OoOM, twitter.com/PreviouslyRec/status/768529336064499712
 | Aug 24, 2016 | 02:00:22 | Rocket to the Stars (Rocket League) [Jack, Rich] twitch.tv/videos/89406064, youtube.com/watch?v=Mx0RofOYeUw, twitter.com/PreviouslyRec/status/768529336064499712
-| Aug 28, 2016 | 04:49:25 | Jack's Heart Pounding PC Build!!!!! | twitch.tv/videos/89406952, youtube.com/watch?v=rBWzz4oALd4, twitter.com/PreviouslyRec/status/769972109498060800
+| Aug 28, 2016 | 04:49:25 | Jack's Heart Pounding PC Build!!!!! [Jack, Rich] twitch.tv/videos/89406952, youtube.com/watch?v=rBWzz4oALd4, twitter.com/PreviouslyRec/status/769972109498060800
 | Aug 31, 2016 | 01:51:16 | Overwatch, but not XCOM related :( (part 1) | Jack, Rich] twitch.tv/videos/89408212, youtube.com/watch?v=akIoOFvE048, twitter.com/PreviouslyRec/status/771049689999343617
 | Aug 31, 2016 | 01:48:46 | Overwatch, but not XCOM related :( (part 2) [Jack, Rich] twitch.tv/videos/89409248, youtube.com/watch?v=8E8EaL4tTAE, twitter.com/PreviouslyRec/status/771049689999343617
 | Sep 03, 2016 | 04:31:24 | Deus Ex Richinema (Rich Solo) [Rich] twitch.tv/videos/91287060, youtube.com/watch?v=uWuTvtefcMc, twitter.com/PreviouslyRec/status/772151985994735616
@@ -659,7 +659,7 @@
 | Sep 25, 2016 | 02:01:52 | Forever and ever and Everspace (part 1) [Jack, Rich] twitch.tv/videos/95513207, youtube.com/watch?v=uaNdS6b9sHk, twitter.com/PreviouslyRec/status/780103291346628608
 | Sep 25, 2016 | 02:03:01 | Forever and ever and Everspace (part 2) [Jack, Rich] twitch.tv/videos/95516012, youtube.com/watch?v=MFAXLD80HBU, twitter.com/PreviouslyRec/status/780103291346628608
 | Sep 28, 2016 | 01:33:52 | Go Truck Yourself (part 1) [Jack, Rich, Karin] twitch.tv/videos/95906142, youtube.com/watch?v=Y-fIJxddYu8, twitter.com/PreviouslyRec/status/781291086140493824
-| Sep 28, 2016 | 01:35:59 | Go Truck Yourself (part 2) [Jack[Jack, Rich, Karin] twitch.tv/videos/95943925, youtube.com/watch?v=1zykgSXywlI, twitter.com/PreviouslyRec/status/781291086140493824
+| Sep 28, 2016 | 01:35:59 | Go Truck Yourself (part 2) [Jack, Rich, Karin] twitch.tv/videos/95943925, youtube.com/watch?v=1zykgSXywlI, twitter.com/PreviouslyRec/status/781291086140493824
 | Oct 05, 2016 | 01:41:32 | The ''J's'' (part 1) [Jack, Rich, Jay, Josh] twitch.tv/videos/96239211 | youtube.com/watch?v=S-5vDSw5TH8, twitter.com/PreviouslyRec/status/783723037610893313
 | Oct 05, 2016 | 01:52:30 | The ''J's'' (part 2) [Jack, Rich, Jay, Josh] twitch.tv/videos/96240572, youtube.com/watch?v=yRpWSny9924, twitter.com/PreviouslyRec/status/783723037610893313
 | Oct 09, 2016 | 01:13:56 | Five Nights at Freddy's Still Blows. [Jack, Rich] twitch.tv/videos/96241839, youtube.com/watch?v=nTjU5-9qOCs, twitter.com/PreviouslyRec/status/785258516650995712
@@ -701,7 +701,7 @@
 | Nov 30, 2016 | 01:28:22 | Jack, the Indiscriminate Assassin (part 2) [Jack, Rich] twitch.tv/videos/108980401 | youtube.com/watch?v=LQoc7ZOFNvo, twitter.com/PreviouslyRec/status/804095402286993415
 | Dec 04, 2016 | 02:02:52 | Everspaced out... man. (part 1) [Jack, Rich] twitch.tv/videos/108994115, youtube.com/watch?v=h60mmnzRT74, twitter.com/PreviouslyRec/status/805564079121133569
 | Dec 04, 2016 | 02:04:17 | Everspaced out... man. (part 2) [Jack, Rich] twitch.tv/videos/109008558, youtube.com/watch?v=mj7-QRVZctE, twitter.com/PreviouslyRec/status/805564079121133569
-| Dec 07, 2016 | 02:04:40 | Chatting with Edmund McMillin [Jack, Rich, Jay, Edmund McMillin | twitch.tv/videos/112316377, youtube.com/watch?v=9Yg8j5AI0sc, twitter.com/PreviouslyRec/status/806649995269128192
+| Dec 07, 2016 | 02:04:40 | Chatting with Edmund McMillin [Jack, Rich, Jay, Edmund McMillin] twitch.tv/videos/112316377, youtube.com/watch?v=9Yg8j5AI0sc, twitter.com/PreviouslyRec/status/806649995269128192
 | Dec 11, 2016 | 01:48:24 | X-Classic (Part 1) [Jack, Rich] twitch.tv/videos/112357634, youtube.com/watch?v=uF5LPF2mW_w, twitter.com/PreviouslyRec/status/808038301080887296
 | Dec 11, 2016 | 01:57:05 | X-ClassicNOPEcom (Part 2) [Jack, Rich] twitch.tv/videos/112541068, youtube.com/watch?v=MBoeqJ-71pc, twitter.com/PreviouslyRec/status/808038301080887296
 | Dec 18, 2016 | 01:53:12 | Merry Jack Plays Isaac! (part 1) [Jack, Rich] twitch.tv/videos/112554988, youtube.com/watch?v=AT4w4th63Kk, twitter.com/PreviouslyRec/status/810581683963568128
@@ -804,9 +804,9 @@
 | May 31, 2017 | 02:31:57 | Fri-Jay the 13th (part 2) [Jack, Rich, Jay] twitch.tv/videos/158632844, youtube.com/watch?v=agMvDTiigf0, twitter.com/PreviouslyRec/status/868951906852495360
 | Jun 04, 2017 | 01:29:42 | Monkey Wrenching Around [Jack, Rich] twitch.tv/videos/158644159, youtube.com/watch?v=hUbZTCLPI20, twitter.com/PreviouslyRec/status/871457683093815300
 | Jun 04, 2017 | 02:21:02 | Jason Wrenching Around [Jack, Rich] twitch.tv/videos/158658435, youtube.com/watch?v=hfaSllC4ZUY, twitter.com/PreviouslyRec/status/871457683093815300
-| Jun 05, 2017 | 02:09:24 | Space Sister [Jack, Rich, Karin, Katie | twitch.tv/videos/158883121 | youtube.com/watch?v=CjHXwXYQpLQ, twitter.com/PreviouslyRec/status/871872146431246336
-| Jun 05, 2017 | 00:25:18 | Space Sister part 2 (aka "Barbie... Prelude to the Prom") [Jack, Rich, Karin, Katie | twitch.tv/videos/158895662, youtube.com/watch?v=KC6powhN9Tg, twitter.com/PreviouslyRec/status/871872146431246336
-| Jun 05, 2017 | 01:40:01 | Barbie Queen of the the Mother Fucking Prom [Jack, Rich, Karin, Katie | twitch.tv/videos/158899231 | youtube.com/watch?v=vrp3YJI3e90, twitter.com/PreviouslyRec/status/871872146431246336
+| Jun 05, 2017 | 02:09:24 | Space Sister [Jack, Rich, Karin, Katie] twitch.tv/videos/158883121 | youtube.com/watch?v=CjHXwXYQpLQ, twitter.com/PreviouslyRec/status/871872146431246336
+| Jun 05, 2017 | 00:25:18 | Space Sister part 2 (aka "Barbie... Prelude to the Prom") [Jack, Rich, Karin, Katie] twitch.tv/videos/158895662, youtube.com/watch?v=KC6powhN9Tg, twitter.com/PreviouslyRec/status/871872146431246336
+| Jun 05, 2017 | 01:40:01 | Barbie Queen of the the Mother Fucking Prom [Jack, Rich, Karin, Katie] twitch.tv/videos/158899231 | youtube.com/watch?v=vrp3YJI3e90, twitter.com/PreviouslyRec/status/871872146431246336
 | Jun 07, 2017 | 02:06:03 | Witchy Whoa-Man(Jack Solo Stream) [Jack] twitch.tv/videos/159355651 | youtube.com/watch?v=g6mw6JMIAIc, twitter.com/PreviouslyRec/status/872508148275400704
 | Jun 11, 2017 | 02:05:54 | Sunday the 11th (part 1) [Jack, Rich] twitch.tv/videos/159387973, youtube.com/watch?v=H3cB49hbId4, twitter.com/PreviouslyRec/status/873984859022163969
 | Jun 11, 2017 | 01:57:06 | Sunday the 11th (part 2) [Jack, Rich] twitch.tv/videos/159407115, youtube.com/watch?v=5CPDZeEcJrc, twitter.com/PreviouslyRec/status/873984859022163969
@@ -898,8 +898,8 @@
 | Nov 05, 2017 | 02:19:22 | Rich's Odyssey (part 3) STRANGER THINGS 2 SPOILERS [Jack, Rich] twitch.tv/videos/188072204, youtube.com/watch?v=dsDASsJdW7k, twitter.com/PreviouslyRec/status/927269304176922625
 | Nov 08, 2017 | 02:07:21 | Ye of Little Fate (part 1) [Jack, Rich] twitch.tv/videos/188805622, youtube.com/watch?v=6Tf66ueqE1k, twitter.com/PreviouslyRec/status/928360833931005952
 | Nov 08, 2017 | 02:04:02 | Ye of Little Fate (part 2) [Jack, Rich] twitch.tv/videos/188807281, youtube.com/watch?v=zHdAs7_xaQw, twitter.com/PreviouslyRec/status/928360833931005952
-| Nov 12, 2017 | 01:21:03 | Final Fantasy Seven-es with the Evans’ (part 1) [Jack, Rich, Karin, Katie, Erin, Jim | twitch.tv/videos/201223701, youtube.com/watch?v=XaBWwDpbeFU, twitter.com/PreviouslyRec/status/929762602401587200
-| Nov 12, 2017 | 01:24:56 | Final Fantasy Seven-es with the Evans’ (part 2) [Jack, Rich, Karin, Katie, Erin, Jim | twitch.tv/videos/201224262, youtube.com/watch?v=_VeYbJtVjSo, twitter.com/PreviouslyRec/status/929762602401587200
+| Nov 12, 2017 | 01:21:03 | Final Fantasy Seven-es with the Evans’ (part 1) [Jack, Rich, Karin, Katie, Erin, Jim] twitch.tv/videos/201223701, youtube.com/watch?v=XaBWwDpbeFU, twitter.com/PreviouslyRec/status/929762602401587200
+| Nov 12, 2017 | 01:24:56 | Final Fantasy Seven-es with the Evans’ (part 2) [Jack, Rich, Karin, Katie, Erin, Jim] twitch.tv/videos/201224262, youtube.com/watch?v=_VeYbJtVjSo, twitter.com/PreviouslyRec/status/929762602401587200
 | Nov 16, 2017 | 01:35:54 | Morning Jack Zero Dawn (part 1) [Jack] twitch.tv/videos/202072189, youtube.com/watch?v=HVDaGVdHfwg, twitter.com/PreviouslyRec/status/931195194791354370
 | Nov 16, 2017 | 01:35:43 | Morning Jack Zero Dawn (part 2) [Jack] twitch.tv/videos/202126132, youtube.com/watch?v=39Prz1AlkAg, twitter.com/PreviouslyRec/status/931195194791354370
 | Nov 19, 2017 | 01:14:29 | Too Close to the Sun (Superflight part 1) [Jack, Rich] twitch.tv/videos/202812062, youtube.com/watch?v=d-0USa0rLgs, twitter.com/PreviouslyRec/status/932315471394766848
