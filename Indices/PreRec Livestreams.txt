@@ -26,7 +26,7 @@
 | Jul 02, 2014 | 00:57:32 | Dig Up Stupid: Part 1 [Jack, Rich] youtube.com/watch?v=Yz5kTbI6Rt8, twitch.tv/videos/48031575, twitter.com/PreviouslyRec/status/484481999428521985
 | Jul 02, 2014 | 01:00:29 | Dig Up Stupid: Part 2 [Jack, Rich, Jay, Jessi] youtube.com/watch?v=WjtLnfEpwHQ, twitch.tv/videos/48031311, twitter.com/PreviouslyRec/status/484481999428521985
 | Jul 02, 2014 | 01:02:33 | Dig Up Stupid: Part 3 [Jack, Rich, Jay, Jessi, Mike] youtube.com/watch?v=Kg9wv7rv2Pk, twitch.tv/videos/48031283, twitter.com/PreviouslyRec/status/484481999428521985
-| Jul 02, 2014 | 03:11:23 | DIG UP STUPID [Jack, Rich, Jay, Jessi, Mike] twitch.tv/videos/48528004, Duplicate: see lines 26, 27, & 28, twitter.com/PreviouslyRec/status/484481999428521985
+| Jul 02, 2014 | 03:11:23 | DIG UP STUPID [Jack, Rich, Jay, Jessi, Mike] twitch.tv/videos/48528004, twitter.com/PreviouslyRec/status/484481999428521985
 | Jul 02, 2014 | 00:29:05 | FINGER DEATH PUNCHED OUT [Jack, Rich, Jay, Jessi, Mike] youtube.com/watch?v=1O-jXuhw9zA, twitch.tv/videos/48527923, twitter.com/PreviouslyRec/status/484481999428521985
 | Jul 02, 2014 | 02:30:12 | DUCK Tates, tales, TAILS!!! [Jack, Rich, Jay, Jessi, Mike] youtube.com/watch?v=OFm8nCb9NJg, twitch.tv/videos/48527796, twitter.com/PreviouslyRec/status/484481999428521985
 | Jul 09, 2014 | 01:58:33 | Katamari Damacy - With the gang [Jack, Rich, Jay, Jessi] youtube.com/watch?v=jh140XkYVKY, twitch.tv/videos/48393029, twitter.com/PreviouslyRec/status/486946595112374273
@@ -120,7 +120,7 @@
 | Nov 02, 2014 | 01:06:19 | Daylight Saving SUPER time FORCE [Jack, Rich] twitch.tv/videos/44873315, youtube.com/watch?v=cCCd7qbrCRg, twitter.com/PreviouslyRec/status/529094730106171392
 | Nov 02, 2014 | 01:04:24 | Monaco Saving Time [Jack, Rich] twitch.tv/videos/44870867, youtube.com/watch?v=D-gjqbZojig, twitter.com/PreviouslyRec/status/529129932425674752
 | Nov 02, 2014 | 00:22:51 | The AVGN Game...NOPE Organ Trail (part 1.1) [Jack, Rich] twitch.tv/videos/44855805, youtube.com/watch?v=DDX4oSUteSI, twitter.com/PreviouslyRec/status/529135428092190720
-| Nov 02, 2014 | 00:14:32 | Organ Trail (part 1.2) [Jack, Rich] twitch.tv/videos/44855393 | Duplicate: see line 119, twitter.com/PreviouslyRec/status/529135428092190720
+| Nov 02, 2014 | 00:14:32 | Organ Trail (part 1.2) [Jack, Rich] twitch.tv/videos/44855393, twitter.com/PreviouslyRec/status/529135428092190720
 | Nov 02, 2014 | 01:11:16 | Organ Trail (part 2) [Jack, Rich] twitch.tv/videos/44808503, youtube.com/watch?v=8WuzKE7VETQ, twitter.com/PreviouslyRec/status/529135428092190720
 | Nov 09, 2014 | 01:08:18 | The Binding of Isaac - Rebirth (part 1) [Jack, Rich] twitch.tv/videos/44790444, youtube.com/watch?v=6hc8us1ztTI, twitter.com/PreviouslyRec/status/531634507456077824
 | Nov 09, 2014 | 00:49:34 | The Binding of Isaac - Rebirth (part 2) [Jack, Rich] twitch.tv/videos/44792975, youtube.com/watch?v=YOP6DjAdKfk, twitter.com/PreviouslyRec/status/531634507456077824
@@ -137,7 +137,7 @@
 | Nov 16, 2014 | 00:48:44 | Mario Kart 8 (Multiplayer with The Stream (part 3)) [Jack, Rich] twitch.tv/videos/43196510, youtube.com/watch?v=iLhLjVJTj8w, twitter.com/PreviouslyRec/status/534172506866089984
 | Nov 16, 2014 | 00:50:27 | Mario Kart 8 (Multiplayer with The Stream (part 4)) [Jack, Rich] twitch.tv/videos/43195897, youtube.com/watch?v=vUiHuQ0b4PQ, twitter.com/PreviouslyRec/status/534172506866089984
 | Nov 23, 2014 | 00:08:38 | Spelunky Hack & Half (part 1.1) [Jack, Rich] twitch.tv/videos/43135314, youtube.com/watch?v=YVbDc2K3oEo, twitter.com/PreviouslyRec/status/536709579435171840
-| Nov 23, 2014 | 00:56:18 | Spelunky Hack & Half (part 1.2) [Jack, Rich] twitch.tv/videos/43135125 | Duplicate: see line 136, twitter.com/PreviouslyRec/status/536709579435171840
+| Nov 23, 2014 | 00:56:18 | Spelunky Hack & Half (part 1.2) [Jack, Rich] twitch.tv/videos/43135125, twitter.com/PreviouslyRec/status/536709579435171840
 | Nov 23, 2014 | 00:46:29 | Spelunky Hack & Half (part 2) [Jack, Rich] twitch.tv/videos/43134921, youtube.com/watch?v=_KuWeP7qDlw, twitter.com/PreviouslyRec/status/536709579435171840
 | Nov 23, 2014 | 01:26:56 | The Binding Of Hack Frauds (Cain Run) [Jack, Rich] twitch.tv/videos/43134502, youtube.com/watch?v=SZHLXVhk1gE, twitter.com/PreviouslyRec/status/536609088416002048
 | Nov 26, 2014 | 00:51:40 | Star Trek Catan... THE BOARD GAME (part 1) [Jack, Rich, Jay, Lisa] twitch.tv/videos/43106445, youtube.com/watch?v=ARPjWVvxHro, twitter.com/PreviouslyRec/status/537810841748660224
@@ -153,8 +153,8 @@
 | Dec 03, 2014 | 01:31:41 | FrOg FrAcTiOnS [Jack, Rich] twitch.tv/videos/3599940, youtube.com/watch?v=lxGVKEyxZIw, twitter.com/PreviouslyRec/status/540222514665099264
 | Dec 07, 2014 | 01:15:34 | Hack & SPACE QUEST 1 (part 1) [Jack, Rich] twitch.tv/videos/3610175, youtube.com/watch?v=qnzuq40K2Qg, twitter.com/PreviouslyRec/status/541802607623536640
 | Dec 07, 2014 | 00:26:41 | Hack & SPACE QUEST 1 (part 2.1) [Jack, Rich] twitch.tv/videos/3610308, youtube.com/watch?v=Xm3FpRvPPp8, twitter.com/PreviouslyRec/status/541802607623536640
-| Dec 07, 2014 | 00:06:28 | Hack & SPACE QUEST 1 (part 2.2) [Jack, Rich] twitch.tv/videos/3610334 | Duplicate: see line 152, twitter.com/PreviouslyRec/status/541802607623536640
-| Dec 07, 2014 | 00:38:10 | Hack & SPACE QUEST 1 (part 2.3) [Jack, Rich] twitch.tv/videos/3610560 | Duplicate: see line 152 & 153, twitter.com/PreviouslyRec/status/541802607623536640
+| Dec 07, 2014 | 00:06:28 | Hack & SPACE QUEST 1 (part 2.2) [Jack, Rich] twitch.tv/videos/3610334, twitter.com/PreviouslyRec/status/541802607623536640
+| Dec 07, 2014 | 00:38:10 | Hack & SPACE QUEST 1 (part 2.3) [Jack, Rich] twitch.tv/videos/3610560, twitter.com/PreviouslyRec/status/541802607623536640
 | Dec 07, 2014 | 00:20:54 | Hack & SPACE QUEST 1 (part 3) [Jack, Rich] twitch.tv/videos/3610819, youtube.com/watch?v=rGaYYmFxeF8, twitter.com/PreviouslyRec/status/541802607623536640
 | Dec 08, 2014 | 00:53:16 | Hack & SPACE QUEST 1 (part 4) [Jack, Rich] twitch.tv/videos/3617178, youtube.com/watch?v=VxEnOoo3nPk, twitter.com/PreviouslyRec/status/542146065320128512
 | Dec 08, 2014 | 00:55:19 | Hack & SPACE QUEST 1 (part 5) [Jack, Rich] twitch.tv/videos/3619143, youtube.com/watch?v=soEh_a3JUi4, twitter.com/PreviouslyRec/status/542146065320128512
@@ -178,7 +178,7 @@
 | Dec 28, 2014 | 01:29:49 | XCOM - the New PC-in-ing (part 3) [Jack, Rich] twitch.tv/videos/3662764, youtube.com/watch?v=l5aWyL30n64, twitter.com/PreviouslyRec/status/549389718602125312
 | Jan 04, 2015 | 00:59:33 | Moving Stories - Hack And a Half [Jack, Rich] twitch.tv/videos/3674022, youtube.com/watch?v=H0N1hEGi2fo, twitter.com/PreviouslyRec/status/551851528730865664
 | Jan 04, 2015 | 00:14:22 | NaNaNaNa Batman - Arkham Asylum (part 1.1) [Jack, Rich] twitch.tv/videos/3674290, youtube.com/watch?v=pPmC6UMhioo, twitter.com/PreviouslyRec/status/551851528730865664
-| Jan 04, 2015 | 00:47:34 | NaNaNaNa Batman - Arkham Asylum (part 1.2) [Jack, Rich] twitch.tv/videos/3674301 | Duplicate: see line 177, twitter.com/PreviouslyRec/status/551851528730865664
+| Jan 04, 2015 | 00:47:34 | NaNaNaNa Batman - Arkham Asylum (part 1.2) [Jack, Rich] twitch.tv/videos/3674301, twitter.com/PreviouslyRec/status/551851528730865664
 | Jan 04, 2015 | 00:55:52 | NaNaNaNa Batman - Arkham Asylum (part 2) [Jack, Rich] twitch.tv/videos/3674308, youtube.com/watch?v=YV1_WVjTpc0, twitter.com/PreviouslyRec/status/551851528730865664
 | Jan 04, 2015 | 01:01:53 | NaNaNaNa Batman - Arkham Asylum (part 3) [Jack, Rich] twitch.tv/videos/3674316, youtube.com/watch?v=1edE10dLzcU, twitter.com/PreviouslyRec/status/551851528730865664
 | Jan 07, 2015 | 00:59:46 | NaNaNaNa Batman - Arkham Asylum (part 4) [Jack, Rich] twitch.tv/videos/3680496, youtube.com/watch?v=77L4cIZNEGc, twitter.com/PreviouslyRec/status/552913561757179906
@@ -208,8 +208,8 @@
 | Feb 01, 2015 | 01:07:01 | SUPER SUNDAY FUTBALL (part 3) [Jack, Rich] twitch.tv/videos/3760475, youtube.com/watch?v=FxP3SoKHWJY, twitter.com/PreviouslyRec/status/561649868696211457
 | Feb 01, 2015 | 00:42:38 | SUPER SUNDAY FOOTBALL (part 4) [Jack, Rich] twitch.tv/videos/3760480, youtube.com/watch?v=-phZH4B1Lvw, twitter.com/PreviouslyRec/status/561649868696211457
 | Feb 04, 2015 | 00:13:31 | Leisure Suit Larry 2 - We gonna get some (part 1.1) [Jack, Rich, Jay] twitch.tv/videos/3776887, youtube.com/watch?v=317RhgaAas0, twitter.com/PreviouslyRec/status/563142133171748864
-| Feb 04, 2015 | 00:06:31 | Leisure Suit Larry 2 - We gonna get some (part 1.2) [Jack, Rich, Jay] twitch.tv/videos/3776895 | Duplicate: see line 207, twitter.com/PreviouslyRec/status/563142133171748864
-| Feb 04, 2015 | 00:27:42 | Leisure Suit Larry 2 - We gonna get some (part 1.3) [Jack, Rich, Jay] twitch.tv/videos/3776906 | Duplicate: see line 207 & 208, twitter.com/PreviouslyRec/status/563142133171748864
+| Feb 04, 2015 | 00:06:31 | Leisure Suit Larry 2 - We gonna get some (part 1.2) [Jack, Rich, Jay] twitch.tv/videos/3776895, twitter.com/PreviouslyRec/status/563142133171748864
+| Feb 04, 2015 | 00:27:42 | Leisure Suit Larry 2 - We gonna get some (part 1.3) [Jack, Rich, Jay] twitch.tv/videos/3776906, twitter.com/PreviouslyRec/status/563142133171748864
 | Feb 04, 2015 | 01:11:16 | Leisure Suit Larry 2 - We gonna get some (part 2) [Jack, Rich, Jay] twitch.tv/videos/3776913, youtube.com/watch?v=bYDC3Yps9eg, twitter.com/PreviouslyRec/status/563142133171748864
 | Feb 04, 2015 | 00:49:44 | Tron 2.0 Killer app... man. [Jack, Rich, Jay] twitch.tv/videos/3776923, youtube.com/watch?v=oVDy5V6cCYU, twitter.com/PreviouslyRec/status/563142133171748864
 | Feb 04, 2015 | 00:37:54 | Necrodancer... man. [Jack, Rich, Jay] twitch.tv/videos/3776927, youtube.com/watch?v=OEtEtt2wNZc, twitter.com/PreviouslyRec/status/563142133171748864
@@ -218,8 +218,8 @@
 | Feb 08, 2015 | 00:53:21 | Metroid Prime - Jack Solo Stream (part 3) [Jack] twitch.tv/videos/3793423, youtube.com/watch?v=d1Fe764bC_c, twitter.com/PreviouslyRec/status/564610929334444032
 | Feb 11, 2015 | 00:55:40 | Matroid Prime & Half (part 1) [Jack, Rich] twitch.tv/videos/3808673, youtube.com/watch?v=OMhWJsbvHgI, twitter.com/PreviouslyRec/status/565700291602182146
 | Feb 11, 2015 | 00:23:10 | Matroid Prime & Half (part 2.1) [Jack, Rich] twitch.tv/videos/3808679, youtube.com/watch?v=SpS_PA4sHiM, twitter.com/PreviouslyRec/status/565700291602182146
-| Feb 11, 2015 | 00:01:54 | Matroid Prime & Half (part 2.2) [Jack, Rich] twitch.tv/videos/3813417 | Duplicate: see line 217, twitter.com/PreviouslyRec/status/565700291602182146
-| Feb 11, 2015 | 00:25:00 | Matroid Prime & Half (part 2.3) [Jack, Rich] twitch.tv/videos/3813428 | Duplicate: see lines 217 & 218, twitter.com/PreviouslyRec/status/565700291602182146
+| Feb 11, 2015 | 00:01:54 | Matroid Prime & Half (part 2.2) [Jack, Rich] twitch.tv/videos/3813417, twitter.com/PreviouslyRec/status/565700291602182146
+| Feb 11, 2015 | 00:25:00 | Matroid Prime & Half (part 2.3) [Jack, Rich] twitch.tv/videos/3813428, twitter.com/PreviouslyRec/status/565700291602182146
 | Feb 11, 2015 | 00:58:43 | Luigi's Mansion - Hack & Half [Jack, Rich] twitch.tv/videos/3824944, youtube.com/watch?v=lM8t1wHG3dg, twitter.com/PreviouslyRec/status/565700291602182146
 | Feb 15, 2015 | 02:15:34 | Orcs must Die!! (Rich Solo Stream) [Rich] twitch.tv/videos/3832881, youtube.com/watch?v=2KyWBHNmHUY, twitter.com/PreviouslyRec/status/567114278277484544
 | Feb 15, 2015 | 00:31:45 | Orcs must Die!! - Half & Hack [Jack, Rich] twitch.tv/videos/3837347, youtube.com/watch?v=JANoiRLoECA, twitter.com/PreviouslyRec/status/567114278277484544
@@ -227,7 +227,7 @@
 | Feb 15, 2015 | 01:34:27 | STRAFE (motherfugger (part 2)) [Jack, Rich, Thom Glunt] twitch.tv/videos/3838093, youtube.com/watch?v=KpJdCa91ri4, twitter.com/PreviouslyRec/status/567156838987476992
 | Feb 17, 2015 | 01:53:06 | STRAFE (motherfugger (part 3)) [Jack, Rich] twitch.tv/videos/3838258, youtube.com/watch?v=k4zZRQh2CLg, twitter.com/PreviouslyRec/status/567875077057941504
 | Feb 18, 2015 | 00:34:35 | Master of Orion 2... and Jack's Crocodile Brain (part 1.1) [Jack, Rich, Jay] twitch.tv/videos/3858589, youtube.com/watch?v=jvfKeAE5Ozk, twitter.com/PreviouslyRec/status/568216497195229185
-| Feb 18, 2015 | 00:46:11 | Master of Orion 2... and Jack's Crocodile Brain (part 1.2) [Jack, Rich, Jay] twitch.tv/videos/3858605 | Duplicate: see line 226, twitter.com/PreviouslyRec/status/568216497195229185
+| Feb 18, 2015 | 00:46:11 | Master of Orion 2... and Jack's Crocodile Brain (part 1.2) [Jack, Rich, Jay] twitch.tv/videos/3858605, twitter.com/PreviouslyRec/status/568216497195229185
 | Feb 18, 2015 | 01:05:04 | Chat-lunky (part 1) [Jack, Rich, Jay] twitch.tv/videos/3858625, youtube.com/watch?v=9V5ZHtEJQP4, twitter.com/PreviouslyRec/status/568216497195229185
 | Feb 18, 2015 | 00:55:49 | Chat-lunky (part 2) [Jack, Rich, Jay] twitch.tv/videos/3858634, youtube.com/watch?v=curdgXeZbRI, twitter.com/PreviouslyRec/status/568216497195229185
 | Feb 18, 2015 | 01:20:27 | Chat Finger Death Punch [Jack, Rich, Jay] twitch.tv/videos/3858648, youtube.com/watch?v=7a7OJ1qsNLk, twitter.com/PreviouslyRec/status/568216497195229185
@@ -321,14 +321,14 @@
 | Jun 03, 2015 | 00:53:11 | Super Mario 2 - The Karen/Echo Stream (part 3) [Jack, Rich, Karin] twitch.tv/videos/6694815, youtube.com/watch?v=srKviyuuYTc, twitter.com/PreviouslyRec/status/606275547614855168
 | Jun 07, 2015 | 00:52:41 | Turtles, all the way down (part 1) [Jack, Rich] twitch.tv/videos/6695486, youtube.com/watch?v=nQo10rAlpCE, twitter.com/PreviouslyRec/status/607614667423293440
 | Jun 07, 2015 | 00:28:23 | Audio SHANKED my Turtle Stream (part 1) [Jack, Rich] twitch.tv/videos/6696012, youtube.com/watch?v=3IurVNOZrfM, twitter.com/PreviouslyRec/status/607614667423293440
-| Jun 07, 2015 | 00:12:14 | Audio SHANKED my Turtle Stream (part 2) [Jack, Rich] twitch.tv/videos/6696251 | Duplicate: see line 319, twitter.com/PreviouslyRec/status/607614667423293440
+| Jun 07, 2015 | 00:12:14 | Audio SHANKED my Turtle Stream (part 2) [Jack, Rich] twitch.tv/videos/6696251, twitter.com/PreviouslyRec/status/607614667423293440
 | Jun 07, 2015 | 00:53:02 | Audio SHANKED my Turtle Stream (part 3) [Jack, Rich] twitch.tv/videos/6697717, youtube.com/watch?v=djzMSxJUvpE, twitter.com/PreviouslyRec/status/607614667423293440
 | Jun 10, 2015 | 01:00:23 | Fallout - New Vegas (part 1) [Jack, Rich] twitch.tv/videos/7031836, youtube.com/watch?v=qgAxQko8KTY, twitter.com/PreviouslyRec/status/608735769843204096
 | Jun 10, 2015 | 01:01:38 | Fallout - New Vegas (part 2) [Jack, Rich] twitch.tv/videos/7032424, youtube.com/watch?v=mYCy9wKA44s, twitter.com/PreviouslyRec/status/608735769843204096
 | Jun 10, 2015 | 00:28:44 | Fallout - New Vegas (part 3) [Jack, Rich] twitch.tv/videos/7033141, youtube.com/watch?v=iaW5ckXm_cc, twitter.com/PreviouslyRec/status/608735769843204096
 | Jun 10, 2015 | 01:22:59 | Dorkest Dungeon [Jack, Rich] twitch.tv/videos/7033228, youtube.com/watch?v=kPeIaT19xPU twitter.com/PreviouslyRec/status/608735769843204096
 | Jun 14, 2015 | 00:17:30 | Brutal Rich (part 1.1) [Jack, Rich] twitch.tv/videos/7279275, youtube.com/watch?v=y5FKMv-r2DA, twitter.com/PreviouslyRec/status/610132372311408640
-| Jun 14, 2015 | 01:12:02 | Brutal Rich (part 1.2) [Jack, Rich] twitch.tv/videos/7337388 | Duplicate: see line 326, twitter.com/PreviouslyRec/status/610132372311408640
+| Jun 14, 2015 | 01:12:02 | Brutal Rich (part 1.2) [Jack, Rich] twitch.tv/videos/7337388, twitter.com/PreviouslyRec/status/610132372311408640
 | Jun 14, 2015 | 01:00:38 | Brutal Demon's Souls (part 1) [Jack, Rich] twitch.tv/videos/7338631, youtube.com/watch?v=T8HZtRlNg6Y, twitter.com/PreviouslyRec/status/610132372311408640
 | Jun 14, 2015 | 00:47:56 | Brutal Demon's Souls (part 2) [Jack, Rich] twitch.tv/videos/7342296, youtube.com/watch?v=CtIll_PHe3M, twitter.com/PreviouslyRec/status/610132372311408640
 | Jun 14, 2015 | 01:10:15 | Brutal Demon's Souls (part 3) [Jack, Rich] twitch.tv/videos/7344636, youtube.com/watch?v=-lYsEX3U5eo, twitter.com/PreviouslyRec/status/610132372311408640
@@ -626,8 +626,8 @@
 | Jul 31, 2016 | 01:25:38 | Quadrilateral Cowboy (part 2) [Jack, Rich] twitch.tv/videos/83313015, youtube.com/watch?v=xUIf-H6T1zw, twitter.com/PreviouslyRec/status/759827016719867904
 | Aug 03, 2016 | 00:36:49 | Severed - Cut off - Removed (part 1) [Jack, Rich, Karin] twitch.tv/videos/85633822, youtube.com/watch?v=N9qTEAVgNn8, twitter.com/PreviouslyRec/status/760891860239998976
 | Aug 03, 2016 | 01:44:36 | Severed - Cut off - Removed (part 2) [Jack, Rich, Karin] twitch.tv/videos/85640865, youtube.com/watch?v=ZHK1F5BOR1M, twitter.com/PreviouslyRec/status/760891860239998976
-| Aug 03, 2016 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) [Jack, Rich, Karin] twitch.tv/videos/85642007 | Duplicate: see lines 627 & 628, twitter.com/PreviouslyRec/status/760891860239998976
-| Aug 03, 2016 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) [Jack, Rich, Karin] twitch.tv/videos/85642285 | Duplicate: see lines 627, 628 & 629, twitter.com/PreviouslyRec/status/760891860239998976
+| Aug 03, 2016 | 00:46:57 | Stranger Things SPOILERS Talk (part 1) [Jack, Rich, Karin] twitch.tv/videos/85642007, twitter.com/PreviouslyRec/status/760891860239998976
+| Aug 03, 2016 | 00:19:25 | Stranger Things SPOILERS Talk (part 2) [Jack, Rich, Karin] twitch.tv/videos/85642285, twitter.com/PreviouslyRec/status/760891860239998976
 | Aug 07, 2016 | 02:18:43 | Pac-Man Fever (par-Man 256) [Rich, Karin] twitch.tv/videos/86932166, youtube.com/watch?v=kwjaUqSrNsg, twitter.com/PreviouslyRec/status/762446624090009600
 | Aug 14, 2016 | 01:09:20 | Jack Eats a kb'm Sandwich. part 1 (Half Life 2) [Jack, Rich] twitch.tv/videos/86933658, youtube.com/watch?v=vHot35dw4qM, twitter.com/PreviouslyRec/status/764879970493689856
 | Aug 14, 2016 | 01:14:11 | Jack Eats a kb'm Sandwich. part 2 (Half Life 2) [Jack, Rich] twitch.tv/videos/86934815 | https://www.youtube.com/watch?v=QFKn7iFds1o, twitter.com/PreviouslyRec/status/764879970493689856
@@ -686,7 +686,7 @@
 | Nov 11, 2016 | 01:14:37 | Get Old Faster!! (GoNNER) [Jack, Rich, Karin] twitch.tv/videos/102160676, youtube.com/watch?v=ZwMAczusy3I, twitter.com/PreviouslyRec/status/797159417691127808
 | Nov 13, 2016 | 02:21:00 | Stardew my Nutsack, er Rucksack [Jack, Rich]Rich] twitch.tv/videos/105345451 | youtube.com/watch?v=M3X4jcg1PTg, twitter.com/PreviouslyRec/status/797890059945078786
 | Nov 13, 2016 | 00:34:23 | Dissin' On the Herd (part 1.1) [Jack, Rich] twitch.tv/videos/105345972, youtube.com/watch?v=91P1wN3yAIE, twitter.com/PreviouslyRec/status/797890059945078786
-| Nov 13, 2016 | 01:32:50 | Dissin' On the Herd (part 1.2) [Jack, Rich] twitch.tv/videos/105346294 | Duplicate: see line 689, twitter.com/PreviouslyRec/status/797890059945078786
+| Nov 13, 2016 | 01:32:50 | Dissin' On the Herd (part 1.2) [Jack, Rich] twitch.tv/videos/105346294, twitter.com/PreviouslyRec/status/797890059945078786
 | Nov 16, 2016 | 01:41:24 | The Finding of My Nutsack (part 1) [Jack, Rich] twitch.tv/videos/106105652, youtube.com/watch?v=m_33Djnw7CE, twitter.com/PreviouslyRec/status/798985864340652032
 | Nov 16, 2016 | 01:06:48 | The Finding of My Nutsack (part 2) [Jack, Rich] twitch.tv/videos/106143918, youtube.com/watch?v=1wNLJF5c6RY, twitter.com/PreviouslyRec/status/798985864340652032
 | Nov 18, 2016 | 01:16:40 | Quietly playing Dishonored 2 (Rich Solo)(Part 1) [Rich] youtube.com/watch?v=sLOPZwv8FBY, twitter.com/PreviouslyRec/status/799739610242764800
