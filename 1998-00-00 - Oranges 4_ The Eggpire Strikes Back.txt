@@ -40,7 +40,7 @@ Handlebar Moustache Orange: Commander Asmar?
 
 Commander Asmar: Yes, sir?
 
-Handlebar Moustache Orange: Assemble your troops. It is time to attack.
+Handlebar Moustache Orange: Assemble your troops. It'ss time to attack.
 
 Commander Asmar: Yes!
 
@@ -56,5 +56,21 @@ Soldier 3: Oh, man. Medic, medic!!
 
 Professor Sunkyst: War is going pretty well, actually. We've only lost 50% of our...oh my lord, there's a child on the battlefield!
 
-General, get that child off the battlefield. Fire all weapons on him.
+General McCaggot: General, get that child off the battlefield. Fire all weapons on him.
+
+Professor Sunkyst: Look, kid. We have to get off of this battlefield now. The most terrible thing--
+
+Child: I lost my mommy.
+
+Professor Sunkyst: I don't care about your mommy right now. Let's go.
+
+Child: Which way's my mommy? She's gone.
+
+Professor Sunkyst: Your mommy's probably dead in the bloody battle.
+
+Child: Oh, god.
+
+Professor Sunkyst: Oh, my. I thought that grass looked awfully phony. I guess that means we're captured.
+
+Child: Oh, no. Where's my mommy?
 
