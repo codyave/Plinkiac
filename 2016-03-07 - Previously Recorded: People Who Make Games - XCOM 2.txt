@@ -1,0 +1,731 @@
+Mar 7, 2016
+Previously Recorded: People Who Make Games - XCOM 2
+https://www.youtube.com/watch?v=4dp-nIzxLpk
+
+hello hello hey guys
+hello welcome so thank you so uh who is
+who here
+I'm Greg I'm art director okay and I'm
+guard I'm the lead producer alright well
+welcome Greg and Garth
+more specifically art director and lead
+producer of both XCOM enemy unknown and
+XCOM 2 which is what we will be
+primarily talking about today yeah
+that's right Oh long time I know it's
+like a marriage I know
+yeah how long have you guys been making
+games together Oh
+since enemy No yeah few years but yeah
+like we've been drawn that has been
+working uh together now for a flat
+amount of seven eight years some like
+that so you know it's been a while and I
+think that's part of the part of the
+cool part of our team is that we've got
+such a a history and the communication
+is way it is that um you know we can we
+talk more honestly and frankly than I
+think a lot of teams that don't have
+that longevity you can do so yeah it's
+kind of a cool it's kind of a good
+relationship where I work since that's
+great right so I'm curious about
+something you started with enemy Unknown
+and uh you know at the time turn-based
+other than like like combat like the
+XCOM style combat was kind of dead at
+the time was there pressure on you guys
+to turn it real-time there were it's
+funny that I think there were murmurs
+but they were always sort of in jest and
+and more joking I mean the the the team
+creatively and Jake who is our lead
+designer on enemy Unknown design-wise
+Hugh's biggest fan of the original XCOM
+series in the early 90s and to our
+publishers credit um you know like you
+said I think that John was pretty
+non-existent um when when we were in
+development with enemy
+and they sort of said what do you guys
+want to do with the title and we said
+these are the pillars of the core series
+that we want to uphold and they let us
+do it so they know there was never like
+a real conversation about do we go turn
+this into you know an action-oriented
+game right now because that's not what x
+times about we defined what the pillars
+were when we stuck by them well then the
+term base you know like that never
+wavered and kernel II and and and that
+was one of the things that that really
+we were able to take advantage of him
+when we dropped the camera down all the
+time if this was an action game you just
+couldn't do that and so if it would end
+up you have to become where it is to
+play the game and so it would be more of
+an RTS the turn-based nature allows us
+to drop the camera and get close to
+soldiers and then see the action and and
+and and and actually you know make a
+turn-based game that is actually
+entertaining to watch and then that's
+actually a great point I mean we talked
+about the design and the mechanics of
+the game but the the most fun part of
+sort of the the the concept coming
+together for me and actually what made
+me come to practice was seeing this
+movie that Greg and his team made which
+was sort of a pretty gameplay
+visualization of what praxis would do if
+we could bring a turn-based genre game
+back to to the fold and I think the
+visualization of everything sort of
+helps sell it because it kind of made it
+look like an action game but you still
+have the timelessness of of these
+mechanics that work that were turn-based
+and the funniest part about that was
+that actually you know when you look at
+the camera mechanics we actually got
+pretty close to what the original
+thought was for it now we had time we
+had we have time units yeah that went
+away because that actually wasn't fun
+that didn't translate great to a to a
+current game but but the turn-based
+nature stuck stuck so and that was the
+very first thing we made so that was
+kind of the Bible for the game for you
+know till I made the second movie with
+moutains and it was the perfect tool to
+galvanize the team as well it's it's
+pretty cool to see
+is it moutains are mutants is
+disputants but I've been saying a word
+so long I started adding my falta more
+used to it a few times is how I've
+always known it to be although that's
+not what I'm that's not what I tend to
+say lately because I get lazy one more
+effort to save youth on the mouton so
+okay now it should be mute on is what I
+think I would assume it's with quick
+killing gala cause i-i've said Mouton
+occasionally myself so I'm guilty right
+okay okay I don't go potato potato
+is what we'll say basically our chat
+called me out on it
+they're right to do that way me okay so
+we you you guys coming from the success
+of XCOM into XCOM to what from a design
+perspective from a gameplay perspective
+what were your goals the I mean just
+someone all of it was to make the game
+more unpredictable to make it more
+replayable we sort of had it just an
+internal mantra on the team of play
+forever which obviously it can be a
+little hyperbolic but it really helped
+drive us with all of the micro decisions
+that design was making on the strategy
+layer to even on the tactical side with
+some of the facilities that you see in
+the avenger and the procedural Maps
+which was a key feature that was the
+first thing we prototyped in
+pre-production it was all about how can
+we over deliver and make this this game
+more reliable if you beat it or if you
+lose you want to go back in because you
+will not see the same thing twice the
+maps help a lot
+Hey yeah no absolutely I mean Greg can
+talk a lot about that is that a whole
+new pipeline I think I think Jake when
+we first brought it up I think when he
+said that we wanted the procedural he's
+like you know like we're we're thought
+we get together when we finish the game
+before this could give it a room we're
+like okay what do we want to do like how
+do we want to take this forward and Jake
+was like I want procedural maps and I
+was like yes I think everybody thought I
+was like no because I
+and crafted bait and and there's the
+fear that like you know when you do that
+you're going to lose the that that
+personal touch then I'd be lying if I
+said I wasn't concerned greatly about
+that when we first got into it but I was
+I was right there saying yeah we I want
+to do that because we needed a way to
+provide more content and making
+handcrafted match that wasn't wasn't
+going to be feasible to provide the
+depth that we wanted to provide I mean
+we just wanted to make more and there is
+a lot of value and I mean going back to
+us being part of the same team across
+projects and in the industry that that's
+somewhat of a rare thing I never there I
+know if it does this talk about this a
+lot as well with their Fallout series
+but we learned a lot as a team as a
+leadership team has a lot of other
+developers that were sub leads are part
+of enemy Unknown like Greg said we tried
+some of this procedural stuff before the
+game not only was it not in the oven to
+bake of it we were still finding the
+ingredients and when you were trying to
+block too much all on it once in enemy
+Unknown pre-production but going through
+that going through that learning lesson
+allowed us to to do it right I think in
+XCOM 2 so then the team did such a great
+job it's it's pretty hard to tell that
+their procedural they still they still
+have context behind them and you have
+the beauty of the hand placed elements
+but you won't see the same layout twice
+no I think like it's extra important
+because you know thematically the the
+game has this guerrilla operations feel
+to it and so not knowing yeah I know
+Rich's rich has close to a thousand
+hours into the first XCOM I have just
+like I'm like I'm like nine hundred and
+ninety five hundred hours into the game
+oh man yeah he always says like the in
+in in some maps he just knows where the
+aliens are gonna be yeah because we know
+I know where to take cover I have a
+pretty good idea what I'm gonna run into
+a pod
+so put that procedural generation helps
+add to the tension of each mission and I
+think that's a was a good call ok yeah
+no that that's good 995 that's the
+problem it might be 997 by now you
+should work a little bit harder
+two four digits well you know I'd be
+there by now but I currently have 199
+hours and XCOM to get under a month so I
+love your game by the way
+that's all that's that's really cool to
+hear thank you for playing I'm kind of
+insulted you only have almost 200 hours
+like he also hasn't gone out for like a
+thousand hours well like I said I'm 200
+hours in just about and I'm not I'm not
+feeling the the familiarity that I did
+with the original pre-made maps okay the
+first time we did that the first time
+procedural work right like I had made
+all the buildings they were all brick
+and and the first time we got the system
+working we're like because everything's
+kind of like if you imagine like a road
+network where all it is is just cement
+right and then inside these little
+pockets on the road network buildings
+pop in and then on top of the roads
+stuff pops in we didn't messed up on the
+roads right and the buildings were
+popping in there all these red brick
+buildings together just me and and so
+they look terrible and so I remember I
+was sitting in my night in my house and
+like I made the level I made the plot
+and then I dropped all the buildings in
+and I started I had no idea where I was
+and I'm like I I made this and I don't
+know where I am in the level then I
+restarted it and I was like okay I
+completely have no idea where I am now
+like and that was the moment where I was
+like this is gonna work like I think
+from the heart side of like this is
+going to work going on to some of the
+other new things that that were added in
+XCOM to I know something that's a bit
+controversial is the the timer's yeah
+something that eating a rich as a
+veteran didn't like at first but has
+grown to love oh so uh
+something I read from yeah they're
+actually really nice what is that one of
+the idea to put timers in like how did
+that all come about well um you know
+there was a few of the design pillars
+procedural maps how can we make the game
+more
+replayable because you mentioned the
+gorilla theme we really latched onto
+that and we wanted mechanically first
+and foremost to say you're not just
+going into maps and sweeping the map
+with with killing all aliens which was
+the bulk of missions an enemy unknown
+enemy within had a little more variety
+and an enemy unknown had had some
+missions here and there like bomb
+disposal but we wanted to sort of flip
+flip flip the switch on that and make
+every map you go into the norm to be
+that you have an objective that you
+can't expect or anticipate and it'll add
+a little wrinkle to gameplay we love
+wiping aliens you usually have to wipe
+out all the aliens but because you're
+this guerrilla force you also have to do
+this thing to push the resistance
+forward and and timers make sense it
+made a lot of sense to to to tie into
+the narrative but then also force you to
+relearn how to play which I think on the
+surface is is it can be a little
+disturbing when you especially someone
+has played enemy Unknown so much and you
+have these go-to strategies and these
+go-to tactics but if you have the
+overwatch screen this is baseline system
+that you put so many hours into and
+learn to play it and master it in a new
+way it to me it elevates the experience
+even more um but we have mods if you
+don't like the timer so think about no I
+I didn't like them at first but once
+once I just got used to it I started
+appreciating how it it shook me out of
+my old strategies where I always before
+I just took my time always find a good
+cover creep up slowly no need rush and
+now suddenly I got I got something
+kicking me in the butts and you got it
+you got to get moving you got it you got
+to take more chances and I kind of like
+that and I am consistently amazed at how
+often I just barely finished the
+objective in the nick of time and how
+the hell did you balance that they are
+our level designers and and and our and
+our game designers did a phenomenal job
+with that a lot of play testing and
+feedback as well
+iteration I mean we had we had there's
+period in development where the timers
+were just way too long and you're right
+I mean it's it's a knife said you have
+to get them just right or else they feel
+meaningless if you push every mission
+with three plus turns remaining it's
+sort of like okay I didn't have to worry
+about that and obviously if it's
+impossible to get to then then they feel
+too punitive and you feel like the game
+is is purposefully mistreating you and
+they did a great job I think the finding
+finding that sweet spot it's not perfect
+but I I've had the same experience you
+did with all the iteration we've gone
+through where I generally will well
+overcome the objective within one or two
+turns remaining and it always feels it
+adds this drama at the end well you know
+speaking of mods I want to say the top
+mod for XCOM 2 is the removal of those
+timers and you know obviously you need
+to stay open to the community but I mean
+that's that's like redressing your baby
+you know how does as game designers like
+you know mods that that change the alien
+design Mazda changed gameplay elements
+how do you deal with accepting the
+community involvement and and having
+them shake your baby we love it yeah we
+love it
+know that so that was the whole purpose
+of a mods we you know we felt on enemy
+Unknown that that was one pillar that we
+sort of swung and with and it's such
+it's such a cool design
+XCOM with that that is this unique game
+with the synergy between strategy and
+tactical and and the sort of open-ended
+systems that that are that are highly
+systemic that we said we want players in
+the community to be able to alter it how
+they see fit and we think that that's
+the future for a lot of things in the
+industry and if people want to want to
+change that we're work static that they
+love the game enough that they want to
+take the time and try to modify it and
+play it in new ways and that all that
+plays into play forever um at least you
+know on the design side I know Craig's
+been super open to that about to with
+the you know mutants are getting change
+move on to go
+Oh IME we everything you asked me like
+what are you most excited for it I'm
+like yeah that's coming oh yeah yeah a
+calibrated time in a mood I wish I could
+personally make sure that happens does
+shoot I don't know get you that will
+happen um but uh
+kalpen how do I not do that I'm telling
+you man my legs but yeah be the I'm I do
+aspect you know like what do you excited
+to see your we want to see it all like I
+actually go home and I look at steam see
+how many mobs are in the game and you
+know like it the first week or weekend
+we have like 200 plus my for over a
+thousand pound yeah like it I mean it's
+it's it's mind-boggling how much people
+are doing but it but at the same time
+it's it's the opposite of and I think
+where you're going with it I we like
+we're excited to see what people love it
+game not not kind of like oh don't mess
+it up you've already messed it up
+hundreds of times right but but now I
+mean we want to we want to see you know
+where people's interests are what they
+want to do and and what they want to
+make and I think it's most players it I
+think it takes a little while come those
+ten you came to you it was like I need
+to throw my old strategies and and play
+this a little bit differently even those
+mechanics make you feel like it's the
+same thing it really is a different game
+and so you know if you want to take
+timers out great but like it's good it
+you know to also approach the way you
+did or come let realizations it's very
+big of you to be open to people messing
+with your toys no I mean again agar said
+if they're messing with it they must
+love it right and that's that's the
+biggest reward with people people going
+in and and and they want to make it
+their own and that's you know at that
+that's pretty cool
+so yeah and where we are an interactive
+industry that's sort of the
+differentiator with with video games as
+opposed to movies or books or things
+like that and and to partner with the
+community and see them sort of modify
+that key differentiator that we have and
+make it interactive in ways that they
+want is is really exciting them yeah I I
+think it would be easy to sort of turn
+our nose up in the
+Aaron to say change it the game is
+perfect but we're very open we're gamers
+ourselves we love we love seeing all all
+different ideas and people playing with
+it and all types of new ways I should
+probably check and see if there's a mod
+for Cal print I should there might
+already be very butter kick out Britain
+in the bond but by the way John coming
+in three weeks
+2x going to be more shot and anyone
+watching this if you've modded out the
+timer to unmod it give it a day and see
+how you feel about it
+get rich ants yeah III will say so we're
+praising mods right now and we truly
+love them but Greg is right you're
+absolutely right give it a chance I mean
+mods can sometimes be a crutch where
+people will be like I don't even like
+this thing on paper how it sounds or
+after two missions I don't want to give
+it a chance
+um give it a chance you know we're
+saying we love mods but we also would
+like you to try the game over you
+completely disrupt it and then and then
+you can mod it how you want but and I'm
+only saying that because I played so
+much myself and I truly do believe in in
+the timer's I think they're easy to
+dismiss when you hear about them on
+paper but like you said in your
+experience they sort of fit into the
+theme of XCOM 2 as the package that for
+access design yeah well speaking you
+know speaking of art-direction our
+design alien design the coming from
+enemy unknown to XCOM to you know enemy
+known is is kind of classic bighead
+aliens and here we have kind of an
+evolution of that would you like to
+discuss or talk about you know some of
+your inspirations in moving forward with
+the alien design yeah yeah well how much
+time we have as much as you want
+um now so the yeah everything kind of is
+evolved uh you know we one of the things
+that is a that makes XCOM XCOM it's not
+like high sci-fi it's ground inside by
+its it's a it's it's kind of site by
+lore you know and so you know you have
+to have a sec toyed right oh you have a
+disk for UFO
+and those are kind of like the places
+where where I start sectoid is always
+the first character I concept and
+usually the last one that I model it's a
+limited model twice model first in the
+model again but the we wanted to evolve
+several the aliens and make them more
+human going with storyline and so we
+wanted the SEC would be a little more
+formidable in its physique so we made
+him some feet tall and he gets to be a
+puffle because he so he's so okay so
+simple it doesn't armor anything that
+you've got a really gotta push that one
+so he actually is more difficult to
+concept than you would imagine
+Plus everybody knows what a little gray
+looks like to them he didn't he was a
+little is it true he was a little gray
+we spliced him acute with human right
+yeah and many 7 feet tall my so is the
+human or a year a song yes Oh basketball
+team I don't know Jannetty it's got that
+will change a absolutely he get my
+control and dunk I want to make him
+taller than taller than the human you
+know we had a lot of we tried to do a
+little bit of a David versus Goliath
+kind of feel you know where you get a
+shot cam and they're they're looking
+down on you you're looking up at them
+but uh but yeah the the mutant you know
+we wanted to stick to the purple skin
+and the green armor but we wanted to
+actually kind of go back and show his
+physique a little bit because again he's
+playing with human but also go back to
+the very original XCOM game and make his
+armor be more form-fitting the faceless
+is one that we looked a lot it like the
+creature from Black Lagoon and Swamp
+Thing Pan's Labyrinth the panel man
+right so it took you know major major
+inspiration from those very common pop
+culture things people understand and we
+tried to do that everywhere like we want
+to find little ways to connect people to
+to what's in the game the drama Don when
+we were making that character you know
+it does it shares dive suits with the
+Big Daddy that's great the host kind of
+come from that same language to degree
+but but we mixed ours with with space
+suits and you know his color key comes
+from one of the earliest NASA space
+suits and then you know I I've always
+been fascinated by the the bendy coyly
+arms that like you know from from fifty
+sci-fi move of the robot yeah yeah and
+like could I could actually do that and
+not make it silly right and so so that
+was like a little challenge with him you
+know the arc on you know we really
+wanted him to to be godlike you know it
+was deliberate that was a very
+deliberate choice we wanted him to be
+graceful but but have you know this
+devastating range that had evolved from
+like floaters so so yeah we kind of went
+in a lot of those directions again we
+always try to ground it in a place where
+that there's an entry point for the
+player whether it's the previous game or
+sci-fi lore but yeah we always want that
+that connection with familiarity but
+with a twist of fantastic again it's
+kinda how we approach everything from
+art direction that's great I love your
+faceless design that's one of my
+favorite monsters in the gate and I
+don't know if it's my favorite just
+because like I I don't know if I was
+terrified of them just because I hated
+running into them or if it was just
+their goofy major but one of my
+favorites I'm fondling problems little
+no it's terrifying like when you see
+them actually crawl through a window it
+is one movie man I mean yes you got like
+just down kind of rolls through it is by
+far probably the creepiest animation in
+the game from is it's great great job I
+don't know something for something
+creepy about a robot with a dead alien
+hanging out of her chasing pretty creepy
+- yeah that's my favorite alien in the
+game how's it going okay
+he's uh you know it's hard for me to
+pick a favorite I mean I think I think
+them you thought is still my my favorite
+just from a overall design but um I have
+some attachment to him but uh but yeah
+they're all very
+very different and and and and we really
+try to push everything really apart not
+only on the visual spectrum like
+everything's got some color key and and
+you know we kind of trying as much
+diversity as we can individual but but
+on top of it you know that's also the
+same perfect design like we really try
+to push their their abilities apart from
+each other you know not only in the
+aliens but also in the soldier really
+try to get a spectrum of different
+experiences for the player both visually
+and from a design perspective the
+silhouette rule right you know you have
+a good character if you can tell what it
+is by its silhouette yeah and and every
+every enemy has its own unique little
+silhouette and so you know exactly how
+fucked you are right for the beginning
+which is very we actually started with a
+silhouette sheet like that was like one
+of the very first things we did once we
+got a handle on what we were doing we
+actually made a lineup that had a scale
+and also color key so one of the very
+first things we did as we got the
+descriptions and what the aliens could
+do we started just kind of thumbnailing
+and then putting them in a lineup so
+yeah and he showed you the spectrum yeah
+height and color and then that that then
+informed a lot of like well what can
+this thing do and I think the art
+overall really reflects play forever as
+well like even it pushes into the the
+environments and they change the the
+rendering pipeline to allow for dynamic
+lighting and you don't know what time of
+day you're going to give and what
+weather and in enemy Unknown all that
+was baked into the maps so the artist
+changed a lot of how they made content
+as well to sort of give a new soul into
+the game so it feels different every
+every time you play the procedure would
+have been next to impossible with the
+previous pipeline yeah the tech change
+really allowed that so you you -
+obviously you you work in the games
+industry you're incredibly busy at the
+moment but something that I just want to
+know is what are you playing outside of
+XCOM - because you should be playing
+XCOM - but outside of X come - what are
+you guys playing right now I was I was
+just that at
+with some some of the other producers at
+Firaxis and no lie like everyone's
+talking about what other games are
+playing and yeah I'm still buying extra
+I'm too legend okay but but I am I am I
+am also playing darkest dungeon which
+they were all joking with me saying I
+guess I like punishing myself right now
+is between XCOM 2 and darkest dungeon
+I'm surprised I'm not walking into into
+work with bruises and black eyes all
+over myself those are punishing games
+but darkest dungeons pretty awesome it's
+got it's got some pretty neat mechanics
+based on you know the stress of your
+characters going going deeper into these
+these frantic dark scary dungeons and
+and and then they can get sort of random
+attributes and and behave differently
+mechanically based on what happens to
+them in this stress stressful system so
+it's pretty neat we're going to I'm
+moving some my first little time outside
+lobs a little when I'm not playing X
+camera overlooking next comes a little
+limited but I've got on my short list of
+stuff that I'm going to play as soon as
+I get done moving I want to play I'm
+catching up one stuff that I didn't get
+play during during var X 2 so I'm
+looking at I want to play invisible ink
+is on my list
+Firewatch is something I want to I'm
+guessing and checking our flame in the
+flood they've got in you know there's
+there some stuff that's come out
+recently that I have not had a chance to
+get to but that is the stuff that I'm
+going to play as soon as I get some free
+time all the attentions and know nothing
+about Witcher 3 I want to play what your
+3 nothing wrong with pretentious games I
+love I love this and invisible ink it's
+so funny because like you know last you
+know been the project like you're not
+you're not playing anything for your own
+game we're like surprised ended and so
+like you get the stack of Steam games
+you buy that you just haven't had a
+chance to get into so that's like kind
+of sitting there taunting me so yeah as
+soon as a soon as we're we're as soon as
+I get things straightened out for myself
+that's that's where I'm going to be I'm
+going to be light so those that sounds
+like a great a great and broad selection
+okay if it's there based strategy
+a story focused atmospheric and and we
+you know we don't like them all we know
+you know we check out everything that's
+got little that mean it for me to one of
+those things that's something that I'm
+interested in either mechanics or
+visually that I want to that I want to
+check out so that's kind of kind of how
+I pick my my games that I've liked to
+her well that sounds great I think I
+know I think I think that's all the
+questions thank you very much for for
+taking some time out of your day to ever
+have to hang out with us make a cow
+pattern now Don yes yeah that's gonna
+happen Cal powder the kind we uh we
+actually have no good way to end the
+show so it's probably just gonna be
+clumsy and it's fine just gonna be this
+this is how we're gonna initiate how we
+end all of our things they just suddenly
+yes but we opted the sit in silence with
+you okay let's do that for food ten
+seconds its total silence but be on the
+phone with us now laughing your spy is
+all right quiet as well everyone must be
+quiet
