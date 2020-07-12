@@ -1,4 +1,4 @@
-mm/dd/yyyy | url                             | title
+mm/dd/yyyy |              url                |             title
 
 01/01/1998 | youtube.com/watch?v=GD9NNAVWBGA | Oranges 4: The Eggpire Strikes Back
 01/01/1998 | bitchute.com/video/wrG3h8b8LFUd | Oranges: Attack of the Nyaagh
