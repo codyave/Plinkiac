@@ -1,4 +1,7 @@
-01/01/1998 - Oranges 4: The Eggpire Strikes Back, https://www.youtube.com/watch?v=GD9NNAVWBGA
-01/01/1998 - Oranges: Attack of the Nyaagh, https://www.bitchute.com/video/wrG3h8b8LFUd/
-07/31/2001 - Born in South Dakota, https://streamable.com/o328z1
-01/31/2005 - The United States of Noooo, https://www.bitchute.com/video/Y0bDN2xosJcw/
+mm/dd/yyyy | url                             | title
+
+01/01/1998 | youtube.com/watch?v=GD9NNAVWBGA | Oranges 4: The Eggpire Strikes Back
+01/01/1998 | bitchute.com/video/wrG3h8b8LFUd | Oranges: Attack of the Nyaagh
+01/01/1998 | youtube.com/watch?v=TdHJvkGTKb0 | The Long Walk Home
+07/31/2001 | streamable.com/o328z1           | Born in South Dakota
+01/31/2005 | bitchute.com/video/Y0bDN2xosJcw | The United States of Noooo
