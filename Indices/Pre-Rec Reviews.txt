@@ -1,4 +1,4 @@
-mm/dd/yyyy | hh:mm:ss | YouTube url | video game title | 
+mm/dd/yyyy | hh:mm:ss | YouTube url | video game title
 
 04/15/2014 | 00:11:22 | lkC-e8ELAt0 | Risk of Rain
 05/15/2014 | 00:11:47 | I6PAi6QXOx8 | The Banner Saga
