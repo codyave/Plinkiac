@@ -1,58 +1,61 @@
-| Apr 15, 2014 | 00:11:22 | Risk of Rain | youtube.com/watch?v=lkC-e8ELAt0, twitter.com/PreviouslyRec/status/456808117829775361, redlettermedia.com/pre-rec-risk-of-rainredlettermedia.com/pre-rec-risk-of-rain
-| May 15, 2014 | 00:11:47 | The Banner Saga | youtube.com/watch?v=I6PAi6QXOx8, twitter.com/PreviouslyRec/status/467120729935192064, redlettermedia.com/pre-rec-the-banner-saga
-| Jun 15, 2014 | 00:15:31 | E3 2014 | youtube.com/watch?v=whf-Q78qokU, twitter.com/PreviouslyRec/status/478353344608485376, redlettermedia.com/pre-rec-e3-2014
-| Jul 15, 2014 | 00:11:42 | Titan Fall | youtube.com/watch?v=GqqCrqzU5po, twitter.com/PreviouslyRec/status/489098280454721537, redlettermedia.com/pre-rec-titan-fall
-| Jul 28, 2014 | 00:16:46 | Sonic, The Most Overrated Game Ever? | youtube.com/watch?v=WYDsz1NFBJw, twitter.com/PreviouslyRec/status/493927550347788291, redlettermedia.com/pre-rec-sonic-the-most-overrated-game-ever
-| Aug 22, 2014 | 00:14:31 | Mario Kart 8 | youtube.com/watch?v=_lDMA5yYdrA, twitter.com/PreviouslyRec/status/502838111953379332, redlettermedia.com/pre-rec-mario-kart-8
-| Sep 10, 2014 | 00:16:58 | Invisible Inc. (Early Access) | youtube.com/watch?v=5-BnU2AToU8, twitter.com/PreviouslyRec/status/509839336909455360, redlettermedia.com/pre-rec-invisible-inc-early-access
-| Oct 02, 2014 | 00:13:37 | Guacamelee | youtube.com/watch?v=aa5dmhXc3j4, twitter.com/PreviouslyRec/status/517677773209346048, redlettermedia.com/pre-rec-guacamelee
-| Oct 19, 2014 | 00:21:36 | Alien Isolation | youtube.com/watch?v=hOrphBFlDsg, twitter.com/PreviouslyRec/status/523867187271192577, redlettermedia.com/pre-rec-alien-isolation
-| Nov 14, 2014 | 00:16:37 | Zelda II - The Adventure of Link | youtube.com/watch?v=JJyCmyI5d4Y, twitter.com/PreviouslyRec/status/533452548808933376, redlettermedia.com/pre-rec-zelda-ii-the-adventure-of-link
-| Dec 12, 2014 | 00:26:49 | What We're Playing Now | youtube.com/watch?v=JPo2iAYOWM0, twitter.com/PreviouslyRec/status/543477579836325888, redlettermedia.com/pre-rec-what-were-playing-now
-| Jan 07, 2015 | 00:18:06 | Crypt of the Necrodancer | youtube.com/watch?v=vIIaZ7insTk, twitter.com/PreviouslyRec/status/552960968368877568, redlettermedia.com/pre-rec-crypt-of-the-necrodancer
-| Feb 22, 2015 | 00:16:58 | Why Mario is More Immersive Than Call of Duty | youtube.com/watch?v=RUJstqS6mdE, twitter.com/PreviouslyRec/status/569554350076534784, redlettermedia.com/pre-rec-why-mario-is-more-immersive-than-call-of-duty
-| Mar 07, 2015 | 00:31:34 | The Order 1886 | youtube.com/watch?v=vG0zJ89Fv8c, twitter.com/PreviouslyRec/status/574226297737601024, redlettermedia.com/pre-rec-the-order-1886
-| Mar 20, 2015 | 00:15:46 | Hand of Fate | youtube.com/watch?v=8Auxn8quK5k, twitter.com/PreviouslyRec/status/578966619440877568, redlettermedia.com/pre-rec-hand-of-fate
-| Apr 15, 2015 | 00:20:53 | Bloodborne | youtube.com/watch?v=OTf-_FnGz68, twitter.com/PreviouslyRec/status/588391931702476800, redlettermedia.com/pre-rec-bloodborne
-| May 11, 2015 | 00:14:11 | Shovel Knight | youtube.com/watch?v=bZV0fs4DScg, twitter.com/PreviouslyRec/status/597883232755916800, redlettermedia.com/pre-rec-shovel-knight
-| May 20, 2015 | 00:03:05 | *REDACTED* Nintendo Game | youtube.com/watch?v=q3w8ZNYoFEQ, twitter.com/PreviouslyRec/status/601087022091014144
-| May 31, 2015 | 00:16:38 | Broken Age | youtube.com/watch?v=ihR12J5HRcM, twitter.com/PreviouslyRec/status/605095786695659520, redlettermedia.com/pre-rec-broken-age
-| Jun 22, 2015 | 00:19:11 | E3 2015 | youtube.com/watch?v=EMqJWo1XMAs, twitter.com/PreviouslyRec/status/612985233021911041, 
-| Jul 17, 2015 | 00:19:12 | Batman Arkahm Knight | youtube.com/watch?v=Ef_ZI7tftZE, twitter.com/PreviouslyRec/status/622199056404582400, redlettermedia.com/pre-rec-batman-arkham-knight
-| Sep 04, 2015 | 00:17:58 | Rocket League | youtube.com/watch?v=h9QN39i6R5Y, twitter.com/PreviouslyRec/status/639870063307321344, redlettermedia.com/pre-rec-rocket-league
-| Sep 27, 2015 | 00:27:09 | Metal Gear Solid V | youtube.com/watch?v=BUytlAKC9Rg, twitter.com/PreviouslyRec/status/648150116860325888, redlettermedia.com/pre-rec-metal-gear-solid-v
-| Nov 14, 2015 | 00:19:22 | Steam Controller | youtube.com/watch?v=89qQy-rEUgg, twitter.com/PreviouslyRec/status/665547484605870080, redlettermedia.com/pre-rec-steam-controller
-| Dec 13, 2015 | 00:17:08 | Star Wars Battlefront - Hard West | youtube.com/watch?v=dfpTbyxTTaQ, twitter.com/PreviouslyRec/status/675810144077398016, redlettermedia.com/pre-rec-star-wars-battlefront-hard-west
-| Jan 20, 2016 | 00:18:16 | Helldivers | youtube.com/watch?v=zD4eCPzWmwE, twitter.com/PreviouslyRec/status/689826287809122308, redlettermedia.com/pre-rec-helldivers
-| Feb 08, 2016 | 00:25:00 | Dragon Dogma | youtube.com/watch?v=j34WccFQPvY, twitter.com/PreviouslyRec/status/696433073672433664, redlettermedia.com/pre-rec-dragons-dogma
-| Mar 09, 2016 | 00:16:54 | Firewatch | youtube.com/watch?v=kqbvWoAFsQ8, twitter.com/PreviouslyRec/status/707593689292349440
-| Mar 22, 2016 | 00:12:44 | Superhot | youtube.com/watch?v=q2Ls3rdzM_k, twitter.com/PreviouslyRec/status/711980814876024832, redlettermedia.com/pre-rec-superhot
-| Apr 12, 2016 | 00:26:14 | Stardew valley | youtube.com/watch?v=ZcUZrkHWoMQ, twitter.com/PreviouslyRec/status/720052886760075265
-| May 02, 2016 | 00:18:57 | Quantum Break | youtube.com/watch?v=_VfOQ9rgdbc, twitter.com/PreviouslyRec/status/727144783051788292, redlettermedia.com/pre-rec-quantum-break
-| May 03, 2016 | 00:02:22 | Extra: Quantum Break, Always Online, and Piracy | youtube.com/watch?v=Y8MpJVxKrEE
-| May 12, 2016 | 00:02:37 | The Legend of Rolling Faster | youtube.com/watch?v=iT970mX1iBk, twitter.com/PreviouslyRec/status/730862963364532225
-| May 21, 2016 | 00:20:45 | Doom | youtube.com/watch?v=_uvbO3kLkgw, twitter.com/PreviouslyRec/status/734024566238941184, redlettermedia.com/pre-rec-doom
-| Jul 15, 2016 | 00:26:55 | Battle of the NOT Mega Man Games | youtube.com/watch?v=nAwkAqzeEKE, twitter.com/PreviouslyRec/status/753952005282988033
-| Aug 23, 2016 | 00:29:01 | No Man's Sky | youtube.com/watch?v=NqHM9U4rS0Q, twitter.com/PreviouslyRec/status/768083465808076800, redlettermedia.com/pre-rec-no-mans-sky
-| Sep 29, 2016 | 00:16:09 | Event[0] | youtube.com/watch?v=Zg2TldfgeJQ, twitter.com/PreviouslyRec/status/781511218154524673
-| Nov 04, 2016 | 00:16:48 | Gears of War 4 | youtube.com/watch?v=qB3b23V4P-0, twitter.com/PreviouslyRec/status/794546972988493824, redlettermedia.com/pre-rec-gears-of-war-4
-| Dec 01, 2016 | 00:25:11 | Dishonored 2 | youtube.com/watch?v=q1umVvn3evU, twitter.com/PreviouslyRec/status/803992212119896064, redlettermedia.com/pre-rec-dishonored-2
-| Dec 14, 2016 | 00:17:06 | The Last Guardian | youtube.com/watch?v=-sM9JUYKswg, twitter.com/PreviouslyRec/status/803992212119896064, 
-| Feb 03, 2017 | 00:32:04 | ABSTRACT-MO-TRON: THE EPISODE | youtube.com/watch?v=o26TiFgfQlQ, twitter.com/PreviouslyRec/status/827619870909030400, redlettermedia.com/pre-rec-abstract-mo-tron-the-episode
-| Feb 22, 2017 | 00:26:05 | Nioh | youtube.com/watch?v=4qmchZRyeDU, twitter.com/PreviouslyRec/status/834435767682359297
-| Mar 09, 2017 | 00:22:54 | Horizon Zero Dawn | youtube.com/watch?v=1_yZdbfB3x4, twitter.com/redlettermedia/status/839834430386679812, redlettermedia.com/pre-rec-horizon-zero-dawn
-| Mar 28, 2017 | 00:56:29 | The Legend of Zelda: Breath of the Wild | youtube.com/watch?v=50LgwCJf4Ek, twitter.com/PreviouslyRec/status/846932248448417793
-| Apr 01, 2017 | 00:26:16 | Mass Effect Andromeda | youtube.com/watch?v=yewHl_TcOE8, twitter.com/PreviouslyRec/status/848178556568031232
-| May 05, 2017 | 00:25:10 | Bayonetta | youtube.com/watch?v=Tql_jbiQ9yo, twitter.com/PreviouslyRec/status/860262762706087937, redlettermedia.com/pre-rec-bayonetta
-| Jun 07, 2017 | 00:18:29 | Strafe | youtube.com/watch?v=VQSD0lHZoJ0, twitter.com/PreviouslyRec/status/872230393268895744, redlettermedia.com/pre-rec-strafe
-| Jun 14, 2017 | 00:19:24 | Vanquish | youtube.com/watch?v=L_UaQ0xmWNY, twitter.com/PreviouslyRec/status/875340166797414400
-| Jul 10, 2017 | 00:42:50 | Friday the 13th: The Game | youtube.com/watch?v=dYBt7C8m7LA, twitter.com/PreviouslyRec/status/884512892896333828
-| Aug 05, 2017 | 00:25:42 | Playerunknown's Battleground | youtube.com/watch?v=oqg6ByCwmLk, twitter.com/PreviouslyRec/status/893835484614598656, redlettermedia.com/pre-rec-playerunknowns-battleground
-| Sep 19, 2017 | 00:27:00 | Mario + Rabbids Kingdom Battle | youtube.com/watch?v=okipIlrLqvs, twitter.com/PreviouslyRec/status/910155330088251393
-| Oct 05, 2017 | 00:13:30 | Cuphead | youtube.com/watch?v=6sQE_TepVf0, twitter.com/PreviouslyRec/status/916028770561282048, redlettermedia.com/pre-rec-cuphead
-| Nov 22, 2017 | 00:13:23 | PRE-REC_QUICK-EP - Hand of Fate 2 | youtube.com/watch?v=4nc7UGvrdPQ, twitter.com/PreviouslyRec/status/933374143457763328
-| Feb 21, 2018 | 00:19:36 | Slay the Spire | youtube.com/watch?v=KpaBzZWdI3I, twitter.com/PreviouslyRec/status/966114589736828928, redlettermedia.com/pre-rec-slay-the-spire
-| Mar 07, 2018 | 00:28:57 | Metal Gear Survive | youtube.com/watch?v=wcnBl6gNIhQ, twitter.com/PreviouslyRec/status/970829323946156032, redlettermedia.com/pre-rec-metal-gear-survive
-| May 09, 2018 | 00:37:16 | God of War (2018) | youtube.com/watch?v=Mtr9_BD7UZo, twitter.com/PreviouslyRec/status/994196733927313410, redlettermedia.com/pre-rec-god-of-war-2018
-| Jun 06, 2018 | 00:26:49 | Battletech | youtube.com/watch?v=TaUcbtaJXcM, twitter.com/PreviouslyRec/status/1003690711236206592, redlettermedia.com/pre-rec-battletech
-| Jul 03, 2018 | 00:40:19 | Moonlighter VS Recettear | youtube.com/watch?v=ru6S2HFX6mc, twitter.com/PreviouslyRec/status/1014162142961029121, redlettermedia.com/pre-rec-moonlighter-vs-recettear
+mm/dd/yyyy | hh:mm:ss | YouTube url | video game title | 
+
+04/15/2014 | 00:11:22 | lkC-e8ELAt0 | Risk of Rain
+05/15/2014 | 00:11:47 | I6PAi6QXOx8 | The Banner Saga
+06/15/2014 | 00:15:31 | whf-Q78qokU | E3 2014
+07/15/2014 | 00:11:42 | GqqCrqzU5po | Titan Fall
+07/28/2014 | 00:16:46 | WYDsz1NFBJw | Sonic, The Most Overrated Game Ever?
+08/22/2014 | 00:14:31 | _lDMA5yYdrA | Mario Kart 8
+09/10/2014 | 00:16:58 | 5-BnU2AToU8 | Invisible Inc. (Early Access)
+10/02/2014 | 00:13:37 | aa5dmhXc3j4 | Guacamelee
+10/19/2014 | 00:21:36 | hOrphBFlDsg | Alien Isolation
+11/14/2014 | 00:16:37 | JJyCmyI5d4Y | Zelda II - The Adventure of Link
+12/12/2014 | 00:26:49 | JPo2iAYOWM0 | What We're Playing Now
+01/07/2015 | 00:18:06 | vIIaZ7insTk | Crypt of the Necrodancer
+02/22/2015 | 00:16:58 | RUJstqS6mdE | Why Mario is More Immersive Than Call of Duty
+03/07/2015 | 00:31:34 | vG0zJ89Fv8c | The Order 1886
+03/20/2015 | 00:15:46 | 8Auxn8quK5k | Hand of Fate
+04/15/2015 | 00:20:53 | OTf-_FnGz68 | Bloodborne
+05/11/2015 | 00:14:11 | bZV0fs4DScg | Shovel Knight
+05/20/2015 | 00:03:05 | q3w8ZNYoFEQ | *REDACTED* Nintendo Game
+05/31/2015 | 00:16:38 | ihR12J5HRcM | Broken Age
+06/22/2015 | 00:19:11 | EMqJWo1XMAs | E3 2015
+07/17/2015 | 00:19:12 | Ef_ZI7tftZE | Batman Arkahm Knight
+09/04/2015 | 00:17:58 | h9QN39i6R5Y | Rocket League
+09/27/2015 | 00:27:09 | BUytlAKC9Rg | Metal Gear Solid V
+11/14/2015 | 00:19:22 | 89qQy-rEUgg | Steam Controller
+12/13/2015 | 00:17:08 | dfpTbyxTTaQ | Star Wars Battlefront - Hard West
+01/20/2016 | 00:18:16 | zD4eCPzWmwE | Helldivers
+02/05/2016 | 00:07:37 | MIDX4odnT3I | The Witness - 3rd Ending - 110% Complete(SPOILERS)
+02/08/2016 | 00:25:00 | j34WccFQPvY | Dragon Dogma
+03/09/2016 | 00:16:54 | kqbvWoAFsQ8 | Firewatch
+03/22/2016 | 00:12:44 | q2Ls3rdzM_k | Superhot
+04/12/2016 | 00:26:14 | ZcUZrkHWoMQ | Stardew valley
+05/02/2016 | 00:18:57 | _VfOQ9rgdbc | Quantum Break
+05/03/2016 | 00:02:22 | Y8MpJVxKrEE | Extra: Quantum Break, Always Online, and Piracy
+05/12/2016 | 00:02:37 | iT970mX1iBk | The Legend of Rolling Faster
+05/21/2016 | 00:20:45 | _uvbO3kLkgw | Doom
+07/15/2016 | 00:26:55 | nAwkAqzeEKE | Battle of the NOT Mega Man Games
+08/23/2016 | 00:29:01 | NqHM9U4rS0Q | No Man's Sky
+09/29/2016 | 00:16:09 | Zg2TldfgeJQ | Event[0]
+11/04/2016 | 00:16:48 | qB3b23V4P-0 | Gears of War 4
+12/01/2016 | 00:25:11 | q1umVvn3evU | Dishonored 2
+12/14/2016 | 00:17:06 | -sM9JUYKswg | The Last Guardian
+02/03/2017 | 00:32:04 | o26TiFgfQlQ | ABSTRACT-MO-TRON: THE EPISODE
+02/22/2017 | 00:26:05 | 4qmchZRyeDU | Nioh
+03/09/2017 | 00:22:54 | 1_yZdbfB3x4 | Horizon Zero Dawn
+03/28/2017 | 00:56:29 | 50LgwCJf4Ek | The Legend of Zelda: Breath of the Wild
+04/01/2017 | 00:26:16 | yewHl_TcOE8 | Mass Effect Andromeda
+05/05/2017 | 00:25:10 | Tql_jbiQ9yo | Bayonetta
+06/07/2017 | 00:18:29 | VQSD0lHZoJ0 | Strafe
+06/14/2017 | 00:19:24 | L_UaQ0xmWNY | Vanquish
+07/10/2017 | 00:42:50 | dYBt7C8m7LA | Friday the 13th: The Game
+08/05/2017 | 00:25:42 | oqg6ByCwmLk | Playerunknown's Battleground
+09/19/2017 | 00:27:00 | okipIlrLqvs | Mario + Rabbids Kingdom Battle
+10/05/2017 | 00:13:30 | 6sQE_TepVf0 | Cuphead
+11/22/2017 | 00:13:23 | 4nc7UGvrdPQ | PRE-REC_QUICK-EP - Hand of Fate 2
+02/21/2018 | 00:19:36 | KpaBzZWdI3I | Slay the Spire
+03/07/2018 | 00:28:57 | wcnBl6gNIhQ | Metal Gear Survive
+05/09/2018 | 00:37:16 | Mtr9_BD7UZo | God of War (2018)
+06/06/2018 | 00:26:49 | TaUcbtaJXcM | Battletech
+07/03/2018 | 00:40:19 | ru6S2HFX6mc | Moonlighter VS Recettear
