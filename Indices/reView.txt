@@ -1,41 +1,41 @@
 mm/dd/yyyy | hh:mm:ss | YouTube url | video title + (participants)
 
 05/24/2016 | 00:18:29 | PK7-tBuEoq4 | Tremors (Mike, Jay)
-06/07/2016 | Escape from New York (Mike, Jay) youtube.com/watch?v=ff2YU6XtZ9o
-06/19/2016 | Independence Day (Mike, Jay) youtube.com/watch?v=4_LJGPph4SM
-07/03/2016 | Eraserhead (Jay, Josh) youtube.com/watch?v=UmvNJ3YuH9o
-07/12/2016 | Ghostbusters (1984) (Mike, Jay) youtube.com/watch?v=8PS7CgXHxps
-07/22/2016 | Mad Max 2: The Road Warrior (Jay, Rich) youtube.com/watch?v=bYLk6nMB23o
-09/02/2016 | The Blair Witch Project (Mike, Jay) youtube.com/watch?v=nCjbevNlLXE
-09/10/2016 | Blade (Jay, Jack) youtube.com/watch?v=CQZY5sEr31M
-10/13/2016 | The Gate (Jay, Josh) youtube.com/watch?v=3lEpSofvkdo
-10/25/2016 | Dawn of the Dead (Mike, Jay) youtube.com/watch?v=EdTNuZWA4mY
-11/09/2016 | Land of the Dead and the Social Commentary of George Romero (Mike, Jay) youtube.com/watch?v=fOhGxeQkj8g
-01/09/2016 | True Stories (Jay, Josh) youtube.com/watch?v=m_vze4K-x5g
-02/12/2017 | Starship Troopers (Mike, Jay) youtube.com/watch?v=OkEdyq3UE5M
-04/01/2017 | Horse Ninja (Mike, Rich, Freddie) youtube.com/watch?v=OEl9sUmTqCQ
-04/06/2017 | Demolition Man (Rich, Jack) youtube.com/watch?v=NUPJBL1nGW4, 
-04/27/2017 | The Mist (Mike, Jay) youtube.com/watch?v=1asq06rh2qo
-05/07/2017 | Twin Peaks: Fire Walk with Me (Jay, Josh) youtube.com/watch?v=Bd1bbjXCfyY
-06/25/2017 | Transformers: The Last Knight (Jim, Colin) youtube.com/watch?v=bI_qrVfC_Jg
-07/02/2017 | Blade Runner (Jay, Colin) youtube.com/watch?v=adjfTktpIzg
-07/21/2017 | George A. Romero's Martin (Jay, Josh) youtube.com/watch?v=C47zRs6SPZM
-08/26/2017 | Blind Fury (Rich, Len) youtube.com/watch?v=2vPRZ8enOoU
-09/24/2017 | Joe Versus the Volcano (Josh, Jim) youtube.com/watch?v=aw0z9kK7ssQ
-09/28/2017 | Star Trek Discovery (Pilot Episodes) (Mike, Rich)youtube.com/watch?v=2RVf01en-YA
-10/18/2017 | Re-Animator and From Beyond (Jay, Jack) youtube.com/watch?v=NAPeMftLe_o
-11/25/2017 | Nothing but Trouble (Rich, Jack) youtube.com/watch?v=Lz_NLJXcMiE
-12/07/2017 | Ed Wood (Mike, Jay) youtube.com/watch?v=Rm09nLK-Pg8
-01/08/2018 | Star Trek Discovery mid-season (Mike, Rich) youtube.com/watch?v=DpHbLewg79c
-02/05/2018 | Pink Flamingos (Jay, Josh) youtube.com/watch?v=xKiYBoIgGAc
-02/20/2018 | Star Trek Discovery Season 1 (Mike, Jay) youtube.com/watch?v=ri7v-utIcvY
-03/24/2018 | Freddy Got Fingered (Mike, Jay) youtube.com/watch?v=gEn3wcpNsg8
-05/11/2018 | The Guest (Jay, Simon) youtube.com/watch?v=oAQe1NEeXBc
-05/24/2018 | Critters (Mike, Jay) youtube.com/watch?v=OvcYqeukasM
-07/13/2018 | John Carpenter's The Thing (Jay, Colin) youtube.com/watch?v=wSFXYKl_rf0
-07/25/2018 | Strange Brew (Jim, Colin) youtube.com/watch?v=nRJathIYgLQ
-08/23/2018 | Predator (Jay, Jack) youtube.com/watch?v=ruMLUFmSO4k
-09/11/2018 | Star Trek: Galaxy (Mike, Rich) youtube.com/watch?v=xe1hKZjCVyM, 
-10/02/2018 | The Psycho Franchise (Jay, Josh) youtube.com/watch?v=adGebPmRjxg
-10/08/2018 | The Psycho Franchise (Jay, Josh) youtube.com/watch?v=adGebPmRjxg
-11/05/2018 | Hackers (Jack, MacKauley) youtube.com/watch?v=lM7_oyCZqj0
+06/07/2016 | 00:18:37 | ff2YU6XtZ9o | Escape from New York (Mike, Jay)
+06/19/2016 | 00:42:39 | 4_LJGPph4SM | Independence Day (Mike, Jay)
+07/03/2016 | 00:17:41 | UmvNJ3YuH9o | Eraserhead (Jay, Josh)
+07/12/2016 | 00:33:18 | 8PS7CgXHxps | Ghostbusters (1984) (Mike, Jay)
+07/22/2016 | 00:22:39 | bYLk6nMB23o | Mad Max 2: The Road Warrior (Jay, Rich)
+09/02/2016 | 00:26:05 | nCjbevNlLXE | The Blair Witch Project (Mike, Jay)
+09/10/2016 | 00:21:12 | CQZY5sEr31M | Blade (Jay, Jack)
+10/13/2016 | 00:21:18 | 3lEpSofvkdo | The Gate (Jay, Josh)
+10/25/2016 | 00:33:40 | EdTNuZWA4mY | Dawn of the Dead (Mike, Jay)
+11/09/2016 | 00:11:50 | fOhGxeQkj8g | Land of the Dead and the Social Commentary of George Romero (Mike, Jay)
+01/09/2016 | 00:20:50 | m_vze4K-x5g | True Stories (Jay, Josh)
+02/12/2017 | 00:25:58 | OkEdyq3UE5M | Starship Troopers (Mike, Jay)
+04/01/2017 | 00:13:18 | OEl9sUmTqCQ | Horse Ninja (Mike, Rich, Freddie)
+04/06/2017 | 00:21:32 | NUPJBL1nGW4 | Demolition Man (Rich, Jack)
+04/27/2017 | 00:26:49 | 1asq06rh2qo | The Mist (Mike, Jay)
+05/07/2017 | 00:44:09 | Bd1bbjXCfyY | Twin Peaks: Fire Walk with Me (Jay, Josh)
+06/25/2017 | 00:23:22 | bI_qrVfC_Jg | Transformers: The Last Knight (Jim, Colin)
+07/02/2017 | 00:30:56 | adjfTktpIzg | Blade Runner (Jay, Colin)
+07/21/2017 | 00:32:19 | C47zRs6SPZM | George A. Romero's Martin (Jay, Josh)
+08/26/2017 | 00:19:12 | 2vPRZ8enOoU | Blind Fury (Rich, Len)
+09/24/2017 | 00:28:24 | aw0z9kK7ssQ | Joe Versus the Volcano (Josh, Jim)
+09/28/2017 | 00:38:46 | 2RVf01en-YA | Star Trek Discovery (Pilot Episodes (Mike, Rich)
+10/18/2017 | 00:45:50 | NAPeMftLe_o | Re-Animator and From Beyond (Jay, Jack)
+11/25/2017 | 00:23:22 | Lz_NLJXcMiE | Nothing but Trouble (Rich, Jack)
+12/07/2017 | 00:28:50 | Rm09nLK-Pg8 | Ed Wood (Mike, Jay)
+01/08/2018 | 00:43:51 | DpHbLewg79c | Star Trek Discovery mid-season (Mike, Rich)
+02/05/2018 | 00:35:40 | xKiYBoIgGAc | Pink Flamingos (Jay, Josh)
+02/20/2018 | 00:40:36 | ri7v-utIcvY | Star Trek Discovery Season 1 (Mike, Jay)
+03/24/2018 | 00:37:22 | gEn3wcpNsg8 | Freddy Got Fingered (Mike, Jay)
+05/11/2018 | 00:31:12 | oAQe1NEeXBc | The Guest (Jay, Simon)
+05/24/2018 | 00:30:27 | OvcYqeukasM | Critters (Mike, Jay)
+07/13/2018 | 00:42:06 | wSFXYKl_rf0 | John Carpenter's The Thing (Jay, Colin)
+07/25/2018 | 00:28:22 | nRJathIYgLQ | Strange Brew (Jim, Colin)
+08/23/2018 | 00:32:24 | ruMLUFmSO4k | Predator (Jay, Jack)
+09/11/2018 | 00:25:39 | xe1hKZjCVyM | Star Trek: Galaxy (Mike, Rich)
+10/02/2018 | 00:43:16 | adGebPmRjxg | The Psycho Franchise (Jay, Josh)
+10/08/2018 | 00:40:27 | xD2Es84r3hM | The Psycho Franchise (Jay, Josh)
+11/05/2018 | 00:28:37 | lM7_oyCZqj0 | Hackers (Jack, MacKauley)
