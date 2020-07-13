@@ -180,13 +180,26 @@ mm/dd/yyyy | hh:mm:ss | YouTube url | video title + (participants)
 01/09/2019 | 00:23:22 | _YUAu0aP4DA | Bird Box (Mike, Jay, Rich)
 01/22/2019 | 00:24:58 | GTklK82aaTE | Glass (Mike, Jay)
 03/11/2019 | 00:38:21 | 9pQNYeOEFJc | Captain Marvel (Mike, Jay, Rich) 
-03/27/2019 | 00:42:49 | 7BryT6WatTk | Us and Paddelton
-04/08/2019 | 00:30:33 | Xoi5hA86BmA | Shazam!
-04/28/2019 | 00:35:13 | dAni8PwSvSA | Avengers: Endgame
-05/16/2019 | 00:32:46 | sPqYOImouvk | Under the Silver Lake
-06/09/2019 | 00:45:11 | Uu9JFs-Dmb0 | Godzilla: King of the Monsters and Dark Phoenix
-06/23/2019 | 00:24:59 | JOtP5hed99w | Child's Play (2019)
-07/25/2019 | 01:02:57 | 70SSJLG72Q0 | Comic Con 2019, The Picard Trailer, Streaming Services, and Midsommar
-07/31/2019 | 00:33:15 | cPR43PhX6PE | Once Upon a Time in Hollywood
-09/08/2019 | 00:32:05 | xIxCrkR5FPQ | IT Chapter Two
-09/23/2019 | 00:45:34 | feH2sxYGE-w | The Fanatic
+03/27/2019 | 00:42:49 | 7BryT6WatTk | Us and Paddelton (Mike, Jay)
+04/08/2019 | 00:30:33 | Xoi5hA86BmA | Shazam! (Mike, Jay)
+04/28/2019 | 00:35:13 | dAni8PwSvSA | Avengers: Endgame (Mike, Jay)
+05/16/2019 | 00:32:46 | sPqYOImouvk | Under the Silver Lake (Mike, Jay)
+06/09/2019 | 00:45:11 | Uu9JFs-Dmb0 | Godzilla: King of the Monsters and Dark Phoenix (Mike, Jay)
+06/23/2019 | 00:24:59 | JOtP5hed99w | Child's Play (2019) (Mike, Jay)
+07/25/2019 | 01:02:57 | 70SSJLG72Q0 | Comic Con 2019, The Picard Trailer, Streaming Services, and Midsommar (Mike, Jay)
+07/31/2019 | 00:33:15 | cPR43PhX6PE | Once Upon a Time in Hollywood (Mike, Jay)
+09/08/2019 | 00:32:05 | xIxCrkR5FPQ | IT Chapter Two (Mike, Jay)
+09/23/2019 | 00:45:34 | feH2sxYGE-w | The Fanatic (Mike, Jay)
+10/06/2019 | 00:27:44 | nAGA82ajAdo | Joker (Mike, Jay)
+11/03/2019 | 00:41:31 | Hugsy-pQ61U | Terminator: Dark Fate (Mike, Jay, Rich)
+11/10/2019 | 00:45:36 | ZaLlMQHTISI | 2019 Movie Catch-Up! (Mike, Jay)
+11/23/2019 | 00:38:54 | wEW_qMxLBLc | 2019 Movie Catch-Up! (Mike, Jay)
+12/23/2019 | 01:10:37 | 5pAsss_nTlk | The 70-Minute Rise of Skywalker Review (Mike, Jay, Rich)
+02/14/2019 | 00:42:48 | 6c-hAbInjt4 | Doctor Sleep and Parasite (Mike, Jay)
+03/15/2019 | 00:45:37 | YAa_m9H-PGs | Blumhouse's Dirty Secret (Mike, Jay, Rich)
+04/06/2020 | 01:02:16 | tKmMRSTUeAs | Verotika (Mike, Jay)
+04/19/2020 | 00:29:03 | T6mtQeJaTUI | Quarantine Catch-up (Mike, Jay)
+04/25/2020 | 00:34:16 | 9Jy2APnVIbk | Quarantine Catch-up (Mike, Jay)
+05/25/2020 | 00:53:56 | b3p4rm2Mku0 | Neil Breen's 5 Film Retrospective and Rawhead Rex (Mike, Jay)
+06/05/2020 | 00:43:09 | 0DNDkx9pQxk | The Assistant and The Wrong Missy (Mike, Jay, Rich)
+06/20/2020 | 00:47:36 | uNz4H4V-SBI | Vast of Night and Aquaslash (Mike, Jay) 
