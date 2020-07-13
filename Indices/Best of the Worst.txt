@@ -84,3 +84,22 @@ mm/dd/yyyy | hh:mm:ss | YouTube url | video title + (participants)
 01/31/2019 | 01:05:44 | yXNlNvZwBUw | Cybernator, Panther Squad, and Project Metalbeast (Mike, Rich, Jay, Freddie)
 02/21/2019 | 00:54:48 | FT5D7rJ8TPQ | Law Enforcement Guide to Satanic Cults, Preventing Disaster at the Crossing, Creating Rem Lezar (Mike, Jay, Rich, Josh)
 03/23/2019 | 01:18:49 | 6hHyn29O81k | Spookies, Action USA, and Alien Private Eye (Jay, Rich, Jack, Tim)
+05/03/2019 | 00:36:29 | uara5ZBTXQg | Twister's Revenge
+06/05/2019 | 01:01:06 | IKdWSYCM8Ug | Experience the Freedom of the Naturist Lifestyle, Orgasmic Birth, Aggregate Training for the Safety Impaired, Hostage Officer Survival
+07/02/2019 | 01:06:54 | brmz6uL1S0s | Junka #1
+07/20/2019 | 01:08:40 | YaSkO4TosYo | Hawk Jones, Winterbeast, and ROAR
+08/06/2019 | 01:03:47 | t4s0KT_z98A | Demon Cop, Alien Force, Game of Survival
+08/23/2019 | 00:33:15 | ngrVbx5xoh0 | Petey Wheatstraw
+09/15/2019 | 01:19:49 | m2IV0BajqAk | The Instructor, Through Doohan's Eye, and Twisted Pair
+10/24/2019 | 01:12:07 | 26si7WjhV-g | Christmas with Dennis, The Thing About Money, Shape Up America
+10/28/2019 | 01:22:49 | X7_ZU4dlqXk | Jack-O, Rock n' Roll Nightmare, and Shark Exorcist
+12/15/2019 | 01:07:03 | ScgaYFvuBFM | Santa Claws, ICED, Silent Night, Deadly Night Part 2
+01/11/2020 | 00:39:21 | hoel2EiTjLU | Wicked World
+02/06/2020 | 01:20:34 | 9M39zY9OXFA | Junka #2
+03/07/2020 | 01:12:11 | eHhLZi4sj0k | Showdown, Robot in the Family, and Bloodz vs. Wolvez
+
+
+
+
+
+
