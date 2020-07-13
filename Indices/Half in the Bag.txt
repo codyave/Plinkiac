@@ -17,14 +17,14 @@ m/dd/yyyy | hh:mm:ss | YouTube url | video title + (participants)
 08/15/2011 | 00:20:42 | xhp20mMmPCI | Rise of the Planet of the Apes and Cyphan Con 2011 (Mike, Jay, Rich) 
 08/26/2011 | 00:18:47 | g7_Cr6NgAz8 | Chicago Comic Con 2011 (Mike, Jay, Rich) 
 08/31/2011 | 00:25:53 | DkwOIVhpRMI | Fright Night and Conan the Barbarian (Mike, Jay, Rich) 
-09/16/2011 | 00:30:27 | JU30obwiqvA | The People vs. George Lucas and Star Wars Discussion (1 of 2) (Mike, Jay, Rich, Alexander | 
-09/21/2011 | 00:14:26 | ryDkH-OddYA | The People vs. George Lucas and Star Wars Discussion (2 of 2) (Mike, Jay, Alexander, Rich) 
+09/16/2011 | 00:30:27 | JU30obwiqvA | The People vs. George Lucas and Star Wars Discussion (Mike, Jay, Rich, Alexander | 
+09/21/2011 | 00:14:26 | ryDkH-OddYA | The People vs. George Lucas and Star Wars Discussion (Mike, Jay, Alexander, Rich) 
 09/28/2011 | 00:14:34 | vmH_js9D3rs | Drive and Contagion (Mike, Jay, Rich) 
 10/11/2011 | 00:22:25 | xPnwjZfNbeo | Robot and The Last Circus (Mike, Jay, Rich) 
-10/21/2011 | 00:20:45 | Lv9qieOnoCw | What's Your Number and The Black Ninja (1 of 2) (Mike, Jay, Jillian, Rich, Jack) 
-10/21/2011 | 00:28:02 | 3ZuefJb0udw | What's Your Number and The Black Ninja (2 of 2) (Mike, Jay, Jillian, Rich) 
-11/20/2011 | 00:28:53 | sXNsT7-Lwsk | Jack and Jill (1 of 2) (Mike, Jay, Rich) 
-11/21/2011 | 00:24:09 | Cc85QCF5414 | Jack and Jill (2 of 2) (Mike, Jay, Rich) 
+10/21/2011 | 00:20:45 | Lv9qieOnoCw | What's Your Number and The Black Ninja (Mike, Jay, Jillian, Rich, Jack) 
+10/21/2011 | 00:28:02 | 3ZuefJb0udw | What's Your Number and The Black Ninja (Mike, Jay, Jillian, Rich) 
+11/20/2011 | 00:28:53 | sXNsT7-Lwsk | Jack and Jill (Mike, Jay, Rich) 
+11/21/2011 | 00:24:09 | Cc85QCF5414 | Jack and Jill (Mike, Jay, Rich) 
 01/12/2012 | 00:32:54 | 87HKe0ggt34 | The Girl with the Dragon Tattoo and 2011 Re-Cap (Mike, Jay, Rich) 
 01/17/2012 | 00:33:34 | p0F1_lzClgE | The Devil Inside and Flyin' Ryan (Mike, Jay, Rich) 
 01/26/2012 | 00:27:51 | 2VVMVtuN9FY | Red Tails (Mike, Jay, Rich) 
@@ -38,143 +38,143 @@ m/dd/yyyy | hh:mm:ss | YouTube url | video title + (participants)
 05/25/2012 | 00:29:28 | bOFv11pEQ9M | Battleship and Dark Shadows (Mike, Jay, Rich) 
 06/11/2012 | 00:24:07 | NiQfbgDPz6o | Prometheus (Mike, Jay, Rich) 
 06/28/2012 | 00:29:18 | ZXXOlXmz6nE | Abraham Lincoln Vampire Hunter and That's My Boy (Mike, Jay, Rich) 
-07/08/2012 | 00:30:52 |  | The Amazing Spider-Man (Mike, Jay, Rich) youtube.com/watch?v=NLzW9dSEx6I, redlettermedia.com/half-in-the-bag-the-amazing-spider-man, 
-07/22/2012 | 00:19:53 | The Dark Knight Rises (1 of 2) (Mike, Jay) youtube.com/watch?v=L5hSwnZ7FyY, redlettermedia.com/half-in-the-bag-the-dark-knight-rises, 
-07/22/2012 | 00:13:56 | The Dark Knight Rises (2 of 2) (Mike, Jay) youtube.com/watch?v=3awmpoB6sP4, redlettermedia.com/half-in-the-bag-the-dark-knight-rises, 
-08/07/2012 | 00:08:11 | Step Up Revolution and Special Guest Star Tim Heidecker (Mike, Jay, Tim Heidecker, Rich, Jocelyn) youtube.com/watch?v=T1C7UCMmF5g, redlettermedia.com/half-in-the-bag-step-up-revolution
-09/21/2012 | 00:21:41 | Resident Evil series Part 1 (Mike, Jay| youtube.com/watch?v=caKcJ9Jllfc, redlettermedia.com/half-in-the-bag-the-resident-evil-series
-09/21/2012 | 00:17:10 | Resident Evil series Part 2 (Mike, Jay, Rich) youtube.com/watch?v=FpJhilIA-NY, redlettermedia.com/half-in-the-bag-the-resident-evil-series, twitter.com/redlettermedia/status/249174660451803136
-10/06/2012 | 00:39:43 | Looper and Dredd (Mike, Jay, Rich) youtube.com/watch?v=zZn8yGoGynY, redlettermedia.com/half-in-the-bag-looper-and-dredd, twitter.com/redlettermedia/status/254560707692093440
-10/25/2012 | 00:43:50 | Sinister and Paranormal Activity 4 (Mike, Jay, Rich, Wisconsin and Milwaukee Area Paranormal Research and Investigation Society (Zach, Liz)) youtube.com/watch?v=6t5J8j__JNY, redlettermedia.com/half-in-the-bag-sinister-and-paranormal-activity, twitter.com/redlettermedia/status/261492788594622464
-11/15/2012 | 00:24:50 | Skyfall (Mike, Jay, Rich) youtube.com/watch?v=JwmRRF5MQVE, redlettermedia.com/half-in-the-bag-skyfall, twitter.com/redlettermedia/status/269227188669263873
-11/21/2012 | 00:25:02 | Twilight: Breaking Dawn Part II (Mike, Jay) youtube.com/watch?v=CjGsFIHkAN8, redlettermedia.com/half-in-the-bag-twilight-breaking-dawn-part-2, twitter.com/redlettermedia/status/271278224737189889
-12/19/2012 | 00:33:07 | The Hobbit: An Unexpected Journey (Mike, Jay, Rich) youtube.com/watch?v=kFh6c_CwdBg, redlettermedia.com/half-in-the-bag-the-hobbit-an-unexpected-journey, twitter.com/redlettermedia/status/281425257129185280
-12/31/2012 | 00:38:01 | Django Unchained and 2012 Re-cap (Mike, Jay, Rich) youtube.com/watch?v=oBe9z7XbyAY, redlettermedia.com/half-in-the-bag-django-unchained-and-2012-re-cap, twitter.com/redlettermedia/status/285758171451105280
-01/09/2013 | 00:08:57 | Tarantino and More 2012 Re-cap (Mike, Jay) redlettermedia.com/half-in-the-bag-extras-tarantino-and-more-2012-re-cap, youtube.com/watch?v=8I9pDK9NDZs, twitter.com/redlettermedia/status/289128518154088450
-01/23/2013 | 00:36:47 | The Last Stand and A Haunted House (Mike, Jay) redlettermedia.com/half-in-the-bag-the-last-stand-and-a-haunted-house, youtube.com/watch?v=Zi7_r80uwn8, twitter.com/redlettermedia/status/294307364956413954
-01/28/2013 | 00:05:55 | EXTRAS: Copycat Films and More Styrofoam Beating (Mike, Jay) redlettermedia.com/half-in-the-bag-extras-copycat-films-and-more-styrofoam-beating, youtube.com/watch?v=ITpZU9cy9t0, twitter.com/redlettermedia/status/295966583220744193
-02/07/2013 | 00:26:16 | Warm Bodies and Movie 43 (Mike, Jay, Lauren Burke) redlettermedia.com/half-in-the-bag-warm-bodies-and-movie-43, youtube.com/watch?v=sbEM-oZyGo8, twitter.com/redlettermedia/status/299516189028274176
-02/22/2013 | 00:32:16 | A Good Day to Die Hard (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-a-good-day-to-die-hard, youtube.com/watch?v=I_GPgY5mgq8, twitter.com/redlettermedia/status/304986958659215361
-03/05/2013 | 00:30:57 | Hansel and Gretel: Witch Hunters and Jack the Giant Slayer (Mike, Jay) redlettermedia.com/half-in-the-bag-hansel-and-gretel-witch-hunters-and-jack-the-giant-slayer, youtube.com/watch?v=WA-KpLcAFoA, twitter.com/redlettermedia/status/309141997988507652
-03/07/2013 | 00:11:42 | Extras: Hollywood Trends (aka "Episode 48 Outtakes") (Mike, Jay) redlettermedia.com/half-in-the-bag-episode-48-outtakes, www.youtube.com/watch?v=QFnwZ06urYg, twitter.com/redlettermedia/status/309716163938639873
-03/14/2013 | 00:32:35 | Oz the Great and Powerful and Return to Oz (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-oz-the-great-and-powerful-and-return-to-oz, youtube.com/watch?v=-qUv4Lg_ocs, twitter.com/redlettermedia/status/312299869933031424
-04/07/2013 | 00:28:25 | Evil Dead (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-evil-dead, youtube.com/watch?v=zFXFvYeP8Kw, twitter.com/redlettermedia/status/320932207088779264
-04/16/2013 | 00:04:10 | Extras: Evil Dead Outtakes (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-extras-evil-dead-outtakes, youtube.com/watch?v=6oeDFbGbYLg, twitter.com/redlettermedia/status/324214544127885312
-04/25/2013 | 00:36:33 | Oblivion and The Lords of Salem (Mike, Jay) redlettermedia.com/half-in-the-bag-oblivion-and-the-lords-of-salem, youtube.com/watch?v=lleFKKjxzIk, twitter.com/redlettermedia/status/327453230969810944
-05/09/2013 | 00:30:19 | Iron Man 3 and Pain & Gain (Mike, Jay, Rich, Tim Higgins (hipster)) redlettermedia.com/half-in-the-bag-iron-man-3-and-pain-gain, youtube.com/watch?v=oIZF9vjO-3o, twitter.com/redlettermedia/status/332560475617374209
-05/13/2013 | 00:06:05 | Extras: More Iron Man 3 Talk (Mike, Jay) redlettermedia.com/half-in-the-bag-extras-more-iron-man-3-talk, youtube.com/watch?v=a7oZ8ZBIyvM, twitter.com/redlettermedia/status/334015587489574914
-05/24/2013 | 00:44:30 | Star Trek: Into Darkness (Mike, Jay, Rich (pre-internet film reviewer), Tim Higgins (hipster)) redlettermedia.com/half-in-the-bag-star-trek-into-darkness, youtube.com/watch?v=bWLGH0VHUVs, twitter.com/redlettermedia/status/337972076793192448
-06/06/2013 | 00:36:31 | The Hangover Part III and After Earth (Mike, Jay, Rich, Tim Higgins (hipster)) redlettermedia.com/half-in-the-bag-the-hangover-part-iii-and-after-earth, youtube.com/watch?v=9sygqz9IgyU, twitter.com/redlettermedia/status/342636389281714176
-06/20/2013 | 00:39:31 | Man of Steel (Mike, Jay, Rich (Plinkett, construction worker)) redlettermedia.com/half-in-the-bag-man-of-steel, youtube.com/watch?v=l4u-HLm8maE, twitter.com/redlettermedia/status/347721308328583169
-06/26/2013 | 00:06:35 | Extras: Zack Snyder, Superman IV, and The Justice League (Mike, Jay, Rich (construction worker)) redlettermedia.com/half-in-the-bag-extras-zack-snyder-superman-iv-and-the-justice-league, youtube.com/watch?v=Dd0rT89clSM, twitter.com/redlettermedia/status/350074059771490305
-07/11/2013 | 00:29:53 | White House Down and Lone Ranger (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-white-house-down-and-the-lone-ranger, youtube.com/watch?v=__TZj2RZso8, twitter.com/redlettermedia/status/355353713495375873
-07/16/2013 | 00:02:54 | Grown Ups 2 (Mike, Jay) redlettermedia.com/half-in-the-bag-grown-ups-2, youtube.com/watch?v=jCkl-Vgc4-I, twitter.com/redlettermedia/status/357201060571512835
-07/18/2013 | 00:19:45 | Pacific Rim (Mike, Jay) redlettermedia.com/half-in-the-bag-pacific-rim, youtube.com/watch?v=YacE1h34E4Y, twitter.com/redlettermedia/status/357900118676082688
-08/16/2013 | 00:29:05 | The Wolverine vs. X-Men Origins: Wolverine (Mike, Jay) redlettermedia.com/half-in-the-bag-the-wolverine-vs-x-men-origins-wolverine, youtube.com/watch?v=RbHxTaufDDk, twitter.com/redlettermedia/status/368462775057940480
-10/07/2013 | 00:46:32 | Summer Movie Catch Up and THINGS (Mike (Palpatine), Jay, Rich) redlettermedia.com/half-in-the-bag-the-conjuring-only-god-forgives-blue-jasmine-and-things, youtube.com/watch?v=9_imbu9jmAo, twitter.com/redlettermedia/status/387213002551721984
-10/25/2013 | 00:39:55 | Gravity and Carrie (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-gravity-and-carrie, youtube.com/watch?v=WXhpePGZdPM, twitter.com/redlettermedia/status/393764128671928320
-11/14/2013 | 00:29:04 | Ender's Game and Thor: The Dark World (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-enders-game-and-thor-the-dark-world, youtube.com/watch?v=A-MbVag2fn8, twitter.com/redlettermedia/status/401003836644806657
-12/16/2013 | 00:29:30 | The Hobbit: The Desolation of Smaug (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-the-hobbit-the-desolation-of-smaug, youtube.com/watch?v=QdHAi_GWSAc, twitter.com/redlettermedia/status/412632066325377024
-01/02/2014 | 00:42:09 | The Wolf of Wall Street and 2013 Re-cap (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-the-wolf-of-wall-street-and-2013-re-, youtube.com/watch?v=UhtOdfjfNp8, twitter.com/redlettermedia/status/418771030157824000
-01/07/2014 | 00:02:41 | Extras: Plinkett Eats (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-extras-plinkett-eats, youtube.com/watch?v=Bh1O33fZUFo, twitter.com/redlettermedia/status/420680193205100544
-01/20/2014 | 00:33:06 | The Legend of hercules and Her (Mike, Jay) redlettermedia.com/half-in-the-bag-the-legend-of-hercules-and-her, youtube.com/watch?v=3zTHQznVs00, twitter.com/redlettermedia/status/425397169672032257
-02/13/2014 | 00:23:28 | Robocop (Mike, Jay, Rich (Officer Kaslowski)) redlettermedia.com/half-in-the-bag-robocop, youtube.com/watch?v=ThWGN0igAsk, twitter.com/redlettermedia/status/434072779931938816
-02/19/2014 | 00:23:52 | Robocop (2014) (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-robocop-2014, youtube.com/watch?v=gv2_HTqWFHA, twitter.com/redlettermedia/status/436185841774243840
-03/29/2014 | 00:28:39 | Cheap Thrills and The Grand Budapest Hotel (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-cheap-thrills-and-the-grand-budapest-hotel, youtube.com/watch?v=IWm5AwOP7Gk, twitter.com/redlettermedia/status/449884511581376513
-04/09/2014 | 00:21:28 | Captain America: The Winter Soldier (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-captain-america-the-winter-soldier, youtube.com/watch?v=06G49ADFUh4, twitter.com/redlettermedia/status/453869831478345728
-05/07/2014 | 00:38:06 | Transcendence and The Amazing Spider-Man 2 (Mike, Jay, Rich (comic book illustrator)) redlettermedia.com/half-in-the-bag-transcendence-and-the-amazing-spider-man-2, youtube.com/watch?v=hfXWZmtJzXA, twitter.com/redlettermedia/status/464041909803958272
-05/23/2014 | 00:26:12 | Godzilla (98) and Godzilla (2014) (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-godzilla-98-and-godzilla-2014, youtube.com/watch?v=cwe8XDVcw_0, twitter.com/redlettermedia/status/469820869309526017
-06/06/2014 | 00:35:53 | X-Men: Days of Future Past and A Million Ways to Die in the West (Mike, Jay) redlettermedia.com/half-in-the-bag-x-men-days-of-future-past-and-a-million-ways-to-die-in-the-west, youtube.com/watch?v=ebWq64x064o, twitter.com/redlettermedia/status/474981550610993152
-06/24/2014 | 00:11:43 | The Transformers Series - Triple Feature (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-the-transformers-series, youtube.com/watch?v=7Rfup0XKx7o&t=229s, twitter.com/redlettermedia/status/481617832636350464
-07/12/2014 | 00:34:18 | Deliver Us From Evil, Edge of Tomorrow, and Transformers 4 (Mike, Jay) redlettermedia.com/half-in-the-bag-deliver-us-from-evil-edge-of-tomorrow-and-transformers-4, youtube.com/watch?v=7olh2I0dN7w, twitter.com/redlettermedia/status/488171792242974721
-07/19/2014 | 00:22:11 | Dawn of the Planet of the Apes (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-dawn-of-the-planet-of-the-apes, youtube.com/watch?v=m7iK0WAe9ds, twitter.com/redlettermedia/status/490232702386585600
-08/04/2014 | 00:25:44 | Boyhood and Guardians of the Galaxy (Mike, Jay) redlettermedia.com/half-in-the-bag-boyhood-and-guardians-of-the-galaxy, youtube.com/watch?v=lampOM4AhAk, twitter.com/redlettermedia/status/496277909938524160
-08/15/2014 | 00:36:06 | Into the Storm and Teenage Mutant Ninja Turtles (Mike, Jay, Rich (construction worker)) redlettermedia.com/half-in-the-bag-into-the-storm-and-teenage-mutant-ninja-turtles, youtube.com/watch?v=nsVGLezJJis, twitter.com/redlettermedia/status/500266967132295168
-09/23/2014 | 00:23:57 | 2014 Movie Catch-up (Part 1 of 2) (Mike, Jay) redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-1, youtube.com/watch?v=pfGFcokeLFs, twitter.com/redlettermedia/status/514430028734414848
-09/26/2014 | 00:20:25 | 2014 Movie Catch-up (Part 2 of 2) (Mike, Jay, Rich (hazmat worker)) redlettermedia.com/half-in-the-bag-2014-movie-catch-up-part-2, youtube.com/watch?v=zFu8IH02_co, twitter.com/redlettermedia/status/515516713350094848
-10/10/2014 | 00:33:37 | Gone Girl and Annabelle (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-gone-girl-and-annabelle, youtube.com/watch?v=bi9xE6EGWas, twitter.com/redlettermedia/status/520630194839629826
-11/09/2014 | 00:30:31 | Interstellar (Mike, Jay) redlettermedia.com/half-in-the-bag-interstellar, youtube.com/watch?v=VUhA8eSx6pQ, twitter.com/redlettermedia/status/531611695790034944
-11/17/2014 | 00:38:55 | Nightcrawler and Birdman (Mike, Jay) redlettermedia.com/half-in-the-bag-nightcrawler-and-birdman, youtube.com/watch?v=rQ6ucixpqJo, twitter.com/redlettermedia/status/534521939705217024
-12/22/2014 | 00:19:43 | The Hobbit: The Battle of the Five Armies (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-the-hobbit-the-battle-of-the-five-armies, youtube.com/watch?v=_WefwhnZB10, twitter.com/redlettermedia/status/547201849326313473
-01/24/2015 | 00:31:08 | Inherent Vice and Oscar Buzz (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-inherent-vice-and-oscar-buzz, youtube.com/watch?v=faefBP7Sp08, twitter.com/redlettermedia/status/559033987126284289
-02/12/2015 | 00:34:53 | Jupiter Ascending and Battlefield Earth (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-jupiter-ascending-and-battlefield-earth, youtube.com/watch?v=DKZYFn8qEQI, twitter.com/redlettermedia/status/566025407586369536
-03/08/2015 | 00:23:46 | CHAPPiE (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-chappie, youtube.com/watch?v=MMjo5kNS780, twitter.com/redlettermedia/status/574700441784709120
-04/10/2015 | 00:31:27 | Furious 7 and It Follows (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-furious-7-and-it-follows, youtube.com/watch?v=MSmjT6l_dLg, twitter.com/redlettermedia/status/586608459484889089
-04/21/2015 | 00:30:55 | Unfriended and Paul Blart: Mall Cop 2 (Mike, Jay) redlettermedia.com/half-in-the-bag-unfriended-and-paul-blart-mall-cop-2, youtube.com/watch?v=FVwnOM1Dook, twitter.com/redlettermedia/status/590726514544640001
-05/08/2015 | 00:35:36 | Disney's: Marvel's: Avengers: Age of Ultron (Mike, Jay, Rich (Plinkett, video game repairman), Jack) redlettermedia.com/half-in-the-bag-avengers-age-of-ultron, youtube.com/watch?v=LAMSey5retQ, twitter.com/redlettermedia/status/596750284916916224
-05/17/2015 | 00:21:16 | Mad Max: Fury Road (Mike, Jay) redlettermedia.com/half-in-the-bag-mad-max-fury-road, youtube.com/watch?v=KP-6ewtJcdk, twitter.com/redlettermedia/status/600018422622195712
-06/15/2015 | 00:27:21 | Jurassic World (Mike, Jay, Rich (video game repairman), Jack) redlettermedia.com/half-in-the-bag-jurassic-world-and-jurassic-park-commentary-track, youtube.com/watch?v=iN6Rlh4KonQ, twitter.com/redlettermedia/status/610618359470690306
-07/06/2015 | 00:30:57 | Termintator Genisys (Mike, Jay) redlettermedia.com/half-in-bag-terminator-genisys, youtube.com/watch?v=II6OAIJPe70, twitter.com/redlettermedia/status/618145540837126144
-07/26/2015 | 00:22:02 | Ant-Man (Mike, Jay, Rich (video game repairman), Jack) redlettermedia.com/half-in-the-bag-ant-man, youtube.com/watch?v=Jr_Rhx3B848, twitter.com/redlettermedia/status/625293242851008512
-07/27/2015 | 00:32:07 | Pixels (Mike, Jay, Rich (video game repairman, Plinkett), Jack) redlettermedia.com/half-in-the-bag-pixels, youtube.com/watch?v=i_UQRn3wDyQ, twitter.com/redlettermedia/status/625826677575299072
-08/09/2015 | 00:27:18 | Fantastic Four (Mike, Jay) redlettermedia.com/half-in-the-bag-fantastic-four, youtube.com/watch?v=2ol2rzuRDAE, twitter.com/redlettermedia/status/630564104068067332
-08/31/2015 | 00:26:09 | American Ultra (Mike, Jay) redlettermedia.com/half-in-the-bag-american-ultra, youtube.com/watch?v=0MEA7B3MKcg, twitter.com/redlettermedia/status/638483348067893248
-09/16/2015 | 00:29:12 | The Visit and Turbo Kid (Mike, Jay) redlettermedia.com/half-in-the-bag-the-visit-and-turbo-kid, youtube.com/watch?v=M1nd8WPZO_c, twitter.com/redlettermedia/status/644259700553330688
-10/04/2015 | 00:17:51 | Everest (Mike, Jay) redlettermedia.com/half-in-the-bag-everest, youtube.com/watch?v=g40Rr6-t1xk, twitter.com/redlettermedia/status/650727701502930948
-10/11/2015 | 00:55:11 | 2015 Re-cap (So Far) (Mike, Jay) redlettermedia.com/half-in-the-bag-2015-re-cap-so-far, youtube.com/watch?v=y73M4Ct9fUI, twitter.com/redlettermedia/status/653214891512238081
-11/28/2015 | 00:38:34 | Creed and Victor Frankenstein (Mike, Jay) redlettermedia.com/half-in-the-bag-creed-and-victor-frankenstein, youtube.com/watch?v=HQ9GseSRcUU, twitter.com/redlettermedia/status/670676528473206784
-12/07/2015 | 00:26:35 | Krampus (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-krampus, youtube.com/watch?v=lOGTeOpzr7A, twitter.com/redlettermedia/status/673891361481969664
-12/20/2015 | 00:42:20 | Star Wars: The Force Awakens (Mike, Jay, Rich (Kris Kringle)) redlettermedia.com/half-in-the-bag-star-wars-the-force-awakens, youtube.com/watch?v=AvsiJppCdmk, twitter.com/redlettermedia/status/678564190085373952
-01/08/2016 | 00:41:07 | The Hateful Eight and The Ridiculous 6 (sort of)) redlettermedia.com/half-in-the-bag-the-hateful-eight-and-the-ridiculous-6-sort-of, youtube.com/watch?v=q3wiUNRv7sg, twitter.com/redlettermedia/status/685650082285416448
-01/25/2016 | 00:24:19 | The Revenant (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-the-revenant, youtube.com/watch?v=cwJTnUkyvVg, twitter.com/redlettermedia/status/691790037797699584
-02/19/2016 | 00:29:07 | Deadpool and Comic Book Movie Predictions (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-deadpool-and-comic-book-movie-predictions, youtube.com/watch?v=F2C2Svm-r1M, twitter.com/redlettermedia/status/700682688219500545
-02/24/2016 | 00:49:21 | The 2016 Oscars (Mike, Jay, Rich (alien, Plinkett)) redlettermedia.com/half-in-the-bag-the-2016-oscars, youtube.com/watch?v=kX50REHezPY, twitter.com/redlettermedia/status/702511580408315904
-03/15/2016 | 00:37:09 | 10 Cloverfield Lane and Me Him Her (Mike, Jay) redlettermedia.com/half-in-the-bag-10-cloverfield-land-and-me-him-her, youtube.com/watch?v=KOgcYl8f2ts, twitter.com/redlettermedia/status/709766391096844288
-03/27/2016 | 00:46:40 | Batman v Superman: Dawn of Justice (Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair)) redlettermedia.com/half-in-the-bag-v-batman-v-superman-dawn-of-justice, youtube.com/watch?v=VGsrMaxx8N4, twitter.com/redlettermedia/status/714244814972256256
-04/14/2016 | 00:26:11 | Hardcore Henry (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-hardcore-henry, youtube.com/watch?v=Ioit5DWsWsw, twitter.com/redlettermedia/status/720695904706105346
-05/03/2016 | 00:28:18 | Green Room (Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair)) redlettermedia.com/half-in-the-bag-green-room, youtube.com/watch?v=8K7xYuM2AYU, twitter.com/redlettermedia/status/727491326443446272
-05/07/2016 | 00:40:58 | Captain America: Civil War (Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair), Christopher Elst (Butch from Lightning Fast VCR Repair)) redlettermedia.com/half-in-the-bag-captain-america-civil-war, youtube.com/watch?v=mJvUTFVqwJQ, twitter.com/redlettermedia/status/729129574974500864
-05/30/2016 | 00:37:02 | X-Men: Apocalypse (Mike, Jay) redlettermedia.com/half-in-the-bag-x-men-apocalypse, youtube.com/watch?v=XjNSCLQGzLA, twitter.com/redlettermedia/status/737445670974525440
-06/26/2016 | 00:34:30 | Independence Day: Resurgence |Mike, Jay, Rich)  redlettermedia.com/half-in-the-bag-independence-day-resurgence, youtube.com/watch?v=rTKw5yxARHc, twitter.com/redlettermedia/status/747224878546227200
-07/18/2016 | 00:44:56 | Ghostbusters (2016) (Mike, Jay, Rich ("Rich" from Lightning Fast VCR Repair)) redlettermedia.com/half-in-the-bag-ghostbusters-2016, youtube.com/watch?v=HUEKreyTkvA, twitter.com/redlettermedia/status/755152169662152705
-07/28/2016 | 00:51:20 | Star Trek Beyond (Mike, Jay) redlettermedia.com/half-in-the-bag-star-trek-beyond, youtube.com/watch?v=D_7Pz85XJ7Q, twitter.com/redlettermedia/status/758709263178960897
-08/07/2016 | 00:31:12 | Suicide Squad (Mike, Jay) redlettermedia.com/half-in-the-bag-suicide-squad, youtube.com/watch?v=ePoxmPMwJNQ, twitter.com/redlettermedia/status/762443926208778240
-08/09/2016 | 00:02:46 | Top 1 Things we Didn't Know About Suicide Squad (Mike, Jay, Rich (prison security guard)) redlettermedia.com/top-1-things-we-didnt-know-about-suicide-squad, youtube.com/watch?v=sa5GDGSTrtI, twitter.com/redlettermedia/status/763084441199611904
-08/12/2016 | 00:24:47 | Stranger Things (Mike, Jay) redlettermedia.com/half-in-the-bag-stranger-things, youtube.com/watch?v=9lMOsdHhqio, twitter.com/redlettermedia/status/764171026993328128
-09/20/2016 | 00:36:51 | Blair Witch and Don't Breathe (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-blair-witch-and-dont-breathe, youtube.com/watch?v=bVzymV7P8Vs, twitter.com/redlettermedia/status/778233547974926336
-10/10/2016 | 00:27:59 | Box Office Number Crunching (Mike, Jay) redlettermedia.com/half-in-the-bag-box-office-number-crunching, youtube.com/watch?v=jLk2LBGkMd4, twitter.com/redlettermedia/status/785516336193482756
-11/07/2016 | 00:29:07 | Doctor Strange (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-doctor-strange, youtube.com/watch?v=GwlzbpzyFdE, twitter.com/redlettermedia/status/795703559937552384
-11/17/2016 | 00:41:51 | Shut In and Arrival (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-shut-in-and-arrival, youtube.com/watch?v=da3aIQOhOFY, twitter.com/redlettermedia/status/799435464658669568
-12/03/2016 | 00:53:36 | 2016 Movie Catch-up (Mike, Jay) redlettermedia.com/half-in-the-bag-2016-movie-catch-up, youtube.com/watch?v=uqFyvZN_XHU, twitter.com/redlettermedia/status/805197868147605504
-12/19/2016 | 00:37:42 | Rogue One (Mike, Jay, Rich ("Rich Minorsky", Milwaukee City building inspector)) redlettermedia.com/half-in-the-bag-rogue-one, youtube.com/watch?v=Kc2kFk5M9x4, twitter.com/redlettermedia/status/810898742073315328
-01/22/2017 | 00:44:30 | La La Land and Bye Bye Man (Mike, Jay) redlettermedia.com/half-in-the-bag-la-la-land-and-the-bye-bye-man, youtube.com/watch?v=K1m3rGh6DUI, twitter.com/redlettermedia/status/823189079688876032
-03/05/2017 | 00:43:54 | Get Out and Logan (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-get-out-and-logan, youtube.com/watch?v=G6IZHrIviFo, twitter.com/redlettermedia/status/838432255693434880
-03/27/2017 | 00:37:35 | Life and Power Rangers (Mike, Jay) redlettermedia.com/half-in-the-bag-life-and-power-rangers, youtube.com/watch?v=Zwjc9HbZug8, twitter.com/redlettermedia/status/846416348305674241
-05/06/2017 | 00:31:23 | Guardians of the Galaxy Vol. 2 (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-guardians-of-the-galaxy, youtube.com/watch?v=RTYjD606cWM, twitter.com/redlettermedia/status/861039290784112641
-05/21/2017 | 00:26:38 | Alien: Covenant (Mike, Jay) redlettermedia.com/half-in-the-bag-alien-covenant, youtube.com/watch?v=klsy8PiscEw, twitter.com/redlettermedia/status/866340144319803393
-06/04/2017 | 00:32:10 | Wonder Woman (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-wonder-woman, youtube.com/watch?v=jhoUnOxqr40, twitter.com/redlettermedia/status/871501240114524160
-06/10/2017 | 00:34:03 | The Mummy (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-the-mummy, youtube.com/watch?v=rgRaI8UPovU, twitter.com/redlettermedia/status/873769777487126529
-06/23/2017 | 00:19:54 | Transformers: The Last Knight (Mike, Jay, Rich) archive.fo/a9nEJ, redlettermedia.com/half-in-the-bag-transformers-the-last-knight, twitter.com/redlettermedia/status/878378481796644864
-07/09/2017 | 00:45:56 | Baby Driver and Spider-Man: Homecoming (Mike, Jay, Rich (Plinkett, restaurant patron)) redlettermedia.com/half-in-the-bag-baby-driver-and-spider-man-homecoming, youtube.com/watch?v=PDbU4hSo9-M, twitter.com/redlettermedia/status/884282268705009665
-08/16/2017 | 00:36:16 | Annabelle Creation (Mike, Jay) redlettermedia.com/half-in-the-bag-annabelle-creation, youtube.com/watch?v=_HrR5X72_LM, twitter.com/redlettermedia/status/897886068766330881
-09/10/2017 | 00:45:36 | IT (1990) and IT (2017) (Mike, Jay) redlettermedia.com/half-in-the-bag-it-1990-and-it-2017, youtube.com/watch?v=0iID-OpwZ4E, twitter.com/redlettermedia/status/907005864606883840
-09/20/2017 | 00:30:02 | mother! (Mike, Jay) redlettermedia.com/half-in-the-bag-mother, youtube.com/watch?v=f2oUaPFlbW8, twitter.com/redlettermedia/status/910524302142971905
-10/07/2017 | 00:29:08 | Blade Runner 2049 (Mike, Jay) redlettermedia.com/half-in-the-bag-blade-runner-2049, youtube.com/watch?v=O1Gqjjq1nic, twitter.com/redlettermedia/status/916907148696870912
-11/05/2017 | 00:33:43 | Thor: Ragnarok (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-thor-ragnarok, youtube.com/watch?v=KgBWLAKxi-c, twitter.com/redlettermedia/status/927313404649406464
-11/19/2017 | 00:39:04 | Justice League (Mike, Jay, Rich ("Rich McCaskey" from Just Ice, Inc.)) redlettermedia.com/half-in-the-bag-justice-league, youtube.com/watch?v=w1s5ElKmQm4, twitter.com/redlettermedia/status/931974398160056320
-12/10/2017 | 00:24:22 | The Disaster Artist (Mike, Jay) redlettermedia.com/half-in-the-bag-the-disaster-artist, youtube.com/watch?v=QPn3lUhzaqM, twitter.com/redlettermedia/status/939952593673048069
-12/19/2017 | 00:46:59 | The Last Jedi (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-the-last-last-jedi-review, youtube.com/watch?v=L9hwGZFPSmw, twitter.com/redlettermedia/status/943161755823460360
-01/06/2018 | 00:53:15 | 2017 Catch-up (Part 1 of 2) (Mike, Jay) redlettermedia.com/half-in-the-bag-2017-catch-up-part-1-of-2, youtube.com/watch?v=iRinktgcrcw, twitter.com/redlettermedia/status/949643945679687680
-01/10/2018 | 00:37:58 | 2017 Catch-up (Part 2 of 2) (Mike, Jay) redlettermedia.com/half-in-the-bag-2017-movie-catch-up-part-2-of-2, youtube.com/watch?v=Yav1kBLXMxI, twitter.com/redlettermedia/status/951122676877348864
-01/28/2018 | 00:13:25 | Maze Runner: The Death Cure (Mike, Jay, Rich (Plinkett, Daniel), Jack) redlettermedia.com/half-in-the-bag-maze-runner-the-death-cure, youtube.com/watch?v=2XPF3Snm9JE, twitter.com/redlettermedia/status/957787588127002624
-02/13/2018 | 00:30:15 | The Cloverfield Paradox and the Netflix Conundrum (Mike, Jay) redlettermedia.com/half-in-the-bag-the-cloverfield-paradox-and-the-netflix-conundrum-spoilers, youtube.com/watch?v=OTVF8zFIyyQ, twitter.com/redlettermedia/status/963416825420709889
-02/18/2018 | 00:26:29 | Black Panther (Mike, Jay) redlettermedia.com/half-in-the-bag-black-panther, youtube.com/watch?v=o8kmzvqMEXI, twitter.com/redlettermedia/status/965312197202251778
-03/07/2018 | 00:23:24 | Annihilation (Mike, Jay) redlettermedia.com/half-in-the-bag-annihilation, youtube.com/watch?v=UtePG4Pon_M, twitter.com/redlettermedia/status/971522334124331011
-03/19/2018 | 00:29:04 | Demon House (Mike, Jay) redlettermedia.com/half-in-the-bag-demon-house, youtube.com/watch?v=w8elLwSfGEM, twitter.com/redlettermedia/status/975908659606818816
-02/2018 | 00:35:18 | Ready Player One (Mike, Rich (Jay Bauman)) redlettermedia.com/half-in-the-bag-ready-player-one, youtube.com/watch?v=_KkGRT_4its, twitter.com/redlettermedia/status/980835269703323648
-04/19/2018 | 00:38:45 | Truth or Dare and A Quiet Place (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-truth-or-dare-and-a-quiet-place, youtube.com/watch?v=e7WSwRVKwBo, twitter.com/redlettermedia/status/987031199758635008
-04/28/2018 | 00:32:25 | Avengers: Infinity War (Mike, Jay, Rich (Evan Richards, Attorney at Law)) redlettermedia.com/half-in-the-bag-avengers-infinity-war, youtube.com/watch?v=zZ-zAOnxikU, twitter.com/redlettermedia/status/990429224673726465
-05/29/2018 | 00:43:51 | Solo: A Star Wars Story (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-solo-a-star-wars-story, youtube.com/watch?v=MmPPxQnaGDY, twitter.com/redlettermedia/status/1001459065615241216
-06/13/2018 | 00:33:45 | Hereditary (Mike, Jay) redlettermedia.com/half-in-the-bag-hereditary, youtube.com/watch?v=5ysiCqy11tQ, twitter.com/redlettermedia/status/1006869211447209985
-06/28/2018 | 00:34:29 | Jurassic World: Fallen Kingdom (Mike, Jay, Jim, Colin, Rich) redlettermedia.com/half-in-the-bag-jurassic-world-fallen-kingdom, youtube.com/watch?v=dSItaxluYb4, twitter.com/redlettermedia/status/1012478124020436992
-07/28/2018 | 00:38:32 | Comic Con 2018 Trailers (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-comic-con-2018-trailers, youtube.com/watch?v=dD2UE0tJ66Y, twitter.com/redlettermedia/status/1023189914798764032
-08/15/2018 | 00:34:11 | Slender Man (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-slender-man, youtube.com/watch?v=WXHmIAo61fM, twitter.com/redlettermedia/status/1029769572453371904
-09/05/2018 | 00:34:46 | 2018 Catch-Up (part 1 of 2) (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-2018-catch-up-part-1-of-2, youtube.com/watch?v=IbJVd5C8OU0, twitter.com/redlettermedia/status/1037416836952981504
-09/08/2018 | 00:36:01 | 2018 Catch-Up (part 2 of 2) (Mike, Jay, Rich) redlettermedia.com/half-in-the-bag-2018-catch-up-part-2-of-2, youtube.com/watch?v=GsBe5qRVz-0, twitter.com/redlettermedia/status/1038417117350187008
-09/20/2018 | 00:47:35 | Mandy and The Predator (Mike, Jay) redlettermedia.com/half-in-the-bag-mandy-and-the-predator, youtube.com/watch?v=rTwXQR9ku5c, twitter.com/redlettermedia/status/1042755952011816961
-10/23/2018 | 00:34:51 | Halloween (2018) (Mike, Jay, Macaulay Culkin (Tim McGargle, Lightning Fast Corporate)) youtube.com/watch?v=90joZNE9oOA,  redlettermedia.com/half-in-the-bag-halloween-2018/, twitter.com/redlettermedia/status/1054854313456082944
-11/13/2018 | 00:38:12 | The Haunting of Hill House and Overlord (Mike, Jay) youtube.com/watch?v=MDM0k_EZ8SU, redlettermedia.com/half-in-the-bag-the-haunting-of-hill-house-and-overlord, twitter.com/redlettermedia/status/1062345268836876289
-11/15/2018 | 00:10:46 | Mike Talks About Ghost Adventures (Mike, Jay) youtube.com/watch?v=qe_BT8gYAAA, redlettermedia.com/mike-talks-about-ghost-adventures, twitter.com/redlettermedia/status/1063149963935469568
-12/08/2018 | 00:12:59 | Mike and Jay Talk About The Clovehitch Killer (Mike, Jay) youtube.com/watch?v=k4VG4L3U4Zg, redlettermedia.com/mike-and-jay-talk-about-the-clovehitch-killer, twitter.com/redlettermedia/status/1071421094316388352
-12/23/2018 | 00:32:29 | Aquaman (Mike, Jay) youtube.com/watch?v=YU3QGyBY5-c, redlettermedia.com/half-in-the-bag-aquaman, twitter.com/redlettermedia/status/1077000281806852097
-01/09/2018 | 00:23:22 | Bird Box (Mike, Jay, Rich) youtube.com/watch?v=_YUAu0aP4DA, redlettermedia.com/half-in-the-bag-bird-box, twitter.com/redlettermedia/status/1082728043385405448
+07/08/2012 | 00:30:52 | NLzW9dSEx6I | The Amazing Spider-Man (Mike, Jay, Rich)
+07/22/2012 | 00:19:53 | L5hSwnZ7FyY | The Dark Knight Rises (Mike, Jay)
+07/22/2012 | 00:13:56 | 3awmpoB6sP4 | The Dark Knight Rises (Mike, Jay)
+08/07/2012 | 00:08:11 | T1C7UCMmF5g | Step Up Revolution and Special Guest Star Tim Heidecker (Mike, Jay, Tim Heidecker, Rich, Jocelyn)
+09/21/2012 | 00:21:41 | caKcJ9Jllfc | Resident Evil (Mike, Jay)
+09/21/2012 | 00:17:10 | FpJhilIA-NY | Resident Evil (Mike, Jay, Rich) 
+10/06/2012 | 00:39:43 | zZn8yGoGynY | Looper and Dredd (Mike, Jay, Rich)
+10/25/2012 | 00:43:50 | 6t5J8j__JNY  | Sinister and Paranormal Activity 4 (Mike, Jay, Rich, Keri, Liz, Zach)
+11/15/2012 | 00:24:50 | JwmRRF5MQVE | Skyfall (Mike, Jay, Rich) 
+11/21/2012 | 00:25:02 | CjGsFIHkAN8 | Twilight: Breaking Dawn Part II (Mike, Jay) 
+12/19/2012 | 00:33:07 | kFh6c_CwdBg | The Hobbit: An Unexpected Journey (Mike, Jay, Rich) 
+12/31/2012 | 00:38:01 | oBe9z7XbyAY | Django Unchained and 2012 Re-cap (Mike, Jay, Rich) 
+01/09/2013 | 00:08:57 | 8I9pDK9NDZs | Tarantino and More 2012 Re-cap (Mike, Jay)
+01/23/2013 | 00:36:47 | Zi7_r80uwn8 | The Last Stand and A Haunted House (Mike, Jay) 
+01/28/2013 | 00:05:55 | ITpZU9cy9t0 | EXTRAS: Copycat Films and More Styrofoam Beating (Mike, Jay)
+02/07/2013 | 00:26:16 | sbEM-oZyGo8 | Warm Bodies and Movie 43 (Mike, Jay, Lauren Burke)
+02/22/2013 | 00:32:16 | I_GPgY5mgq8 | A Good Day to Die Hard (Mike, Jay, Rich)
+03/05/2013 | 00:30:57 | WA-KpLcAFoA | Hansel and Gretel: Witch Hunters and Jack the Giant Slayer (Mike, Jay) 
+03/07/2013 | 00:11:42 | QFnwZ06urYg | Extras: Hollywood Trends (aka "Episode 48 Outtakes") (Mike, Jay) 
+03/14/2013 | 00:32:35 | -qUv4Lg_ocs | Oz the Great and Powerful and Return to Oz (Mike, Jay, Rich) 
+04/07/2013 | 00:28:25 | zFXFvYeP8Kw | Evil Dead (Mike, Jay, Rich) 
+04/16/2013 | 00:04:10 | 6oeDFbGbYLg | Extras: Evil Dead Outtakes (Mike, Jay, Rich) 
+04/25/2013 | 00:36:33 | lleFKKjxzIk | Oblivion and The Lords of Salem (Mike, Jay) 
+05/09/2013 | 00:30:19 | oIZF9vjO-3o | Iron Man 3 and Pain & Gain (Mike, Jay, Rich, Tim Higgins) 
+05/13/2013 | 00:06:05 | a7oZ8ZBIyvM | Extras: More Iron Man 3 Talk (Mike, Jay) 
+05/24/2013 | 00:44:30 | bWLGH0VHUVs | Star Trek: Into Darkness (Mike, Jay, Rich, Tim Higgins) 
+06/06/2013 | 00:36:31 | 9sygqz9IgyU | The Hangover Part III and After Earth (Mike, Jay, Rich, Tim Higgins) 
+06/20/2013 | 00:39:31 | l4u-HLm8maE | Man of Steel (Mike, Jay, Rich) 
+06/26/2013 | 00:06:35 | Dd0rT89clSM | Extras: Zack Snyder, Superman IV, and The Justice League (Mike, Jay, Rich) 
+07/11/2013 | 00:29:53 | __TZj2RZso8 | White House Down and Lone Ranger (Mike, Jay, Rich) 
+07/16/2013 | 00:02:54 | jCkl-Vgc4-I | Grown Ups 2 (Mike, Jay) 
+07/18/2013 | 00:19:45 | YacE1h34E4Y | Pacific Rim (Mike, Jay)
+08/16/2013 | 00:29:05 | RbHxTaufDDk | The Wolverine vs. X-Men Origins: Wolverine (Mike, Jay)
+10/07/2013 | 00:46:32 | 9_imbu9jmAo | Summer Movie Catch Up and THINGS (Mike, Jay, Rich)
+10/25/2013 | 00:39:55 | WXhpePGZdPM | Gravity and Carrie (Mike, Jay, Rich)
+11/14/2013 | 00:29:04 | A-MbVag2fn8 | Ender's Game and Thor: The Dark World (Mike, Jay, Rich)
+12/16/2013 | 00:29:30 | QdHAi_GWSAc | The Hobbit: The Desolation of Smaug (Mike, Jay, Rich)
+01/02/2014 | 00:42:09 | UhtOdfjfNp8 | The Wolf of Wall Street and 2013 Re-cap (Mike, Jay, Rich)
+01/07/2014 | 00:02:41 | Bh1O33fZUFo | Extras: Plinkett Eats (Mike, Jay, Rich)
+01/20/2014 | 00:33:06 | 3zTHQznVs00 | The Legend of hercules and Her (Mike, Jay)
+02/13/2014 | 00:23:28 | ThWGN0igAsk | Robocop (Mike, Jay, Rich)
+02/19/2014 | 00:23:52 | gv2_HTqWFHA | Robocop (2014) (Mike, Jay, Rich) 
+03/29/2014 | 00:28:39 | IWm5AwOP7Gk | Cheap Thrills and The Grand Budapest Hotel (Mike, Jay, Rich) 
+04/09/2014 | 00:21:28 | 06G49ADFUh4 | Captain America: The Winter Soldier (Mike, Jay, Rich)
+05/07/2014 | 00:38:06 | hfXWZmtJzXA | Transcendence and The Amazing Spider-Man 2 (Mike, Jay, Rich)  
+05/23/2014 | 00:26:12 | cwe8XDVcw_0 | Godzilla (98) and Godzilla (2014) (Mike, Jay, Rich) 
+06/06/2014 | 00:35:53 | ebWq64x064o | X-Men: Days of Future Past and A Million Ways to Die in the West (Mike, Jay) 
+06/24/2014 | 00:11:43 | 7Rfup0XKx7o | The Transformers Series - Triple Feature (Mike, Jay, Rich) 
+07/12/2014 | 00:34:18 | 7olh2I0dN7w | Deliver Us From Evil, Edge of Tomorrow, and Transformers 4 (Mike, Jay) 
+07/19/2014 | 00:22:11 | m7iK0WAe9ds | Dawn of the Planet of the Apes (Mike, Jay, Rich) 
+08/04/2014 | 00:25:44 | lampOM4AhAk | Boyhood and Guardians of the Galaxy (Mike, Jay) 
+08/15/2014 | 00:36:06 | nsVGLezJJis | Into the Storm and Teenage Mutant Ninja Turtles (Mike, Jay, Rich) 
+09/23/2014 | 00:23:57 | pfGFcokeLFs | 2014 Movie Catch-up (Mike, Jay) 
+09/26/2014 | 00:20:25 | zFu8IH02_co | 2014 Movie Catch-up (Mike, Jay, Rich) 
+10/10/2014 | 00:33:37 | bi9xE6EGWas | Gone Girl and Annabelle (Mike, Jay, Rich) 
+11/09/2014 | 00:30:31 | VUhA8eSx6pQ | Interstellar (Mike, Jay) 
+11/17/2014 | 00:38:55 | rQ6ucixpqJo | Nightcrawler and Birdman (Mike, Jay) 
+12/22/2014 | 00:19:43 | _WefwhnZB10 | The Hobbit: The Battle of the Five Armies (Mike, Jay, Rich) 
+01/24/2015 | 00:31:08 | faefBP7Sp08 | Inherent Vice and Oscar Buzz (Mike, Jay, Rich) 
+02/12/2015 | 00:34:53 | DKZYFn8qEQI | Jupiter Ascending and Battlefield Earth (Mike, Jay, Rich) 
+03/08/2015 | 00:23:46 | MMjo5kNS780 | CHAPPiE (Mike, Jay, Rich) 
+04/10/2015 | 00:31:27 | MSmjT6l_dLg | Furious 7 and It Follows (Mike, Jay, Rich) 
+04/21/2015 | 00:30:55 | FVwnOM1Dook | Unfriended and Paul Blart: Mall Cop 2 (Mike, Jay) 
+05/08/2015 | 00:35:36 | LAMSey5retQ | Disney's: Marvel's: Avengers: Age of Ultron (Mike, Jay, Rich, Jack) 
+05/17/2015 | 00:21:16 | KP-6ewtJcdk | Mad Max: Fury Road (Mike, Jay) 
+06/15/2015 | 00:27:21 | iN6Rlh4KonQ | Jurassic World (Mike, Jay, Rich, Jack) 
+07/06/2015 | 00:30:57 | II6OAIJPe70 | Termintator Genisys (Mike, Jay) 
+07/26/2015 | 00:22:02 | Jr_Rhx3B848 | Ant-Man (Mike, Jay, Rich, Jack) 
+07/27/2015 | 00:32:07 | i_UQRn3wDyQ | Pixels (Mike, Jay, Rich, Jack) 
+08/09/2015 | 00:27:18 | 2ol2rzuRDAE | Fantastic Four (Mike, Jay) 
+08/31/2015 | 00:26:09 | 0MEA7B3MKcg | American Ultra (Mike, Jay) 
+09/16/2015 | 00:29:12 | M1nd8WPZO_c | The Visit and Turbo Kid (Mike, Jay) 
+10/04/2015 | 00:17:51 | g40Rr6-t1xk | Everest (Mike, Jay) 
+10/11/2015 | 00:55:11 | y73M4Ct9fUI | 2015 Re-cap (So Far) (Mike, Jay) 
+11/28/2015 | 00:38:34 | HQ9GseSRcUU | Creed and Victor Frankenstein (Mike, Jay) 
+12/07/2015 | 00:26:35 | lOGTeOpzr7A | Krampus (Mike, Jay, Rich) 
+12/20/2015 | 00:42:20 | AvsiJppCdmk | Star Wars: The Force Awakens (Mike, Jay, Rich) 
+01/08/2016 | 00:41:07 | q3wiUNRv7sg | The Hateful Eight and The Ridiculous 6 (Mike, Jay) 
+01/25/2016 | 00:24:19 | cwJTnUkyvVg | The Revenant (Mike, Jay, Rich) 
+02/19/2016 | 00:29:07 | F2C2Svm-r1M | Deadpool and Comic Book Movie Predictions (Mike, Jay, Rich) 
+02/24/2016 | 00:49:21 | kX50REHezPY | The 2016 Oscars (Mike, Jay, Rich) 
+03/15/2016 | 00:37:09 | KOgcYl8f2ts | 10 Cloverfield Lane and Me Him Her (Mike, Jay) 
+03/27/2016 | 00:46:40 | VGsrMaxx8N4 | Batman v Superman: Dawn of Justice (Mike, Jay, Rich) 
+04/14/2016 | 00:26:11 | Ioit5DWsWsw | Hardcore Henry (Mike, Jay, Rich) 
+05/03/2016 | 00:28:18 | 8K7xYuM2AYU | Green Room (Mike, Jay, Rich) 
+05/07/2016 | 00:40:58 | mJvUTFVqwJQ | Captain America: Civil War (Mike, Jay, Rich, Christopher) 
+05/30/2016 | 00:37:02 | XjNSCLQGzLA | X-Men: Apocalypse (Mike, Jay) 
+06/26/2016 | 00:34:30 | rTKw5yxARHc | Independence Day: Resurgence |Mike, Jay, Rich) 
+07/18/2016 | 00:44:56 | HUEKreyTkvA | Ghostbusters (2016) (Mike, Jay, Rich) 
+07/28/2016 | 00:51:20 | D_7Pz85XJ7Q | Star Trek Beyond (Mike, Jay) 
+08/07/2016 | 00:31:12 | ePoxmPMwJNQ | Suicide Squad (Mike, Jay) 
+08/09/2016 | 00:02:46 | sa5GDGSTrtI | Top 1 Things we Didn't Know About Suicide Squad (Mike, Jay, Rich) 
+08/12/2016 | 00:24:47 | 9lMOsdHhqio | Stranger Things (Mike, Jay) 
+09/20/2016 | 00:36:51 | bVzymV7P8Vs | Blair Witch and Don't Breathe (Mike, Jay, Rich) 
+10/10/2016 | 00:27:59 | jLk2LBGkMd4 | Box Office Number Crunching (Mike, Jay) 
+11/07/2016 | 00:29:07 | GwlzbpzyFdE | Doctor Strange (Mike, Jay, Rich) 
+11/17/2016 | 00:41:51 | da3aIQOhOFY | Shut In and Arrival (Mike, Jay, Rich) 
+12/03/2016 | 00:53:36 | uqFyvZN_XHU | 2016 Movie Catch-up (Mike, Jay) 
+12/19/2016 | 00:37:42 | Kc2kFk5M9x4 | Rogue One (Mike, Jay, Rich) twitter.com/redlettermedia/status/810898742073315328
+01/22/2017 | 00:44:30 | K1m3rGh6DUI | La La Land and Bye Bye Man (Mike, Jay) twitter.com/redlettermedia/status/823189079688876032
+03/05/2017 | 00:43:54 | G6IZHrIviFo | Get Out and Logan (Mike, Jay, Rich) twitter.com/redlettermedia/status/838432255693434880
+03/27/2017 | 00:37:35 | Zwjc9HbZug8 | Life and Power Rangers (Mike, Jay) twitter.com/redlettermedia/status/846416348305674241
+05/06/2017 | 00:31:23 | RTYjD606cWM | Guardians of the Galaxy Vol. 2 (Mike, Jay, Rich) twitter.com/redlettermedia/status/861039290784112641
+05/21/2017 | 00:26:38 | klsy8PiscEw | Alien: Covenant (Mike, Jay) twitter.com/redlettermedia/status/866340144319803393
+06/04/2017 | 00:32:10 | jhoUnOxqr40 | Wonder Woman (Mike, Jay, Rich) twitter.com/redlettermedia/status/871501240114524160
+06/10/2017 | 00:34:03 | rgRaI8UPovU | The Mummy (Mike, Jay, Rich) twitter.com/redlettermedia/status/873769777487126529
+06/23/2017 | 00:19:54 | RGU2dBKEj50 | Transformers: The Last Knight (Mike, Jay, Rich) twitter.com/redlettermedia/status/878378481796644864
+07/09/2017 | 00:45:56 | PDbU4hSo9-M | Baby Driver and Spider-Man: Homecoming (Mike, Jay, Rich) twitter.com/redlettermedia/status/884282268705009665
+08/16/2017 | 00:36:16 | _HrR5X72_LM | Annabelle Creation (Mike, Jay) twitter.com/redlettermedia/status/897886068766330881
+09/10/2017 | 00:45:36 | 0iID-OpwZ4E | IT (1990) and IT (2017) (Mike, Jay) twitter.com/redlettermedia/status/907005864606883840
+09/20/2017 | 00:30:02 | f2oUaPFlbW8 | mother! (Mike, Jay) twitter.com/redlettermedia/status/910524302142971905
+10/07/2017 | 00:29:08 | O1Gqjjq1nic | Blade Runner 2049 (Mike, Jay) twitter.com/redlettermedia/status/916907148696870912
+11/05/2017 | 00:33:43 | KgBWLAKxi-c | Thor: Ragnarok (Mike, Jay, Rich) twitter.com/redlettermedia/status/927313404649406464
+11/19/2017 | 00:39:04 | w1s5ElKmQm4 | Justice League (Mike, Jay, Rich) twitter.com/redlettermedia/status/931974398160056320
+12/10/2017 | 00:24:22 | QPn3lUhzaqM | The Disaster Artist (Mike, Jay) twitter.com/redlettermedia/status/939952593673048069
+12/19/2017 | 00:46:59 | L9hwGZFPSmw | The Last Jedi (Mike, Jay, Rich) twitter.com/redlettermedia/status/943161755823460360
+01/06/2018 | 00:53:15 | iRinktgcrcw | 2017 Catch-up (Part 1 of 2) (Mike, Jay) twitter.com/redlettermedia/status/949643945679687680
+01/10/2018 | 00:37:58 | Yav1kBLXMxI | 2017 Catch-up (Part 2 of 2) (Mike, Jay) twitter.com/redlettermedia/status/951122676877348864
+01/28/2018 | 00:13:25 | 2XPF3Snm9JE | Maze Runner: The Death Cure (Mike, Jay, Rich, Jack) twitter.com/redlettermedia/status/957787588127002624
+02/13/2018 | 00:30:15 | OTVF8zFIyyQ | The Cloverfield Paradox and the Netflix Conundrum (Mike, Jay) twitter.com/redlettermedia/status/963416825420709889
+02/18/2018 | 00:26:29 | o8kmzvqMEXI | Black Panther (Mike, Jay) twitter.com/redlettermedia/status/965312197202251778
+03/07/2018 | 00:23:24 | UtePG4Pon_M | Annihilation (Mike, Jay) twitter.com/redlettermedia/status/971522334124331011
+03/19/2018 | 00:29:04 | w8elLwSfGEM | Demon House (Mike, Jay) twitter.com/redlettermedia/status/975908659606818816
+04/02/2018 | 00:35:18 | _KkGRT_4its | Ready Player One (Mike, Rich) twitter.com/redlettermedia/status/980835269703323648
+04/19/2018 | 00:38:45 | e7WSwRVKwBo | Truth or Dare and A Quiet Place (Mike, Jay, Rich) twitter.com/redlettermedia/status/987031199758635008
+04/28/2018 | 00:32:25 | zZ-zAOnxikU | Avengers: Infinity War (Mike, Jay, Rich) twitter.com/redlettermedia/status/990429224673726465
+05/29/2018 | 00:43:51 | MmPPxQnaGDY | Solo: A Star Wars Story (Mike, Jay, Rich) twitter.com/redlettermedia/status/1001459065615241216
+06/13/2018 | 00:33:45 | 5ysiCqy11tQ | Hereditary (Mike, Jay) twitter.com/redlettermedia/status/1006869211447209985
+06/28/2018 | 00:34:29 | dSItaxluYb4 | Jurassic World: Fallen Kingdom (Mike, Jay, Jim, Colin, Rich) twitter.com/redlettermedia/status/1012478124020436992
+07/28/2018 | 00:38:32 | dD2UE0tJ66Y | Comic Con 2018 Trailers (Mike, Jay, Rich) twitter.com/redlettermedia/status/1023189914798764032
+08/15/2018 | 00:34:11 | WXHmIAo61fM | Slender Man (Mike, Jay, Rich) twitter.com/redlettermedia/status/1029769572453371904
+09/05/2018 | 00:34:46 | IbJVd5C8OU0 | 2018 Catch-Up (Mike, Jay, Rich) twitter.com/redlettermedia/status/1037416836952981504
+09/08/2018 | 00:36:01 | GsBe5qRVz-0 | 2018 Catch-Up (Mike, Jay, Rich) twitter.com/redlettermedia/status/1038417117350187008
+09/20/2018 | 00:47:35 | rTwXQR9ku5c | Mandy and The Predator (Mike, Jay) twitter.com/redlettermedia/status/1042755952011816961
+10/23/2018 | 00:34:51 | 90joZNE9oOA | Halloween (2018) (Mike, Jay, Macaulay) twitter.com/redlettermedia/status/1054854313456082944
+11/13/2018 | 00:38:12 | MDM0k_EZ8SU | The Haunting of Hill House and Overlord (Mike, Jay) twitter.com/redlettermedia/status/1062345268836876289
+11/15/2018 | 00:10:46 | qe_BT8gYAAA | Mike Talks About Ghost Adventures (Mike, Jay) twitter.com/redlettermedia/status/1063149963935469568
+12/08/2018 | 00:12:59 | k4VG4L3U4Zg | Mike and Jay Talk About The Clovehitch Killer (Mike, Jay) twitter.com/redlettermedia/status/1071421094316388352
+12/23/2018 | 00:32:29 | YU3QGyBY5-c | Aquaman (Mike, Jay) twitter.com/redlettermedia/status/1077000281806852097
+01/09/2019 | 00:23:22 | _YUAu0aP4DA | Bird Box (Mike, Jay, Rich) twitter.com/redlettermedia/status/1082728043385405448
