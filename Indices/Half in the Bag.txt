@@ -178,3 +178,15 @@ mm/dd/yyyy | hh:mm:ss | YouTube url | video title + (participants)
 12/08/2018 | 00:12:59 | k4VG4L3U4Zg | Mike and Jay Talk About The Clovehitch Killer (Mike, Jay)
 12/23/2018 | 00:32:29 | YU3QGyBY5-c | Aquaman (Mike, Jay)
 01/09/2019 | 00:23:22 | _YUAu0aP4DA | Bird Box (Mike, Jay, Rich)
+01/22/2019 | 00:24:58 | GTklK82aaTE | Glass (Mike, Jay)
+03/11/2019 | 00:38:21 | 9pQNYeOEFJc | Captain Marvel (Mike, Jay, Rich) 
+03/27/2019 | 00:42:49 | 7BryT6WatTk | Us and Paddelton
+04/08/2019 | 00:30:33 | Xoi5hA86BmA | Shazam!
+04/28/2019 | 00:35:13 | dAni8PwSvSA | Avengers: Endgame
+05/16/2019 | 00:32:46 | sPqYOImouvk | Under the Silver Lake
+06/09/2019 | 00:45:11 | Uu9JFs-Dmb0 | Godzilla: King of the Monsters and Dark Phoenix
+06/23/2019 | 00:24:59 | JOtP5hed99w | Child's Play (2019)
+07/25/2019 | 01:02:57 | 70SSJLG72Q0 | Comic Con 2019, The Picard Trailer, Streaming Services, and Midsommar
+07/31/2019 | 00:33:15 | cPR43PhX6PE | Once Upon a Time in Hollywood
+09/08/2019 | 00:32:05 | xIxCrkR5FPQ | IT Chapter Two
+09/23/2019 | 00:45:34 | feH2sxYGE-w | The Fanatic
