@@ -98,7 +98,7 @@ mm/dd/yyyy | hh:mm:ss | YouTube url | video title + (participants)
 02/06/2020 | 01:20:34 | 9M39zY9OXFA | Kelly Bear Teaches Respectfulness, The Gospel According to St. Bernard, Fire Safety for Older Adults, If You Love Me, Show Me, 
 03/07/2020 | 01:12:11 | eHhLZi4sj0k | Showdown, Robot in the Family, and Bloodz vs. Wolvez
 06/20/2020 | 00:59:11 | kuS8ek6OM44 | Computer Beach Party, Mission: Killfast
-
+07/19/2020 | 01:10:32 | o4eSVXCzRyI | Get a Safe Food Attitude, How to Host a Princess Party, Massaging the Elderly (Mike, Jay, Rich, Josh)
 
 
 
