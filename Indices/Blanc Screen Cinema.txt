@@ -1,11 +1,13 @@
-mm/dd/yyyy | hh:mm:ss | bitchute url | video title
+mm/dd/yyyy | hh:mm:ss | archive.is links | video title
 
-05/29/2003 | 00:04:03 | 26fOZiPcc9go | Episode #1: George Lucas Sucks
-05/29/2003 | 00:04:47 | H8WmrlHpy0BI | Episode #2: George Lucas Still Sucks
-05/29/2003 | 00:03:56 | gIyPY6B0cCUU | Episode #3: Lakers: 7
-10/05/2003 | 00:05:29 | ECbOSlhFODCX | Episode #4: Jason Takes Manhattan
-10/05/2003 | 00:02:53 | KAzOUT3aVYsX | Episode #5: Who is Paddy Chayefsky?
+05/29/2003 | 00:04:03 | archive.is/fMiGJ | Episode #1: George Lucas Sucks
+05/29/2003 | 00:04:47 | archive.vn/oHhrT | Episode #2: George Lucas Still Sucks
+05/29/2003 | 00:03:56 | archive.vn/heo6j | Episode #3: Lakers: 7
+10/05/2003 | 00:05:29 | archive.vn/nsBHn | Episode #4: Jason Takes Manhattan
+10/05/2003 | 00:02:53 | archive.is/cqxrJ | Episode #5: Who is Paddy Chayefsky?
 10/05/2003 | 00:08:26 | 2Jp5WTS7aVm2 | Episode #6: Fun with Dirt 
 ??/??/2003 | 00:01:15 | eteXRpRK0tls | Episode #7: Ani-who?
 ??/??/2003 | 00:06:16 | kPV26s1yInEg | Episode #8: The Chronicles of Bingo
 ??/??/2003 | 00:07:39 | i6AZB93aQVrD | Episode #9: Bingo's Student Film
+11/26/2006 | 00:01:15 | archive.vn/8mXhl | Rotten Honeymoon
+
